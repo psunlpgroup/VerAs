@@ -1,0 +1,9 @@
+conclusion:
+
+	what impacts the period of a pendulum? in lab 01 we decided to test if angle, length, or weight affected the period of the pendulum. we found in that lab that angle and length were the only 2 that had an affect on the period. however, are data collected in lab 01 wasn’t very accurate. going back in lab 02 we found were the errors in our data collection were. errors included force dropped, a designated drop location, and poor timing measurement. these errors were then fixed for lab 03. in lab 3 we had a device that recorded the period of the pendulum, and along with that we averaged out the period to get more accurate data. 
+
+	are data is proven to be accurate. as stated next to the graphs our r^2 value was .9 meaning our trend line was accurate and precise. having an accurate and positive trendline proves we had accurate data along with the fact that data supports our prediction. by looking at the trendlines you can see the positive relationship between angle vs period and length vs period. we also had small error bars on our graph showing that our data was accurate. 
+
+	however, in lab 03 we still encountered errors. these errors may be due to the measurement devices used to measure angle and length of string, or these errors could simply be human error. the coefficient for the equation that we got online is around 3, and our coefficient is .0149. that is a result of the errors i listed above. there isn’t much else we could do to minimize that error unless we got different measurement devices. 
+
+	overall our data over the 3 labs got more so accurate and precise. at the beginning most of our errors came from poor time keeping due to the systematic error of the stopwatch. the second lab had little to no error, since it was done on an online pendulum. finally lab 03 had some error that was due to inconsistent drop force, and systematic errors in measurements.

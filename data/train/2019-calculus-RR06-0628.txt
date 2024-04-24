@@ -1,0 +1,17 @@
+conclusion and discussion
+
+
+
+the purpose of ‘lab 05’ was to design and conduct controlled experiments to determine mathematical models from experimental data. the purpose of ‘lab 06’ was to design and conduct controlled experiments to determine how aspects of the physical lab setting contribute to the mathematical lab setting. we obtained three different models by performing three different experiments. two of them were done in ‘lab 05’, and the last one was done during ‘lab 06’. referring to graph 1, we see that a linear relationship was formed between the force and the acceleration, which makes sense because when mass is constant, there is a direct relationship between the two variables. according to newton’s second law, mass is equal to force divided by acceleration, which suggests a positive and direct relationship between force and acceleration. referring to graph 2, we were expecting to a see a model along of the lines of the acceleration being equal to mass-1. upon observing the generated graphs from experiment number two, we can see that the equation of our line is  according to this relationship, there was some error in our data, which will be discussed later in the conclusion. referring to graphs three through seven, we can see that the two main contributors that influence the acceleration are the total mass of the system and the force of the system. adding in an angle of incline, decline, or friction to the ramp can also affect the acceleration, but evenly direct and positive models can be made from those experiments as well. 
+
+
+
+group number three conducted the same experiments that our group performed, and obtained very similar results. since they had similar results and generated similar graphs and relationships, we were able to have a lot more confidence in the constant values that we obtained. 
+
+
+
+
+
+another group we worked with was group five, although they performed similar experiments, they were testing for how the friction affected the acceleration of the system as opposed to the force and incline. there equations were similar to ares with a little variations on constants due to different conditions. this allows our group to be more condident in our data, because we now know how different factors are producing similar results which they should be. 
+
+	a systematic error we most likely came across throughout the lab was the form of measurement we used to weigh the mass balls. the scale we used was not an eletronic scale, so it was possible that the measurements could have been off, thus affecting the final results. on the other hand, there were no known random errors made throughout the three experiments conducted. the only constraint we believed was relevant to the results obtained was the amount of time given to complete the experiments and graph the data accordingly.

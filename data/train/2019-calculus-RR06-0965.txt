@@ -1,0 +1,22 @@
+discussion and conclusion
+
+research question: how is acceleration affected when hanging mass of a system is altered. 
+
+research question is  how do magnetics in different locations affect the acceleration of a system.
+
+when testing the hanging mass to see how the acceleration is affected. we can conclude from the graphs above that as the hanging mass increased so did the acceleration in a linear fashion. 
+
+justification is  the data that has been collected seems very plausible due to many of the graphs having error bars that are extremely small to be seen. if the error bars are too small to be seen, then that means the error is very minimal giving us valid and plausible data collected. the error bars are so small due to a small amount of mass being changed each time which would give a linear slope of data. if the mass is increasing by a small amount each time for the hanging mass the acceleration will increase which is being shown by the graphs. 
+
+
+the other groups data that also did the experiment with magnetics in different locations ended up with similar results to us. concluding that both our experiments that were conducted were valid and we are saying they’re valid because of the similarity of both our equations presented at each location. 
+
+another, groups data that was recorded was by altering the angle. the equations developed for them are linear unlike ours that are no linear equations. the difference in equations is since they altered their angle the cart went up as it increased while our group and the other groups data we collected used the magnetics in different locations as it accelerated with different hanging mass. 
+
+theoretical equation is  $f=m a$ our model happens to be $3 x=f$ where x was the input of mass being hung. other forces relate to the equation due to their forces altering the formula such as changing its constants and starting values when nothing is applied.
+
+	if a heavy string is attached to the system, the acceleration will increase the acceleration because gravity has more mass that is able to be pulled down which would increase the gravities pull increasing force and acceleration. 
+
+	errors within this lab could be of the following. the track not being fully frictionless which can be fixed by making sure the surface is completely frictionless. the pully not being frictionless as well. to fix this you can get a better spinning one or making sure that the pully has no issues when pulling prior. also, the sensor could’ve admitted inaccurate data, but highly unlikely due to error being 0.001 but still needs to acknowledge the possibility. 
+
+	constraints in this lab could be that the track is not frictionless which would change the force therefore altering the acceleration of the system along with the same thing for the pully not being completely frictionless, this would also change the acceleration and make the acceleration slower than what it really is. finally air resistance will slow down the system which would inconclusion slow the acceleration down from what it would be if there was no friction or air resistance.

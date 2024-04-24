@@ -1,0 +1,11 @@
+discussions and conclusions
+
+what impacts the period of a pendulum?
+
+in the experiment testing if length impacts the period of a pendulum, it was claimed that as the length increased the period would increase. this claim holds true so long as the angle of displacement is small and the mass is constant, this can be seen in figure1. as the slope increases. in the experiment testing if mass impacts the period of a pendulum, it was claimed that as the length increased the period would increase. this claim is false, as can be seen in figure2. the slope is constant. in the experiment testing if displacement angle impacts the period of a pendulum, it was claimed that as the length increased the period would increase. this claim holds true so long as the angle of displacement is small and the mass is constant, this can be seen in figure 3. as the slope increases for small angles then decreases again.
+
+	the theoretical model of a pendulum is is  . this fits well with our data for length and mass, as period increased with length and was not affected by mass. the angle of displacement should have not affected the period according to this formula.
+
+	some random errors were is  incorrectly reading the tape measurer, incorrectly reading protractor, and starting and stopping of stopwatch. some systematic errors were is  one stopwatch was measuring consistently above, different people doing each task, and the string was wrapped around the post so that the pendulum swings farther in one direction. these errors could have been reduced by more trials, same person doing each task, or more data.
+
+	these results are constrained by the small amount of trials done. these results are hard to generalize with only three trials for each change in the independent variable.

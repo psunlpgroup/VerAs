@@ -1,0 +1,19 @@
+discussion and conclusion
+
+ the purpose of the labs were; to develop mathematical models which describe the behavior of a real system (lab 05) as well as to develop an understanding for each variable and numerical value included in the model (lab 06).  
+
+
+from the three experiments conducted in lab three mathematical models were created which show the relationship between the mass of a system and its correlated acceleration. given the first mathematical model associated with figure 1.1 using dimensional analysis the units for the constants are (y is acceleration(m/s^2); x is (kg*m/s^2); 0.3403 (kg^-1); 0.0023 (m/s^2)) from this analysis relating the equation to newton’s second law becomes very easy. since the mass cancels out, all that is left is the acceleration of the object. this is a linear relationship represented above, and the y-intercept of the graph is from the natural pull from gravity which shows that the track itself is not perfectly flat. the second mathematical model takes on an exponential growth, represented in figure 1.2. with dimensional analysis, the units of the constants are (y is acceleration (m/s^2); x is kg; 319.67 (kg*g)). again, it becomes apparent the relationship that the equation shows with newton’s second law allowing for the masses to cancel out and leave the acceleration left over for the acceleration of the system to be equated. finally, the four graphs listed in figures 2.1-2.4 show a linear relationship with the acceleration and the applied force. applying the same dimensional analysis as in figure 1.1 all previous statements still hold true confirming newton’s second law. however, the y-intercepts across the four graphs increased due to the increase of the tilt on the track which again proves the relationship between the y-intercept and the natural pull from gravity on the cart.
+
+
+ all group’s data was collected the following lab session after lab 05 and presented on the black board at the front. two of the groups opted to control the mass of the hanging object attached at the end of the string (groups 6 and ourselves). comparatively the data collected from both of us was different, the slope of group 6’s graph has a huge up tick possibly due to a larger change in mass, and the y-intercept was larger suggesting a larger tilt on their track resulting from gravity’s pull. comparing however to group 4’s data there is a much stronger correlation between the two mathematical models suggesting that although their controlled variable was the “applied force” it could have in fact been the hanging mass, and vise-versa for our controlled variable.
+
+the area that was highlighted by the rectangle in the program may not have grabbed enough.
+
+there was no viable way to calculate the coefficient of friction between the air and the cart.
+
+the pully could have had a slight coefficient of friction between it.
+
+in order to calculate and entertain the idea of a few of the systematic error’s above requires a set of tools capable of measuring and calculating them. to fix the inaccuracies associated with the slope or the acceleration of the object just requires closer attention to detail when collecting data. 
+a specific constraint from this experiment is the perfectness that it requires in order to make the calculations, in order for the models to be further applied to any objects, there needs to be more data collected, specifically within a vacuum and on a zero-friction surface which becomes very hard to do within the constraints of the planet. secondly, another constraint is from the minute deviations in the mass of the system. in order for the model’s made to become even further generalizable there needs to be a massive leap between the mass switches in order to calculate for a broader range of objects.
+ the correlation between the mathematical models and newton’s second law was discussed in section 5b after the declaration of each mathematical model.

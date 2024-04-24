@@ -1,0 +1,37 @@
+conclusion. 
+
+since no other group tested a negative slope we are comparing ours to a group that tested a positive slope, which is team 1. their results do support the claim that the c2 constant is dependent on the slope, but no ther claims can be compared between the two experiments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this group tested the impact of the friction force on the acceleration of the system. their mathematical model shows a relationship between the second constant (c2) and the friction force. the friction force had a smaller impact on the c2 constant than the slope of the airtrack found in our experiment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+one systematic error that could have been present was the weight of the fishing bobs may not have been exactly 0.53g, which would have affected the mathematical model. one random error could have been the finding of the slope, the computer graphs the data, but you have to use a slope tool to find the slope, leaving some human error in the calculation.
+
+some constraints that may limit the generalization of the results could be the fact that the first experiment was only conducted using one set system mass, so no claims can be made outside that mass. 
+
+newtons second law is supported in the first model because as m2 increases in mass the force of m2 increases, increasing the acceleration of m2. in the second model, newton’s 2nd law is upheld because the force of m2 is constant and increasing the mass of m1 increases the downward force of gravity, decreasing the acceleration. the differences between the mathematical models and newton’s 2nd law could be the fact the air track is not entirely frictionless.

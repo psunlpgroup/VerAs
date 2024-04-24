@@ -1,0 +1,12 @@
+conclusion:
+
+
+the purpose of these experiments was to test what variables affect the acceleration of the cart on a frictionless rail. with our experiments we learned that the slope of the acceleration stays relatively consistent but as we increased the vertical incline of the track, we offset the data points further downward on the acceleration axis. from the two experiments from lab 05 we understand that as you increase the force of the hanging mass and keep the system mass constant you increase the acceleration. we also now understand that as you increase the mass of the system and keep the force constant that the acceleration decreases. from lab 06 we got to see how an increase of vertical incline affects the acceleration and that the slope of the acceleration remains constant but offsets the line downward.
+
+
+
+from these two groups we can see that they both had similar results to ours even though one of the groups added magnets to their cart rather than increase the vertical incline of the track. moth groups saw a downward shift in the second constant of their equations and a general consistency in the slope of their equations.
+
+during this experiment there could have been some random error in the weight of the bobs that we used as our hanging mass, we weighed a few of them and as we saw they were the same weight we assumed they all were the same weight. this could have been a poor assumption and caused us to have inaccurate measurements of the force of the hanging weight. the only constrains that i can think of is that if you aren’t prepared to run as many trials as you would like to you would have to restart the experiment due to the inconsistency of the mass of the system. 
+
+both of our experiments are consistent with newtons second law as when we changed the force of the hanging weight and kept the mass of the system constant the acceleration increased to meet the difference. when we changed the mass of the system but kept the force constant the acceleration decreased to meet the difference between the two as well.

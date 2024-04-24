@@ -1,0 +1,11 @@
+conclusion:
+
+the goal of the experiments was to find the relationship between the hanging mass and the acceleration of the system. the independent variable being the hanging mass and the dependent variable being the acceleration of the system. experiment 5 was conducted february 19th and experiment 6 was conducted february 26th.
+
+the data from experiment 5 proves that there is a positive correlation between increased hanging mass and acceleration of the system. this is because objects with a greater mass experience a stronger pull due to gravity. graph 5.1 helps prove this. as the hanging mass increases, the acceleration increases. hanging mass and downward force are essentially the same, because the hanging mass is providing the downward force. the data is also correct due to the very precise measurements. 
+
+the data from experiment 6 indicates the same correlation between downward force and acceleration. however, for experiment 6, the height of the rail was changed to find the correlation between acceleration and slope. and there is a negative correlation between height and acceleration. this can be seen by looking at the slopes of the three experiments and the height. as the height increased, the acceleration decreased. the only additional variable added to experiment 6 from experiment 5, is the independent variable height.
+
+for both experiments, the confidence levels are very low, and the error bars are small enough to not be seen. the precise measurements were gathered using calibrated computers and precise equipment. this would only cause any possible errors to be systematic. the only way to have more accurate measurements, is to have more precise equipment. another way to increase accuracy would be done by conducting the experiments in a vacuum. 
+
+to summarize, there is a positive correlation between downward force and acceleration. however, there is a negative correlation to height and acceleration. this can be observed by plotting the graphs by using the equations provided by their respective graphs.

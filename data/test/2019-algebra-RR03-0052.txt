@@ -1,0 +1,13 @@
+conclusion:
+our research question: what factors influence the time period of a pendulum
+ each of our experiments addressed a different factor that could impact period time. in our first experiment, we investigated mass. we claimed that if we increased the mass, the period time would decrease. according to graph 1, there doesn’t seem to be a correlation between mass and period time, since all of the values were within the uncertainty value. we concluded that the mass does not affect the time period.
+
+for our second experiment, we investigated how the length of the string would impact the time period. there appeared to be a positive correlation between the length of the string and the length of the time period. the values appear to deviate from the uncertainty value, so we concluded that the length of the string does impact the period time. this can be observed in graph 2.
+
+in our third experiment, we investigated how the angle of release impacts the time period. this data was inconsistent, as it had two ranges of data points. additionally, each of the data points in each range were within the uncertainty value, which can be seen on graph 3. therefore, we concluded that the angle of release does not have an impact on the time period. our conclusion was further supported by our measurements shown in graph 4.
+
+the theoretical equation for a pendulum time period is $y=1.99$. our measurements in table 8 produce a line of best fit that is close to the theoretical equation is  2.095x0.418 . as stated in the precious section, the other factors we tested, mass and angle of release, did not seem to have an impact on the time period. this is further supported by the equation, as mass and angle are no included in it. 
+
+ there were a few errors in our experiment. systemic errors in our initial measurements include not measuring from the middle of the pendulum swing, as well as possibly an error in the mass scale. we could improve upon these errors by ensuring that we measure from the middle of the pendulum swing and ensuring that the scale is calibrated. random errors that we could have encountered is human error in measuring the angle and length of the pendulum. we can improve these by making sure each measurement is made by the same individual. for angle, we could use specialized equipment that gives us a constant angle each time.
+
+constraints that we had during the experiment include inability to access specialized equipment that could help us make more precise measurements. examples would be an automated release to ensure a steady release every time, a vacuum chamber to eliminate air resistance, and a more precise angle measurement tool. these constraints may very well have interfered with our results.

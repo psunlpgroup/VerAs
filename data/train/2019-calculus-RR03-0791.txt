@@ -1,0 +1,15 @@
+conclusion:
+
+	the research question of this lab is what are different factors that will affect the period of a pendulum? we tested 3 different factors, including length, weight, and angle released. the purpose of the lab was to introduce experimental design, error analysis, and mathematical models. these things help greatly when providing evidence for a hypothesis.
+
+	when testing with mass as the independent variable, we found that as the weight of the object on the pendulum increased, the period of the pendulum stayed fairly constant. in graph #1, the best fit line of the mass vs. period graph is a straight horizontal line. the periods that we calculated were very close in magnitude. each data point falls in the standard deviation. this means that the mass of the object on the pendulum does not affect the period of the pendulum.
+
+	when testing with angle as the independent variable, we found that as the angle when released of the pendulum increased, the period of the pendulum stayed constant. the results for angle were very similar to the results of mass. in graph #2, the best fit line of the angle vs. period graph is a straight horizontal line. the periods that we calculated were very close to each other in magnitude. each data point on the graph falls in the standard deviation. this means that the angle when released of the pendulum does not affect the period of the pendulum.
+
+	when testing with length as the independent variable, we found that as the length of the pendulum increased, the period increased with it. in graph #3, the best fit line of the length vs. period graph is a straight line with a positive slope. some of the data points on the graph do not fall in the standard deviation. this means that the length of the pendulum does affect the period of the pendulum. graph #4 also provides more accurate data which clearly shows the positive slope of the best fit line already mentioned.
+
+	the theoretical equation for the period of a pendulum is . l is the length of the pendulum and g is the acceleration due to gravity. this proves that only length can affect the period of a pendulum because it is the only variable in the theoretical equation. since the mass and angle is not included in the theoretical equation, we know that it can not affect the period of a pendulum. 
+
+	the random errors that occurred during our experiments were inaccurately measuring angles, lengths, weights, and period. in order to reduce these errors, we tried have one person do each job to promote accuracy. for the period, we measured the time it took for the pendulum to undergo 3 periods and then divided that number by 3. we also used a photogate system which provides for more accurate measurement for the period. this ensures that there will be less human error while measuring the period.
+
+	a constraint that could have affected the data that we found in this experiment was air resistance. we did not take into account the air resistance in this case. we had to neglect it because we cannot measure it. this may have affected the periods that we found in some way but we would have no way of knowing that.

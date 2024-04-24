@@ -1,0 +1,36 @@
+discussion and conclusion:
+
+
+
+the purpose of lab 5 was to develop mathematical models which describe the behavior of a given system. in our case, the system was a cart on an air track. this track provided an almost frictionless surface for us to test different accelerations with applied mass and resting pass from a pulley. in lab 6, the purpose of developing a mathematical model was to show how the acceleration changes when different masses were on the cart to introduce more friction. we di this by conducting an experiment with no magnets on the cart, 2 magnets on the cart, and 4 magnets on the cart.
+
+the three experiments (two from lab 5 and one from lab 6) led to three different mathematical models. these three models are presented in the figures above. the equation for the mathematical modules are also in those figures. the values of the mathematical models are very meaningful with the physical part of the labs because it shows the different velocities of the three different experiments. for example, we can tell by the equation if the object was accelerating and by how much depending on the weight that is on the cart.
+
+discuss the findings of other groups.
+
+this picture shows the whiteboard of another group (group 4) from our lab. we were unable to get a second picture of a whiteboard to compare to because the third group that did the same experiment as us were not finished with the lab when class was over. even though we were only able to obtain one other group’s information, i can still compare our information with group 4’s. in our three tests our mathematical modules were as follows is 
+test 1 is  $y=2.6868 x- 0.0087$   r^2 is 0.997
+test 2 is  $y=2.1042 x- 0.0107$   r^2 is 0.9993
+test 3 is  $y=1.7444 x- 0.0145$   r^2 is 0.9978
+the other group’s (group 4) data also goes as the following is 
+test 1 is  $y=2.7888 x- 0.0155$   r^2 is 0.999
+test 2 is  $y=0.7622 x- 0.0575$   r^2 is 0.9699
+test 3 is  $y=0.4672 x-0.0318$    r^2 is 0.9628
+
+
+
+these two mathematical models are very similar both in the line of the slope and the r^2 value. with these results it is easy to conclude that this group’s tests support my group’s findings. it is easy to see how the lines of best fit decrease from test 1 to test 3. also it is very clear that these lines of best fit are not filled with errors because all six of the r^2 values are at 0.9 which is as close to 1 as we can get.
+
+	
+
+the errors that might have been present in this in these experiments could be error in the consistency of the airflow in the track, the track being unlevel, or the string sliding on the pulley without the pulley moving. all three of these errors are possible for the given experiments. these errors can be reduced by making sure the airflow is constant the whole time so that the friction on the cart isn’t varying. we could also fix the error of the track being off level by measuring the track before each run to be certain that the track is as level as possible. finally, we could reduce our error by finding a way so that the string always moves the pulley but doesn’t stick to the pulley. we would have to be creative, but we could eliminate some of that error if we found a way to do that.
+
+
+
+if we were to introduce the idea of a heavy sting into this problem, the acceleration would increase more like an exponential function. since the weight of the whole system would stay the same, the string would just pull itself over the edge of the pully faster as time increased. this is because there would be an increase in hanging mass instead of resting mass. 
+
+
+
+one of the biggest constraints on this experiment is how far the cart went on the track. for all our tests, my group only released the cart from 60cm. we could get more even data if we were able to release the cart from greater distances. we could not do this though due to the string hitting the ground before the cart reached the end of the track. another constraint that we faced was the time of class. it was very hard to complete all of the tasks in lab 5 and lab 6 within the 2 hour class period. 
+
+our two mathematical models are consistent with newton’s second law because in newton’s second law it is stated that $f=m a$. in this equation, m must stay constant and that is exactly what we did by keeping the whole system the same mass. our mathematical models are also similar because in our liner fit we are taking the mass and acceleration the find the force on the cart.

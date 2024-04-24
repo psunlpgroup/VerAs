@@ -1,0 +1,51 @@
+discussion and conclusion:
+
+
+
+purpose: the purpose of this lab was to determine what variables impact the period of a pendulum. mass of the pendulum, length of the string, and angle of release were all variable investigated during this lab.
+
+
+the three experiments were each designed to help address this research question in different ways. 
+
+the first experiment was setup to determine whether any sort of relationship could be established between the variables and the period
+
+after taking the measurements for each variable, the data was plotted onto a graph. in these graphs you could see whether there was a correlation or not. if there was a correlation (as with the length – seen in figure 1), then a sloping line would be seen. if there was not a correlation (as with the mass and the angle of release – as seen in figure 2 & 3), then the line would be relatively flat with no slope.
+
+from data, we were able to extract that only length had a significant correlation with the period. the next step was to establish what exactly that relationship was (a mathematical model).
+
+before we derived the mathematical model, though, we wanted to account for any uncertainty. that was the purpose of the second experiment.
+
+in this experiment, we determine the uncertainty involved with our measurements to be .0242. this was found by obtaining the standard of deviation for 10 completely controlled trials.
+
+this uncertainty level allows us to account for errors when taking measurements. essentially, an error could lead to a perceived relationship when none truly exist and vice versa. this experiment allowed for us to avoid this problem.
+
+this confirmed our notion that there was no relationship between period and mass or angle of release. error bars in figure 2 & 3 show that the points could all be the same indicating no slope. meanwhile, the relationship between the period and length of string held up as figure 1 shows no overlap between the error bars (they are too small to see in fact).
+
+finally, the third experiment was designed to derive the mathematical formula of the period of a pendulum. in other words, how exactly does length impact the period.
+
+for this, we repeated the initial experiment but only varying length (keeping mass and angle of release constant). extreme differences in length were used to ensure we had as wide of a data set as possible. if this was not done, the model could be very inaccurate.
+
+a photogate was used to track time as it is much more accurate than a person doing it manually.
+
+the data collected (table 4) was then mapped onto a graph (figure 4).
+
+using excel, a mathematical function was fitted to the points of the graph. in this case, a power series function fitted the best as seen in figure 4. the formula came out to be $y=0.12837011 x$ . 
+
+
+the theoretical mathematical model is $y=0.12837011 x$ .
+
+this model indicates that as the value of the length is increased (x goes up), the period of the pendulum will also increase (y goes up). however, the rate at which y increases is decreasing. in figure 4, this is represented by how the line seems to flatten out towards the end. given more data, that line would certainly become flatter and flatter as x is increased (but it never would actually become flat). this is the nature of taking a number to a positive power that is less than 1. 
+
+
+
+there was some error involved with people taking the time. our reaction to starting and stopping the time isn’t perfect so there was some error involved.
+
+similarly, there may have been some error involved with the release angle. it may not have been precise each time.
+
+when measuring the length, there could have been error in seeing exactly how long the string was just due to our ability to read small lines (e.g. may have been off by a mark or two)
+
+these were all reduced by taking multiple measurements at each indicated trial. for example, trial 1 of table 1 consisted of multiple trials in itself that were averaged out. at least 2 trials were performed for each trial to reduce error.
+
+of course, error bars were included at the end to try account for errors.
+
+one constraint would be the lengths at which we could measure. although, we were able to vary the length between 26 and 158 cm, this is still a relatively small range. a larger range would allow the model to be more accurate. as discusses, the function is likely to flatten out at the end. data at greater ranges would also us to clarify this.

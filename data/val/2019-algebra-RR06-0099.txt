@@ -1,0 +1,14 @@
+conclusion:
+We used the mathematical values found in our graphs/models to reflect on our lab and further test. We used those numbers to further the lab and our understanding of it.
+	For the two lab experiments in lab 5, we tried to find how the applied force and mass affected the acceleration. The first test resulted with the more force applied to the cart the greater the acceleration was (first graph). The second graph of the lab showed that as mass increased, the acceleration decreased. 
+	In the last experiment in lab 6, we found how friction affected acceleration. The result of our findings showed that as we increased friction, the acceleration decreased. When looking at our equation derived from our graph, the value in front of the x is equal to (1/the sum of total resting mass + unknown force/ total resting force.)
+
+$y=2.9402 x-0.068$, $y=2.951 x-0.1141$, $y=2.9423 x-0.136$
+
+$y=2.8446 x+0.0818$, $y=2.8443 x+0.0929$, $y=2.8312 x+0.1046$.
+ 		From these equations we can conclude that when slope was increased, the acceleration decreased. This showing that when the system was tilted to its max slope, the numbers after the x-values increased. 
+		
+		A systematic error in the experiment could be that the measurement of the bobbers was not exact. More errors that might of affected the lab’s outcome would’ve been the string not being flush with the machine. 
+
+		Some restrictions we had were the range of weight we could use because we were unable to use a very heavy weight. Our group also would of liked to test each trial more but we were unable to due to time. 
+Newtons second law is represented by our data because you can derive the equation $a=\frac{e f}{m}$ if you rearrange the original equation and solve. the F we have are Fa and F unknown so $a=\frac{F_a+F_{unknown}}{M_{resting}}$. As shown here the fa is x and Mresting and Funknown are values so we get an equation that looks like $a=b F_a + c$.

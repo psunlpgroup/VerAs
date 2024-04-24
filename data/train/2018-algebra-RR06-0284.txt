@@ -1,0 +1,3 @@
+conclusion
+
+to conclude, the prediction and hypothesis can be accepted. as the hanging mass increases then the acceleration will also increase and the hanging mass does affect how fast the cart on the frictionless track moves. friction and air resistance is a factor in this experiment, this is because this is not a completely frictionless track unlike in the theoretical model. when testing for the given acceleration the first attempt was an acceleration of .580, which is within parameters of being +/- 0.100 m/s^2. some uncertainties in this lab would have been the mass of the bobbers, mass of the system, friction, air resistance, length of string and operation error. after a few trials, the given acceleration was met.

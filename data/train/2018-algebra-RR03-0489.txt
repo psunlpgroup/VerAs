@@ -1,0 +1,15 @@
+discussion/conclusion
+
+	throughout this experiment, the goal was to find what impacts the period of small pendulum swings. looking back at the data and results, the length of the string impacts how long the period swing is. the mass and angle does not affect the period. we were right with our hypothesis on the length of the string and the mass, however, we were wrong when it came to our hypothesis on the angle of release.
+
+	
+
+	random errors is  stopwatch uncertainty, uncertainty of scale, uncertainty of protractor 
+
+	systematic errors is  reaction time with stopwatch, incorrect length measurements
+
+	during an experiment, it is understood that random errors cannot be avoided while systematic errors can be reduced by double checking and making more measurements.
+
+	
+
+	theoretical equation is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$

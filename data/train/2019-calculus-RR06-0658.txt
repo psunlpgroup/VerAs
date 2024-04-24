@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the purpose of this lab was to develop mathematical models which describe the behavior of a real system as well as to develop an understanding for each variable and numerical value included in the model. 
+
+the 3 experiments led to our resulting mathematical model of $a=c f + c$ and $a=c1 m-1$. the c2 value is the tilt of the surface or the friction. the c1 value for the first equation is 1/mass of the system and for the second equation the c1 value is the mass of m2 times gravity. in all the figures it shows that the slope or tilt is the c2 value. 
+
+group 1 supports my claim that as the angle is increased from the back the c2 value will also increase. this is shown by the fact that as their angles increase the c2 value also increases. group 4 shows that the c2 value will decrease when magnets when more magnets are added. 
+
+errors for this lab are all systematic created by the motion detector or the scale. the systematic error was only 0.001 for both devices so the results were not affected. in the future it will be hard to reduce the error since it is systematic and is already so small. 
+
+constraints that may limit the generalizability of our results is the fact that the values for the forces of m2 and mass of the m1 were only a small range of data points. another constraint is for the third experiment the angle of the surface was only a small range. if the range was increased my results would be more representing of the data. 
+
+the two experimental mathematical models are consistent with newton’s second law because the acceleration is equal to the f/m. in this case the force is the sum of the angle times the force of m2.

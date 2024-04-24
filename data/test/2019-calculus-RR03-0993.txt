@@ -1,0 +1,80 @@
+discussion and conclusion 
+
+
+
+research question 
+
+what variables effect the period of a pendulum?
+
+	
+the length of the string was found to have a significant effect to the period of the pendulum. the experiment was carried out with a photogate motion sensor which has a range of uncertainty of ± 0.001 s in order to make the data as clear as possible. with no overlapping of error bars and a clear trend established with the data, it is reasonable to conclude that the length of the pendulum indeed had an effect on the period.
+
+
+the angle of release of the pendulum seemed to have a negligible effect on the period of the pendulum. even though at first glance at the graphed data might indicate a positive linear trend it can not be confidently stated that this is true. with the range of uncertainty of ± 0.034124685 s and multiple error bar overlaps throughout the graph no clear trend can be established. so it is reasonable to conclude that the release angle of release of the pendulum has no effect on the period.
+
+
+the mass of the pendulum seemed to have a negligible effect on the period. with  a wide range of masses tested and no distinguishable trend to be found in the data. along with a range of uncertainty of ± 0.034124685 and every point having some form of error bar overlap. it is reasonable to conclude that the mass of the pendulum has no effect on the period of the pendulum.
+
+
+
+the mathematical model fully support this theoretical equation due to the fact that the mathematical model is derived from a sufficient number of data points across a broad range. along with the fact that the mathematical model has a very high r2 value of 0.9908. meaning that there can be a high level of confidence that the model accurately represents the data.
+
+
+
+times taken with stopwatch–random error
+
+
+
+
+
+human reaction time would make us unable to stop and start the watch at the precise correct time.
+
+
+
+
+
+length of the string was taken from one end of the string to the other end of the string – systematic
+
+
+
+
+
+human error but since it was repeated for every experiment that we did, it was systematic since all our data was off by that same amount.
+
+
+
+
+
+not releasing the pendulum at the correct angle- random error
+
+
+
+
+
+inability to hold the pendulum completely still.
+
+
+
+releasing the bob from a 90-degree angle caused some slack in the string which jerked it a bit - systematic
+
+
+
+
+
+the nature of releasing at that angle causes that problem. it was human error in applying it though. since it happened for all the trials that we released from 90-degrees, it can be considered systematic.
+
+
+
+measurement of the string length with a ruler- random error
+
+when we measured the length of the string, we used a ruler and therefore had to estimate as best as we could the true value of the length of the string. this is a random error.
+
+
+
+the errors produced by measuring the period with stop watches was reduced in the experiment of length vs period by replacing the stopwatches with a photogate motion sensor. reducing the range of uncertainty of the data from ± 0.034124685 to ± 0.001. the systematic error of incorrectly measuring the length of the pendulum was also removed in later trials of our experiment by measuring the length of the whole pendulum after it was constructed instead of measuring the length of the string then building the pendulum. the incorrect release angle of pendulum could have been reduced by removing the human error. and instead of having one of the experimenters releasing the pendulum has some kind of contraption that hold the pendulum completely still to release the pendulum. the systematic error of releasing the pendulum at a high angle that imposed slack into the system was also addressed in later version of the experiment by not testing and release angles above 60 degrees. the random error induced by using a ruler to measure the length of the pendulum could only be reduced by using a more accurate measuring device but never fully removed.
+
+
+
+the experiment was constrained by the range of data that we could test. only having access to a table top pendulum allowed for only a relatively small range of data to be tested. this keeps the finding of our data to be accurately  generalized for larger pendulums, as some insignificant variables might become significant at different scales or vice versa.
+
+1

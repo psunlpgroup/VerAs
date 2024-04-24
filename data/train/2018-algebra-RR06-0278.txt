@@ -1,0 +1,27 @@
+conclusion:
+Our research question was “How does the acceleration of a system change when the applied force changes?” We tested this effect by changing the number of bobs on the downward force as the applied force, in N, on the acceleration of the cart, in m/s^2.
+
+We found that increasing the applied force increases the acceleration of the system, but towards the end the increase in acceleration becomes smaller and resembles more of an exponential graph. Our hypothesis and “prediction” graph were correct, as you can see in the graph that there is a direct effect of changing applied force on the acceleration of the system. Our error bars were very small, due to using a computer program to record accelerations. The error bars being very small is a very good sign that there is a direct effect on acceleration with the changing of the applied force.
+
+
+
+
+
+
+
+ Our experiment really showed that the more bobs we add to the downward force, the more the acceleration increases. Our group had a smaller increase in acceleration from the 5th trial on, while some of the other groups had a more perfectly linear set of results. We found that there were two models for this experiment.
+
+
+The theoretical model does not account for the minute amount of friction and air resistance. For Lab 6, we were given an acceleration, and had to figure out what mass of the system, or applied force was needed to create that given. We used the theoretical model to calculate the estimated mass and it turned out to be almost exact to the acceleration we were given. I’m sure that if we would have factored in the small amount of air resistance and friction, it would have been more exact. Our graph definitely fits with the models, as you can see that as the mass gets larger of the applied force, the acceleration gets larger as well.
+
+
+This group’s data found that an increase in applied force increased the acceleration, which agrees with our data, but they do not have the curve at the end. The fact that they don’t have the curve at the end could show an error in one of our procedures and refutes our data in that way.
+This group’s data shows an increase in acceleration as the applied force increases as well, but this group has more of a curve at the end! This group’s data supports our data because they also have more of an exponential look to the end of their graph. You can see a steady increase then less of an increase in their last few trials. I believe if they would have continued with data their data would have become less and less linear, like I believe ours would have.
+The experimental and theoretical models are slightly different in the way that the theoretical model does mass 2*gravity in the numerator, and the experimental model has the “applied force” in Newtons in the numerator. Both models have the total mass of the system in the denominator. The experimental model accounts for friction and air resistance in the constant C, whereas the theoretical model does not.
+ The forces friction and air resistance are present in the experimental procedure, and they show up in the experimental model as the constant C.
+  The mass of the system shows up in the theoretical model and the experimental model in the denominator.
+  The string connecting the hanging mass to the cart may experience some friction, effecting the uniform acceleration of the cart.
+
+ I believe that one systemic error we could have had was with weighing the mass of the system on the triple beam balance. When other groups were naming off the mass of their cart, they differed slightly from ours. In the future, this could be prevented by everyone using the exact same scale, or the exact same bobs and cart! Another possible systemic error we could have made could have been during the process of holding the cart back to exactly one meter and starting the air track! As soon as the air track started, the cart eventually was sprung into motion, which could have meant it didn’t start from exactly one meter, it might have crept forward a little bit due to the person not holding it. To prevent that in the future, we could have held it firmly in place while turning the air on. We had a random error as well in one of our trials, trial 3! We noticed that our data pattern was off, even though we were following the exact same set-up. We re-did that trial and it was much more consistent with the rest of the data. I think that we had a more exponential graph with a curve at the end versus a linear graph because we did not hold the cart down when starting the air, we just pulled it back to one meter and let it go as the air turned on and took it. If we were to hold down on the cart while turning on the air, it could have potentially let the air get up to “full power”, the cart would have experienced less friction, and would possibly have resulted in more linear data.
+
+ We found that our data curved at the end, like mentioned earlier in this lab report. That differed from every other group in our lab section. That could limit the generalizability of our data, and potentially be a “constraint.” Since our data was not linear, we did not get results like anyone else. If you were to analyze the data as a whole, ours would be the odd one out! Due to our personal execution of the experiment, there are possible differences between how our data laid out, whether that is how we started the cart on the track, resulting in more exponential data, or our measurements made based on the scale, which resulted in various cart masses

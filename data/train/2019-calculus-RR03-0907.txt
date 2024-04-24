@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+what affects the period of a pendulum?
+
+we were able to conclude that the length of the string was the independent variable contributing to the change in the period time.  
+
+the procedure we used was to set up the pendulum and then use a stop watch to manually time the periods, later that was changed to using the photogate as a timer. a big contributing uncertainty was our judgement on time. the photogate was able to correct that random error into a systematic error. the other thing you could really do to help reduce error would but to conduct the experiment in a vacuum chamber where there is no air resistance. finally, you could have a machine of some sort release the pendulum, so that there’s a perfect release every time.
+
+the procedure for testing the length as an independent variable was to vary the string lengths with the same mass and angle of release. the procedure went well and based on the original graph and error bars that were all in line with each other with a strong r value was that length affected the period in a linear relationship. after using the photogate however and getting much stronger evidence we concluded that the graph was a power relationship. the error bars were extremely small, and our r value was near 1.00.
+
+the procedure for testing the mass an independent variable was to vary the masses while keeping the string length and angle of release the same. the procedure was also a success, but in a different way because we concluded that the mass had no affect on the period length. the graph was a straight line for the most part and based on the line fitting into the error bars we concluded that the reason it varied was just based off random error from stopping the stopwatches which was later corrected with the photogate graph.
+
+the procedure for testing the angle of release as the independent variable was to vary the theta value of the release and keep the string length and the angle of release the same. the procedure was a success, but in a similar way to mass. we were able to come to a reasonable conclusion that the release angle didn’t affect the pendulum period. we came to this conclusion based on the graph because the graph was a linear line with a slope of zero essentially and was all inside the error bars, so we concluded that the slight variation was just due to random error with the stopwatches. which was again later corrected with the photogate graph
+
+our mathematical model does support the theoretical model. the reason being is that there is only a slight variation between our model and the theoretical which is likely due to rounding on the theoretical model and error on our mathematical model. also, our r value was 0.99 which means it was extremely close, so because of the two factors talked about above i can conclude that with better equipment and further testing that i would likely get the same equation eventually.
+
+one constraint is that we had a limited amount of string to test with, so our mathematical model is only accurate for the values within the tested range. another constraint is that we didn’t work in a vacuum, which is where the theoretical equation is derived from.
+
+

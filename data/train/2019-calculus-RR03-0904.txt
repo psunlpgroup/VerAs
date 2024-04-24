@@ -1,0 +1,31 @@
+discussion and conclusion.
+
+the focus of this investigation was to determine the effect that change in mass, length of a string, and angle would have of the period of a pendulum.
+
+
+
+the first experiment was to gather rough data to identify a trend between the length of a period and mass, angle, and length of string. this was done by hand measuring the angle with a protractor and the timing was done by hand with a stopwatch. each change in each variable was tested 3 times to find an average to put into excel to graph. we thought that each variable would have an effect on the length of the period of the pendulum. the data showed the only real noticeable trend was in the change in the length of the string. 
+
+ 
+
+the second experiment, as it was a makeup due to the lab being canceled, was to find correlations between the independent and dependent variables using the data gathered in the first experiment by making graphs in excel and finding the r^2 value, error bars, and the standard deviation.  after graphing, it was determined the relationship between length of the string and the period of the pendulum were rather linear. this is due to the linear trend line matching rather well with the data in the excel spreadsheet.
+
+
+
+the third experiment was to find a more exact correlation between length of the string and the length of the period. this was done by using an electronic timer instead of the hand timer used in the first experiment which resulted in more accurate time numbers to use in the graph. each change in length was measured 5 times as to get a rather accurate average to make a graph from. upon graphing all the data, we found the relationship actually followed a power rule and it was positive and non-linear.
+
+
+
+
+
+
+
+our model is  $t=0.11959941 l$
+
+theoretical formula is  $t=2\pi \sqrt{\frac{l}{g}}$      or    $t=0.201 l^{0.5}$           (converted from meters to centimeters)
+
+	the data we found in lab 03 lead us to find the equation of our trend line to be $t=0.11959941 l$ , which is rather close to the theoretical formula of $t=0.1005 l$. our equation line is accurate as the r2 value is 0.999, which means high positive correlation. also the error bars of the data are so small that they are not visible on the graph. the graphs for both mass and angle had rather flat slopes and massive error bars, along with the poor r2 values proved there was little correlation between those factor and the period of the pendulum. given these trends, the mass and angle data had little to no resemblance to the theoretical equation.   
+
+a majority of the error in this experiment was systematic. the biggest point of systematic error would be in the measurement of the angle for all three experiments and measurement of time for the first experiment. the angle was hand measured all three times and there was no way to know we were exactly at the angle we were going for making the probability each measurement was off by a fraction of a degree very likely. this would not likely cause very much variation in our data as it was found that angle has no real effect of period but is still an area of error. the timing in the first experiment was very broad because the timer did not release the pendulum and the timing was done by hand. it was also very hard to tell when the pendulum had reached its original point after a full period making our time data for the first experiment a rough estimation at best. this was mostly fixed by the third experiment as we were using an electronic timer to calculate the length of the period, which if it was off by a few hundredths or thousandths of a second, it was constant and could be factored out. random error in the experiment as limit to the random draft in the lab room as it could push the pendulum to be slightly faster than it would normally be. other than that, random error was rather limited in this experiment.   
+
+some of the constraints we faced was in equipment and time. with more time we could have conducted more trials which would have resulted in a more accurate data set and we would have been able to get closer to the theoretical equation. equipment was the biggest constrain. useful equipment we could have used would have been an adjustable device which we could have used to get a precise angle and would have started a timer as soon as the pendulum was released which would have resulted in even more accurate data. without these things, we were only able to get our process so consistent and with that our data so accurate.

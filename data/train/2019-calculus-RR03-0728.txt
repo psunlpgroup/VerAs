@@ -1,0 +1,23 @@
+discussion
+
+research question
+
+the point of this experiment was to determine what factors affect the period of the pendulum.
+
+data discussions
+
+the length of the string was tested first. this did affect in the period of the pendulum.
+
+the angle the mass was released from was tested next. this did not affect the period of the pendulum.
+
+the mass of the object was the final test. this did not affect the period of the pendulum. 
+
+the equation that was determined in this experiment was $t=2.584 l^{0.4529}$. 
+
+theoretical comparison
+
+the mathematical formula for period is simplified it is . this coefficient is fairly similar to what was obtained. the percent error of the equation determined by the experiment 28.749%. 
+
+error discussion
+
+there was both random and systemic error in this experiment. this was found in the data collected by the stopwatches, due to the measurer’s reaction time and uncertainty of a full period. this was reduced by using a photogate to measure the period. another way reduce the error would have been to have taken the time of ten cycles and then divided that by ten to determine the average period.

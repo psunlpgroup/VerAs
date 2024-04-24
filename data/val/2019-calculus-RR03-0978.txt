@@ -1,0 +1,12 @@
+conclusion:
+What affects the period of a pendulum for small swings?
+
+Each of the three experiments addressed the research question by testing the different independent variables in relation to the period. It was claimed that for small swings, only the length of the string would affect the period. It is proven in graph 2 that the length of the string affects the period. In graph 1 and graph 3, no significant difference is made in the time of the period. These claims are valid if you are on a similar altitude on earth, if you have small swings of the pendulum, and if the mass of the string is negligible.
+The data produced from the experiment fits the theoretical model, as an exponential model was produced and the exponent can also take the form of a root. The only difference, however, is that the effects of gravity were not taken into account.
+In the theoretical model it does not take mass or angle of release into account either.
+Theoretical model is   
+Lab results is  
+
+Random errors that were present in Lab 2’s trials were the time of stopping and starting the stopwatches. This was minimized by having two people record the times, taking multiple tests, and averaging the time of the period over multiple swings. In lab 3 this error was fixed with the use of a photogate. Systematic errors that might have been present would be error in the stopwatches, error in the protractor (labels) or the string’s weight could have been affecting the period also. In the lab the weight of the string was ignored as it was determined to be negligible.
+
+Constraints in the experiment that may limit the generalizability of the results may be equipment, materials, gravity, random error, and systematic error. Gravity differs from place to place, especially depending on altitude, and differs greatly from planet to planet. Materials can be changed out or the scale of the pendulum could be bigger.

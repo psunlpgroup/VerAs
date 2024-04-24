@@ -1,0 +1,19 @@
+conclusion:
+The independent variables for our experiments were length of string, angle released, and mass of the object. The dependent variable for all our experiment was time. 
+The lab data as well as the graphs shows that there is a positive correlation between the period of the pendulum and the length of the string. Our data supports our hypothesis that as the length of the string is increased the time it takes the pendulum to complete one period is increased. The error bars for the graph show us that there was minimal error when we were conducting our experiment. The line of best fit gives us our equation ($y=0.5346$ and shows us the correlation between the period and length of the string. 
+
+The controls for this experiment were the length (60cm) and the angle (45 degrees).
+The independent variable for this experiment was weight and the dependent was the time of the period. 
+	The lab data and graphs showed that there was there was no correlation between the mass and the time it take the pendulum to complete one period. There was no line of best fit since there was no correlation. The error bars however did show us that there was minimal error when conducting the experiment. The data and graphs disproved both my groups hypothesis and prediction. 
+	The controls for this experiment were the length of string (40cm) and the mass (250kg).
+The independent for this experiment is the angle the weight is released and the dependent is time.
+
+The data and graphs for this experiment showed us that there was a positive correlation between the size of the angle and the time it takes the pendulum to complete one period. The line of best fit gives us our equation and shows us the positive correlation and the error bars show that there was minimal error for this experiment. For this experiment our hypothesis and prediction were correct. 
+
+
+
+When we used more accurate equipment our results were still lined up with what we calculated earlier in the experiment. These are our final equations from our final tests. 
+ 
+the constraints for this experiment that effected the generalizability were the controls that we used for every experiment and that we only tested each thing alone at one time so the constraints limited our generalizability since we could’ve add multiple variables for each experiment.
+ 
+The possible error that may have occurred in this consisted of random error. Random error may have occurred from the measurement equipment not being precise. Overall in this lab there were minimal errors made throughout.

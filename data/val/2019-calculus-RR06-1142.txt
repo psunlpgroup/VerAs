@@ -1,0 +1,17 @@
+discussion and conclusion 
+
+the purpose of this lab was to develop mathematical models which describe the behavior of a real system and to develop an understanding for each variable and numerical value included in the model.
+
+the two experiments that were done in lab 5 were to test which independent variables impacted the acceleration of the cart. table 3 and graph 1 show that the changing applied force of the system results in a linear relationship between applied force and acceleration. table 4 and graph 2 showed us that the mass of the cart and acceleration were exponentially related. using the linear relationship between applied force and acceleration we determined a mathematical model and found the slope is the average amount the acceleration would increase for a certain amount of force added. the y-intercept was determined to be the acceleration of the cart if there were no applied force. in lab 6 we tested how an outside factor that impacted the system would affect our linear test we made in lab 5. the angle of the track was changed to three different angles of incline and decline. once again a linear relationship was determined by the experiment for every angle. this was reflected in tables 5 and 6 and graphs 3 and 4.
+
+this data is from group 3’s lab 6 data. they tested how the mass of the cart would change the acceleration of the cart. they did this by adding magnets onto the cart at different intervals. this helps us determine that the y intercept of our model’s is actually the acceleration when there is no applied force. their models help confirm that because if they added weight to the cart with no applied force the cart would go backwards and their y intercept is negative, so it does go backwards.
+
+
+
+this data is from group 1’s lab 6.they performed the same experiment we did by changing the angles of the ramp at different applied forces. their data helps confirm the slope of the model as the average acceleration of changing applied forces at different angles. this is true because our values are very close to the same as their model.
+
+one possible systematic error in this experiment could be when measuring the mass of the bobbers to get the applied force. we used a triple beam balance to measure the mass then converted to newtons to get the applied force. this could have moved all of our values if we weren’t precise with our measurement. all of the equipment seemed to be pretty precise that measured the acceleration and angle, so there wouldn’t be much cause for random error.
+
+some constraints that we had in the experiment were how long we could make the string that held the applied force hanging off of the track, the amount of applied force we were allowed to use was limited to just eight bobbers, and the angle at which we could move the track up and down was also very limited and didn’t change that much. 
+
+the two models are related to $f=m a$ because the acceleration that you needed to move the cart depended directly on how much applied force was put onto the string to pull the cart. this showed that force and acceleration were dependent on each other and if one went up so did the other. the second model shows that as the mass of the cart went up the acceleration of the cart went down showing that mass and acceleration are inversely related.

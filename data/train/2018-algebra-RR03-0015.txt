@@ -1,0 +1,9 @@
+discussed in error). 
+
+	
+
+	the only independent variable showing a possible correlation was the length of the string. the other two factors showed to not have any evident effect on the time period. the theoretical mathematical model was found to be $t=2 \pi \sqrt{\frac{l}{g}}$ disregarding any acceleration due to gravity. the data fits with the model creating a power curve between the independent and dependent variable (figure 4). the  figure 1 of mass experiment  and 3 of the angle release experiment, shows more linear shaped graphs, conforming more to a straight line function than figure 4 appearing to create a curve like structure. 
+
+
+
+	random errors may have occurred in any of the experiments if a stopwatch was started too early or late, or if a stopwatch was ended too early or late. in order to reduce these errors, for each trial, a mean of all times measured was taken and recorded. if one measurement was extremely off, the whole trial would be redone for every timer. the first experiment with the length of the string versus the time (figure 2) was shown to have no effect, but this may have been caused by a systematic error, if the measuring device was worn and increments could not be properly seen or used. this was corrected by using a different measuring tape the following week to create the new graph shown in figure 4. a systematic error may have also occurred with the angle of release if the protractor measurements had been worn out. this could be solved by using a new protractor with clear measurements. the major constraint, which wasn’t so major, was that the full theoretical model could not be found because a variable for the acceleration due to gravity could not be included and would be quite difficult to find, even if this experiment was perfect.

@@ -1,0 +1,35 @@
+conclusion:
+lab 1 research question: which independent variables affect the period?
+
+
+
+lab 02 research question is  what uncertainty is present with a stopwatch system?
+
+
+
+lab 03 research question is  how is uncertainty changed when using a photogate instead of a stopwatch?
+
+
+ each experiment gathered data relating the independent variable to the dependent variable, and either determined if a correlation exists (lab 01) or the uncertainty of the data (lab 02 and 03). 
+
+
+
+claims theorized that length would only systematically affect the period, which proved to be true when the graphed data presented no relation except with length (figures 1-3). uncertainty of the stopwatch system proved to be problematic since its data displayed a linear relationship (figure 4), but when reiterated with a photogate was shown to be a power curve (figure 7). 
+
+
+
+ the mathematical model derived from the graph of the photogate data is  
+
+$t=\frac{\pi l}{g}$
+
+
+
+this makes sense since the graph used to find the equation was of a power, and therefore resulted in the equation including an exponent (figure 7). all variables besides length were not even tested for this since they had shown no correlation prior to lab 03. these variables are thus not mentioned in the equation.
+
+
+
+random error was present throughout the three labs, causing the uncertainty to be altered irregularly. this was reduced by using a more reliable system to record the pendulum’s data, the photogate. a systematic error was most likely an inconsistency in protractor tick marks, which would consistently cause the data to be shifted and not affect the standard deviation/uncertainty. a more accurate measuring device could be used to negate this issue.
+
+
+
+constraints such as using only one or similar sets of control variable values limit the generalizability since these specific control values may specifically alter the results. this would reduce the ability to apply the data found to any other pendulum remotely similar to the one used from the experiment.

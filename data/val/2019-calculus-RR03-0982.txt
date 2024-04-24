@@ -1,0 +1,27 @@
+conclusion:
+what factors affect the period of a pendulum?
+
+
+
+	three experiments were done to see what factors affected the period of the pendulum. the factors being mass, angle of string when released, and the length of the string. 
+
+the first factor tested was the mass at the end of the string being the independent variable. this was done by changing the mass for each trial done and calculating the period for each mass. the length of string and angle of release remained constant during these trials. this was done to test the dependent variable being the period of the pendulum. the claim that can be made based of changing the mass is that the mass at the end of the string does not affect the period of a pendulum. by looking at figure 1 you can see the slope is approximately zero meaning the mass does not affect the period of the pendulum. also, by looking at figure 1 you can see how small the error bars are meaning they have little impact on the representation of the data. the claim that the mass does not affect the period of the pendulum still holds true even in the light of the equivalency criterion.
+
+in the second experiment the independent variable was the angle of release to test if the angle had any effect on the period of pendulum. for this experiment the mass and length of string was held constant for all trials while the angle of release was changed to see if the period changed. the data collected from doing this is in table 2 and this data was graphed in figure 2. the claim that can be made based of the data is that the angle of release does not affect the period of the pendulum this claim is based off the slope of the graph in figure 2 is approximately zero. the error bars in figure 2 are a little larger than the error bars in figure 1 but they are not significant enough to affect the claim made. the claim that the angle of release does not affect the period of the pendulum still holds true in the light of the equivalency criterion.
+in the third experiment the independent variable was the length of the string to test the dependent variable of the period of pendulum to see if it had any affect. the mass and angle of release were held constant to see test if the length of the string had any affect on the period of the pendulum. the data collected from the different string lengths is in table 3 and this data is graphed in figure 3. the claim that can be made based off the data is that the length of the string does affect the period of the pendulum. the longer the string is the greater the period of the pendulum is. the slope of the graph in figure 3 is a lot greater then both the slopes of the graphs in figure 1&2. figure 3 does have the largest error bars of the three graphs meaning that this data is more inaccurate then that of the other two graphs. the claim still holds true in the light of the equivalency criterion. the length of string still has the greatest impact on the period.
+
+
+our experimental model is $t=2.1186 l^{0.423}$ while the theoretical model is $t=\frac{2 l^{0.5}}{\sqrt{g}}$  .the value of the coefficient for the theoretical model is 2.006, which is fairly similar to our coefficient. 
+
+the units for our coefficient are (s/m)^.4234, while the units for the theoretical model would have to be (m / m/s^2)^.5.
+
+an example value of 2 meters would have a period of 2.841 with our model and 2.837 with the theoretical model.
+
+these models were based off the data in figure 3 and table 3. the angle of release and mass were in were included in this model because they both had not impact on the period of the pendulum.
+
+
+
+possible errors that may have caused fluctuations in the graphs are random errors such as incorrectly measuring the string, incorrectly reading the drop angle, or in the use of the timers, such as a consistently slow reaction time. systematic errors that may have impacted the experiment are improperly calibrated timers, incorrectly massed weights, and incorrectly measured measuring devices. some of this error could be reduced by using more effective equipment for example using a laser motion sensor to time the period instead of a stopwatch. another example of a way to reduce error would be using most precise tools when measuring string lengths and angles.
+
+
+	a constraint that might have limited the generalizability of our results could have been that we ignored air resistance in this experiment. there was no possible way for us to avoid this. the air resistance could have been different at different points of the mass swing changing the results slightly.

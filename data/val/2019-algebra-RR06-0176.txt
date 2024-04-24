@@ -1,0 +1,22 @@
+discussion of lab 05
+
+these first two sets of data were from lab 05. the first set of data shows a change of acceleration as the force on the cart increases. this makes sense because the more force applied to an object would obviously increase the acceleration.
+
+next, the second set of data shows that as the weight of the cart increases, the acceleration decreases. this is a direct correlation because if the cart is heavier, it will take a larger force and more time for the cart to increase its acceleration. this can be shown in the equation $f=ma$.
+
+acceleration of a cart with added friction
+
+
+the first part of this lab was done the same way as the end of lab 05. more force on the cart makes for a bigger acceleration.
+
+next, we added two magnetic bars to the cart to add a frictional force. it is seen in the data and the charts that with this newly added friction, the acceleration decreases. again, the way to increase the acceleration with the friction force is to apply more force on the cart. when comparing the first and second sets of data, it is shown that the cart with friction took more time to increase its acceleration.
+
+the last experiment from lab 06 included adding two more magnetic bars to the cart, adding even more friction to the cart. it is also seen in the data for this experiment that a bigger force is needed to increase the acceleration because of the bigger frictional force applied to the cart.
+
+
+
+
+
+as seen from group 2’s white board, they had the same conclusion as our group. with more friction on the cart, the more time and force it takes to increase the acceleration of the cart.
+
+ our group tested this question by increasing the mass of an object, applying different amounts of forces, and applying a frictional force. after testing all these factors, we concluded that the mass of an object impacts the acceleration. the greater the mass, the more time and force it takes to increase the acceleration. with the force, a greater force on the cart increases the acceleration. lastly, applying a frictional force to the cart slows the object down, so a greater force and more time is needed to increase the acceleration.

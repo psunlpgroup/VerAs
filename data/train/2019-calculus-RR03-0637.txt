@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+ 
+
+research question: what impacts the period of a pendulum when using a smaller swing?
+	experiment one shown above was to determine if the pendulum mass had any impact on the pendulum period. according to the data retrieved (data table 1) we can claim that there is no relation between the mass and the period of a pendulum. also as seen on graph 1, there is a slope of zero indicating that no matter what mass was added, the period did not change. the error bars used for graph one were decided upon because they included 95% of the data (used two standard deviations). these claims were made on earth, from the conditions that the mass did not exceeded 0.270kg and the release angle was not greater than 45 degrees. another important factor was that all the other variables remained constant (i.e. the angle and the length).
+
+	experiment two shown above was to determine if the pendulum release angle had any impact on the pendulum period. according to the data retrieved (data table 2) we can claim that there is no relation between the release angle and the period of a pendulum. also as seen on graph 2, there is a slope of zero indicating that no matter what angle the pendulum was released, the period did not change. the error bars used for graph two were decided upon because they included 95% of the data (used two standard deviations). these claims were made on earth, from the conditions that the mass did not exceeded 0.270kg and the release angle was not greater than 45 degrees. another important factor was that all the other variables remained constant (i.e. the mass and the length).
+
+
+	experiment three shown above was to determine if the pendulum length had any impact on the pendulum period. according to the data retrieved (data table 3) we can claim that there is a relation between the pendulum length and the period of the pendulum. this relation when graphed results in a power function represented by the function $y=2.0285 x^{0.5023}$. in this equation the x is substituted with values of string length in meters and in result the outcome equals the period in seconds. this equation was developed because of all the equations presented, it produced the best correlation or r^2 value. the error bars used for graph three were decided upon because they included 95% of the data (used two standard deviations). as mentioned before these claims were made on earth, from the conditions that the mass did not exceeded 0.270kg and the release angle was not greater than 45 degrees. another important factor was that all the other variables remained constant (i.e. the mass and the release angle).
+
+
+	our group was fortunate enough that we did not need to look up the theoretical equation as one of the group members remembered it from high school. they shared it as .
+
+this was an excellent find compared to the model we had developed. both of these had an approximate coefficient of 2 and use a close estimate of the square root of the pendulum length. the biggest difference i noticed was that the experimental model already had gravity factored into the equation as opposed to a separate variable. 
+
+	as mentioned above my group did its best to reduce the random error caused by lack of human reaction time. to prevent this, we took many data points, had multiple timers and even took the average of ten periods for each trial. however, there was probably still some random error, which is why we switched over to the photogate. when used correctly this allowed our group to remove the random error from our data. there is a slight possibility of systematic error when using the device, but this error should be significantly less than what we had before. for the future, in order to reduce error, i would recommend taking way more data points because then the outliers can be removed. 
+
+
+	one possible constraint is that the experiment we conducted was on earth which has an acceleration of 9.8m/s^2. depending on what planet this experiment is tested can change the ending outcome. in example, if this experiment were constructed on the moon, i would estimate that the period would increase as there is less of an acceleration. another constraint, which was mentioned in class would be that when the angle was greater than 20 degrees there could have resulted in a positive correlation.

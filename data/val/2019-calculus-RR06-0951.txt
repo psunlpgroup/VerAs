@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+a. in the force and  motion experiment , we search which forces affect in the frictionless motion of the system. in fact, from the data obtained from experiment we found that there is a positive correlation with the force of gravity and acceleration. however, it is represented by r is 0 that does not exist any relation with the tension force. from lab 06, we based our experiment   on the previous equation to identify what forces are represented. that is why, we tested that a force by varying the inclined plane to see the behavior of the acceleration in this determinate condition and therefore incrementing and reducing the mass 2 producing a variation in the tension force.
+
+b. for the lab 05 , the mathematical model was determined by using dimensional analysis. by doing this, i canceled out units and found that the constants were in m/s^2, and that is acceleration. moreover, it is based on newton’s second law $f = m a$. the forces in our experiment were the force of gravity (mg) and tension (t).
+
+$m g – t = m a$
+
+moreover, for the lab 06, we found that the force that affect the motion based on the linear equation from lab 05. from the second newton law, the $f=m a$ and from lab 05  mathematical model      $ a = 0.0098 m_g – 0.2486$ . we obtain that $a= \frac{f}{m}$ of the system. in the given mathematical model from the lab instruction $a=c1 f+c2$, we can find the c1 and c2 c are values from the following data where c1 and c2 are going to be the dependent variables. these results were determinate from the data and graph from excel with their respective linear equation to determine their behavior in the motion.
+
+c. for experiment, with the obtained mathematical in this board we tried to figure out which force can be the value of the numbers. we applied the newton’s second law to set that the $f=m a$ , then the acceleration is force over  mass.
+
+d. the other possible factors could  affect the experiment . one systematic error can be a systematic error of reading the slopes for the lab 05 resulting in too high error bars. moreover, into this lab the environment was told to be frictionless (even though it really isn’t), which would affect the force of gravity. this could be investigated by increasing the friction from an almost frictionless surface to something that’s rigid. 
+
+e. if i was given the opportunity to do the lab over, i would have done more trials. more trials mean better data and stronger evidence. i think there is not such a clear understanding of what the objective of the experiment are. that is why we spend most of our time figuring it out.  
+
+f. for both mathematical models we conclude that from the second newton law ,  , we reapproved what newton states. due to, our mathematical models describe and obtain the same standards.

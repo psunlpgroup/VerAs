@@ -1,0 +1,30 @@
+conclusion:
+  We cannot conclude that the more mass an object has, the longer amount of time it will take to complete one full oscillation with small angles. Our original claim that the length of the string affects the amount of time it takes for the pendulum to complete a cycle did hold up. It appears that there is a correlation between the length of the string and the period with a small angle.We cannot conclude that there is a correlation between angles and time of an oscillation.  
+   
+  We are fairly confident that if multiple students simultaneously collected data of the same event using a stopwatch, we will all get the same results because we did three trials of each test. 
+  Because there was not a lot of change in time in “Time vs Weight” there was basically no correlation with small angles. Same with “Time vs Angle.” But there is a correlation between “Time vs Length” because the time for a full oscillation was bigger the longer the string got. 
+  We are fairly confident because the independent variables were excluded from our charts while the dependent variable (time) and the controlled variables were on the x and y axis of our charts. The difference locations of each point on the graph shows how as length got longer the time also go significantly longer. 
+  There are other factors that play into the period of a pendulum. One namely is our own reaction time. If one of us hit the timer to slow, quickly, early, late, that would mess up the results and would vary from person to person. One way to investigate that is to do everything from the weight of the pendulum, the length of the string, the angle of letting go the same and only changing the person that records the time. At that point there may be a new research question “How does the reaction timing of an individual person sway experiment data?”
+  One way to improve the experiment is to use machines to gather the data. Instead of using people with various reaction times, use a machine that always does its timing the exact same way. One way to strengthen our claims is to use data points that are further apart. For an extreme example, if we were to take different lengths of the string and only take measurements 5cm apart, we would have much smaller margins to work with as compared to if we used lengths that were 20 or 30cm apart. The same goes with weight and the angle. 
+ The three factors that affect the period of a pendulum is the length of the pendulum (20cm-60cm), the angle of release (assuming under 20°), and the mass of the pendulum (50g-90g). Assuming all other factors are held constant.
+
+ We are confident in the values we obtained, as our range of uncertainty is relatively small. Our range of uncertainty is 0.03743 seconds compared to our average time of 1.157 seconds.
+  It does because it overlaps only on time vs weight and time vs angle. There is no overlap in time vs length meaning that length does affect the time.  
+  We are very confident because our standard deviation is small. 
+
+  Student 1is correct for angles less than 20 degrees. For angles less than 20 degrees the period will stay relatively unchanged so you can assume that each period is the same as the last, making it plausible and correct to take the average amount of time between the 6 swings. 
+  The answer is “a” because if the students take more measurements they’ll have more information to use to take the average of, minimizing random errors, and making the standard deviation smaller.
+  Length impacts the period while angle and weight do not. Length has an exponential relationship with time. The conditions include angles less than 20o. 
+Very confident because the photogate has a small range of uncertainty.
+The mathematical model was determined in excel, comparing different lines of best fit and finding that the power relation had the closest R2 value to 1.
+Very confident because the R2 value is 0.9999 which fits the error bar of 0.001 of photogate. 
+  
+  It would change because g would not be 9.8 but 1.625 m/s2 instead. The period would increase because 2pi/sqrt(g) would become bigger which makes t bigger.
+  It is correct.
+  The equations were pretty similar. 2pi/g was off in the thousandths place.
+   Air resistance would affect the period of the pendulum. The type of string and the shape of the weight.
+   We could use something to set the angle to a more accurate degree.
+   1.42 seconds. It is close to the graph.
+    As mass does not affect the period of a pendulum, it could have any mass. Its length would be 6.213 meters.
+	A lot was learned in the process of three different labs building on each other. In the first, independent and dependent variables, how to conduct a procedure, and also graphing data. In the second lab, we learned about range of uncertainty, and also random and systematic errors. In the third lab, we learned about how to create a mathematical model with a certain set of data. Within these three labs, a good amount of knowledge was took in, also the idea of working together to achieve a goal. 
+ 

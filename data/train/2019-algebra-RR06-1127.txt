@@ -1,0 +1,22 @@
+discussion and conclusion
+
+the research question was what variables affect acceleration of the cart. when using the hanging force as the independent variable, the mass of the cart was changes. changing the mass of the cart had an impact on the acceleration which means that it addresses the research question. the graphs show that when the weight of the cart is increased, the acceleration decreases. the error bars show that the values are accurate and do not have much room to vary.
+
+the picture to the right is data from another team’s experiment, their data supports our conclusion that tilting the system one way or the other affects the acceleration. the c1 value of the models indicate that a forward tilt decreases acceleration. our model 
+
+the theoretical model for the acceleration of a system by a single force is $f=ma$. our mathematical model is $y=2.8084 x + 0.0178$. this supports the theoretical model because it has the same format and is extremely close to the correct mathematical model.
+
+
+the enhanced theoretical model is $a=c f + c$ and our enhanced mathematical model is $y=2.8084 x + 0.0178$. this supports the enhanced theoretical model because it resembles the theoretical model and is extremely close to the correct mathematical model. 
+
+
+
+if we were to conduct the experiment with a heavy string it would cause an increase in the acceleration because it would add weight to the hanging force. 
+
+
+
+random errors could have occurred when the cart was released on the track because we did not have a tool to make sure the cart was always released from the same location. this random error was reduced by ensuring the same team member released the car from the same spot every trial. another possibility of random error was the height of all the metal pieces used to elevate the system and balls used to add to the hanging force. the random error was reduced by weighing all the weighted balls and measuring the height of all the metal pieces.
+
+
+
+possible constraints of the experiment were the type of string used and friction of the system. these could have affected the generalization of the results by increasing or decreasing all of the results we got for acceleration.

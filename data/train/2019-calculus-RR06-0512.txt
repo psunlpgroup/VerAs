@@ -1,0 +1,11 @@
+discussion and conclusion:
+
+
+
+the objective of the experiments was determining the relationship between the applied force and the acceleration. we accomplished these two experiments by using the gravity force as the applied force. so, we can determine the value of the force to get more accurate data. so, in the first experiment we applied more force to the cart for 8 trails and we collected the data to gain graph, mathematical equation and shape that represent the relationship of the graph. in the second experiment we wanted determine the relationship between the incline’s slop and the acceleration of the cart. so, we used the same applied force for all the trails. but we changed the incline’s slop to determine the acceleration then we collected the data.
+
+	 in the experiment 1, we predicted that the applied force is going to determine the cart’s acceleration by increasing the acceleration, when ever we add more force. after collecting the data, we conclude that our prediction was true because all graph shows us that there is a positive slop in force vs acceleration graph and that means when ever we add more force the to cart, the cart moves with more speed. and the mathematical equation is that [acceleration (m/s2) is 0.0000299*(mass of m2 (kg)) - 0.0116]. 
+
+	in the experiment 2, we used the same system that we used in experiment 1, but we used constant applied force because from this experiment we wanted to determine the relationship between the incline’s slop and the cart acceleration. so, we changed the slop of the incline to different values. so, we got good data to conclude the relationship between them. overall, we conclude that when we increase the incline’s slop toward the applied force, we get larger acceleration.
+
+	

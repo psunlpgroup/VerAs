@@ -1,0 +1,14 @@
+discussing and conclusion
+
+
+
+in this experiment, different independent variables were analyzed to see which ones had an impact on the period of a pendulum for small swings. three different variables were tested to see their effects on the period. the first test looked at the relationship between the weight of the pendulum and its period. by looking at the data in table 1 and figure 1 it can be seen that there is minimal change. with the absence of a rate of change in figure 1 it can be concluded that there is no correlation between the weight of the pendulum and the period. 
+
+in trial 2 the length of the pendulum was investigated and how it effects the period. by looking at table 2 and figure 2 and it can be determined that there is a correlation between the length of a pendulum and the period since when the length was increased, the period also increased. this supports my prediction on the experiment since the relate in a positive, linear way.
+
+in trial 3 the angle on release was examined to see if that had an effect on the period. if the research question is referred back to, we only investigated small swings. since we only looked at small swings we looked at angles less than 15˚. by looking at the data seen in table 3 and graph 3 there is very little change in the period time between different angle releases. if the uncertainties of our measurement are accounted for then it can be claimed that there is no change between periods with different angles of release. this means that there is no relationship between these two variables. 
+
+
+theoretical equation for period of a pendulum is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+one source of error was random error in how we recorded out period times. we did this by using a stop watch and there is potential for random error with human reaction time. we tried to reduce this by recording the time for 5 period swings then taking the average of each interval to attempt to reduce how the recorded value differs from the recorded value.

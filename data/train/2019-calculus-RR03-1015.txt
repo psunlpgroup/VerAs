@@ -1,0 +1,45 @@
+conclusion:
+
+what variables, pendulum length, weight and starting angle, have an effect on the period of the pendulum?  
+
+
+
+the first experiment conducted was to test how the length of the pendulum effected the period of the pendulum.  this helps to solve the research question because pendulum length is one of the factors included in the research question.  conducting an experiment on how the length of the pendulum effects the period of the pendulum is important because it provides necessary data on whether or not the length is a factor that effects the period.  
+
+after analyzing the data of testing the length of the pendulum, it can be concluded that the length of the pendulum does affect the period of the pendulum.  this can be concluded because when looking at the graph, it can be seen that there is a positive relationship between the independent variable (length of string) and the dependent variable (period of pendulum).  this can be seen by the positive sloping graph (graph 1).  a positive slope or positive relationship between the iv and dv means that as the dependent variable increases, the independent variable also increases.  this means that as the length of the pendulum increases, the period also increases.  even though the error the error bars are large, the final points error bar is out of range of the first error bar so it can still be concluded that there is a positive relationship with the data.  
+
+
+
+the second experiment conducted was to test how the starting angle of the pendulum effected the period of the pendulum.  this helps to solve the research question because the pendulum starting angle is one of the factors included in the research question.  conducting an experiment on how the angle of the pendulum effects the period of the pendulum is important because it provides necessary data on whether or not the angle is a factor that effects the period.  
+
+after analyzing the data of testing the starting angle of the pendulum, it can be concluded that the starting angle of the pendulum does not affect the period of the pendulum.  this can be concluded because when looking at graph 2, it can be seen that there is no correlation between the independent variable (starting angle) and the dependent variable (period of pendulum).  this can be seen by looking at the graph who’s functions slope is zero (graph 2).   a graph with a slope of zero when relating the iv and dv means that when the only factor changed is the independent variable, the dependent variable stays the same.  this means that when only the starting angle of the pendulum is changed, the period will stay constant.  the error bars on this graph overlap and show that the graph could easily have a slope of zero.   
+
+
+
+the third experiment conducted was to test how the mass of the pendulum effected the period of the pendulum.  this helps to solve the research question because the pendulum mass is one of the factors included in the research question.  conducting an experiment on how the mass of the pendulum effects the period of the pendulum is important because it provides necessary data on whether or not the mass is a factor that effects the period.  
+
+after analyzing the data of testing the mass of the pendulum, it can be concluded that the mass  of the pendulum does not affect the period of the pendulum.  this can be concluded because when looking at graph 3, it can be seen that there is no correlation between the independent variable (mass) and the dependent variable (period of pendulum).  this can be seen by looking at the graph who’s functions slope is zero (graph 3).   a graph with a slope of zero when relating the iv and dv means that when the only factor changed is the independent variable, the dependent variable stays the same.  this means that when only the starting angle of the pendulum is changed, the period will stay constant. the error bars on this graph are small and it can be easily seen that the graph has a slope of zero.   
+
+
+
+after a second experiment using the pendulum, more accurate data was found.   the data was more accurate because the photogate was used.  from this collected data, graph 4 was made.  a theoretical mathematical model between the length of the pendulum and period was made.  the function graphed was found to be exponential.  this means that as the length increases, the period get exponentiality larger.  the equation of the best fit line for this data is $y=0.29 x^{0.4}$ .  
+
+
+
+a theoretical mathematical model can be made stating that the length is the only factor that affects the period of the pendulum because this increases the length it has to travel.  when the length is increased, the period length is also increased.  therefore, when length is the only factor that is changed, it must travel a further distance without any other aid in making the speed increase.  when the length is increased, the distance to complete one period increases causing it to take more time to complete one period.  
+
+when the starting angle is increased the period distance also increases, but the increased starting angle also causes the pendulum to move at a higher velocity.  this higher velocity makes the pendulum period time stay constant.  
+
+when the mass is increased, the starting velocity is lower, but its max velocity increases as mass is increased causing the period time to stay constant. 
+
+
+
+		a random error in the lab was the user reaction time for using stop watch to time the period.  this can be reduced by using a photogate. another random error in the lab was using a tape measure to measure string length. looking at the tic marks from different angles can cause the measurement to be off by a fraction of a cm.  another random error in the lab is using a protractor to measure angle.  looking at the tic marks from different angles can cause the measurement to be off by a few degrees.  
+
+
+
+a systematic error in the lab is that the mass of the weights could be different from their actual weight.  this error can be eliminated by using more accurate weights.  another systematic error in the lab was using a tape measure to measure string length.  the measurer could be stretched out; a brand-new measurer would fix this error.  another systematic error in the lab could be that the stop watch measures seconds incorrectly.   this could be fixed by using a more accurate stopwatch.  
+
+
+
+a constraint that limits the generalizability of this experiment is air resistance.  in order to find perfect results, this experiment should be done in a vacuum.  the air causes friction on the pendulum and causes there to be error in the lab data.

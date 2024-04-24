@@ -1,0 +1,43 @@
+discussion and conclusion:
+
+what impacts the period of a pendulum for small swings?
+
+
+
+based off the three experiments, we were able to claim that the only factor that affects the period of a pendulum is the length of the string. if you have a longer string, it would take the pendulum more time to complete one period. this is shown by the positive, power relationship displayed in figure 1. also, the curve of best fit passes through all the error bars showing that there is a relationship between the two variables. we could also make the claim that the mass on the pendulum did not affect the period if a pendulum due to figure 2 showing no correlation, and the angle of release had no affect on the period as shown in figure 3 that shows the two variables having no correlation when released at an angle of 20 degrees or lower. plus, the line of best fit for figures 2 and 3 does not pass through all the points/error bars which also indicates there is no relationship between period time and mass and release angle.
+
+
+
+the theoretical mathematical model for the period of a pendulum the we calculated is   $t=0.2989 l^{0.4227}$. this was based off our data for string length vs. time because that was the set of data that showed any kind of relationship. to get this equation, we used the graph from excel and found that a power relationship would be a better fit that a linear one. the r^2 value for power was 0.997 while the r^2 for a linear was 0.97. because the power had a higher r^2 value than the linear and the other relationships, we chose that as our mathematical model. we did not use the data for mass or the data for release angle to calculate the mathematical model because their respective graphs showed no correlation and had a line of best fit that was close enough to zero to be deemed no correlation. 
+
+
+
+there were a few systematic and random errors in the experiments. some of the systematic errors include is  the calibration of the scale, the accuracy of the tape measure, and how much bend there was in the pendulum stand. some random errors include is  the angle read off the protractor, how the stop watches started/stopped, and other human errors. in order to reduce the amount of error caused by these systematic and random errors could be fixed by the following is 
+
+
+
+errors in scale calibration and mass measurement could be slightly reduced by ensuring each set off tests used a calibrated scale. additionally, use of a scale capable of higher accuracy readings would increase the certainty of the measurements.
+
+
+
+errors in string length measurement could be minimized by ensuring that the most accurate measuring device available is used. a set procedure should be created to specify exactly how these measurements of the length should be made, including if the string is loose or under load, and the precise points that the measurements are to be taken from.
+
+
+
+stiffness in the pendulum stand could affect the factor in energy conservation of the pendulum and haven effect on the period of the swing. in our test, notable bending was observed in the horizontal arm of the test stand and with the equipment available to use we could not reduce this effect. some modifications to be made in our test could be building a sturdier test stand, or by conducting the test with the pendulum mounted from a set point on a sturdy structure supported on both ends such as a beam.
+
+
+
+during performance of our tests, the protractor had to be aligned by hand with the test stand for each test, and it was held in place by the person performing the angle measurement and release of the pendulum weight. this causes uncertainty in each angle measurement since the protractor must be realigned for each test. error reduction in the angle of release measurements could be accomplished by incorporating a fixed protractor built into the test stand for the measurements to always be referenced from where the pendulum rested in its vertical resting position.
+
+
+
+stopwatches, though accurate themselves, were started and stopped by three individuals who each had different reaction times which may not have been precisely linked up with the proper starting or stopping cues. an ideal situation would be an electromechanical test mechanism that held the weight precisely at a preset angle, and then when triggered, it would release the weight while also starting a stopwatch at the same time. this system could also be used to track and stop the stopwatch after the proper number of pendulum swings, resulting in measurements that should be more consistent between tests than a system started and stopped by humans. this could also be fixed by using a photogate to calculate the time for one period rather than stopwatches to get more accurate data.
+
+
+
+human error plays a factor into practically every test carried out by people because it relies on measurements or readings interpreted by people who may not all get the same data. the test we conducted specifically relies on people starting and stopping stopwatches. this relies on reaction times of various individuals trying to acquire the same reading to be in synch. the ideal situation to minimize these errors is to increasingly make the setup more automated, easier to be replicated, and to rely less on data interpretations from people.
+
+
+
+when collecting our data, we had to keep the release angle at 20 degrees or lower for us to have no correlation between release angle and time. also, we had to get each lab done within the day of each lab period which caused us to manage our time and collect data faster and not as much. this would cause our graphs to not show as accurate relationships as they probably should due to the lack of data points.

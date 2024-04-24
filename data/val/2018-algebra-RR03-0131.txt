@@ -1,0 +1,20 @@
+conclusion:
+
+errors likely occurred in our experiment, as our data did prove so as visible via the error bars. after running a standardized experiment we were able to determine that our standard deviation was 0.4714. this error could be systemic or random. a few potential systemic errors could have been is 
+
+when measuring the string length we measured from the top of the pendulum, rather than the bottom of the weight.
+
+the mass of the weight itself could’ve effected it, as the 20g weight doesn’t necessarily weigh 20g just because it says that. 
+
+we had different people record the time for all of the trials, and some people could have reacted faster or slower than someone else. 
+
+human error is a possible error as our own measurements could have been flawed with the angle of release, string length, or even keeping track of the time. 
+
+more trials would improve the validity of the results and give us more data to analyze.
+
+consistency while recording and measuring, so that each person does the same job throughout all of the trials.
+
+using the same exact piece of measurement each time, so the same exact ruler, protractor, stopwatch, etc. 
+
+measuring the length to the center of the weight instead of just to the end of the string.
+in conclusion our experiment proved to be partially successful. our initial predictions for the weight and angle of release experiments was wrong, and they did not affect the swings of the period. as evident in the graphs and data charts there is no increase or decrease as we change the specific factors. however, the string length experiment did. the graph showed that as the string length increased the number of period swings went down. in the first lab the mathematical dependence was linear, and passed through each error bar. but during lab 3 we determined the relationship between the strength length and period was non-linear, with the best fit line being the “power” line. the r2 value is supposed to be close to 1 and the power should be close to 0.5. the r2 was 0.997, along with a power of 0.4061. this data proved our model was close to the theoretical value.

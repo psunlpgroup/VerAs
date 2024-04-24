@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+	the question the group set out to answer was: of pendulum mass, angle of release, and length of rope, which affect the period of the pendulum’s swing? for the mass of the pendulum, every other variable was controlled. graphing the data with the error bars included (standard deviation of methods used; see laboratory 2) showed a flat line with each point within the others’ error bars. this led the group to conclude that mass of the pendulum has a negligible effect on the period of its swing. next, the angle of release was plotted with similar methods, controlling every other variable. once plotted with range of error, something curious arose. there seems to be a faint linear relationship, which is only compounded by the third and fifth data points being out of the range of error. this, however, can be easily explained by random and/or human error. finally, the length of string graph shows a strong power curve relation with minimized error of  ∓ 0.001. because of the accuracy of the measurements and the strong relationship, the group concluded that the period of the swing was increased by the length of the string. 
+
+
+
+christaan huygens first derived the following formula for the period of a simple pendulum in 1673 is 
+
+
+
+where l is the length of string in meters and g is the acceleration due to gravity (-9.81 m/s2 in this context). stacking this equation up against our line of best fit for period vs. length of string is 
+
+
+
+shows a somewhat similar picture. graphing both show power curves with different slopes but are very similar throughout, which led the group to conclude that the model produced is close enough to the theoretical model to say that it supports huygens’ first model 346 years ago. 
+
+
+
+on our own data, the possibility of systematic error exists, but a clear example of random error is shown on the angle of release graph. this could be mitigated with more trials, as finding a smoother average would prove much stronger evidence. finally, the differences between ours and huygens’ model can be attributed to the constraints within this experiment. such constraints include the angle of release and force of release, as human error could easily increase force and change angle. without an exact methodology for an exact angle and drop, human error easily explains the differences between the models.

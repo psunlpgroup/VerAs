@@ -1,0 +1,19 @@
+discussion and conclusion
+
+ the purpose of this lab is to develop the mathematical models which describe the behavior of a real system (lab 05) as well as develop an understanding for each variable and numerical values included in the model (lab 06).
+
+ the three experiments led to the resulting mathematical models by measuring two variables through multiple trials, turning the data table into a graph, and measuring the slope of that graph as our mathematical model. for the first experiment, our interpretation of the physical meaning for each variable is that the equation is equal to acceleration and the x-axis represents the increasing force. for the second experiment, our interpretation is that the equation is equal to the acceleration and the x-axis represents increasing mass. for the third experiment, our interpretation is the same as the first experiment with the equation being equal to acceleration and the x-axis representing the increasing force.
+
+
+
+
+
+
+
+ this group’s findings are similar to ours because they tested the angle height too. these results contribute to the understanding of our mathematical model by simply confirming our results, even though our numbers were slightly different.
+ this group’s findings are different than ours because they tested the magnets on the glider, however their results still contribute to the understanding of our mathematical model by showing us a difference in the glider without magnets, which was our 2nd experiment, and with magnets. we are able to compare data and see the differences. our interpretation of the variables stays the same.
+
+ the systematic error that was present was calculating slope using the lines drawn from the computer’s measurements. calculating the slope in different areas of the line could have resulted in a slightly different slope. this error could be reduced by guaranteeing you select the whole line every time you calculate the slope. the random error that was present was not lining the glider up to the correct distance every time. this error could be reduced by lining the glider up and having another person check to make sure the distance is correct before turning it on. 
+
+ the constraint in this experiment that may limit the generalizability of the results is that the glider’s distance was not completely due to being placed into the starting distance by hand.
+ the two experimental mathematical models are consistent with newton’s second law because they both include either force and acceleration or mass and acceleration, and two of either of those are needed to find the other, making them consistent.

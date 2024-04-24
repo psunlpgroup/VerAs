@@ -1,0 +1,15 @@
+discussion
+
+	how does the acceleration of a system change when the applied force changes? during this experiment, different forces were applied by testing a hanging mass and a sliding mass on an air track. a total of seven bobbers were placed on the sliding track, while one bobber remained on the string acting as the hanging mass. the air track was turned on and the data system program tracked the acceleration of each trial. after one trial a bobber was taken from the sliding mass and placed on the string acting as the hanging mass. this was repeated until each bobber had been removed from the sliding mass and placed as the hanging mass. a picture of the apparatus is shown below in figure 2. 
+
+
+
+figure 1 shows the scatter plot of the applied force vs acceleration. the data point error bars are very small but do not overlap. therefore, we can conclude as the applied force changed, the acceleration also changed, thus supporting our claim. the theoretical equation of $f=m a$ in which the $y=5.1734 x-0.0015$ which also concludes that the graphed data in figure 1 supports that as the applied force changes, so does the acceleration. f is 2.81535*10^-4. 
+
+
+
+systematic errors can be contributed as the level of the track being off balance, or the mass of the string. random errors may be contributed to the measurement errors of the mass or the acceleration. reducing random error can be done by taking more trials and collecting more data. 
+
+
+
+the constraints of the experiment include using a massless string. the results in the experiment only apply to a massless sting. if the string had a mass, the hanging mass would have been heavier which would have produced a change in the acceleration. 

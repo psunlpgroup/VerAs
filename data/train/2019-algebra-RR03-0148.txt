@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+our research question that we wanted to find out was; “what impacts the period of a pendulum?”
+
+
+
+each one of our experiments gave us a chance to find out the impact that independent variable had on the period of a pendulum. for example, in the angle vs. period graph, you can clearly see a correlation between the angle size and period. as the angle decreases, so does the period. this is a clear example of a positive correlation. by doing some of these tests, we were able to identify changes that we wouldn’t normally have if we had only done it once. for example, for the string length, after the first round of testing, our period equation was linear. although after another round of testing, we realized a power equation was more appropriate. as for the mass vs. period testing, it had a positive correlation at the start but as more weight was added, it almost went to the opposite direction than expected. our data was climbing rather than dropping. a reason for this was as more weight was added, it would cause the string to bounce therefore affecting an accurate reading. in the end, the only independent variable that we tested twice was our string length due to its positive correlation and clear relationship between the length and period length. 
+
+
+
+our theoretical model for period of the pendulum was $t=\frac{2 \pi \sqrt{g}}{l}$. this written out would be; 2 times pi times the square root of gravity divided by the length. the data that we tested with this model was a very good fit. we only really needed to test the length of the string due to it being the only variable with a noticeable impact. we found out with the theoretical model, that the longer the string was, the longer the period would be. 
+ an example of a random error we encountered is finding a way to try and measure the angle correctly each trial. we had to free hand the location of the protractor and therefore each trail it may have been just slightly different. 
+
+ an example of a systematic error was the lag time we witnessed between the photogate and the computer. we felt that the slight delay may have affected the actual readings of the period
+ways we tried to fix these errors was by trying to hold the protractor as flat as possible against the bar and then measuring. this flat surface made sure we were getting a more accurate measurement. 
+
+a few constraints would be the length of the string, height of the pendulum itself, and the fact that we were told to stay under 30 degrees. the string was only so long so you couldn’t test lengths much bigger than table length. even if you had a longer string. the height of the pendulum rig itself would have limited you. and we i feel we would have got more significant data if we tested angles larger than 30 degrees.

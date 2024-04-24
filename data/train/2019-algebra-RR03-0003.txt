@@ -1,0 +1,6 @@
+conclusion:
+The three research questions were the following for their related test. Our group claimed that the release angle of the pendulum would be a factor that increased the amount of time it would take the pendulum to swing one full period. Our group claimed that the length of the pendulum would be a factor that increased the amount of time it would take the pendulum to swing one full period. Our group claimed that the mass of the pendulum would be a factor that increased the amount of time it would take the pendulum to swing one full period.
+
+Equation is 
+
+This equation supports our theoretical model because it indicates that as the length of string increases so does the time required for one period to occur.  The relationship is not linear however it is very similar.  It was created using multiple trials.  The time was averaged and compared to the length of string.  The power equation was chosen because it had the highest correlation coefficient.  The equation was then given through the graph in excel to give a precise equation.

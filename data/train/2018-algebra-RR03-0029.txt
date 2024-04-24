@@ -1,0 +1,13 @@
+discussion and conclusion:
+
+
+
+what factor impacts the period of a pendulum swing the most?
+
+by measuring the different affects against the pendulum swings we were able to determine what factor affected the pendulum swing the most. we were able to see this by looking at the slopes of the graphs. as observed above the slopes of the graph for mass and angle of release were constant and the slope for the length graph was increasing positively. this shows that the length of the string is the only factor that will affect the period of the pendulum swing the most.
+
+the theoretical mathematical model for the period of a pendulum is 2x^0.4232. our data fits with our model because if you multiply our lengths by 10 in order to compensate for the units. we measured our lengths in cm not m like the theoretical model so once you multiply the lengths by 10 our models were similar. for the angle and the mass the theoretical mathematical model are not similar like the length was.
+
+some random errors that could have occurred were the weights are used and the weights could not be accurate and the stopwatch only records to +/- 0.005. these could be reduced by using brand new weights for the experiment and using higher technology to make the times more accurate. some systematic errors that could have occurred are the different response times we had when recording the times with the stopwatch and what we considered to be the middle of the pendulum could be off to what others think it was. these could be reduced by using higher technology again to more accurately measuring the time or simply taking multiple trials and finding the average of the trials.
+
+we were not able to use the photogate for all three factors of the experiment so that could be considered a constraint. this is because we only used the photogate for the length because we concluded that this was the only factor that impacted the period of a pendulum swing the greatest.

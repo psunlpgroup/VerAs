@@ -1,0 +1,44 @@
+discussion:
+
+the other group’s findings are clearly presented. discrepancies and agreements between the groups’ data and claims are stated and discussed.
+theoretical equation $a=\frac{f}{m_{sys}}$ is provided and the discussion for how the experimental mathematical model $a=c1 w+c2$ supports the theoretical model is complete and accurate. results from curve fitting and how the system mass relates to the fitting parameters are included in the discussion.
+
+enhanced theoretical equation $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ is provided and the discussion for how the experimental mathematical model supports the theoretical model is complete and accurate. how the extra force(s) relate(s) to the fitting parameters are included in the discussion.
+
+
+
+all random errors and any systematic errors that affect the results are correctly identified. thorough discussion for how to reduce the impact of errors is included.
+
+
+
+all major constraints of the experiment are identified and appropriately included in a discussion for how they may affect the generalizability of the results.
+
+unable to perform second experiment
+
+
+
+
+the claims found here support ours in that they prove that angle has an impact on the acceleration of the system as a whole. as these claims support our data, they make our confidence claims more firm as we are in agreement.
+
+
+
+
+
+the data from their group and their claim adds to our understanding of the features of the lab setting and their impact as they show that friction affects the acceleration of the system, in addition to the angle as we had identified. their tested iv (friction) appears to have a larger impact on the numerical values than the iv (angle) that we tested.
+the 0.0028's unit is (kg^-1). this will canceled the unwanted unit in n, also the -0.003 would have a unit of m/s^2.
+
+other possible factors include gravity’s acceleration, and maybe the mass of m2 while mass of system stays constant. a higher total mass of system would make a lower system acceleration. a lower total mass of the system would make a higher system acceleration. 
+through the first experiment, we looked at the affects of the force of gravity on the acceleration of the system. the graph shows a positive correlation between the force of gravity and the acceleration of the system, with a high r^2 value, .9955. therefore, we can say that as the force of gravity increases, so does the acceleration of the system.
+
+we are fairly certain on the measurements taken. the slopes (acceleration of the system) were correct to plus/minus .001, and the masses were plus/minus .05, which is still a very small margin of error. 
+the mathematical model was determined by taking measurements of the acceleration of the system based upon different forces of gravity. we then fit a linear trendline to the data. the model is is  as $y = 0.0028  f_g - 0.003$, where as is the acceleration of the system and fg is the force of gravity. this model led to our claim as the variables have relationship in that as one increases, so does the other. therefore, as the force of gravity increases, so does the acceleration of the system.
+we are very confident in the mathematical model provided by excel. the graph of force of gravity vs. acceleration had very small error bars. this equation has a high r^2 value, .9955. as this value is extremely close to 1, the equation is a very good fit for the data.
+we are unable to answer this as we didn't have time during class to consult with other groups.
+using newton’s second law, we can conclude that our results are logical. the only force on the system is the downward force of gravity of the hanging bobs; this force increases and decreases depending on the mass of that bob, as the force of gravity is found by taking mass times acceleration of  gravity. the acceleration of gravity was held constant the whole lab, but the mass was manipulated. also, the constant 0.0028 (1/kg) is very similar to (1/mass of the system) which leads to the conclusion that our findings are very similar to newton’s 2nd law.
+the slope decreased as mass of the bob decreased. this checks out because the slope (the acceleration)  decreased as the force applied (mass times gravity) decreased. the equation used was $9.8 m= m a$.
+if we had done it the way we originally planned to before the checkpoints, the data would have been different because the mass of the bob would have changed but so would the mass of the system, so our data would show many different systems. this would have provided differences between our data and newton's second law. also, the statement of the constant that is very similar to 1/ mass of system. the -0.003 at the end of the equation is due to experimental error.
+all of the factors for newton’s second law have been tested since the equation only has three factors. an experiment could theoretically be held on the moon to reduce the acceleration of gravity, but this in not feasible.
+instead of weighing the 8 bobs and dividing by 8 to find the average weight of each bob, the group should have weighed each bob before moving the bob from the string to the cart, so that the force due to gravity could be more accurate. this would have strengthened our r squared value.
+a causal relationship exists between the net force of a system and the acceleration of a system. our mathematical model shows that as the force of a system increases, so does the acceleration of the system.
+
+

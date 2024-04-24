@@ -1,0 +1,27 @@
+discussion and conclusion:
+
+
+
+	this experiment investigated the impact of the amount of applied force on the acceleration of a system. to investigate the acceleration of the entire system, the mass of the system was kept constant. air was used in this experiment to limit the amount of frictional force acting on the system in order to isolate the applied gravitational force, which is equal to the mass of the hanging object times gravity. it was predicted that the applied force would have a positive linear relationship with acceleration. figure 1 shows a linear model of our data collected. the equation is $y=4.6131 x - 0.499$ with an r^2 value of .9381. the error bars are very small (too small to be seen) and they do not overlap, which provides support for the claim that the force due to hanging mass has a positive linear relationship with the acceleration of the system. the following is the findings of another group that performed a similar experiment is 
+
+	the slope value and the y intercept value of this group’s model is different than our own, but these differences can be attributed to differences in the amount of mass used for the system and the amount of friction. overall though, the findings of this group show that there is a positive linear relationship between the amount of applied force and the acceleration of the system. these findings support the results of our group’s experiment also. 
+the following is the findings of a second group that performed a similar experiment is 
+the slope value and the y intercept value of this group’s model is different than our own, but these differences can be attributed to differences in the amount of mass used for the system and the amount of friction. overall though, the findings of this group show that there is a positive linear relationship between the amount of applied force and the acceleration of the system. these findings support the results of our group’s experiment also. this group had a very high r2 value of .9937 for their linear model. our r2 was lower due to an outlier in the data, so the findings of this group provide even stronger support for the results of our experiment. 
+
+the theoretical equation for the acceleration of a system by a single force is $a =\frac{f}{m_{sys}}$. 
+
+in the experimental model, f/msys is denoted as our x value. so it would be $y = x$. as the amount of applied force / mass of the system increases, acceleration also increases. 
+
+the enhanced theoretical equation for the acceleration of a system by more than one force is 
+
+$a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ 
+
+for this experiment we can write the equation as 
+
+$a =\frac{m_h g - f_{friction}}{m_c+m_h}$
+
+the experimental mathematical model $y=4.6131 x - 0.499$  supports the theoretical model because all of the variables are represented. the gravitational force minus the frictional force is represented in our model as the negative y intercept (- .4994) indicates that we are subtracting the force of friction. the mass of our system is represented as the mass of the cart + mass of hanging object. the mass of the hanging / mass of the system shows up in our slope value. the greater the system mass, the lower the slope value for the linear model. (mhanging* gravity)/ msys is equal to x, which correlates with the theoretical model since (mhanging* gravity)/ msys is the applied force. 
+
+	the mass of the string was considered negligible in this experiment and was therefore not incorporated into our model. however, if a heavy string was used instead to connect the hanging mass with the cart and it was not incorporated into the mass of the system, the acceleration of the system would increase because the extra mass of the string would be multiplied by gravity, creating a larger applied gravitational force. since the applied force would increase, the acceleration of the system would increase as well according to the claim that can be made from our results. 
+
+	random error  in this experiment could be variations in the amount of air released by the vacuum which would change our value of frictional force.  this error could. be reduced by taking more data to generate more points on our graph and eliminating any outliers. some possible systematic errors could be associated with  the scale used to measure the hanging mass and cart mass or a systematic error in the rotary motion sensor that causes it to always read the acceleration to be too high or too low from the actual value. also, some constraints of this experiment that may affect the generalizability of the results are air resistance associated with the hanging mass as it falls, the type of surface the cart is ran on and the angle of that surface with respect to the hanging mass, the mass of the string connecting the hanging mass to the cart, and the tension in the string used. each of these variables may affect the acceleration because they add an additional force acting on the system besides the gravitational force of the hanging mass.

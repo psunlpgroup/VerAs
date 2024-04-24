@@ -1,0 +1,5 @@
+discussion.
+
+the main question being asked was “what impacts the period of a pendulum for small swings?”
+
+the simple answer to that is the string length, which has the only significant impact on the period length out of all the variables tested.  the first lab measured the effect of mass, length, and angle and only the length showed noticeable impacts.  the second lab further explored this, going in depth to look at what errors may affect the measurements taken.  one of the most prevalent errors is the human inability to accurately measure something repeatedly.  in lab 3, human measurement was replaced with a photogate, creating more accurate measurements.  by this point, string length had been determined to be the variable most affecting period and all experiments were directed at the correlation between the two.  after measuring and graphing the data collected in lab 3, the relationship between the string length and period length can be called linear.  as string length increases, so will the length of the period.

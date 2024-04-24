@@ -1,0 +1,16 @@
+discussion and conclusion.
+
+the purpose of this lab was to develop mathematical models which describe the behavior of a real system, and to develop an understanding for each variable and numerical value included in the model. 
+
+these mathematical models allowed us to predict the data points that were given by a particular weight. seeing these models allowed for us to find constants which would be characterized as c1 and c2. c2 being an outside force and c1 staying constant. the graphs allowed for us to get numerical points to represent out mathematical models.
+
+the first group tested the same hypothesis and confirmed that friction had no affect on the lab. even though our numbers were different this showed us the numerical values of our equation were correct to figure out the representation of each value.  
+
+the second group tested a different hypothesis than we did, they had changed the angles. this showed us the impact the angles had on the lab because their numerical values for their iv were much bigger than ours. 
+
+
+systemic errors did occur while performing our experiment. our tubing was acting up at first, and the air was not blowing under our cart properly. we think we fixed it, but this could have definitely caused error in our data. to reduce this error we tried to fix our tubing, and in the future we could either get new tubing or just check it first.
+
+.  some constraints would be sample size, always feel more comfortable with a big sample size. a lack of reliable data is also a factor because of our equipment that is extremely old and was breaking down on us. 
+
+our mathematical models represented newton’s second law because they represented a cause and effect relationship of the force and changes in the motion of the lab. as the acceleration changed the force was also changed.

@@ -1,0 +1,15 @@
+discussion/ conclusion
+
+
+
+the goal of this experiment was to determine what impacts the period of a pendulum by changing the mass of the pendulum, angle of release, and the length of the string. in tables 1,2, and 3 the tables show the experimental design plans for three different experiments to test out which one would impact the period of the pendulum. after conducting the experiment, the results show that mass and the angle have no measurable effect on the period of our pendulum. this can be proven by the data shown in table 4, 5, 6, and figures 1,2, and 3. our period vs. mass measurements showed almost no noticeable variation with mass. the masses were varied, and the length of the pendulum may have changed as the string was unattached and attached. our period vs. mass measurements showed no variation. 
+
+
+
+the independent variable did not affect the period were angle of release and mass. the independent variable that affected the period (length of the string). the mathematical dependence of the independent variable that impacted the period was linear. all data points except one point passed through the error bars. it is possible for the line to pass through the error bars in a linear fashion, figure 4 length vs. average period demonstrates the mathematical dependence of the independent variable that impacted the period. using a photogate to measure the period, we varied the pendulum mass for a fixed length, and varied the pendulum length for a fixed mass shown in table 7. mass had no measurable effect on the period of our pendulum, while the data for period vs. length is well- described by a power law relationship close to the theoretical square root dependence.
+
+
+
+some errors that may have occurred throughout the experiment are both random and systematic. randoms errors include the stop watch was not stopped or started at the exact moment when the pendulum was released and the way we let go of the pendulum can differ every single trial. in order to reduce random errors two or more students can time the pendulum and average out the time and trying to let go of the pendulum exactly the same way throughout all the trials for a more accurate data. systematic errors include not measuring the length of the string correctly and not weighing the weights before using them on the trials. in order to correct these errors, we can first measure the weights to make sure that the weights weigh what they are supposed to weigh. we can run more trials, but this time have two people measure the string so then the data would be more accurate.
+
+

@@ -1,0 +1,66 @@
+discussion of error
+
+-due to the fact that most of the measurements recorded were done using a program rather than being recorded using older and less reliable methods, we are confident in the resulting measurements. the slopes recorded were found to be correct to ±.001 m/s2, and the masses were ±.05, which when combined, allowed for a very little margin of error. 
+
+-the mathematical model we found to represent our data was determined by taking measurements of the acceleration of the system based on differing forces of gravity. we then fit a linear trendline of $a=0.0028  f_g - 0.003$ to the data. in our model, the acceleration of the system is represented by the variable as while the force of gravity is represented by the variable fg. this helps to prove the claim made that as one variable increases, the other does as well.
+
+-due to the outcome of an r2 value of .9955,  we are very confident in the mathematical model provided by excel.
+
+-if we had run the experiment the way we had planned to before the checkpoints, the results would have differed due to the change of the mass of m2 and m1. if this would have occurred there would have been differences between out model and newton’s 2nd law.
+
+-the -0.003 at the end of the equation is due to experimental error.
+
+-it is likely that the greatest source of error came from the fact that the bobs used to calculate m2 were all weighed together and divided to find an average mass. had we taken the masses separately, the calculated force due to gravity would be more accurate. this would have helped to strengthen our r2 value.
+
+over the course of the trials in the first experiment, we reviewed the effects that the force of gravity had on the acceleration of the system. the graphed data that we received shows that there is in fact a positive correlation between the force of gravity and the acceleration of the system. because we received an r2 value of .9955 it can be concluded that as the force of gravity increases the acceleration of the system increases.
+
+-by referencing newton’s second law, we have concluded that the results we received were completely logical. in the experimental procedure, the only force acting on the system is the force of gravity on m2. when the value of m2 increases and decreases, the acceleration of the system does as well, as can be seen by the equation $m g=m a$. also, the constant 0.0028 (1/kg) is very similar to (1/mass of the system) which leads to the conclusion that our findings are very similar to newton’s 2nd law.
+
+-the slope decreased as mass of the bob decreased. this checks out because the slope (the acceleration)  decreased as the force applied (mass times gravity) decreased. the equation used was $9.8 m= m a$.
+
+because newton’s 2nd law only has three variables, all that we are able to test have been tested. an experiment could theoretically be held on the moon to reduce the acceleration of gravity, but this in not feasible.
+
+factors which might affect the behavior of a system
+
+angle of the air track relative to the horizontal
+
+friction with the air track
+
+air resistance.
+
+
+how does the acceleration of a system change when the tilt of the air track changes?
+acceleration of system in the x-direction.
+
+angle of the air track relative to the horizontal.
+
+system mass, acceleration due to gravity (in the y-direction).
+
+the acceleration of a system is affected by the angle of the air track relative to the horizontal.
+
+a larger angle will result in a smaller acceleration in the x-direction. conduct eight trials in total, recording the results from each trial after running
+place the sled (which will be the m1) on an air track and attach a length of string to one end, the length will not affect the system, so it does not need to be measured.
+attach three bobs to the end of this string (these bobs will serve as m2)
+the systems entire mass will remain constant, 315.6g (± .05 grams), which is mass of sled added to mass of bobs 
+place the string over the rotary motion sensor following the same procedure as before.
+
+release the cart to begin the process of recording the velocity vs time graph. once again, the position at the time of the release does not matter.
+
+record the slope of the plot.
+
+move one bob from the string and add it to the sled.
+
+move another bob from the string to the sled
+this set of graphs show each angle’s computations with different hanging masses, and also the mathematical model of each angle. notice that the slope for each model is very identical (mass of the system was held constant).
+this chart shows each angle starting from the lowest to the highest angle, and the c2 values that go along with them. notice that the largest jump in the angle shows the largest difference in c2 values.
+
+one factor that could have affected the system would be air resistance. though the air resistance in the lab was said to be negligible, this is still a factor that’s effect on acceleration of a system could be tested to see what difference it makes. the best solution to completely ridding the experiment of air resistance would be to complete the experiment in a vacuum.
+
+-we could also help to improve collected data by running a greater number of trials using varying masses in the system. in any situation, an increased number of data points would have helped to strengthen our conclusion.
+
+-we are confident that the data supports out claim. all of the trendlines pass through the data. all graphs were found to have an r2  value of almost 1 along with the apparent positive correlation between the angle of the air track, and the acceleration of the system.
+the components of the mathematical model have meaning relating to the procedure. the slope for each graph included is equivalent to 1/system mass. similarly, the group noticed that c2 changed with each angle. this correlated to gravity increasing the acceleration of the system. this is because the slanted track allowed gravity to pull both the cart and the hanging bob.
+it was found during experimentation that an increase in the angle of the ramp resulted in an increase of the acceleration of the system. this can be seen in the x value of the data collected. based off of this it was found that angle and mass both were factors that affected acceleration of the system. this conclusion can be supported by the logic that there is more gravitational acceleration when an object is sliding down a frictionless ramp, the reason for any movement at all in the system.
+the claims found in the first whiteboard support ours. they help us in proving that angle does have an impact on the acceleration of the system as a whole. as these claims support our data, our confidence in our results grows.
+the data from the second whiteboard along with the claim that they made only adds to our understanding of the features of the lab setting and their impact. this is because instead of testing the angle like us and the group from the first whiteboard, they show that friction also has an affect on the acceleration of the system. the tested iv (friction) appears to have a larger impact on the numerical values than the iv (angle) that we tested.
+in terms of our lab set up, c1 represents 1/m, where m is the mass of the sled. the value for c1 based on out lab set up is 0.003318. the c1 from our graphs is about 0.0033, which agrees with this calculated value.

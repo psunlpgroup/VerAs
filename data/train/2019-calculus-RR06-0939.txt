@@ -1,0 +1,19 @@
+discussion and conclusion:
+the purpose of these two labs are to create a mathematical model which describes the behavior of a real system (lab 05) and to understand the meaning of each variable and value of the model (lab 06).
+these three experiments (2 from lab 05 and 1 from lab 06) led to mathematical models via collecting about 8 data points per trial, graphing the data, then using excel to find the equation of a trendline. this is to say that the models are a direct result of our collected data. our first model, which may been seen in graph 1, is $y=7054 x - 0.992$. i believe that these variable represent $a=f m$. my second model, which may be seen in graph 2, is $y=1.0923 x + 1.2735$. i believe these variable represent $a = c a + F_{friction}$. 
+the error bars on these graphs are relatively small due to the accuracy of the rotary motion sensor (error .001), the actual error used on the graphs is higher due to the uncertainty associated with using the slope method of finding acceleration. 
+group #1 came up with the following is  
+$a = 1.67 m-0.882$
+$a = 0.027 m-0.002$
+group #4 came up with is 
+$a = 201.83 m-0.918$
+$a = 0.00285 m - 0.0263$
+these two groups sustain my claim that the first formula represents $a =\frac{f}{m}$ and that the second represents $a = c m2 - f_{friction}$. one distinction between my results and their results is that in their second model the last term is subtracted and in mine it is added. our results showed that increasing the friction increases acceleration, while their model shows increasing friction decreases acceleration. they are correct and i am wrong. this can be seen in graphs 1 and 2 of this report. more specifically the impact of friction and acceleration can be seen in graph 3.
+
+$a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$        assuming the same parameters are present as were present in developing the first two experimental mathematical models. the first portion, $a = \frac{f}{m_{sys}}$, of the theoretical equation comes from the first experimental model $a =\frac{f}{m}$ and the second portion fext/msys comes from the second experimental model where external forces, friction, are accounted for. 
+
+random and systematic errors have affected these experiments. the systematic error includes any inaccuracy in our measuring devices, such as if our balance had a chip in it or if our rotary motion sensor was not calibrated properly. random error in this lab is mostly human error, such as the discrepancies in our execution of the trials or error in reading measurements, etc. 
+we did attempt to reduce both kinds of errors, however. to reduce systematic error, we balanced our balance before each class and ran our trials back to back. to reduce random error, we set as many control variables as we could think of and held them constant through out the lab. 
+constraints in this experiment that limit the generalizability of our results include not being able to test for how air resistance impacts acceleration. as well as not testing in different gravitational fields. being able to test these same variables further would home in our results and make them more accurate and therefore more generalizable. 
+my first experimental model is  $a = 7054 m-0.992$ does hold consistently with n2l. my model is simply a rewrite $a =\frac{f}{m}$. 
+my second model is    $a = 1.0923 a + 1.2735$ is not inline with n2l. it is saying that the acceleration of the system would be faster as friction increases but n2l clearly states the friction would decrease the acceleration of the system as friction opposes motion.(acceleration block)

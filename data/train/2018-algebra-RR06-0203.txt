@@ -1,0 +1,15 @@
+discussion:
+
+	the question that was answered by this experiment is will the acceleration of a system be affected by increasing the hanging mass but keeping the weight of the system constant. the independent variable in this experiment is the hanging mass because the dependent variable, acceleration, is dependent on the changing hanging mass to see if the hanging mass and acceleration are related. looking at figure 1.1 it can be determined that they do share a linear relationship. this means that when the hanging mass of the system is increased then the acceleration will increase.
+
+	looking at another groups finding such as groups ones, it can be seen that their finding agrees with the finding of this experiment. this is known by looking at the mathematical model found as $y=4.3797 x + 0.002$. this is also a linear model with a similar slope to that of the mathematical model found in this experiment.
+
+	group two’s findings were similar to these findings and group one’s, as their mathematical model is $y=4.6131 x - 0.4991$. again, the slope is similar to the finding of group one’s and this experiment.
+
+	the theoretical model is $a =\frac{f}{m}$. this is related to the mathematical of $y = 5.1898 x – 0.0297$ because the f/m represents the slope of the graph. in the mathematical model, the slope is 5.1898 thus showing the positive relation that hanging mass has to acceleration.
+
+	if there were a heavy string attaching the system to the hanging mass, there would be an uneven acceleration, because as the hanging mass would pull on the system, the mass of the hanging mass would increase due to the string pulled down across the pulley and adding to the hanging mass until the system stops.
+
+	errors that could be found in this experiment are random errors and systematic errors. example of random errors are forces due to imperfection in the track causing there to be less or more friction causing the acceleration to be more or less than the actual value. this could be avoided by inspecting the track before using it. some systematic errors could have been that the device used to measure the acceleration could have not been calibrated correctly causing it to give a false reading. this could be avoided by calibrating the device before using it. another systematic error could be friction. this is an error that cannot be avoided completely but can be minimalized by creating a cushion of air under the cart.
+
+	some constraints of this experiment may include the presence of friction. the friction coefficient adds a factor that was not calculated for and represented in this experiment. if it was accounted for then the results may have been different.

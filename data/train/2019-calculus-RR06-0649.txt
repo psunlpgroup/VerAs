@@ -1,0 +1,2 @@
+conclusion:
+For these labs we worked with a system that would move a cart down a track and we would record the acceleration of the cart. The acceleration was affected by several variables. These variables included the incline/decline of the system’s plane, the tension of the string, and the mass of the system. 

@@ -1,0 +1,19 @@
+discussion and conclusion
+
+the research question being investigated in this lab, was what aspect most affects the period of the pendulum?
+
+
+
+each of the three experiments addressed this research question, because they are all key elements of a pendulum and are needed for the pendulum to have constant swinging motion back and forth. the string’s length is the only factor that impacted the period of the pendulum, which figure 1 proves with its positive linear correlation. this is since the string’s length increased, the gravitational pull on the hanging mass increased as well. as you can see in figures 2 and 3 above, mass and the angle of release had little to no effect on the pendulum’s period.  the graphs for mass and angle have a very shallow slope and no major trend at all.  
+
+
+
+the mathematical model that we derived for the length was $y=0.123983448 x$. our data fits this model in figure 4, since there is a positive slope in this power function, indicating the positive correlation between length of string and the period. the hanging mass and angle of release would not have had this relationship with the period, because the acceleration of gravity is always the same and the only factor that changes the force of gravity is the length of the string.
+
+
+
+some random errors we had were reaction time for stop watch to time period exactly, measuring the string length with the tape measure and angle measurement with the protractor. some systematic errors were the masses being slightly different from what they were labeled, the tape measure could be marked slightly incorrectly, and the stop watch could be time seconds incorrectly. averages of each data set were taken in order to ensure that random error was decreased as much as possible.  in turn, when the average values were used to derive the mathematical models, the systematic error was cut out as well.
+
+
+
+some constraints in this experiment that may have limited the generalizability of the results were the tools we had to measure. we were using a protractor, tape measure and a stopwatch that relied on our reaction time. using more tools may have increased the generalizability of the results.

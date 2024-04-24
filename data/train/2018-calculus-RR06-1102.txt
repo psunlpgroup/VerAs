@@ -1,0 +1,14 @@
+discussion:
+	the research question at task is: how does the acceleration of a system change as the applied force changes? after completing both lab 05 and lab 06, we found that as we added weight to the hanging mass (increasing the applied force), the acceleration of the system increased. this experiment with the hanging mass simulated a definable change in the applied force that allowed us to calculate how the two variables are related. for approximately every single gram that was added to the hanging mass, the acceleration of the system increases by 0.0413 m/s2. the variables we had to control were the mass of the system and environmental considerations such as air resistance and friction between the air rail and the cart. 
+
+
+
+the above picture is the findings from another lab group, nog. they found the same answer as we did, that as the applied force increases, the acceleration of the system also increases, but their data is slightly different because our data is mass vs. acceleration of the system instead of force applied. the results and conclusion of both groups’ work are very similar to one another in that there is a direct relationship between the two variables.
+
+
+
+group no clue made a similar mistake to our group in that their graph and mathematical model are in terms of mass of the hanging bob vs acceleration of the system. although this mistake was made by both groups, we still concluded that the applied force and acceleration of the system are directly related.
+
+	the correct theoretical equation for the acceleration of a system by a single force is as follows is  $\sum_i^n f = f_{hanging} +f_{unknown}$ and therefore $a_{system} = \frac{f_{hanging}}{m_{sys}} + \frac{f_{unknown}}{m_{sys}}$. 
+
+	in the scenario that a heavy string is used, the hanging mass would be increasing in mass as the string passed over the pulley. as in more of the string would be over the pulley, also weighing down the bob and increasing the applied force during the trial. this would provide a nonconstant acceleration of the system. we reduced random errors in the lab by using the electronic acceleration measuring device because otherwise we would have to use stop watches and the use of stopwatches introduces the issue of human reaction time and poorly calibrated time measurements. the only constraints are the lack of access to more precise devices and more controlled environments that will allow us to completely control all undesirable variables. these circumstances caused us to generalize the theoretical model and directly affected out results. with perfect circumstances the equation would be the perfect model.

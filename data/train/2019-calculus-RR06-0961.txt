@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the purpose of this lab was to investigate how the acceleration of a system changes based on various factors. the factors investigated were the applied force on the system and the change in mass with a magnetic field acting on the system. in lab 05, we developed a mathematical model to describe the behavior of the system, and the purpose of lab 06 was to determine the meaning of each variable and value in the model. 
+
+our mathematical model for acceleration, $a=2.7875 f - 0.0216$ is in the form $a = c1 f + c2$. this model was determined by figure 1. in terms of our lab set-up, c1 (2.7875) represents the slope of the acceleration so it represents the ratio between the acceleration and mass.  our value for c2, -0.0216, represents the slight offset that the acceleration had once the best fit ratio was found. from figure 3, we obtained the model $y = -14.1 x + 4.7934$, where -14.1 is the slope of the graph and the ratio of mass and acceleration. 
+
+we did not obtain data from another group. i would predict that if other groups set up their experiments similarly to our group and had little to no error in their testing that their data would support ours. 
+
+errors that may have been present in the experiment could include systematic error from measuring the mass of the bobbers. in the experiment, we tried to eliminate an error caused by bobber mass by keeping track of which bobbers were on each side of the system and keeping it consistent throughout the experiment. this error is systematic because all of the bobbers were always on the system, so the system was never out of equilibrium. 
+
+one constraint on this experiment was that it was so small scale that the error bars could not be seen on a graph and didn’t affect the experiment, whereas on a larger scale the error might have an impact on the experiment. 
+
+our mathematical model, $a = 2.7875 f-0.0216$, is consistent with newton’s second law, $f = m a$. the value of -0.0216 in the model shows the slight offset of the acceleration, so if we ignore that small value, the model would read $a = 2.7875 f$. manipulating this equation to solve for f would give us the model of $f =\frac{a}{2.7875}$ which is the same as $f =\frac{a}{2.7875}$ which follows the form of the equation $f = m a$.

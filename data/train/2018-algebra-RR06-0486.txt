@@ -1,0 +1,6 @@
+
+conclusion and disscussion:
+
+the purpose of this lab was to find a mathematical model, apply our model, found in part one, and use it to promote a specific outcome. through our trials in part 1, a graph was constructed. this graph shows the relationship between applied force and acceleration to be somewhat linear. using excel functions, our model was found to be   $y=0.0042 x - 0.081$. the other experimental models from different groups were $y=0.0061 x + 0.1119$ and $y=0.0051 x$ (see data section in pt.2). the results of the other groups supported our claims in that increasing applied force will increase acceleration. 
+
+the theoretical model,  $a= c1 f+ f2$, and our experimental model, $y=0.0042 x - .081$ (.0042x will account for the mass) take into consideration multiple factors. some of those forces, other than hanging weight could be friction on the track or friction on the pully. a non-massless string connecting the hanging mass to the cart might affect uniform acceleration of the cart by increasing it. this system was designed with a ‘massless’ string. some possible errors that could have altered results were possible instrumental error, or unaccounted friction.

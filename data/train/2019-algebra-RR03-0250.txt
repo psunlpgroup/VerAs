@@ -1,0 +1,24 @@
+conclusion:
+research question: what effects the period of a pendulum
+
+  in the weight vs pendulum time experiment the data and graph show that the weight had no effect on the pendulum time. the graph shows that there is no slope, at first glance it looks like a random placement of dots, when looking closer it shows a serious of dots all within a standard division that doesn’t truly vary.
+
+	in the length vs period time experiment the data and graphs show that the longer the pendulum the longer the period was of the pendulum. you can see this very clearly between the 30cm and 50cm lengths, while the 70cm length doesn’t exactly follow the trend that can be contributed to human error.
+
+	in the angle vs period time experiment the data and graph show that the larger the angle of the drop the longer the period time was. while 45 degrees does not follow the trend this can be contributed to human error.
+
+
+
+ $t=2 \pi \sqrt{\frac{l{\left(cm \right)}}{g}}$
+
+   t is time
+
+this model relates to out length data and graph, as one can see weight and angle are not involved, therefore the outcome relates to the length of the pendulum. this can be seen when we plug the 70cm length from our table into the equation which when calculated outputs 1.67 which is very close to the average 1.62.
+
+
+
+ both random errors and systematic errors. random errors that did occur were mainly contributed to human error, the fact that humans can’t perfectly drop a ball and can not perfectly stop a stop watch when the pendulum completes its period. while it is most likely that there was systematic error we can not be certain, it is very possible that every stop watch was off by .1 of a second, but due to the fact that the averages were taken, and standard deviation was used we cannot be sure.
+
+
+
+ the stop watches are one constrain, while great tools they can be inaccurate and along with the fact that they are not greatly specific. time in each lab period could have lead to the experiment being rushed which may cause data to be inaccurate.

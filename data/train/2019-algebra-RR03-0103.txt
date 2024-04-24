@@ -1,0 +1,9 @@
+conclusion:
+
+the question we are trying to answer in this experiment is what impacts the period of the pendulum for small swings. in the first two experiment we kept changing the variable and constants to see which variable affected the numbers of swings, and we realized that the only variable that really effect the length of the string, and you can see that if you look at our all graph the number really doesn’t change dramatically. 
+
+the theoretical mathematical model for the period of a pendulum is$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+since we are talking about a moon here the gravity will be difference since this equation for the earth gravity. in our mathematical model our equation was $t=c1 l^{c2}$ these two equations compare to each other by the coefficients where c1 is 2pi/g. in theoretical model is equal to 9.81 which gravity. the equation we found was 2.0974x^.42.42(which simplifies to $t=c1 l^{c2}$) we compared this data which two other groups and found that they had very simple results to us. which helped us to know that our data is accurate.
+
+if we were to do this investigation again, we would know to how to avoid random and systematic errors that will improve the outcome of our results. if we would of knew how to do this, this would have prevented any error from the start of the investigation, but since we found out in the middle of the lab that we were using the protractor at the wrong angle which is random error. we wouldn’t have to waste time doing the whole experiment over again.

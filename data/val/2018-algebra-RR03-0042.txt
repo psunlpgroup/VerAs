@@ -1,0 +1,19 @@
+conclusion of the pendulum: 
+
+research question: what variables out of the mass, angle of release, and length of the string have an affect on the period of the pendulum?
+
+random- someone bumping the table, bumping someone measuring the data, minor movements in tectonic plates
+
+systematic- old measuring instruments, loose brackets, old stretchy strings, not exact massed weights.
+
+ways to fix these are to have an automated machine do the pendulum or build something that automatically does the procedure in a closed environment that won’t be exposed to the outside world. this would allow for a perfect lab module and would be able to get perfect and exact answers to the equations. we tried reducing the errors by using the sensor but that is the only thing that we had availability to use. 
+
+
+
+ some of the constraints that we have in the pendulum lab is it isn’t a perfect world so we aren't going to be able to be in a controlled environment with no outside forces. 
+
+according to all the data that we collected, the period versus the angle had the least correlation between the variables. starting with experiment one, it had the least amount of proof that there was a correlation between the two. the graph for the first experiment showed no correlation at all and had very large error bars which means that there was a very large uncertainty. also the lower the angle the slower the swing but it has less ground to cover, the larger the angle the faster the swing but more ground to cover so it ends up being almost equal. therefore this is why i state that there is no correlation between the two variables.
+
+ with these two variables, there was a slight correlation and it may seem to be true. when looking at the error bars are data would also lead you to think that there is a correlation but there is not. mass does not affect the period because force and mass are proportional due to when mass increases so does force. then once the force begins to increase the acceleration therefore does to along with gravity. so in the end though it may seem like its incorrect due to the data, mass doesn’t affect the period.
+
+when looking at all the data and comparing it to each other, this is the only claim that has the most backing behind it. the graphs looks very linear and very uniform with a positive slope that shows a black and white correlation between the length and period. data shows that the shorter the string the quicker the period and the longer the string, the faster the period. to put this into terms, if you were to make the string longer the angle at the top isn’t the same at the angle at the bottom and the longer the string the bigger the angle gets. therefore when you have a shorter string the angle is the smallest and the period is fastest and there is a correlation between the period and length due to this. error bars in the last experiment really prove that the data is really close to the actual answers and doesn’t have a lot of variance between them. in the end this is why i choose and stand beside that the length is the only correlation with the period.

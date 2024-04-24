@@ -1,0 +1,26 @@
+conclusion:
+the question being investigated in this lab was the correlation between the intependent variables of a pendulum (string length, weight mass, angle of release) and the period of the pendulum’s swing. 
+
+
+
+the first experiment investigated the relationship between the length of the string and the period of the pendulum’s swing. the claim was made was that there was a positive correlation between the length of the string and the period of the swing. this was shown in the first graph of data and later showed clearly by the photogate data graph. this claim is valid throughout each test of data and proves to be true all the time.
+
+
+
+the second experiment addressed the correlation between weight of the mass and the period of the pendulum. we hypothesized no correlation between the weight and the period and there proved to be no relation between each value. this was represented in the graph of mass vs period where the mass was being incrementally changed while the time of the period stayed the same. this continues to be true through each experiment and our hypothesis holds that there is no correlation between the mass of the bob and the period of the pendulum.
+
+
+
+the third and final variable investigated was the angle of release. our hypothesis was that the angle would not affect the period of the swing, and the data shows no correlation. though empirically we have found the angle to have a slight affect on the period at angles exceeding 20 degrees, the errors of this correlation fell within our error bars, so there is no way for us to surely know how the angle affected our pendulum.
+
+
+
+the mathematical model for a pendulum is given by the equation . the equation is rearranged algebraically to fit a power function. our correlation with photogate data listed above gave an r-squared value of 0.9966 which shows a strong correlation between string length and period of swing. our graph’s equation, , was different from the real equation due to random errors in our trials, however the use of a photogate and the elimination of stopwatch random error significantly reduced the error in our measurements. additional trials were taken and averaged out to get more accurate values, these trials are listed above.
+
+
+
+many practices on our end were done to reduce the errors of measurements such as centering the protractor, defining a count to coordinate the release of the pendulum and the start of the stopwatch, and measuring the angle from a level height. though we tried to reduce errors, the majority of error in our experiments was random error resulting from our own lack of consistency. this was due to our own limitations and the limitations from the apparatus. if this experiment were repeated, the protractor should be mounted in the center of the pendulum with 0 being centered with the string. in addition, it should be placed further away from the string as to reduce the probability that the pendulum will drag along the protractor. though systematic errors rarely showed up, the measured length of the string consistently skewed the period of our pendulum up from where it should theoretically be. since the length of the pendulum wasn’t measured from the center of mass, if this experiment were to be repeated, more accurate lengths would be taken to ensure correct values.
+
+
+
+some constraints on the experiments were the absence of a photogate for most trials. this proved to be the largest constraint throughout the experiments and the accuracy of the data significantly improved after adding it to the apparatus. another constraint of the experiment was the measurement of the string’s length. to keep the random error from our stopwatches limited, the experiment was going to be run with larger values of string length, however the string’s length could not be shifted past 1m due to the length of the string used. the last large constraint was the inability to mount the protractor straight and keep the angle consistent each time. though attempting to mount it would cause more friction in the string, a pendulum with a larger protractor could improve the accuracy of angle measurements at constant or shifting values.

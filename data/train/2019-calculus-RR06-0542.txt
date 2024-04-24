@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+the purpose of this experiment was to see how different variables affect the acceleration of an object. for lab 5, the two variables tested were mass and force. for lab 6, the variable tested were the same as lab 5 (mass and force) but tilt was added to the experiment as well. what was learned in this lab setting was that one variable can affect the relationship of other variables, causing what is called a casual relationship instead of a correlation. 
+
+as for lab 5, the force versus the acceleration graph show that there is a positive correlation between the two. this means that as force increases, so does acceleration. this can be concluded by looking at the graph above. in addition, the mathematical model makes sense because it obeys newton’s second law, $f=ma$. it is known that force is proportional to the acceleration of the object, which aligns with the model of this graph. the data can also be trusted because it has a r factor of 0.9999, which means that the data collected is extremely accurate. the mass versus acceleration graph on the other hand, show that there is a negative power relationship between the two. this means that as mass increases, the acceleration of the object is reduced by a specific factor. for the mathematical model of mass versus acceleration, the constant is suppose to be the weight of the sled that was used during the experiment. however, the data can still be call reliable because the r factor is 0.9884 which is still really high. for each mathematical model, c1 is equal to 1/mass while c2 is the friction constant. this is known because when newton’s 2nd law is rearranged, it is found that acceleration is directly proportional to 1/m. for lab 6, each graph has a equation that represents newton’s 2nd law, $f=ma$, only presented as c1xf ∓ c2. each graph shows that there is a positive causation between the force and acceleration when the angle is increases. as stated earlier, c1 is the mass while the c2 constant is the friction present during the experiment. it can concluded that this is an accurate statement because out of all the graphs from lab 6, the lowest r factor is 0.9872 which is still very high. 
+
+data from group #4 (friction) is 
+
+
+
+data from group #2 (friction) is  
+
+
+
+both of these graphs from groups 4 and 2 both have slopes that align with the manipulation of newton’s 2nd law, $f=ma$. this contributes to our understanding because we know that c1 is the mass of the car while c2 is the friction during that test run. we also note that c2 is the friction because it is a constant value throughout the entire test trial.  
+
+errors that were present were from the balance and the measuring tape used to align the cart at the beginning of each trial. the balance had a deviation of ∓ 0.5 grams and the measuring tape had a deviation of ∓ 0.001 millimeters. they are both categorized as systematic error because it had nothing to do with our ability of measuring the mass of the system are place the cart at the beginning of each trial. because each of these errors are very small, the error bars are too small to be seen on any of the graphs above.
+
+constraints that were present during the experiment were the tools made available and the time available to finish the lab. to make sure that the most accurate results were gathered, more precise tools should have been used. in addition, if there was more time allotted to complete the lab, that would have allowed for the group to take its time in and therefore, gathering more accurate data points.

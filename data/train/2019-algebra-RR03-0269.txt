@@ -1,0 +1,14 @@
+discussion and conclusion:
+
+	what affects the period of a pendulum? there are three factors that was tested, and only two factors affect the period of a pendulum. mass does not affect the period of a pendulum. this is because due to newton’s second law. gravity will counter act the mass of the weight, therefore increasing or decreasing mass will not affect the period of the pendulum.
+
+ angle of release affects the period of the pendulum. when a smaller angle is presented the speed of the pendulum increases, therefore the period decreases. this is a positive relationship, as seen in the graph, as the angle increases so does the period of a pendulum. 
+
+	the length of the string also affects the period. as seen in the graph above there is a positive relationship between the length of the string and the period of a pendulum. a standard error was calculated to be .1 based on the lab manual. 
+
+	the theoretical equation for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. this shows that time is affected by the length and the gravitational pull of the earth. the mathematical model created in class was $y=0.0005 x^2 - 0.026 x+1.7017$. this data was collected from the length vs period graph. this was found to have a r^2 value of .99. this aligns with the theoretical equation because length affects the period of the pendulum. 
+
+
+	both systematic and random error effected our data. an example of a systematic error that occurred was when the timing of the period was done with four stopwatches held by students. this created a systematic error due to the inaccuracies, both the stopwatch mechanism and the timing of the students pressing the start button. it was discovered that the four students would press the start buttons at a slightly different time causing the period time to be inconsistent. then an average was taken on these numbers to get the period time. this was not very accurate or precise. this could be reduced by having a measuring instrument record the time instead of the students, reducing the human error and the systematic error. 
+
+	random error occurs outside of one’s control. this could be humidity in the air affecting the weight of the mass, or the tension of the string. in this experiment random error was identified to be the humidity of the air. the string could have been saturated with the water from the air. this could have caused the string to become slightly longer, thus causing our period times to be slower. to control this in the future it might be advantageous to use a humidity controlled room to prevent this.

@@ -1,0 +1,15 @@
+discussion and conclusion: 
+
+ the research question being investigated in this lab was, “what impacts the period of a pendulum for small swings?”
+
+ in experiment one the independent variables to be tested for the research question were selected (string length, mass of weight, and release angle). we claimed that the longer the string length the slower the period. figure 10. shows this claim to be correct. it shows a positive correlation between string length and period.  we claimed that the higher the mass the faster the period. figure 8 showed that this claim was correct. we also claimed that the larger the release angle the slower the period. this was found to be incorrect, instead we found that the length of string has a positive non-linear relationship with the time of a period, being that as the string got longer, the difference between times became less, but the difference was still positively correlated (figure 12). 
+
+our experimental model data gave us the equation $y=2.1295 x^{0.4301}$. our theoretical model gave us the equation $y=1.99 x^{0.5}$. in comparison with the theoretical model the experimental model was a little higher which shows that we still had a small amount of error in our design. this can be confirmed by the 0.001 uncertainty represent on figure 12 which shows error bars, which indicate possibility of error.
+
+
+
+random errors that were present were the release angle not being exact, difference in air resistance, the delay between when pendulum is released and when the timer starts, the delay between when pendulum reaches the end on the first period and the timer ends, and the point observed at which the period ends could vary between persons. these were fixed by performing the experiment with a more accurate and precise protractor which would allow for more exact angles, performing the experiment in a vacuum, which would eliminate air resistance, performing the experiment using time lasers which would automatically record time as accurately as possible. systematic errors that were present were the use of inaccurate tools and the point of measurement on pendulum (middle of weight vs.one of the sides). these can be fixed by using scientific tools that have level of confidence recorders built into them and making sure to measure exactly from the middle of the pendulum. 
+
+
+
+ a general constraint in this experiment that may limit the generalizability of our results is the fact that we can’t eliminate human error. due to the current uncertainty value of 0.001 and a experimental model value of 0.4301 it shows that human error was the cause of small uncertainty. if we were able to eliminate human error this could possibly allow for a theoretical and experimental model to be the same.

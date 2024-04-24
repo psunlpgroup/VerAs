@@ -1,0 +1,47 @@
+conclusion:
+
+what variables can be changed to affect the period of a pendulum?
+
+independent variable 1; length of string is 
+
+the length of the string is the only independent variable tested that affects the period of a pendulum. the data points are well outside of an equivalency criterion confidence of 95%, with values from 0.804 to 2.898 seconds. error when using photogates is negligible in this experiment, as the bars aren’t even visible on the graph. the data represented on the graph suggest an exponential function. this is supported by the linear regression tool, and the fact that power functions had the lowest r2 value. this data and trend line support the assertion that the length of the string is directly related to the period of a pendulum.
+
+independent variable 2; mass of pendulum is 
+
+when plotted, the data for angle of release creates a flat line, with a slope of approximately 0. our equivalency criterion is +/- 2 times the standard deviation. this makes the equivalency criterion 0.0798. the furthest two data points on this graph are 0.06 seconds apart, meaning for statistical purposes all the data points are equal. this supports the claim that there is no relationship between the mass of a pendulum and the period of a pendulum. 
+
+independent variable 3; angle of release is 
+
+when plotted, the data for angle of release creates a flat line, with a slope of only 0.0004. our equivalency criterion is +/- 2 times the standard deviation. when dealing with a confidence of 95%, as we are, these data points can all be considered equal. an error of 0.1 suggests that these points may not actually be the same but can be considered the same for conclusive purposes. using this as evidence, it can be concluded that angle of release has no effect on the period of a pendulum. 
+
+
+
+the relationship when dealing with length of string is non-linear (power function), which is different than discovered without using the photogate. 
+$t=2 \pi \sqrt{\frac{l}{g}}$ t is period l is length of string g is gravitational constant
+
+
+
+our equation is
+
+$t=2.1026$
+
+we were able to come up with a very close model to the true model of length versus period. there is some small variance in both the power of l and the coefficient. our data are not perfectly correlated, with an r2 value of only 0.9981. there was also some random error due to imperfect measurement techniques. a non-perfect correlation and small error resulted in a slightly different equation. 
+
+
+timer only has hundredths of a second on it, cannot measure to the thousandths of a second
+
+scale only has grams, cannot measure anything more precise than a tenth of a gram
+
+tape measure is not precise, could be measured as a tenth of a centimeter but error exists within that because there are only so many marks
+
+not correctly measuring the angle before dropping the pendulum
+
+imprecise timing when using stopwatches, starting too late or too early
+
+string stretching or moving after being measured
+
+not measuring the string in the same position every time
+
+overall, the error was very small (deviations from .1 to .00137) when compared to data measured in whole numbers. the error can then be considered negligible, as it would have little to no impact upon the conclusions of the data. the trendlines also all exist within the error bars of the graphs, meaning that the error is reasonably small. 
+
+the measuring tools used in lab (scale, stopwatch etc.) are only so precise, which will always limit how precise the final conclusions can be. this leads to more systematic error that is hard to account for outside of error ranges. another constraint would be the environment the pendulum exists in. while their effects would be small, air would both slow the pendulum down due to air resistance and sap away its energy through friction. if the pendulum existed in a more ideal environment, such as a vacuum, the results would be better.

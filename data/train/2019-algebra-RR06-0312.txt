@@ -1,0 +1,19 @@
+
+discussion:
+ when conducting these experiments, we set out to find how the acceleration of a system is affected when the hanging force of that system changes. we then set out to see how adding different levels of inclines affected the acceleration of the system. the mass of the hanging object clearly affected the acceleration of the system. the graphs above support this claim by showing a positive slope and a positive correlation between the mass of the hanging object and the acceleration of the system. the error bars were relatively small; however, we cannot be 100% sure that these results are 100% accurate, but they are close.
+
+to be sure that our data and our results were accurate, we compared with two other groups, the first of which also used different levels of incline to see how the weight of a hanging object affects the acceleration of the system. their results are pictured below.
+
+	this groups finding supports our results and increase our confidence in our results. like our results, the only thing changing in their equations by a significant amount was c2, or the number being added to the right side of the equation. 
+
+	there was no other group in our lab who tested the level of incline, so we were unable to compare with a second group. 
+
+	the theoretical equation is $a = \frac{f}{m_{sys}}$. our experimental mathematical model ($a=c1 w+c2$) supports the theoretical model because c1 is equivalent to 1 divided by the mass of the system. w is the hanging force, and c2 is the force of friction which theoretically should be equivalent to zero due to the special track that we ran our experiments on.
+
+	the enhanced theoretical equation, $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$., is supported by our experimental mathematical model, $a = c1 w + c2$, since c2 is fext / msys and this number is very small. 
+
+	if a heavy string was used, then the acceleration of the system would decrease due to the mass of the string multiplied by the constant earth gravitational force (9.8). this was not a factor that we accounted for in our calculations. 
+
+	the errors of the experiment can almost all be attributed to experimental error. these include, but are not limited to errors in measuring the mass of the added weights, discrepencies in the heights of the incline blocks, and weights that were more uniform. something that can be attributed to systematic error would be the estimated error of the scale which was 0.001g, but this was already accounted for with our error bars. all of the experimental errors can be reduced by being more careful, obtaining better equipment, and having perfect conditions, but since it was an experiment, there is bound to be some degree of error. 
+
+	constraints of the experiment are the lab setting, since it is not perfect. for example, air resistance could have affected the acceleration of the system. also, the condition of the track could have constrained our experiment if it was warped or was not working properly, but neither of these were a known issue to our group’s experiment.

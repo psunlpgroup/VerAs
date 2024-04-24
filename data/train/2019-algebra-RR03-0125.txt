@@ -1,0 +1,24 @@
+discussion and conclusion:
+
+a) the research question in this experiment was to determine what factors influenced the period of a pendulum.
+ the three factors that were thought to impact the period of a pendulum (length, mass, angle) were each test individually while keeping everything else constant. these were the independent variable. the dependent variable (time) was recorded to make claims to the observations. according to the error bars from each graph, none of the claims could be valid due to the fact that the error bars overlapped at each point, meaning that all the times could have been the same. the length v time graph had some points that did not have overlapping error bars. the length v time experiment was done again but this time a sensor timer was used to achieve more accurate times. the new data is given in figure 4 below. 
+
+
+
+this new data show that there is definitely is a correlation between the length of the string and the time it took to complete a period.
+
+the theoretical mathematical model for the period of a pendulum is the equation is  
+
+$t=\frac{0.5 \pi l}{g}$
+
+if you simply it with $g=9.8$ m/s2, it is 2.0063 
+
+the equation becomes 2.0063*l.5
+
+comparing the theoretical model 2.0063l0.5 with our experimental model 1.9984x0.4047(fig 4.), it can be seen that they are similar. the experimental model is a little bit smaller than the theoretical model. 
+
+looking at the theoretical model, it is noted that length (l) is the only variable that needs to be put into the equation to get the time period (t). it is assumed then that it is true that the factors of changing the mass or the release angle is irrelevant to the time period.
+
+in the experiment trials, the was random error present throughout when tracking time. it was up to the timekeeper’s judgement to start and stop the clock when they felt that the object had completed its experiment. it could be seen in figures 1 2 and 3 that the error bars for time were big. this error was reduced in the second trial for length (fig 4.) by adding a time sensor so a machine could track time. it reduced the error bars to none and gave a more accurate reading. there was more random error in the release angle. the way it was set up was by holding a protractor up in the air and lining up the string with it. even keeping the angle constant could have had difference in angle because the protractor was continually being taken down and put back up. a way this could be reduced would be to permanently fix the protractor in place and set up a system to hold the object in air until it is ready to be dropped.
+
+e) some constraints in the experiment that could have limited our results were the tools we were given. a better system could have been set up to get more accurate results. a contraption could have been built to lift the object to the exact requested angle every time and the electronic sensor could have been use for the first three factors.

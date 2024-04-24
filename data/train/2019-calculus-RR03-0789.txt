@@ -1,0 +1,19 @@
+discussion
+
+	          which independent variables cause the most impact to the period of one swing from the pendulum?  our team attempted 3 different experiments. each experiment is tested with one independent variable to find out if the independent variable in the experiment impacts the period. the standard deviation is measured by the sum of all the datapoint minus the mean of the entire data divided by the number of data points. all of that is square rooted and the standard deviation of +/- 0.018868s is found.
+
+	 according to figures 1, the swing angle does impact the period of the pendulum since neither of the 3 data points overlap and it has a positive relation. the datapoints must have been inaccurately calculated due to random human error of not stopping the clock in time or a miscalculated release of angle causing the pendulum to swing sideways instead of back and forth. the random error can be fixed with more trials in that same angle measured and find out the average or multiple people timing it or using a motion sensor. 
+
+	
+ originally, the angle drop was not supposed to impact the period of pendulum. there must have been a random error that caused the result to be a positive relationship. the random error could be a miscalculated time with the stop watch or a bad release of the string that causes the pendulum to tilt a bit to the side which causes the time to be longer as the angle increases.
+
+	
+
+	period vs mass is  as shown in figures 2, the mass of pendulum does not quite impact the period of the pendulum because 4 out of the 5 datapoints has overlapping error bars, which proves that a true can be found between those 4 datapoints in both graphs. one of the datapoints was inaccurately calculated due to random human error of not stopping the clock in time or a miscalculated release of the dependent variable of the constant swing angle.
+
+	
+due to time constraints on the first lab, our lab group did not do the period vs mass. instead the data was given by the ta to use these data points for the lab.  as a result, the graph has 4 datapoints overlapping proving that between those 4 datapoints, there is a true value that cannot be determined.  this proves the claim that mass does not affect the period of the pendulum.
+
+	 and finally, in figures 5 and 6, the length of string has a positive relationship with the period of the pendulum. since each datapoint in the graphs does not have overlapping error bars, which are too small to see as stated outside the graphs, it means that the period of the pendulum increases as the length of the string increases. this means that period can only be impacted by the length of the string.  the only possible errors could be a systematic error of over or under-stretched measurements in the tape measurer, or it could be a random human error of not stopping the clock in time.
+
+length is the only independent variable that impacts the period of the pendulum. the data points never overlap and error bars are too small to see in the graph which means that period of the pendulum increases at a high rate as the length of string increases.

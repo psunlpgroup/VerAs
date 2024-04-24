@@ -1,0 +1,17 @@
+conclusion
+
+research question: what factors affect the period of a pendulum?
+
+three factors (mass, drop angle, and string length) were tested using various measurements of each individually to see their effect on the period.
+
+mass is  different masses were used in timing the period of a pendulum while the angle was held constant at 15 degrees with a 44cm string. as shown in figure 2, the graphs indicate that there is a random correlation between mass and the period of the pendulum. the error bars in figure 5 also show no overlap, furthering the conclusion that there is no  correlation.
+
+angle is  a constant mass of 150g and a string length of 44cm was used when dropping the mass at 10, 15, and 20 degrees. the graph in figure 1 indicates there is a random correlation and the graph with error bars in figure 4 all  are unaffected by the change in angle.
+
+string length is  a 150g mass was dropped at a 15 degree angle with various string length to see if that would affect the period. as shown in figure 3 and figure 6, there is a direct relationship between the length of the string and the period. the longer the string, the longer the period of the pendulum.
+
+the theoretical model of the period of the pendulum is . our experimental model was  which supports the theoretical model because of the similarity in values. 
+
+random errors that could have occurred include human errors when measuring the time or drop angle in the experiment. systematic errors that could have occurred include errors due to the instruments used in the experiment. for example, the masses may not have been exact or the timer could have been faster or slower than the normal measurement of a second. another error is the way the string was measured. if the string was not measured from the point where it was suspended to the center of the mass, then that would affect the experimental model of the period of a pendulum.
+
+constraints that could limit the generalizability in this experiment may be the equipment used.  a different brand of stopwatch with different reaction times or the size and shape of the mass could slightly affect the results in a different environment.

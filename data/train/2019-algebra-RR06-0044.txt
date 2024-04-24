@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+
+
+the purpose of this lab was to design and conduct controlled experiments in order to determine mathematical models from experimental data which describe the behavior of a real system (lab 05) and to determine how aspects of the physical lab setting contribute to the mathematical models (lab 06).
+
+in lab 05, experiment 1, the resulting mathematical model was $2.8741 f -0.0467 = a$ as shown in figure 1. the numerical value of 2.8741 represents 1/mass and the -0.0467 represents friction. both of these numerical values represent constants as the impact of applied force on acceleration was investigated. as the force applied increased and the acceleration increased. looking back to newtons second law, this makes sense. $f = (m)(A)$ however in this situation, the equation can be reworked into $a =\frac{f_{net}}{m}$ . as fnet is increased, with mass remaining the same, the acceleration should also increase, and it did. 
+
+in lab 05, experiment 2, the resulting mathematical model was $0.3014 m -1.117 = a$ as shown in figure 2. the numerical value of 0.3014 represents 1/fnet and -1.117 represents friction. both of these numerical values represent constants as the impact of mass on the acceleration was investigated. as the mass increased, the acceleration decreased. looking at newtons second law, this makes sense. $f = (m)(a)$ thus using this equation, if fnet is constant and mass is getting larger, it only makes sense that the acceleration would be smaller aka decrease as mass increases.
+
+in lab 06, seen in figures 3 – 5, we tested the impact of the angle of the air track in the lab setting on the relationship between force applied and acceleration. we found little to know impact due to angle and gathered an average mathematical model to be $4.30 f – 0.02 = a$. similarly, to experiment 1 in lab 06, the mathematical model represented the constants of mass and friction to the force applied to get an increasing acceleration as force applied increases. 
+
+in figure 6 below, group 2 tested the same data as us. they varied the angles of the air track and tested the impact of applied force on acceleration.  for the smallest angle (height of 0.25 inches), their mathematical model was $a = 0.0031 f -0.2094$. for the medium angle (height of 0.50 inches), their mathematical model was $a = 0.0041 f -0.2094$. and finally, for the large angle (height of 0.75 inches), their mathematical model was 0.0032 (force applied) – 0.2514. although their constants were different than ours, there data resembled ours. the first constant in the equations for each experimental angle remained nearly the same and as a result of their mathematical models and data, it was concluded that there was little to no impact of the angle on acceleration. 
+
+
+
+errors that might have been present include lack of trials and angle depths possible to test. with more trials and angle depths, more results and extremes could have shown different data or possibly further concluded our findings. another source of error could have been how we selected our slopes on the velocity vs time graphs to find the acceleration. if the slopes measured were incorrect, the accelerations would be off thus skewing our data. in the future, to reduce such errors we could use technology that measure the exact acceleration at the same point on the air track.
+
+constraints include time and angle depths. once again there is only a limited time in lab to conduct the experiments thus less trials and less data. with less angle depths, less extremes were able to be measured and there’s always the possibility that the angle of the air track wouldn’t affect the acceleration unless it was larger than the angles we were able to create.

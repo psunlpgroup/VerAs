@@ -1,0 +1,11 @@
+conclusion:
+
+
+this lab is meant to investigate what impacts the period of a pendulum.
+
+the three experiments helped address this research question by changing one dependent variable for each of the three, and then comparing the period of each of the tests for that experiment. twice the standard deviations. we can make an assumption that there is a lack of correlation within two sigmas for angle of release and time, as well as mass of pendulum of time. we can assume within two sigmas there is correlation between length of string and period time.
+
+if we were to take our pendulum to the moon, where the acceleration due to gravity is 1.625 m/s2, we would expect the period of the pendulum to increase if all other variables are held constant. the theoretical model is , so our prediction was correct for how we expected the acceleration due to gravity to impact the period. the similarity between our experimental mathematical model, $t=0.91602819 l$ , and the theoretical model,  , is that the experimental term l0.4389 is almost equal to l0.5000, which is  as shown in the theoretical model. the difference between our experimental mathematical model, $t=0.91602819 l$ , and the theoretical model,  , is that the experimental coefficient 2.0871 isn’t very close to the value , which is 2.0071.
+
+
+it is impossible to start the stopwatch at the exact time every trial. the measurements of string length and angle could lead to wrong data, this can be minimized in the future by denoting a point on the mass to measure to. the photogate was accurate to within a .001 s, i would have recommended using this for every trial. if this experiment was to be repeated, the error bars could be reduced by using data from more trials, ten trials would be sufficient. the more each trial is repeated, the more accurate the results will be. conducting this experiment anywhere with less gravitational force would case the period to increase.

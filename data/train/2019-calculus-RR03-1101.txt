@@ -1,0 +1,15 @@
+
+
+
+
+
+discussion:
+
+similar to the results noted in the original experiment, the data shows a negative correlation, once again supporting our original hypothesis that the length of string does indeed affect the period of a pendulum. again, the error bars are extremely small because they match the line of best fit. after eliminating the potential for human error with recording using the stopwatches, we can see that the data is still very similar and confirms that the length of string does indeed influence the period of a pendulum.
+
+discussion of overall data
+
+overall, each of our hypotheses regarding the behavior of the period in relation to each independent variable were correct throughout all experiments. both the angle of release and length of string had a noticeable effect, but the weight of the pendulum itself did not. even after removing the human error from the trials involving length of string, we were still able to come to the same conclusion. although our data supports our hypotheses, there is still room for improvement because there are a myriad of different errors that could be eliminated if we were to better design our experiment.
+
+
+in conclusion, i believe that these first few weeks of physics lab pertaining to this pendulum experiment have really given me and my group ample knowledge regarding the scientific process. by learning about the differences between independent and dependent variables, understanding errors and how to remove them, as well as designing controlled experiments, our knowledge going forward in this lab has greatly increased. by creating and measuring our hypothesis using data and graphs, we were successful in proving our original hypotheses correct involving a multitude of independent variables, allowing us to acquire a true understanding of the process involved in laboratory activities.

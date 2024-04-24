@@ -1,0 +1,19 @@
+conclusion:
+To conclude this experiment our group has established that the starting angle of a pendulum does not affect the period of a pendulum. This is due to both the minimal change seen in the graph as well as the large horizontal error bars. It is therefore concluded that the evidence collected does not show any significant change in period of a pendulum due to the starting angle.
+Theoretical equation for period of a pendulum is 
+
+
+$t =l m$ + C
+
+
+M is slope of graph is 0.042
+C is y-intercept is 0.5532
+Period (s) is 0.042Length(inch) + 0.5532
+
+This theoretical equation indicates the direct relationship between length and period of a pendulum. Whereas as one increases so does the other. When curve fitting the data collected in the Length vs. Period experiment from Table 1 it is evident that the points very nearly fit the slope. This is shown in Graph 1.
+
+Errors such as the techniques in which the pendulum was released could have affected the experiment. When dropping the pendulum it would sometimes fall with a bounce, making the time period recorded an invalid reading. Another point would be the direction in which the pendulum was dropped. Our team consistently aimed at dropping it horizontal to the line of vision, however sometimes the pendulum would travel at a diagonal. This affects the timers perception of when a full period has been completed.
+
+A fault in the equipment used would entail a systematic error. Is the measuring tape used was flawed or if the technique used to measure the length was improper (measuring length till the top of the pendulum mass rather than the middle of the mass). Such faults in the system would cause for the measured values to be either consistently larger or consistently smaller than the true value.
+
+The random errors can be reduced by introducing a dropping mechanism that operates in the same exact way throughout the entirety of the experiment. A timing device should be used to reduce human error in using a stopwatch. In order to reduce the likelihood of systematic error we could ensure that the proper procedures for measuring length are strictly followed. Possible marking the measurements on the string itself and frequently measuring the string to ensure that it doesn’t stretch over time (when repeating the experiment at a later time). Also comparing the measuring tape used with a more accurate device (one made of metal so it doesn’t stretch over time) would help check if the measuring tape has stretched over time, checking if the readings are still valid.

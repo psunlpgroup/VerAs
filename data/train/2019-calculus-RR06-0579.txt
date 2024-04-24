@@ -1,0 +1,12 @@
+conclusion:
+ the purpose of the lab was to determine the effect of friction on acceleration we did this by using the mathematical models we got from our tests
+
+ after the test in the first experiment we determined that the graph was linear and used excel to create a mathematical model and the model is used to calculate acceleration from force. the second experiments data looked exponential, so we used the data to create a model and the model is used to find acceleration form the mass being applied. the final experiment was linear, so we made a linear model and when friction is plugged in to the model the acceleration is outputted. 
+
+ 
+
+the other two groups just confirmed out finding by having vary similar results.
+
+our constraints were the distance we could travel, the time we had to collect data and the force being applied.
+
+$f = m a$, $a =\frac{f}{m}$ and as out graphs showed as mass increased the acceleration decreased.

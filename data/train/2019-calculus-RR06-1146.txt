@@ -1,0 +1,18 @@
+discussion and conclusion:
+
+
+
+the purpose of this lab was to develop a mathematical model for the changes in acceleration in a system when the mass of the object and the mass at the end of the string are changed, as well as how the incline of the track affects the acceleration of the system. this is to show that changing the variables of force and mass, the acceleration will change in the system. for the first part of the lab, the mass of the sled and the magnitude of the force pulling on it were changed. when the mass was kept constant and the change in applied force increased, so did the rate of acceleration (figure 3.) however, when switched, the mass added decreased the rate of acceleration (figure 5.) the error bars in both these graphs were very small and can be accounted for by outside forces in the room that may have affected the experiment. in the last part of the experiment, we measured the incline of the track and determined that when the incline was lower in the front it increased the acceleration (figure 7a), and when it was lower in the back it decreased the acceleration (figure 7b.)
+
+
+
+the mathematical model given to us from figure 3 is $y=2.1569 x + 0.001$ which shows us that as the applied force (x) increases then the acceleration (y) increases by 2.1569 and starts at the y-intercept of .0012, which is close to 0. if the force applied (n) is decreased then the acceleration (m/s^2) will also be decreased. the mathematical model from figure 5 shows us $y=\frac{27.26}{x^{0.09}}$ which shows that as the applied force (n) increases the acceleration will increase by 27.26 and to the power of -.093. if the force is decreased then the acceleration also decreases. this is because in newton’s second law the equation is an inverse where force is constant and mass is not. for lab 6, the incline resulted in many different mathematical models, but overall it represents the total forces combined plus the angle that was being measured. 
+
+
+	we had much smaller angles than group two but they also had bigger differences in their height. they also predicted that the acceleration of the sled would increase when raised in the back and would decrease when raised in the front, which is what we had predicted and had been shown by our data. they stated, “as the angle of the system positively increases, the acceleration negatively decreases.” which matches what we said. however, their independent variable yielded larger results because they used bigger numbers in both their incline and their heights. 
+
+	possible errors of this lab include an uneven table that the track sits on, and since it wasn’t an isolated system then air resistance could be a factor. the uneven table meant that the angle measured would not be exactly as we thought, and may very well disrupt our data collection. wind could have been blowing in any direction and slightly changing the acceleration of the sled on the track, which we also could not account for. the track and wheel are frictionless but maybe not perfectly so, so friction could have also affected the acceleration of the sled. 
+
+	to fix these errors we could have done the experiment in an isolated environment with a perfectly frictionless track as well as the wheel. this would decrease the force of friction and give us more accurate data. 
+
+	our mathematical model fits newton’s second law as a linear model. with the equation $a=\frac{f_{applied} + f_{unknown}}{m}$ which was derived from $f=m a$. for model two the manipulated equation is $a=\frac{f_{applied}}{m}$. this is derived from $a =\frac{f_{applied}}{m}$

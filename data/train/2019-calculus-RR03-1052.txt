@@ -1,0 +1,11 @@
+discussion and conclusion
+
+our research question; what variables affect the period of a pendulum, and how do those variables affect the period of said pendulum?
+
+as seen in table 1, we discovered that mass did not have a profound affect on the period of a pendulum, and this is true if the angle and length of said pendulum are kept the same. on table 2, angle only seems to have an affect on period when the angle is above 20° and mass and length are kept the same. it is obvious on table 3 that length does have a positive relationship with the period of a pendulum when weight and angle are kept the same. for more clarification on table 4 there is less uncertainty with the period and therefore the relationship between period and length is more obvious.
+
+the theoretical model for the period of a pendulum is shown to the right. this is in line with the data presented in table 4, as the formulas are very similar, with the theoretical being in meters and table 4 being in centimeters. the theoretical model also does not show mass or angle, and this is in line with our conclusion.
+
+error that we dealt with was definingly random error from reaction times, we dealt with this by taking multiple measurements and average the values to reduce error.
+
+limitations that affected us were measurement tools, besides the photogate, could have been more precise which would have allowed us to create a more accurate mathematical model.

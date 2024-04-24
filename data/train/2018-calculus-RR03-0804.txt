@@ -1,0 +1,35 @@
+conclusions:
+
+the research question for these labs all can from the same statement: how does changing the values of a pendulum swing affect the duration of a complete period?
+
+combining all of the three experiments that we conducted we can come to a firm conclusion for this research question. 
+
+using lab #1, we can conclude that changing the length of the string affected the period duration. however, lab #1 also tells us that changing the angle of release or the mass for the pendulum does not affect the period duration
+
+using lab #2, we can conclude that keeping the variables the same will give you relatively the same period duration
+
+using lab #3, we can further conclude that the length of the string most definitely affects the duration of the period. this lab is a more extreme version of the same conclusions from lab #1, considering the much larger change in the independent variable (string length)
+
+considering the conclusions drawn from each of the three experiments, we can confidently conclude that changing the string length affects the duration of the period, but changing the angle of release or mass does not have an effect.
+
+theoretical mathematical model given to us is  $y=2.01 x^{0.5}$
+
+our observed mathematical model is  $y=1.9958 x^{0.5065}$
+
+our observed model is very close to the theoretical model. this means our data is nearly identical to what it should be (very little error)
+
+in order to get this equation we had to plot these data points and connect them with the best fitting trendline, which was the power trendline
+
+you can use any of the tests and compared it to the theoretical model based off of the equation generated off of the graph
+
+there were many random errors in the first lab considering the imperfect use of stopwatches for measuring the periods. we eliminated this by using the photogate in the third lab, getting more accurate results
+
+the string may have been pulled to an imperfect length at some points throughout the experiments, which would mean that’s a systematic error
+
+the angle the pendulum was launched at also may not have been completely perfect, so that random error would have also had an effect on the data
+
+some of these errors could have been prevented with more careful measuring, replacing devices that may come with human error to devices that will have less random or systematic error.
+
+some constraints of this project that make it difficult to be applicable to other situations are the design of the pendulum rig; meaning that the pendulum has all of its weight and mass at the end (tip) of the pendulum which is swinging, which limits its ability to be applied to other situations
+
+also the device we used in this experiment is on a very small scale, so the pendulum may either slow down faster or slower compared to the more real life model (bigger, real-life version)

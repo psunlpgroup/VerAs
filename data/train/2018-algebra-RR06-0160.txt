@@ -1,0 +1,13 @@
+conclusion
+The purpose of this lab was to test how an acceleration of a system may change when the force applied changes.
+It was found in our experiment that, when looking at both figure 1.1 and table 1.2, the applied force has a directly proportional relationship with acceleration.
+
+One group’s result is in correlation with our results, both showing a proportional relationship with applied force and acceleration. However, their slope is a much smaller value than our results.
+This groups results also correlate to ours by showing a proportional relationship between applied force and time, the slope is also very comparable to ours.
+$f= m a$ is the theoretical equation for this experiment. Acceleration is equivalent to force divided by mass. Supporting the theoretical model, but neglecting any small factors, such as air resistance, that may affect the acceleration.
+The enhanced theoretical model used was $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$. This equation splits the net force into two variables, as it should be, to get a more accurate measure of the acceleration.
+When heavier string connects the hanging weight to the car, I believe that the acceleration will be increased. A larger mass will increase the force, and in turn increase the acceleration.
+
+Random errors occurring in our experiment included is  The mass of the system being dependent on a set of fishing bobs that had similar, but not the same mass, and also the vacuum track occasionally experiencing different levels of friction may have affected our results. A systematic error could have been applied to the experience if there was an issue with the triple beam balance or a constant friction experienced by the vacuum track.
+
+Constraints of this experiment include is  The length of the string used in the experiment, the size of the cart used, the amount of weight available to test, and overall size of the track the experiment was done on.

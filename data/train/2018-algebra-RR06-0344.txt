@@ -1,0 +1,14 @@
+discussion and conclusion:
+
+
+
+the purpose of this experiment was to discover how applied force in the form of the mass of bobbers effected the acceleration of a cart. the relationship was found to be fairly linear. the more mass that was added to the cart, the more the cart accelerated on the frictionless track. this is shown in the graph of figure 1. the theoretical model was is 
+
+
+
+$a=\frac{f_{applied}}{m_{system}} +c$ 
+
+
+
+when we were given an acceleration to find the associated mass with in lab 6, we were able to find it correctly. the acceleration given was 0.52915 m/s^2. the mass that we needed to get that acceleration was found to be 0.017575 kg. 
+the data from both of these groups supports our own clam. both show that the more applied force there is on the cart, the higher the acceleration was found to be. the experimental model was found was found to fit the theoretical model. other factors that could affect the experiment are the friction forces, as well as placement of the cart when it was released. the size of the cart could also be an effect, however that was tested in lab 6 and was found to still fit into the experimental model. the mass of the system as a whole was all that mattered. the distance at which the cart was released was a control variable, as it was released at 750 cm every trial. the experiment was run on an air track, so there was no friction involved in the experiment. if the string attaching the bobbers and the cart had a mass, it would need to be included in the overall mass of the system. there would need to be less bobbers attached, to take into account the amount of mass of the string. the acceleration would still be uniform. errors that could have occurred would be that the cart did not start in the same exact place every trial, as it was done using the human eye. the air track could have had an uneven air flow that might affect the friction of the track, and the balance might not have been properly functioning. our balance was sticky and would frequently get stuck at the top, showing that more weight was needed. this was minimized by making sure it was not stuck before we took the measurement. the starting point distance error was minimized by using the markings on the track, and there was not much that could be done to make sure the air flow was even, but the air was turned on a few seconds before the cart was set down on the track to ensure that the air was previously flowing. some constraints might be that we were not able to measure anything much larger or much smaller than the cart. the results would be more rounded if it was done with a wide range of masses. the air track was also not very long, and it would be good to test it with a variability of distances. 

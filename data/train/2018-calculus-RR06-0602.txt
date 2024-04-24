@@ -1,0 +1,36 @@
+discussion and conclusion:
+
+how does the acceleration of a system change when the applied force changes?
+
+
+changing the mass of the hanging mass (applied force) will change the acceleration of the system
+
+mathematical model is  $y=4.8951 x - 0.0087$
+
+
+the model that the nerys group determined through their experiments almost exactly matches the model our group determined through our experiments. the m value (if $y = 5.259 x - 0.0096$ which is $y=m x+b$) that the nerys group derived is only .1421 off of our value and the b value only varies by .0016. the minute differences between the two values are within the margin of error of the calculations of the numbers that my group calculated. therefore, the nerys groups data is corroborated by our groups data. 
+
+	the theoretical equation for the force on an object with a single force acting on it is is  $f=m a$
+
+	therefore… $a=\frac{f}{m}$ where a (m/s^2), m (kg), and f (n) are on the system as a whole.
+
+	our derived equation was $a=5.1169 f-0.0112$ when you equate f and a to the x and y axis respectively. this relates to the $a=\frac{f}{m}$ equation because is 
+
+	the 5.1169 is approximately 1 over the mass of the system since the mass of the system was 0.1824 kg. since 1/0.1824 is 5.4824 the theoretical equation for our system should be $a=5.4824f$. the difference between the calculated 5.1169 and the theoretical 5.4824 is likely due to random error due to the lack of precision that a difference in slope indicates. 
+
+	the other major variation between our derived equation and the hypothetical is the constant added to the f/m term of the equation. this constant is likely due to systematic errors in our experiment as the added constant indicates a decrease in accuracy. 
+
+	the theoretical equation for an object with multiple uneven forces acting on it in one axis is is 
+
+	 or…
+
+	$a=\frac{f1+f2}{m}$ when f1 is the main force and f2 is the extra force
+
+	our calculated model supports this equation for the f1/m term because of the logic above. the second term of our theoretical equation “0.0112” is a combination of all the other forces acting on the object. because the added constant causes less accuracy and is constant the extra number is representative of systematic error like another force acting in another direction.
+
+
+	a heavy string connecting the two weights would change the results of our experiments significantly. as the experiment went on and the more of the string is pulled down by the basket, more mass is being pulled down by gravity without being balanced out by normal force (the way the string is initially). as more string is pulled down there would be more mass affected by gravity meaning that there would be a higher applied force to the system between the beginning and end of the system. this change in applied force during the trial would not work with our experiment since our theoretical equations assume there is no change in applied force between the beginning and end of the experiment. a heavy string would cause the theoretical equation to underestimate the mass of the system.
+
+
+	random errors in our experiment include the launcher of the cart on the track giving the cart a slight starting velocity as he let go. to resolve this, we could have used some sort of robotic system that always launched the same way. some systematic errors in our system would be that the track that the cart was on is not completely level leading to the cart having both x and y components of the applied force relative to the direction of motion leading to the calculated force being on overestimate if leaning forward and an underestimate if leaning backwards.
+	in this experiment we were constrained by the accuracy of our tools. due to systematic errors caused by those inaccuracies and the inability to control air resistance and other external forces there is a constant attached to our calculated equation that doesn’t generalize well large scale or very accurate demonstrations to similar experiments to what we set up. the lack of precision means that in larger experiments our calculated equation should not generalize well.

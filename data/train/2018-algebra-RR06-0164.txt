@@ -1,0 +1,19 @@
+discussion and conclusion 
+
+
+
+the purpose of lab 06 was to determine what the impact of a change of the applied force on a moving cart with a hanging mass system was on the acceleration.  our research question was “how does the acceleration of a system change when the applied force changes?”  we predicted that the acceleration and the force due to hanging mass have a direct relationship meaning that as the force increase the acceleration would increase. the table and graph support our hypothesis.  the acceleration graph was produced using the plot made using the data collecting program provided in lab is  datastudio.  each slope was obtained from each trial from the velocity graph and this resembled the acceleration for each run.  the mass was a control variable to help determine the relationship between acceleration and the applied force.  the hanging weight depended on the mass and gravity.
+
+the mathematical model is   $\frac{f}{m}=a$.  f and a are on opposite sides of the equation proving that as force increases due to mass, the acceleration increases.   
+
+the theoretical model is $\frac{f}{m}=a$ with f being force in newton’s, m being the mass in grams and a being acceleration in meters per second squared.  the experimental model we obtained was is  $a= \frac{m_{hang} g}{m_{cart}+m_{hang}}$ from here we found is  $m_{hang}=m_{cart}  \frac{a}{g-1}$.  “g” for this equation is gravity which is a factor for the hanging mass. from here we used .457523 which was given to us by the ta.  gravity has a value of -9.8 and the mass of the large cart is 296.7g.
+
+296.7(.457523/(-9.8-457523)) which is 13.23.  this gave us what force, due to hanging mass, should cause the system to accelerate at a rate given to us by the professor. 
+groups one’s data supports our claim because as their hanging mass increases the acceleration increases.  their independent, dependent and control variables were the same as ours.  although the values are all different, the relationship remains the same.  the mathematical model is the same as well.  
+group three’s data supports our claim because as their hanging mass increases the acceleration increases.  their independent, dependent and control variables were the same as ours.  although the values are all different, the relationship remains the same.  the mathematical model is the same as well.  
+the tension in the string or an extra push or pull force on the cart by one of the lab students. friction and gravity are forces as well.  they affect the acceleration and the force in the experimental model.
+ in the hanging mass and the mass of the cart.is where the mass of the system shows up in the experimental model. 
+a string with mass would cause acceleration to increase because it would add to the mass of the hanging part of the system.  
+accounting for uncertainty can assist to reduce error.  there was error in the scale and in the bobbers.  while friction was negligible, there is still a small amount in the string.  gravity is a factor with the hanging mass.  faulty data studio calibration could have affected this as well.  better technology and new tools would help to eliminate error.  
+
+some constraints in this experiment would be that more improved technology would improve the results.  the bobbers and string were used over the course of many years and caused error in the collected data. because we were not provided with new material, this held us back.  incorrectly calibrating the scale would also affect results.  

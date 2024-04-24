@@ -1,0 +1,17 @@
+discussion and conclusion
+
+	
+
+		in labs 05 and 06 we explored how changing the mass of a system, taking the mass from a sled of a frictionless track to a hanging mass with bobs. we did this in order to determine if our hypothesis of how the mass of the system to hanging mass affected the acceleration and how the force of gravity changes affects the acceleration of the system.
+
+		in lab 06 where we used the hanging mass of bobs as the independent variable we concluded that the acceleration of the system increases as the hanging mass increases in mass. an equation of $y=2.982 x$ where x is the force of gravity in newtons, was pulled from the data to support our conclusion. 
+
+		when we observed another group in the classes data after lab 05 they seemed to have similar results as us. we all had close c1 values varying by around +/- .001, and a slightly larger difference in systematic error of -.06. with these two values close to the other group had a different c2 value with no correlation. from this we know that our data is supported by the other groups data. after we observed data from one group, we compared data with another group. our group saw again that the c1 values were similar, while the again the c2 values differ from ours to other groups, showing no correlation once again. 
+
+		the theoretical equations used were $a=\frac{f}{m}$, we know this equation from newtons third law $f=m a$. the experimental equation used is $a=c1 w c2$. in the experiment the f is the force of the hanging mass divided by the hanging mass of the system. 
+
+		in lab 06 the experimental equation that we derived was $y=2.982 x-0.01$. our group found that our enhanced experimental equation was more accurate than the un-enhanced equation because we were able to take the tilt of the tracks error into account.
+
+		there were uncertainties within lab 05 and 06. all of the bobs masses might not have been exactly the same weight and the scale used to measure these also had an uncertainty of .1g which would lead to systematic error. also, the amount of bobs that we were able to use was limited along with the amount of track available which could have thrown our data off. 
+
+		although there were constraints and error a conclusion can still be drawn that the data we drew from the experiment supported our hypothesis and proved it to be true. even without the data we drew you can still conclude our hypothesis true strictly though newtons 3rd law as stated above. proving that as the acceleration or force increases the other would increase as well.

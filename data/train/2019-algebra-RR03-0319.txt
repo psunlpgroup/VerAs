@@ -1,0 +1,10 @@
+conclusion:
+How does length of the pendulum affect the period of a pendulum?
+
+	The experiments addressed the research questions by testing how the different variables effected the length of the period of the pendulum. The claim that was made was that the length would affect the length of the period of the pendulum. This can be proven correct when looking at the length vs time graph above. You can see a close to linear relationship between the points on the graph, showing that thre is a relationship between changing the length of the string and 
+
+The theoretical mathematical model for this experiment is . Within this equation, T is the time associated to the period length. The L is the length of the length and the g is the force of gravity. The data found from the tests fits the theoretical mathematical model because it states that when you increase the length of the string, the period length of the pendulum will increase. 
+
+During the lab, the random error came from the drop angle being inconsistent from trial to trial due to basic human error. There could have been a possible systematic error with the Photogate calibration which would cause an issue with the tie measurement of the lab. The random error could be fixed with the use of a set marker or set drop device. The systematic error can be corrected by ensuring that the calibration of the Photogate is accurate before the experiment begins. 
+
+

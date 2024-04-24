@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+research question: what variable will impacts the period of a pendulum?
+
+
+
+mass as the independent variable is   it was found that the mass had no effect on the period of the pendulum, there is no distinctive slope of the mass vs time graph. it was test using multiple weights with constant angle and length of rope and no effect to period, therefore this will not answer the research question.
+
+angle as the independent variable is  it was found that the angle had no effect on the period of the pendulum, there was no distinctive slope of the angle vs time graph. it was test with multiple angles and constant mas and length with no effect to the period, therefore this variable does not answer the research question.
+
+length as the independent variable is  it was found that the length of the rope had an effect on the period of the pendulum. there was a positive slope to the length vs time graph, with a slope of .4268. this is the only found variable that answers the research question, the length of the rope will affect the time of the period, the long the length the larger the period. the error for the length is minimal being 99.97% accurate due to the use of electronic data collection. 
+
+
+
+theoretical equation is  the theoretical equation for the experiment was. $y=1.99$ and the equation that was found for our group was $y=0.4268 x^{0.4248}$.  this was found to be incorrect due to it not being converted to the metric system. when converted our equation was 1.36x^0.5 significantly closer to the known theoretical equation.  this was found by the graphing of the length vs time graphs slope and converting the units to metric.
+
+errors is  in the first two experiments there was potential for larges amounts of error, especially user error. user error could have occurred, with the release of the weight, start of the timers, measuring of the angle, and measuring of the length of rope. other errors that could have effected the period of the pendulum can be effects from the environment including air movement. user error was reduced in the third lab by using an electronic data collector to measure the period, and the error from angle and length of rope was reduced by multiple trails and multiple checks for correct measurements. 
+
+constraints is  possible constraints for this experiment can include, the maximum length that the pendulum can be. the pendulum can only be measured to slightly more than two feet. another constraint includes the amount of time for the experiment. if more time was allotted, multiple trials of the experiment can be run for more accurate results.

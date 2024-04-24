@@ -1,0 +1,19 @@
+discussion
+
+there appears to be a relationship between length and period, as shown by the fitted line.  however, all of these values are within two standard deviations of each other, indicating that the variation is possibly due to random error alone. more testing is needed.
+
+ 	no relationship between period and mass is apparent from the data. each point is within two standard deviations of each other point, so there is no significant impact on period from mass. 
+
+	
+	angle does not appear to impact period. period measurements are quite consistent and well within range to be considered equivalent (within two standard deviations). we conclude that there is no relationship between period and angle.
+
+	
+		based on the above results, further tests were conducted to elucidate the relationship between period and pendulum length. the same experiment was conducted as before, with varying length, but a photogate was used for more accurate measurements (and vastly reduced random error) of period. the results are shown below.
+
+	
+
+	clearly, there is a relationship between length and period. the model obtained using excel is shown on the graph, and takes the form of a quadratic equation. though this equation perfectly matches the data, it does not conform with the theoretical relationship between period and length, given by the equation 
+
+	
+
+	where t is the period, and l is the length. taking more measurements of period for a broader range of lengths would probably result in a mathematical model closer to the theoretical model. the model supports our conclusion that angle and mass do not affect period.

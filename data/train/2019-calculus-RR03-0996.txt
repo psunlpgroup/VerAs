@@ -1,0 +1,35 @@
+discussion and conclusion.
+
+what effects the period of a pendulum?
+
+mass has no effect on the period of a pendulum. all data points on graph 1 are within +- two standard deviations so they can be interpreted as the same value. the mass of the pendulum and the force of gravity are proportional, and their relationship is the reason mass has no effect on the period. our data for period vs mass was collected with a constant angle of 45*, a constant string length of 34.3 cm, and a mass range of 47.6-247.6g. 
+
+the angle of release of a pendulum does affect the period of a pendulum. this statement is conditionally true for a certain range of angles. on graph 2, angles less than 40* were all within 2 standard deviations of each other, so they are arguably the same value. for angles over 40*, the values are not within 2 standard deviations of each other, so there is a relationship between angle and period for angles over 40*. for our test, the range of angle data points is from 5-60* while holding mass held constant at 90g and length at 59 cm. 
+
+the length of the string connected to a pendulum affects the period of a pendulum. this statement was true for all data points in graphs 3 and 4 because all are outside the range of two standard deviations. length had a power relationship with the period of a pendulum, and this was shown by our trendline on graph 4. for table 3 and graph 3 the range of lengths wasn10-190cm with mass and angle of release constant at 250g and 15*. for graph 4 and table 5, the range of data points was .8825 – 3.325 m with mass at 110.1 and angle held at 30*.
+
+the theoretical mathematical model of the period of a pendulum is $t=2 \pi \sqrt{\frac{l}{g}}$. g and two pi are constants so the equation can me manipulated to be approximately $t=2.007 l^{0.5}$. figure 4 had the most accurate data out of any of our tests and the trendline that matched its data was $t=2.03l^{0.4945}$ with an r^2 value of .9996. our test values were compared to the actual values calculated using the theoretical equation and had at most .043 s difference (table 5). the error of these measurements was .001 so they are accurate. 
+
+for mass, the mathematic model was 1e-4 +1.3119 for figure 1. this has nearly a horizontal slope and is a linear relationship, not a power relationship. this model is not a correct representation of the theoretical model. the standard deviation of our measurements was .06 (table 4) which causes some discrepancies with the values. 
+
+for angle of release, the mathematical model that we discovered was a linear relationship. again, this is not correct because the theoretical relationship is a power relationship. for the angle vs period graph (figure 2), all data points for angles less than 40* were all within 2 standard deviations. for all angles tested over 40*, there was a detectable relationship between angle of release and period. 
+
+mistiming the stopwatch, having discrepancies between the dropper and the start and ending times
+
+the horizontal bar that our pendulum was connected to was loose. it would shake when the pendulum was dropped, changing the time of the period.
+
+not having a stop or way to accurately keep our angle consistent for each drop. our angle was manually held in place for each drop.
+
+the scales calibration being off
+
+not measuring the length of the string from the center of mass
+
+the photogates calibration being off or lagging
+
+a stop could be used to reduce the random error of the angle of release each drop. the angle matters only for larger angles, but it is key to always keep control variables consistent. our group did multiple trials for each set of variables to minimize the effect of mistiming the stopwatch. an average was calculated for the set of multiple periods to reduce this error. also, the photogate eliminated this error altogether. 
+
+for the systematic errors, a calibration must be done on the scale before measuring in lab to ensure the accuracy of our control variable. after lab 1, our group began measuring the length of the string from the approximate center of mass, which cut this error from labs 1 and 2. a calibration or system test must be done on the photogate before each lab to ensure it is start and stopping at the correct time during the period. 
+
+
+
+some constraints on our experiment in this lab were the length of the string, only doing angles <90*, and the masses. we only had a set length of string to use to each lab and it had an approximate max length of 190cm. to get a more accurate mathematical model, more data points with larger strings must be gathered. for this lab we were limited to an angle of release 90* or less which limits the angle of release test range. our masses only went up to 250g so there potentially could be a relationship between mass and period for masses over 250g.

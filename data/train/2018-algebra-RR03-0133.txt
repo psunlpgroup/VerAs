@@ -1,0 +1,11 @@
+conclusion
+
+through lab 1, we experienced many random errors. the stopwatch operator was being told when to start and stop by the person who released the string. this led us to encounter some random error ranges on our data we received. 
+
+as we began lab 2, we were more experienced with the lab as well as with each other. this led us to have more accurate data. our only systematic error is that of using the stop watch. we were only able to obtain certain accuracies with a hand held device.
+
+for lab 3, we switched over to using a photogate which took place of the handheld timer. this increased accuracy gave much more accurate, as well as precision, with our data we analyzed. 
+
+
+
+this is a graph that we constructed based on length and period. this lab has opened my eyes to what systematic and random errors are which will allow me to become an advanced physics student.

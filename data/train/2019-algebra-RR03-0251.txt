@@ -1,0 +1,13 @@
+conclusion:
+ What affects the period of the pendulum the most? 
+ As the mass increased the time of the period stayed the same.  We first started at a little over 100 grams and ended at 230 grams.  The period didn’t change because the slope of our line in almost flat.  The error bars are so small that you can’t even see them on the graph.  That proves that our testing was very accurate. 
+
+When we increased the length of the string the period of the pendulum also increased.  The length started at a little over 15 cm and ended at a little under 40 cm.  We calculated a positive slope which means the period also increased.  Our error bars are visible, but they aren’t big enough to change the outcome. 
+
+The angle affected the period but not as much as the length of the string.  We started the angle of at 10 degree and ended at 60 degree.  The period increased because the graph has a positive slope.  The error bars are visible, but they are not large enough to create any big change. 
+
+The theoretical equation is            $T=2 \pi \sqrt{\frac{l}{g}}$                  . The data we collected didn’t support the equation.  The graph we made fits the line from that equation, but the equation did not.  
+
+ The biggest error that could have happened was the person using the stop watch.  The best way we figured out to try and eliminate this error was three of us timed the period and then we took the average of those three numbers. 
+
+The constraints of the experiment are the maximum length of the string, the maximum angle used, and the maximum mass used. 

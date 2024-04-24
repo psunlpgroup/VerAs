@@ -1,0 +1,36 @@
+discussion and conclusion
+
+
+
+the purposes of this lab were to develop mathematical models of how applied force and mass affect the acceleration of a system, and to understand the variables and constants in these models. the first was achieved in the 2 experiments in lab 05, and the other was achieved in the experiment in lab 06.
+
+
+$a=0.0747 m^{-1.171}$
+
+the first equation was found by plotting applied force vs acceleration in experiment 1, which is shown by figure 1. a is equal to the acceleration of the system, the first constant (c1, 3.0518) is equal to 1 divided by the resting mass of the system (in kg), f is equal to the applied force (in n), and the second constant (c2, 0.0057) is equal to the additional unknown force (in n) divided by the resting mass (in kg). this model reveals there is a positive correlation, and that is as applied force increases, the acceleration of the system increases. the second equation was found by plotting mass of the system vs acceleration in experiment 2, as seen by figure 2. a is equal to the acceleration of the system, the first constant (c1, 0.0747) is equal to the applied force (in n), m is equal to the mass of the system, and the second constant (c2, -1.171) makes the system mass part of the denominator, matching newton’s second law is 
+
+$f = m_{system} a$
+
+$a =\frac{f}{m_{system}}$
+
+this model reveals there is a negative correlation, and that is as system mass increases, the acceleration of the system decreases. the purpose of experiment 3 in lab 06 was to observe how the c2 value changes as the unknown forces increase, and to test this, friction was used. as seen by the models on figure 3, figure 4, and figure 5, the acceleration of the system decreased as the friction was increased, therefore revealing that the c2 value in the model found in experiment 1 will decrease as friction is increased.
+
+after evaluating the mathematical models of group 6, it reaffirms the conclusion that increasing the friction force on a system, would lead to a decrease in the system’s acceleration. this is found by examining the c1 coefficient in all three equations and observing that it decreases as the friction increases.
+group 1 tested another variable that could contribute toward the unknown force in the c2 value in the mathematical model found in experiment 1. they tested if the tilt height affected the acceleration of the system. as the height decreased the acceleration decreased too. this relates to our hypothesis because the unknown forces deterring or supporting the cart’s movement changes the system’s acceleration and needs to be factored in to the mathematical model when attempting to create the perfect system. when comparing the two independent variables in lab 06, tilt and friction, it is evident that tilt is a more significant factor and has a stronger impact on the slope of the mathematical model (the c1 value).
+
+as with any experiment, it is nearly impossible to establish a perfect environment, leading to errors. the systematic error in this experiment is not accounting for the air resistance that the hanging mass undergoes. the random errors in this experiment include the uncertainty of the sensor on the track, the tilt of the track, and the friction on the track. the systematic error due to air resistance could be omitted in a future experiment by using an environment without air resistance or measuring the air resistance and accounting for its impact. the random errors in this experiment are random errors because they varied from trial to trial in lab 05. the purpose of lab 06 was to discover how much 2 of the 3 random errors affected the acceleration of the system. to eliminate these random errors in a future experiment, a more accurate sensor could be used, the tilt of the track could be ensured to be 0, and the friction of the track could be tested and accounted for in the mathematical models. all these errors help reveal why the mathematical models found in this experiment are not identical to the theoretical models.
+assumed that the string had negligible mass, but it could possibly affect acceleration
+the air resistance experienced by the hanging mass was neglected in this experiment because of there being no way to measure it given the situation
+these constraints reveal that the mathematical models found in this experiment cannot be universally applied. there is slight deviation between the mathematical models found and the theoretical models because of error and these constraints.
+as mentioned earlier, the mathematical models relate to newton’s second law. the first is derived by is 
+$f_{applied} + f_{unknown} = m_{system} a$
+
+$a = \frac{f_{applied} + f_{unknown}}{m_{system}}$
+
+$a = 3.0518 f_{applied} + 0.0057$
+the second is derived by is 
+$f_{applied} = m_{system} a$
+
+$a = \frac{f_{applied}}{m_{system}}$
+
+$a = 0.0747 m_{system}^{-1.171}$

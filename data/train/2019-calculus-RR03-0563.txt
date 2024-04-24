@@ -1,0 +1,13 @@
+discussion and conclusion 
+
+what impacts the period of a pendulum?
+
+the three labs address the research question because in each lab we tested the time it took for one period of a pendulum while adjust the independent variables.  after the first week we simply add error bars for the obvious uncertainty then in week three we used the photogate which gave us more accurate readings on the data.  the claim that was made was the length of the period of a pendulum will increase as the length of the pendulum increases.  the angle for this to be true had to remain relatively small about 20 to 30 degrees, this is shown in the angle versus time graph by the time not changing really at all between 20 and 30 but starting to change a little as we get farther out.  the weight while it did not matter did need to exist and be held constant, this is shown by the graph having a slope of almost zero because of how little of a change that occurred.  
+
+the theoretical model for the period of a pendulum is $t=2 \pi \sqrt{\frac{l}{g}}$.  our data fit this model very well because if you were to plug in a length of string into both the theoretical and the equation for the line of best fit in our length vs time graph the percent error for many of the lengths we tested stayed fairly small get as small as 2 percent.  however, had the angle changed drastically from one test to another the percent error would have been much higher.  the weight would not have any impact on the graph of length vs time as shown in the weight vs time graph.  
+
+the systematic errors in this lab, which were the only ones i had because i use the online software for both the first and second, were friction holding the pendulum before the release of the swing.   some random error that could have occurred would be in using the stopwatch to try to get a precise timing of one period of the pendulum. in the third lab to reduce this random error we used the photogate system to get a very accurate reading of the length of the period of our pendulum.  
+
+if wee did not have access to the photogate we could reduce the random error by taking a bunch of periods all in a row then divide by the number of periods that occurred and getting a more accurate estimate.  
+
+this lab was only constrained by time if we had more time, we could run more trails and get more accurate readings.  we could also take measurements a whole bunch of periods in a row instead of just one to make it more accurate.

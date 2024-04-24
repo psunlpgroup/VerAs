@@ -1,0 +1,14 @@
+conclusion:
+
+	a. the purpose of this lab is to see how we could calculate the unknown forces that result from the mathematical models. this was done by getting a baseline in lab 05 and then varying the tilt level in lab 06 and comparing the two. 
+
+	b. the mathematical models in each lab were found by using an excel spreadsheet with the data from the experiment and calculating the line of best fit. each variable could be identified back into the experiment by deriving the equation $f = m a$ into known and unknown forces. the y intercepts in lab 05 were the unknown forces that we couldn’t describe until we performed lab 06. in this lab, we found that the tilt of the system has an effect on this value and that helps describe potential additional forces. 
+
+
+the first group did the same test as our group to see what effect the tilt has on the system. their results are very similar to ours in the sense that their y intercepts are also negative which makes sense since the increase in height is occurring at the pully end. the second group test to see how an increase in friction impacts the acceleration of the system. as their friction increased, the y intercept decreased which is expected. 
+
+d. some errors that were possible were random. our groups method was consistent and precise which limited the possibilities of systematic errors. possible random errors could’ve happened during the weighing of the bobbers. the scale is not exact and requires some human interpretation which leaves room for error. in order to reduce this, we weighed the bobbers on either the cart or the hanging string at once to reduce the margin of error. 
+
+e. some constraints with this experiment is the fact that we can’t test every unknown force. in lab 05, the y intercept was simply the sum of all unknown force but we can’t physically account for every unknown force. 
+
+f. the equation $f= m a$ can be broken down into $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$. the mathematical models are connected with this because they both resemble the basic linear equation $y = m x+ b$ and the parts can be reasonably connected.

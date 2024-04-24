@@ -1,0 +1,16 @@
+conclusion:
+Our group learned that as the angle of the track increases, the acceleration of the cart stays constant.  We also learned that as the hanging mass increases, the acceleration of the cart also increases.  
+Our group is very confident in our data, all our R^2 values are greater than .990. The R values indicates the correlation co-efficient and tells us how strong the linear relationship is. Since are R^2 values are very close to 1, this indicates a strong correlation and linear relationship. 
+
+The experiments were conducted differently, but with similar conclusions. As the angle increases in the opposition of the direction of motion, the acceleration values decrease for each applied force. The angle of release can be compared to the magnets which affect the relationship. This board shows that the equations all have very similar slope, but different y-intercepts which show the difference in acceleration. It is the same case with our acceleration equation, so we can conclude that their experiment had similar effects with ours.  
+
+This groups data supports our conclusion. Their data is very similar and boosts our confidence in our data. There tested values had a smaller value on the Independent variable than our data did. 
+
+Our equations is 
+
+
+
+There are a few factors that could affect our response to the research question. 2 factors that are not explored are friction and air resistance. If we chose to explore the effect of friction it would change our research question. The new research question we could ask is is  what affect does friction have on the acceleration of the cart? We could explore the effect of friction by changing the force that air comes out of the linear air track. If we change the force of the linear air track expels air, it will change that the co-efficient of friction and as a result the acceleration of the cart. The second factor we have not explored is air resistance. In this experiment, we do not account for air resistance. The new research question we could ask is is  how does air resistance affect the acceleration of the cart? We can explore this by finding the theoretical acceleration of the cart without air resistance, then we can conduct an experiment designed to find the air resistance.  
+There are a few improvements that can be made to the lab. We could have a large variance in the angle of release and a larger variance in the hanging mass. If we were able to have a larger range of values for the angle of release it would allow us to easily see the relationship between the angle and hanging mass. Increasing the range of the angle would allow us to strengthen our interpretation of evidence. The second improvement we can make is having a larger variance in hanging mass. If we have a larger hanging mass, we can more clearly see the relationship between hanging mass and acceleration of the cart. The larger the range of a variable, the stronger the interpretation of evidence.  
+
+

@@ -1,0 +1,15 @@
+discussion and conclusion
+
+
+
+the purpose of the lab was to conclude if there was a correlation between the acceleration of a system and the force acting on the system. in process of doing so the lab created models which describe the behavior of the system. the experiments led to the models created above by conducting several tests and using the data to calculate the acceleration of the system which is what is plotted and graphed above. the data shows that as the force was transferred from the sled to the hanging mass the acceleration increased. this makes sense because by increasing the force by adding mass gravity has a greater affect.
+
+other groups found similar results in lab 5 and lab 6 with only slightly varying equations as seen from the pictures below.
+
+
+
+errors in the past lab 5 and lab 6 could come from several things. systematic errors could be a slight tilt in the track or possiblly an uneven portion of air being blown by the track. random errors could be a sudden gust of wind of a bump of the table. to reduce random errors more tests could be taken to reduce the impact of the errors. the systematic errors could be corrected if found and retested the experiment. overall, we beileve our data to be very accurate with as minimal errors a possible in order to ensure a more accurate result.
+
+
+
+all of the models created above follow newom’s second law as the summation of the forces is equal to the mass times by the accleration due to gravity acting on th system.

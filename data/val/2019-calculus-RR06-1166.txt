@@ -1,0 +1,17 @@
+discussion and conclusion
+
+the purposes of labs five and six were to develop mathematical models to show how, while keeping several factors constant, changing the amount of weight which pulls the sled effects the acceleration of the sled, and how magnet induced friction effects the acceleration of the sled. 
+
+the three experiments conducted in labs five and six developed mathematical models by changing the independent variable and plotting the measured value against the value of the independent variable. the plot then gave a line of best fit, whose equation was the mathematical model. 
+
+
+
+
+
+	the other groups’ support our mathematical models by having mathematical models that are super similar to my group’s. i don’t have any pictures of other group’s mathematical models for lab 5.
+
+	possible errors that may have occurred in the lab include systematic errors such including the distance away from the stopper at the end, affecting the force of gravity pulling the sled. some random error could be accounted for by the air delivery for the rail system, as if the air was to be ejected at different rates, affecting the movement of the sled. the systematic errors could be prevented by being more vigilant to do the experiment the exact same way every time, and the random error cannot really be mitigated any further, as it would only cause a tiny error. 
+
+	these experiments cannot be generalized as there are severe limitations on what we measured and how we came to our final results. we were not able to apply this as it is limited by us not knowing the exact amount of friction involved in the system, the gravity constant specific to our elevation, the added force by the person releasing the sled, among other things. these unknowns cause our mathematical model to not be acceptable as a generalized model.
+
+	my team’s mathematical models reflects newton’s second law as they reflect the property stating that the sum of all forces in a system is equivalent to the mass of the system multiplied by the acceleration on the system. this is shown by the linear relationship between force and acceleration above.

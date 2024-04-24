@@ -1,0 +1,17 @@
+conlusion:
+
+
+research question: what factors affect the period of a pendulum?
+
+
+
+
+
+
+theoretical equation is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ this equation supports the lab data as it follows the general trend created by the equation. the equation created by the slope of the given data is $y=0.016 x+0.647$
+
+
+
+error is  the random errors occur from not completely accurate measurements of the string length, and inconsistent releases of the pendulum. a tape measure was used to measure the length of the string, this could lead to error because it is not very precise. the length of the string has a direct effect on the period. the release of the pendulum was dropped by hand, therefore the pendulum gained some acceleration when dropped affecting the acceleration when it crossed the photogate.
+
+constraints is  the post that the string was hung from was not fully solid. it is possible that if the post was more rigid, there would be less error between the swings, as the mass of the pendulum swinging wouldn’t have as large an effect on the post, and influence it to sway and change the period. to fix this issue the post would have to remain still throughout the tests.

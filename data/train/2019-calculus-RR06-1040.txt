@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+	how does the acceleration of a system change when the sliding mass is changed?
+
+		in this lab we looked at how changing where the mass was in the system affected 
+
+the acceleration of the system. the important thing to note about this lab is the fact that the total mass of the system never changed. we changed how many weights were on the hanging mass and the sliding mass and how that affected the acceleration of the system. we found that the more mass on the hanging mass, the more the acceleration of the system increased. looking at our graph you can see that as the force (mass x acceleration due to gravity) increased on the hanging mass, the acceleration increased at a steady rate. our equation from the graph was 
+$a=0.0034 f - 0.0039$. 
+in this lab we evaluated how the slant of the system affected the acceleration of the system. we decided to evaluate this because in lab 5 our equation for the graph had a y intercept that should have been (0,0). in a perfect word when a system has no mass it should have no acceleration. $a = \frac{m}{2} v^2$, so when m is 0, a should be 0 as well. the equation used to evaluate this question is is 
+
+
+
+the c2 value is the slant of the system. we predicted that the slope of the graphs would stay the same and the only thing that would change was the c2 value, thus we would end up with three parallel lines, all with different y intercepts. after completing the experiments we ended up with exactly what we predicted, 3 parallel lines with different y intercepts. 
+
+other groups in our lab did the same experiment as us. below i have attached a photo of the data of one other group in my lab period. 
+although their c1 and c2 values were different they ended up with the same result as my group and i. 
+in these labs we assumed that the rope is massless, and they pulley frictionless; evaluate if this were not the case. obviously they rope we used had mass, everything does, but it was a very small mass, almost negligible. had this not been the case our results could have differed. the added mass would have messed with the friction on the pulley, which also in this situation was not frictionless but it was close. this would have messed up our data given the fact that we neglected friction and mass of the rope in our initial evaluation of the data.
+	our slope values were very close to each other, but not necessarily the same. in a perfect 
+
+world these values would have been the same, but because of friction, human error, and instrument error, these values were not the same. 
+i believe we got the most accurate values as possible considering our constraints. one of the biggest constraints is the instruments provided for us in lab. the reader we were using was very accurate, but it had errors such as the slant of the system when there was supposed to be no slant to the system. also the reader was not the most accurate at measuring the force coming through as the system was in motion. another big constraint is the time provided to complete the lab in. i believe had we been given more time to complete the lab we could have gotten more data, leading to more accurate results.

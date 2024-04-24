@@ -1,0 +1,19 @@
+
+conclusion:
+
+
+the purpose of the forces and motions lab these last two weeks was to develop and understand mathematical models to describe a real-life system’s actions and to ascribe and understand each variable in the model that came from it.
+
+
+
+the mass vs. force graphs in lab 5 and the mass vs. acceleration graphs in experiment 6 show us many things that can be proved mathematically. for instance the mass vs. force graph being exponential makes sense since the mass versus acceleration graph is linear. the exponent in the graphs of lab 5 are the force and since force equal mass times acceleration in lab 6 the slope of the line is the acceleration.
+
+the other groups data confirms my theory about the relation between lab 5’s model’s exponent being the force and lab 6’s model’s slope being acceleration.
+
+
+
+some possible errors for this lab are that our data studio recording device was malfunctioning, we incorrectly massed the bobs, and that we interpreted the data incorrectly. the data studio and the massing as it was all done by a specific member are systematic possible errors, whereas interpreting the data is more likely to be a random error. to reduce the likelihood of these errors we could calibrate the data studio device before the experiment, include possible margin of error bars in our chart and ask the ta for help if we need it.
+
+we used a specific track and cart for both of these experiments and if you don’t have the same type of cart your results may vary slightly. our set of bobs were also individually unique in mass, so it would be hard to replicate the experiment exactly, but i believe the general principles learned in these labs are able to be replicated.
+
+the sum of the forces equal mass times acceleration means that if you increase the mass on one side of a system, then the acceleration on that side will decrease. it’s an inversely proportional relationship, if one goes down the other goes up, and we consistently see that here in our results.

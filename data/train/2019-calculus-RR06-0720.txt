@@ -1,0 +1,14 @@
+conclusion:
+ the purpose of this lab was to use experimental data obtained from multiple experiments to obtain mathematical models to represent how either the force applied or the total mass of the system impacted the acceleration. this allowed us to gain an understanding of the behavior of a real system from lab 5 as well as understand how each variable impacted the acceleration from lab 6.
+
+ for the three experiments, we used the computer to obtain data from the pulley which told us the acceleration as well as the error. we then were able to take that data, average it if there were multiple trials for the same scenario, for example in the first set of data for lab 5, and then use excel to create a graph. after we had the graph, we put a line of best fit to get the equation of the line, which was the mathematical model. to see how accurate our line of best fit was, as well as our mathematical model, we looked at the r^2 value. the closer the r^2 value is to 1, the more accurately the line of best fit represents the data. for us, we had r^2 values very close to 1, which shows that our data was accurately represented. 
+
+
+
+above is the data collected from other groups for lab 6. our group tested to see how the tilt impacted the acceleration. from looking at the data, it seems as though from the groups that also tested tilt, that our slope as well as our y-intercepts are very similar. this affirms that our data and the mathematical model that we found to be reasonable because it aligns with the other groups data. the difference here could be the result of using different masses for the system or the height of the tilt used on the front and back. 
+
+ one source of error that could have impacted our data is that we might have pushed the car a bit when we released it, which would make the acceleration seem to be more than it actually is, which would cause the slope to be inaccurate. another possible source of error could be friction present in the pulley. this would cause the data that we got for the acceleration to seem lower that it actually is because the friction would cause the car to move slower.
+
+ one thing that we could do to lower the amount of error present from the car being pushed would be to have a lever that would release the car, so even if there was still a push, it would be consistent throughout all the data.
+
+ our mathematical models are consistent with newtons second law because the force applied and the mass had a direct relationship between the acceleration. for example, when we increased the mass on m1, the acceleration decreased in order to keep the equilibrium. also, when the mass of m2 increased, so did the acceleration because they are proportional.

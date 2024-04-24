@@ -1,0 +1,7 @@
+conclusion
+
+so, in our effort to find a correlation between these chosen independent variables and the period of a pendulum, we found that the length of the pendulum itself was the only one to have an actual impact. it was the only experiment which yielded a result other than no correlation. we found that there is a positive correlation between length and period. we are fairly confident in this data, considering we made many efforts to reduce random human measurement error by taking more samples and averaging data. we were left with no change for mass/angle, and an exponential relationship for length vs period (based on a fit curve of our data). in reference to the actual theoretical model for the period of a pendulum, this makes sense. 
+
+given is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+we see that the length (l) is an integral part of the formula, while the mass and release angle of the pendulum aren’t included.

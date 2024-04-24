@@ -1,0 +1,20 @@
+conclusion:
+ The independent variable is the mass of slid and the dependent variable is the acceleration of the sled. This is so because when the mass changes the acceleration changes as a result. The control variables are the variables that will not changes, the mass of the string, the friction of the pulley and the mass of the system. Our hypothesis is if the mass of individual weights in the system remain the same but are used to accelerate then system then they will affect the acceleration of the system.
+	We tested our hypothesis by remaining the system mass the same but having a different weight hanging from the edge and adjusting that weight to measure the acceleration on a nearly frictionless surface.
+	We collected data and compared it the amount of mass hanging from the edge, we found a positive correlation between acceleration and mass as the data almost perfectly matched a linear relationship.
+
+Similarly, as the mass is removed from the system the acceleration increases.
+	The independent variable is the individual weight of the sled and dependent variable is the acceleration of the system. This is so because we are measuring how different masses will be affected by the slope of the track. The control variables that stay the same in each test are the mass of the string, the mass of the system, friction of the pulley, and the inclination/declination of the track. Our hypothesis is if the mass of individual weights in the system will affect the acceleration then the slope of the track will accept the acceleration as well. 
+We tested this by using a sled on a nearly frictionless track with different slopes, we would then measure the acceleration of the sled-based upon the hanging mass and the inclination/declination.
+ 
+
+As can be seen when the declination increased the acceleration was greater because gravity is aiding in the acceleration as well the mass is pulling the sled. The inclination caused the sled to have a slower acceleration because it's fighting gravity going upward.
+
+	The labs have little to no error as the mass of the sled and hanging masses where weighted and accounted for. The only significant error would be the smallest amount of friction between the sled and the track and the sled and air resistance.
+
+
+	We found that other groups had similar data and similar correlations in their data, my group and others agreed that the acceleration has a positive correlation to system mass as part of it is hanging from the ground. We also compared how a slope will continue to keep the data a linear correlation between hanging mass and acceleration.
+ 
+	The theoretical equation is $f=m a$. Where for when the mass remanded constant and force increased acceleration would have to increase as a result. $m g =f$ $f=ma$ This equation is for when the system mass changed and the hanging mass increased, but both side of the equation need to balance with each other as defined with the conservation of energy. 
+
+	If a heavy string was used this would cause the system to accelerate quicker because as more of the heavy string falls with the hanging mass, more weight is unbalanced in the system pulling the sled faster.

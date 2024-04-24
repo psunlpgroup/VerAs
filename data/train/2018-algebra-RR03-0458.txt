@@ -1,0 +1,15 @@
+discussion and conclusion
+
+the question being researched was that of what affects the period of the pendulum?
+
+each of the three experiments helped address the research question because the results of experiments will either support or deny the hypothesis made at the beginning of the experiment. this information could then be used to demonstrate how true the claim is. the estimate for uncertainty was .002, and this was based off of the description of the lab.
+
+theoretical model is  $y=13.609 x - 10.24$
+
+this equation fits my data because as discussed in the description of table 4, the data shows a linear relationship so the equation must reflect that.
+
+some random errors that were present were the reaction time of a human, the measurement of the string, and the string wrapped around the peg. this reaction time of a human was fixed by the use of a photogate because this would grant us with a more accurate reading of the period. the measurement of the string was fixed by starting the measurement from underneath the peg instead of on top of it. the string wrapped around the peg was fixed by unwrapping the string from around the peg, and just making sure its underneath the bop of the peg.
+
+some systematic error that were present were the mass may not be as marked. we were mainly just trusting that the mass was as marked on the weights. this could be fixed by having measured them each time.
+
+some of the constraints we had with this experiment were having to use stopwatches for the first part of this experiment, so it's safe to say that may have affect the time we got for the periods of the pendulums.

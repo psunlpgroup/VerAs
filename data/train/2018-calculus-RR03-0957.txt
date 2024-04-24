@@ -1,0 +1,17 @@
+discussion and conclusion
+
+each of these experiments tested what factors of a pendulum after the time of its period, and if the independent is related to the period of a pendulum, what is the relationship. as shown by figure 1, the mass does not significantly affect the period of the pendulum. the graph appears to show a slight relationship; however, the scale is very small and the differences in time are with one  unit. these can be concluded to be the results of random error. figure 2 shows that the angle of release does not impact the period of a pendulum. each measurement is within one  unit and can be explain by the random error of timing the period using a stopwatch. figures 3 and 4 both depict the direct relationship between the length of the pendulum and its period. using more data points and the photogate, figure 4 shows the power equation that more accurately depicts the relation length and period. 
+
+the theoretical model for the period of a pendulum is $t=2$. this is similar to the mathematical model that we found in figure 4, $t=0.0963124 l$ except we did not calculate the effect of gravity on the pendulum. gravity inversely affects the period of a pendulum. the curve of the line of best fit for our mathematical model had an r2 value of 1.
+
+error in the experiments depicted in tables 4, 5, and 6 included the random error of timing the period using a stop watch. early and late reaction time would impact the measurements for the period of the pendulum. this can be reduced in future experiments by taking more measurements and finding the average of the results. systematic error, in these same experiments, could come from an uncalibrated stop watch that continually increases the time at an incorrect rate or has delay in button recognition. this error could be reduced by comparing the times on two different stopwatches being used by the same person. in table 7, the data found while using the photogate could have error resulting from the width of the pendulum that breaks the beam. a wide pendulum could offset the data systematically.
+
+furthermore, uncertainty is always associated with measurements and will not be the “true value.” uncertainty is based on the standard deviation of the data. based on 10 separate measurements of a pendulum with the same mass, angle of release, and length, the standard deviation was found to be + 0.015191 seconds when we timed the pendulum with a stop watch. the standard deviation of the photogate was given to be 0.001 seconds. it is assumed that 95% of measurements should fall with 2 standard deviation units. if the theoretical “true value” is with 2 standard deviation units, it can be said that the experiment was successful. 
+
+constraints on this experience include the range of lengths that were tested. the longest length of pendulum that was tested was 129 cm, and, therefore, our mathematical model is only generalizable to pendulums the have a length of 129 cm or less. additionally, this experiment only tests small pendulums, and, based on our data, is only generalizable to pendulums with an angle of release less than 20o.  similarly, with the greatest mass tested being 210g, the data is only generalizable below this point. 
+
+
+
+
+
+

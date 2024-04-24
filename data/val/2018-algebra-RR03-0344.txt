@@ -1,0 +1,11 @@
+discussion and conclusion
+
+
+
+the purpose of these experiments was to discover how three factors, mass, string length, and angle of release, affect the period of a pendulum. it was found that string length was the only factor that really had an affect on the period. this is shown in figure 1. the period increases as the string length increases. figure 2 and 3 both show a straight trend line, indicating that the mass of the pendulum and the angle of release did not have any real affect on the period. the theoretical mathematical model for the period of a pendulum is seen below. 
+
+$t=2$
+
+we were not able to come up with this mathematical model from our tests because gravity was not testable as an independent variable in our experiment. the period was originally timed using stopwatches, which was a big source of error. this could have resulted in systematic error if any of the stopwatches were calibrated improperly, and random error if the students did not time correctly or delayed in starting or stopping the watch. the relationship between string length and period time was then measured using a photogate. this would eliminate random error and take more accurate results, but there could still be systematic error if the photogate was not functioning properly. in the future, two different photogates could be used to show if one is different from the other, and to eliminate some systematic error. constraints in this experiment would be that we were not able to test the pendulum length at a very wide range, and it would give us more data if we could really extend the string length. the angle of release could also be measured in a more accurate way, instead of just using a human hand with a protractor. 
+
+

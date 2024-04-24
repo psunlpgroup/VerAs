@@ -1,0 +1,11 @@
+discussion and conclusion
+
+	this lab investigation was conducted in order to determine what factors impact the period of a pendulum
+
+	in the first lab period, data was collected on the three factors is  angle of release, mass of the bob, and the length of the pendulum. we hypothesized that the angle of release and the length of the pendulum would positively impact the period and that the mass of the bob would have no effect. in the second experiment, we investigated error within our measurements and techniques. the graphs showed a definite positive correlation between the length and the period and definitively showed that the mass had no effect. the original graph of angle vs period was inconclusive. the third experiment allowed us to remove error and see what truly impacted the period. the final graphs show that length has a positive correlation with the period and they show that changing the mass and the angle don’t influence the period.
+
+	the theoretical model for the period of the pendulum was $t=1.99 x^{0.5}$. graph 2 shows that the data of length vs period followed the model fairly well. the other graphs don’t show this type of relationship. the actual model for the length vs period data is given at the top of graph 2.
+
+	random errors in this experiment could have been attributed to the fact that using stop watches is slightly inaccurate. there could also be errors with measurements made on tools like the tape measure and protractor and the objects were released by people which could lead to timing issues. systematic errors in this experiment were that the balanced may not have been entirely accurate and the fact that air resistance could have affected the heavier pendulums less that the lighter pendulums. errors were reduced by having the same person timing also release the pendulum. we also took more data points in experiment 3 and averaged them to account for the random error. in the future, we could attempt to calculate the air resistance on each different mass of pendulum and factor that into the data.
+
+	it may be hard to generalize these results because everything was conducted in a lab under controlled settings, which may not translate exactly to pendulums in the real world. an example of this could be a child’s swing. the data is also very small and the data could be more generalized with many more trials.

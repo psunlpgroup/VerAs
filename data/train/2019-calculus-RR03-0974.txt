@@ -1,0 +1,22 @@
+discussion and conclusion:
+
+	the research question that we were investigating was “what impacts the period of a pendulum for small swings?”.  this was investigated throughout 3 different labs completed over a course of 3 weeks. the first variable in question was mass.  we hypothesized that if the mass is increased, the period of the pendulum will increase as well.  after taking many measurements, we found that the mass does not have any effect on the period of the pendulum.  we found that after a trendline was added to the graphed points, the slope was zero.  in experiment 2, we found the error associated with our measurements, which made us even more sure that the mass has no effect on the period.  the error bars on this graph by themselves did not help us much in saying that the slope of the trendline was zero, but when multiplying the standard deviation by 2, it showed us that the slope in fact could be zero.  
+
+	
+
+	we tested the second variable, drop angle, second.  we also hypothesized for this variable that the period would increase when the drop angle increased.  this was also incorrect.  in the graph of drop angle vs period, the trendline shows that there is no correlation.  in this test, we also found that the addition of error bars helped our conclusion by adding the fact that the measured values could be slightly higher or lower.  this made us even more sure that the slope of the trendline was zero proving no correlation.  
+
+	
+
+	the variable string length was the only variable that actually affected the period of the pendulum.  we know this because the slope of the trendline was positive.  the error bars that were on this graph we not large enough to make our conclusion invalid.  this experiment was repeated in experiment 3, by using a motion sensor to make our values extremely accurate.  this showed us even further that we were correct in saying that the string length affected the period of the pendulum.  
+
+	
+
+	the theoretical equation of a swinging pendulum is as follows is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$.  this theoretical equation fits well with our experimental equation of $t = 2.0697 l^{0.4213}$ because it only includes the variable of string length.  the equations are in different forms, but when values are plugged in, they have similar answers of period in seconds.
+
+	
+	the random error that was associated with these experiments were extremely visible when taking measurements with the stopwatch.  this relied on our reaction time and coordination to start and stop the timers at the correct time.  this could be reduced by timing the seconds for the pendulum to swing 5 full times and dividing this value by 5.  this increased the accuracy of our measurements by a large margin.  to reduce this even further, we used the motion sensor provided to us, which reduced the random error drastically, giving us an equation that was very close to the theoretical equation.  another random error that we experienced was that of the drop angle.  it was very hard to correctly drop the pendulum consistently at a specific angle.  we reduced this by creating a system with a whiteboard to correctly measure the angle closer than just a protractor.  there were no systematic errors in this experiment.
+
+	
+
+	we only experienced a couple of constraints, that being how high the pendulum holder could extend and the drop angle had to be under 25 deg at all times.  if the pendulum holder could have extended farter, we may have been able to make more measurements at a greater variability, making the results more general.  the research question stated that the pendulum was only making small swings, which we decided would be at a drop angle of under 25 deg.

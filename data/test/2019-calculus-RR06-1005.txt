@@ -1,0 +1,16 @@
+discussion and conclusion
+
+the purpose of lab 5 is to develop mathematical models that describe the behavior of a real system. the purpose of lab 6 is to develop an understanding for each variable and numerical value included in the model. 
+
+the three mathematical models were determined by inputting our data from each experiment into excel and then graphing it to find the line of best fit for each experiment. the changing of the bobber mass was modeled a linear model and the changing of the cart’s mass was modeled by a power model. in the linear model, the first numerical value is the force applied divided by the mass of the system. the second numerical value is the friction divided by the mass of the system. in the power model, the first numerical value is the force applied divided by the mass of the cart. the second numerical value is the friction divided by the mass of the cart. 
+
+group 4 tested the same variable as us and found similar results. we both tilted the air track upward so that the cart would be traveling up the air track. we both found that having the cart travel up an incline causes the acceleration of the cart to decrease and it decreases more as the slope of the air track increases. groups 5 and 6 tested a different variable and got different results than ours. they both tilted the air track downward so that the cart would be traveling down the air track. they both found that having the cart travel down an incline causes the acceleration of the cart to increase and it increase more as the slope of the air track decreases. the results of the other groups contribute to our understanding of what the numerical values in our mathematical model might represent because our models are similar.
+
+
+
+
+systematic error might have been present in our experiments when using the rotary motion detector, triple beam balance and the meter stick because there is uncertainty in these measurements. to reduce these, we used the most precise measurement tools in order to minimize our systematic error that may have occurred. 
+
+constraints that exist in this experiment that may limit the generalizability of our results are air resistance. the air resistance may affect the acceleration of the cart because it could slow down the cart.
+
+our experimental mathematical models are constant with newton’s second law because our first numerical value is the inverse of the mass of the system and the second numerical value is the friction divided by the mass of the system. our models support newton’s second law.

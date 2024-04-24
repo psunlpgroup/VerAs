@@ -1,0 +1,19 @@
+discussion and conclusion 
+
+for this experiment, the research question was, ‘does the angle of release, pendulum length, and pendulum weight affect the period length of a pendulum?’ according to the data, the length of the pendulum does affect period length, while angle of release and pendulum weight do not affect period length. according to figures 6 and 5, increasing length increases period length, while keeping the length the same results in period times that fall within the same range of standard deviations. angle of release does not affect period duration, since all of the trials fall within the same range of standard deviations, and do not appear to increase or decrease with changes in the independent variable (figure 4). the same goes for the pendulum weight is  it does not affect the dependent variable (period duration) since all trial points all are within the error bars (figure 3). since all the measurements for weight and angle of release fall within the error bars of each other, they do not show significant deviations and any small differences are the result of systematic or random error. since the length measurements fall far out of error bar coverage as length changes, there is significant difference between the measurements not due to error. 
+
+
+
+
+
+
+
+
+
+
+
+the equation created by the line of best fit is a power equation, $y=0.16817748 x$. this is different from the theoretical equation is  $t=2\pi \sqrt{\frac{l}{g}}$        the model created in lab supports this because although it is a power equation and the theoretical equation is not, they will both give similar products. the theoretical model takes gravity into consideration, which was not done in this lab so there was no way for the complete equation to be formed, so the best option was to find something as close as possible without considering any other factors. 
+
+in terms of error, systematic error was present in the timing of the start and stop for the period measurements using the photogate. this would result in slightly inaccurate but precise data. the error was 0.001, so the only way to decrease this minor error would be use a more accurate tool, but it wouldn’t alter the data much since the error is already so low. as for random error, this is more common because for most of the trials, the timing was done by a human clicking start/stop on a timer. this could cause the measured period time to vary from the actual time, and could be higher or lower than the actual for each trial. the best way to combat this error would be to perform more trials to eliminate the larger errors and create a more accurate average. one could also use a more accurate tool, such as the photogate to minimize random errors. 
+
+the main constraints in this experiment are the inability to measure all forces affecting the pendulum and the difficulty in collecting accurate times for period length. since gravity wasn’t measured, it was impossible to derive the complete theoretical equation. however, a close formula could be formed but it won’t be as accurate for parameters other than those used in this lab. fortunately, with many trials a better line of best fit and mathematical equation can be created. since there were clear trends (consistency in ivs that don’t affect period duration and a definitive effect of length on period duration) and the data is consistent, this would be fairly easy to reproduce and obtain results that fit in with the general finds in this experiment.

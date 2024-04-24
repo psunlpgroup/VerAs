@@ -1,0 +1,21 @@
+conclusion:
+The purpose of this experiment is to see if the acceleration of a system changes when the applied force on that system changes. We want to find out what Mathematical model can best represent the relationship.
+We measured the acceleration of a cart on an air track being pulled horizontally by a falling hanging load. We did the procedure six times, each time with a different hanging mass. We kept the mass of the total system constant by keeping any mass that was not hanging on the cart. The differing hanging masses produce differing applied forces to the system, calculated as $F_{app} = m_{hang}  g$. After recording our six trials, we calculated the applied forces, and plotted them in Graph 1. We used the computer’s best fit line function to apply the best fit line to the graph. We used the scale error of 0.001 m/s^2 for our uncertainty because our σ was much smaller than the scale error.
+Theoretical Model is   
+Calculated Model is  
+The models are similar because 1/MassSystem is approximately 5.6, because the total mass was 178.80g.  Both models represent a linear relationship with a y-intercept that is very small. The R-squared value of the calculated model is .9937.  The calculated model is slightly smaller because of uncontrollable factors like friction in different components and air resistance of the mass and cart.
+
+
+
+The results from group KAR appear to concur with ours. Both of our teams concluded that there was a linear relationship between the force applied and the acceleration of the system. Although our coefficient and y-intercept are different, our calculated models are very similar. I expect their coefficient and y-intercept to be higher than ours because they used a larger mass for their system than we did. We agree on the possible sources of error, and their R squared value is better than ours.
+
+
+	
+The results from group No Clue appear to concur with ours. Both of our teams concluded that the relationship between applied force and acceleration of the system is linear, however our coefficient and y-intercept vary quite a bit from theirs. I suspect that they used different units for acceleration, which they unfortunately did not label. My team agrees on the environmental factors No Clue came up with that contribute to a differing experimental model from the theoretical model. No Clue managed a phenomenal R squared value so their model must be quite accurate despite the absence of units.
+
+
+Forces other than the hanging weight that apply to the calculated model are friction and air resistance.  Even though the experiment is on an air track, friction is still present and is also present on the string and pulley.  This test also wasn’t conducted in a vacuum and air resistance does have a small effect. These unknown forces show up in the experimental model as the y-intercept after they have been summed and divided by the mass of the system.
+The mass of the system shows up in the calculated model as the slope of the line.
+Because the string has mass, as the hanging mass drops the portion of the string that is hanging increases, increasing the hanging mass which increases the applied force. Although the change is very small, we still must take it into account.
+ The scale for the mass might not have been perfectly calibrated producing random error. Because mass was only taken once and kept constant, this error would affect the results like a systematic error. There was also scale error in the measurement system that could have produced systematic error across our results. Finally, we concluded that the pulley is not ideal as there is friction and rotational inertia acting against the applied force. 
+ Our results are fairly generalizable, however if others were to try to reproduce our experiment they would need the same software and air track apparatus as we used. Even if they did have access to such equipment, the attributes of the specific string we used is not recorded or tested, and the performance/accuracy of the equipment that we used will differ from theirs. 

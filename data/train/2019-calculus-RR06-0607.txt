@@ -1,0 +1,20 @@
+conclusion
+
+the purpose of this lab was to develop mathematical models for a real system and develop an understanding of each variable and numerical value in the models. the models were obtained by repeated experimentation on the affects of mass on the acceleration of the system. in the linear model, the m value is equal to the inverse of m2. and the b value in the equation is equal to some other acceleration. in the power model, the value multiplied by the base is equal to inverse of time squared. the models are a direct result from the graphed data as the models come from the trendlines of the data. 
+
+
+
+
+the models of the other groups are very similar to our models which makes us very confident in our experimentation. in figure 7 you can also see that group 6 also agrees with us on the units of the equation.
+
+
+
+in this lab some errors may have occurred. there are systematic errors that may have occurred. if the scale regularly weighed things slightly too high or too low, as well as the data that datastudio recorded could be random errors.
+
+
+
+we were working with a specific cart, masses, and magnets in this lab. because of the nature of the cart and magnets, we had to tape the magnets down. this might have affected the experimental results and might prohibit this experiment from being used to create generalized results.
+
+
+
+our results are concurrent with newton’s second law because in all our graphs as the mass attached to the cart goes up, the acceleration goes down. this is because regardless of where the mass is in the system, the sum of the forces must equal zero. this means that if the force doesn’t change and the mass increases, then the acceleration must decrease, the converse is also true.

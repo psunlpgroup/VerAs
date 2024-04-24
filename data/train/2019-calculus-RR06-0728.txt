@@ -1,0 +1,17 @@
+discussion
+
+research question
+
+the purpose of this experiment was to determine how the magnitude of the force applied affects the acceleration of the system.
+
+the mathematical model obtained by our group was $a=2.863 f - 0.063$ where a is acceleration and f is force applied and the mass used was 396g. this formula can be rewritten as $a = m_{hanging}g  - a_{friction}$ where asystem was the acceleration of the system and  is the slope inverse of the system and mhanging*g is magnitude of the applied force and afriction is the force of friction on the cart which affects acceleration. the error bars vary in size because that’s the uncertainty obtained from each trial on their slope by the rotary motion detector. 
+
+the mathematical model obtained by group 3 was $a = 2.8298 f - 0.0364$ where a is acceleration and f is force applied and the mass was 339g.
+the mathematical model obtained by group 5 was $a = 2.863 f - 0.0053$ where a is acceleration and f is force applied and the mass was 340g.
+
+
+newton’s second law is $f = m a$. it had been determined that there was another force acting on the system so  so the mathematical formula used was $m_c + m_{hanging} a = m_{hanging} g – a_{friction} m_c + m_{hanging}$ or $f_{total} = f_{hanging} – f_{friction} = m_{system} a$.
+
+
+it was assumed that the force on the system was constant which was a systemic error. this cannot be the case because the string had mass so as more of the string was pulled, it caused more of it to be contributed to the hanging mass. this would cause the acceleration to increase slightly because the force acting on the system was increasing. the weight of the cart was not measured which would have a significant effect on the acceleration which was also a systemic error.
+limited to a small model with and a limited amount of mass and space.

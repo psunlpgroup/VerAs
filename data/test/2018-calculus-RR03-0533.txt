@@ -1,0 +1,7 @@
+conclusion: 
+
+	the period of the pendulum is only affected by the length of the sting of the pendulum. the mathematical model of the period of a pendulum is stated as,  , in which it states that the period is affected by the square root of the length of the string divided by the acceleration due to gravity. mass and the angle of release is not stated in the equation because the period is not affected by those variables. the data that was gathered supports this as the graphs for the mass and angle show no correlation between themselves and the time of the period of the pendulum (graph 1,2). the time of the period was only affected by the length of the pendulum as shown in graphs 3 and 4. graphs 3 and 4 were the only two graphs that showed any kind of correlation between the period and the variable tested.  
+
+
+
+	some potential errors in this lab were a combination of both systematic, and random errors. some sources of systematic errors include the weights of the masses as they may not be exact, the length of the pendulum not be correct or exact, the stopwatch may not have been working correctly, or there could have been some kind of mis-measurement in taking down data. some sources of random error include the way the pendulum was released, meaning that it was pushed or simply released, reaction times of those timing the period, calculating the periods of the pendulum, and communication between the lab members.

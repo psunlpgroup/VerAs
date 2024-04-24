@@ -1,0 +1,7 @@
+discussion
+
+	the question being investigated in this lab was “what is the mathematical relationship between string length and period time”. this was calculated by taking data for various string lengths (in table 1) and plotting the resulting period times on a graph (in figure 1). the best fit curve applied provided the equation for this data. we concluded that the mathematical relationship between string length and period length was $y=4.4635 x^{0.8415}$ where x is the string length and y is the period. 
+
+
+
+	the theoretical mathematical model for this experiment is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. the theoretical data shows that the graph should be $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. this relates to our graph with the equation $t=4.4635l^{0.8415}$ and a r2 value of 0.9638.  theoretically the data should form a linear line and the r2 value should be 1. the difference in r2 values is caused by systematic and random errors. the reason this happens is because theoretically we can have exact measurements but in a real experiment there will always be some uncertainty with the measurements.

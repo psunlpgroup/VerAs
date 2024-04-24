@@ -1,0 +1,21 @@
+discussion
+
+the question being investigated is as follows: “what impacts the period of a pendulum for small swings?”. this question was answered by running a series of similar experiments. these experiments tested the length of the string, the mass of the pendulum, and the angle of release, all against time of the period, with varying results. 
+
+
+
+the first variable investigated was the angle of release. it was originally predicted that the angle of release would have a significant effect on the period. at first glance at figure 1.3 it might appear as though it did. however, upon closer inspection, it can be seen that the values were not different enough to be able to make that claim. the fact that the error bars of the graph overlap indicate that the values are too close together to be considered separate, and they are treated as such. this leads to the conclusion of there being no effect on the period by the angle of release.
+
+
+
+the next variable investigated was the mass of the pendulum. it was predicted that the mass would have little to no effect on the period, which can be observed to be true in figures 2.2 and 2.3. not only do the error bars completely overlap in figure 2.3, but the values were measured to be the exact same, despite varying masses. this leads to the conclusion of there being no effect on the period by the mass.
+
+
+
+the third and final variable investigated was that of string length. this was predicted to have the most dramatic effect on the period, which is demonstrated to be true in figure 3.3. it is a safe to draw the conclusion that it has an effect, because the error bars show no overlap in figure 3.3. this variable was then investigated a second time using a more precise and accurate time measurement device, and with more drastic string lengths. the effect of string length on the period is even more clear in figure 3.5.
+
+
+
+it can be seen in figure 3.5 that the line is not linear, but a power line. with that said, the theoretical mathematical model of the period should follow the equation $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$, and therefore, the equation of the line should be $y=0.2007 x^{0.5}$. this is not the case, as the real observed line is $y=0.2717 x^{0.4424}$. this difference can be due to random and systematic errors while running the experiment. random error can include inaccurately measuring the length of the string or not properly lining up the pendulum at the proper angle of release. systematic errors may have included slight sway in the pendulum apparatus, or inaccurate timing using the photogate. multiple trials were done to help eliminate the effect of error, as well as multiple attempts at remeasuring of the string length.
+
+this experiment was performed to determine the effects of mass, release angle, and length of the string on the period of a pendulum. after several trials and various experiments, it was determined that the only variable that had effect was the length of the string. these results can be seen by comparing the data points and error bars on figures 1.3,2.3, 3.3 and then 3.5. the equation of the line was close to the mathematical model but is slightly skewed due to systematic and random error discussed above. this experiment was slightly limited by the size. much more demonstratable and obvious results would be seen by using much more drastic values, but it was not possible in the space provided. it was also somewhat limited by the instruments used in recording data, such as handheld stopwatches, plastic rulers, and protractors. the results may be more accurate and recognizable if the tools used were more accurate.

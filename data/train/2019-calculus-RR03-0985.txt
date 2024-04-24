@@ -1,0 +1,21 @@
+discussion and conclusion 
+
+the research question of this entire lab is “what impacts the period of a pendulum?”
+
+experiment 1 addressed the research question by analyzing the effect of mass upon the period of a pendulum. our group tested multiple different masses in order to determine how a change in mass would affect the period of the pendulum we had set up. our claim that was made from the test we preformed was that the mass of the pendulum does not noticeably affect the period of the pendulum. the conditions in which the claim would be most true is if the pendulum was always under a constant acceleration with minimal friction and air resistance, if these parameters are met then this claim should be evident if a similar test is preformed. our graph with the error bars shows a slight positive slope, but if error is accounted for the slope of the graph would be non-existent which would show that there is no correlation between mass and period.
+
+experiment 2 addressed the research question by analyzing the effect of release angle upon the period of a pendulum. our group tested multiple drop angles in order to test how these different angles affected the period of our pendulum. our claim made from the data that we gathered was that as the angle increases past 20 degrees so does the period of the pendulum, but if the release angle is under 20 degrees it does not affect the period noticeably. the conditions in which this claim can be observed is if the acceleration acting on the pendulum is constant, there is minimal friction, and the angle of release is above 20 degrees. our graph shows a positive linear correlation between the angle of release and the period of the pendulum, this shows that as the angle increase past 20 degrees so does the period. 
+
+experiment 3 addressed the research question by analyzing the effect of the string length of the pendulum on the period of a pendulum. our group tested multiple different string lengths and how they affected the period of our pendulum. the claim that was gathered from our data was that as string length increases so does the period of our pendulum. the conditions under which this test was preformed and would be true is if the acceleration is constant, air resistance a friction is minimal, and the angle and mass are constant for all trials. our first graph shows a positive linear correlation when our error bars are considered. the data shows that as string length increases so does the period.
+
+experiment 4 addressed the research question by analyzing the effect of the string length of the pendulum on the period of a pendulum. this experiment is very similar to experiment 3 except that we used different string lengths and use a photogate to measure the time for better results. the claim gathered from this set of data was that there was a positive power correlation rather than linear correlation. again, the conditions are the same as experiment 3 but the data of gathered shows that as string length increases so does the period of the pendulum in a power relation rather than linear. 
+
+some of the random error that was present in our experiments were air resistance, mass uncertainty, and reaction times when releasing the pendulum and starting and stopping the stopwatch. some of the systematic error was the bar the pendulum on moving, variance in string length, and tension of the weight on the string causing it to stretch slightly. ways to address this was one to use a photogate instead of using stopwatches, this allows for a more accurate reading of the period. another way to address error is to conduct this experiment inside of a vacuum to minimize air resistance. a final was to reduce error would be to use high quality materials that have minimal uncertainty and the bar we use for the pendulum we should clamp it tighter to minimize movement. 
+
+some of the constraints of our experiment was that 
+
+we had some air resistance and we could not change that.
+we had to use the materials provided and they were not the highest quality.
+our acceleration that acted upon our pendulum was gravity and we had no way to change the acceleration.
+
+4. we were humans and there is no way to completely void human error when humans conduct the trials.

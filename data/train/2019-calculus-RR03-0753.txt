@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+the objective of this experiment was to determine the physical factors that affect the time period of the pendulum, which are the mass of the bob, the length of the string and the angle of release. this experiment has accounted for the research question of which factor could be affecting the time period. turned out, all of the assumptions made by our team were false except, the length of the string was the only factor that has affected the time period of the pendulum when its magnitude is altered. this can also be inferred from the given graphs. the length of the string has a positive correlation with the time period, which can be concluded from graph 2. therefore, the length of the string is directly related to the time period of the pendulum, making one of our predictions correct. 
+
+
+
+					graph4
+
+
+the mathematical model for the period of the pendulum is demonstrated in graph4 is  
+$y=0.0134 x + 0.868$ where y is the length of the string and x is the time period of the pendulum. it can be inferred that the positive slope demonstrates a positive correlation between y and x. the constant accounts for the uncertainty, which should have been zero. the other factors that had a linear relationship with the time period, had a slope of zero (almost, despite a few errors), which implies that the x is not affected with change in y.
+
+
+
+some random errors can include using the stopwatch and releasing the pendulum with a slight error in what we intended to have the bob released at along with the proper sync with the stopwatch measurements. this was improved significantly by using a photogate which eliminated the human aspect of calculating time. the pendulum would go through the beam of light emitted by the photogate and the time was calculated, displaying the results onto the computer screen in the form of several data points. in this method, the errors were systematic and were of 3-decimal. 
+
+
+
+some constraints regarding the experiment can be the characteristics of the pendulum used, small angles of release and the mass of the bob and length of the string used.

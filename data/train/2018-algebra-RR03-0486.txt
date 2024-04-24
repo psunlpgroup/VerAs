@@ -1,0 +1,19 @@
+conclusions :
+
+research question is what impacts the period of a pendulum for small swings? there is an alternating relationship, they appear to correlate.
+the longer the string the longer the swing length. the relationship between the two is direct.
+only measured string length, not full pendulum
+scale was not calibrated
+each individual weight was not measured
+degree of release (measured, but not 100% against a protractor 
+different group members in charge of releasing pendulum
+different group members in charge of keeping time
+these lab errors could be reduced by calibrating the scale, checking the weight, and by using the same person for each task.
+looking at our data, there is no relationship between weight and period length. initially the length of the period decreased until the weight reached 90g. following the period began to increase. however, for string length and angle of release, regarding the data, both have a direct relationship to the length of the swing. from previous labs determine which iv did not affect the period and should not be included in the mathematical model or equation.
+for each iv that affected the period, look for a pattern apparent over the entire tested range. 
+determine the mathematical dependence (i.e. is it linear or nonlinear).
+use a photogate for period measurements of greater precision, thereby reducing error bar size. repeat only those experiments conducted earlier  which you have evidence that a particular variable may have impacted the period.
+conduct experiment and record the data in your lab records. use excel to create a graph of the period (dv) versus the iv.
+the scale error of the photogate is 0.001 seconds. use this value for the error bars on your graph unless you believe it is not a reasonable estimate for the uncertainty. 
+determine if  relationship between the period (dv) and iv linear or non-linear. 
+repeat steps for any other variables, if any, for which have evidence that they impact the period of the pendulum. for the length of a period, the only relationship affecting it, is the length of the string and pendulum.

@@ -1,0 +1,21 @@
+discussion and conclusion
+
+the purpose of this lab was to see the affect of friction on a cart. for lab 5 we created mathematical models to show the behavior of the system. for lab 6 we needed to understand which each variable was and interpret the numerical values in the model.
+
+the mathematical models were obtained by determining the applied force on the system and recording the acceleration for each trial. the model gives us the acceleration of the data. the mathematical models came straight from our graphs. they were created by using a best-fit line based on the data points.
+
+figure 6+7 is  other groups data (group 1 and group #?)
+
+
+
+by looking at two other groups data it can be concluded that the “a” value represents acceleration. as the friction is increased the acceleration decreases. we can also conclude that a change in incline will affect acceleration as well as friction. the other groups data supports my groups data.
+
+an error that could have been present would be uneven masses of the bobbers. as we were loading the bobbers onto the string, we noticed some of them were chipped which would cause a lower mass than the others. to prevent this, we could have gotten brand new bobbers that weren’t broken. another possible error could have been the magnets being uneven. the magnets were glued to a piece of metal and were most likely uneven weights which would have caused the acceleration to increase. to avoid this, we could have used magnets that were all exactly the same.
+
+a constraint in the experiment was the amount of bobbers/weights we were allowed to use as well as the size of the cart. we were held to using the same number of bobbers and the same size cart in both experiments.
+
+figure 8 is  newtons second law
+
+
+
+this shows that our experimental and theoretical mathematical models are equal to each other. these models prove that our data is consistent with newtons second law.

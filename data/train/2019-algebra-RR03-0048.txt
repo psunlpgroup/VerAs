@@ -1,0 +1,7 @@
+conclusion
+
+what variable will impact the period of the pendulum?
+
+we tested every variable to see which one affected the time the most.
+
+1.99x^.5 that is the theoretical model and our data was pretty far off from the theoretical model.

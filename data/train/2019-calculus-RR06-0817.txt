@@ -1,0 +1,17 @@
+conclusion:
+
+
+
+the purpose of these labs was to test how forces affect the acceleration of the system. these affects were measured then recorded in excel to find the mathematical model that represents the relationship between acceleration and the two forces tested, the force of friction and force applied.
+
+
+
+the two experiments from lab 05 showed acceleration versus the force applied to the cart. the data shows a positive correlation, as force applied increases so does the acceleration, this is represented by the mathematical model $y=0.7984 x - 0.0637$. the acceleration versus the mass of the cart which showed a negative correlation. as the mass of the cart increased, the acceleration decreased giving us the mathematical model of $y=0.9883 - 0.2195 x$. the data from lab 06 showed acceleration versus the force of friction. the data shows a positive correlation, as the number of magnets increased so did the acceleration. the mathematical model representing the data for two magnets with increasing force is $y=1.7194 x - 0.1573$. the mathematical model representing data for four magnets with increasing force is                           $y=1.6992 x - 0.1492$.
+
+
+
+possible sources for error in lab 05 could be a random error caused by the vacuum. if the vacuum did not force a constant pressure of air from under the cart, friction of any magnitude could have acted on the system. possible sources for error in lab 06 could have been from a systematic error of facing magnets the wrong way on the cart causing an attraction to the cart, increasing friction. random error for lab 06 could have resulted from the initial mass of the system not being loaded on the cart proportionally causing the cart to lean toward one end of the track.
+
+
+
+things that could have increased the accuracy of the data recorded are having a constant & specific pressure outputted by the vacuum to ensure even more controls within the experiment. another possible way to increase the accuracy of results would be to introduce an alternative way to cause friction between the cart and the track other than magnets.

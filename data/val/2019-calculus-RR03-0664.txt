@@ -1,0 +1,15 @@
+conclusion:
+
+this experiment investigated the factors affecting the period of a pendulum, including length, mass and angle. 
+
+it was hypothesized that the period would increase with increasing length of the string of the pendulum. this hypothesis is only valid, however, for small angles of release. as shown in figure 1, the data supports this hypothesis. additionally, the uncertainty in the period is so small that error bars are not visible. it can confidently be said that there is a change in the period with the change in length of the pendulum.
+
+it was also predicted that the mass of the pendulum would not affect the period of the pendulum. the data supports this hypothesis. as shown in figure 2, the trend line has no slope and all the data points are within the uncertainty of each other. there is no definite change in the period for a change in mass, and there is a high possibility that the measurements for the period are all the same. 
+
+lastly, it was hypothesized that the angle of release would affect the period of the pendulum. this data suggests that this is only true for angles greater than 20 degrees. as shown in figure 3, the data points less than 20 degrees have overlapping error bars and have similar measured values for the period. this suggests that there is no change in period for angles under 20 degrees. there is evidence of a slope for angles above 20 degrees.
+
+the theoretical mathematical model is . this model suggests that only the length of the pendulum affects its period. this supports the conclusions above. neither the mass nor the angle is represented in the theoretical model, suggesting that they have no effect over the period. 
+
+initially, the period for the length of the string was measured using stopwatches. this introduced a random error because there was human error in timing. in addition, we measured the time over 3 periods. because of air resistance, the pendulum would slow every period, therefore introducing a systematic error. to reduce this error, a photogate was introduced, which uses a laser to measure the period of the pendulum over only one period. this method reduced both types of errors. during the first experiment, the length of the string of the pendulum was measured instead of the length to the center of mass, so this was rectified in the second repetition of the experiment. there is still the possibility of a random error occurring in each of the experiments, so to reduce this error, multiple trials for each value should be performed. then the average should be taken.
+
+one constraint of this experiment was the range of lengths able to be used. the lengths investigated only represented a range of about 3 meters. because the maximum height of our stand is about 2 meters and the height of the maximum height was a bit over 3 meters, there is a gap in the data points. having more frequent intervals for a larger range of value would provide stronger data. additionally, this experiment was only valid for angles less than 20 degrees.

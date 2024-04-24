@@ -1,0 +1,23 @@
+conclusions:
+
+
+
+changed hanging mass (simplified by multiplying by gravity to find the downward force)
+
+
+
+the result for the first research question is that there is a positive correlation between the downward force applied to a system and the acceleration of the system.  the experiment found that a greater force applied to the system lead to a greater acceleration, which can be seen in the data for the first experiment. when the data was plotted in the graph for the first experiment, the graphed data points lead to a relationship of about 2.8 to 1 between force and acceleration. when using the weight of .34kg for the system, this results in the theoretical equation $f= m a$ to become $a =\frac{f}{m}$ which is f*2.94. this is reasonably close to the value achieved through experimentation. this is consistent to the enhanced equation, as there should be no other forces.   ($a = c1 x + c2$)                         ($f = \frac{f1}{m_{sys}} +\frac{f2}{m_{sys}} + …$) other groups had data which agreed with ours, which will be included at the end. we were group 5. 
+
+in other experiments, other forces were added in the form of tilt. this affected the acceleration of the system, but each change only resulted in a change in the y intercept of the equation. this can be seen in the enhanced equation, as the main force does not change but the other forces enacted by tilting the track do. this adds a much larger c2 value to the system, as there is a force outside of air resistance and the weight of the string.
+
+
+
+the string changes the equation. it is a changing force that applies different amount of force at different times. the string in our experiment should provide an effective force close 0 due to the small weight of the string. a heavy string would cause the graph of the velocities to curve, providing us with an acceleration with an x value in it, as the acceleration should fluctuate as the forces fluctuate. 
+
+
+
+there should be little error in the equation. the measuring tools used were precise, and there should be very few unaccounted for outside errors. the few outside forces accounted for should be small, and are air resistance, friction with the spool, and weight of the string. these values should be very small in the scheme of the experiment. random error could come from the method used to release the cart. this error was reduced by not including data from the beginning and the end of the experiment in the acceleration calculation. 
+
+
+
+the experiment assumed a frictionless surface, and made it as close to that as possible, but minimal friction ensued. the experiment was done only at one place, which eliminated any testing on the effect of changed gravity. these reduce the applicability of the results of the equation. they are only applicable under the lab conditions we used. however, there should be general usability of the equation due to the small amounts of error that were present. i believe that these equations are generally applicable.

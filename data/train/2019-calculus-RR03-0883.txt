@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+	for this experiment our research question was, what factors impact the time it takes a pendulum to complete one period.
+
+
+
+	we broke our data into 3 independent variables. the first one, angles effect on a pendulum's period is best depicted by figure 4. we hypothesized that the angle would not impact the period of the pendulum, as long as the condition was met that the angle did not exceed 30 degrees. since a straight horizontal line can be drawn through each of the error bars in figure 4, we concluded that as long as the angle was kept under 30 degrees, then the angle did not have an effect on the period of the pendulum. our second independent variable is mass of the pendulum. again we hypothesized that the mass would not impact the period of the pendulum, this time no condition constraints were specified for the mass; however the angle was kept under 30 degrees. data from figure 5 shows that a straight horizontal line can be drawn such that it passes through each error bar which again allowed us to conclude that our hypothesis held and that the mass of the pendulum had no impact on the period. our 3rd independent variable was the length of the string. this time we hypothesized that a longer string would have longer periods. figure 7 best shows that as the length of the string increases, so does the period.this can be concluded because the error bars are very small and do not overlap. thus validating our hypothesis.
+
+
+
+	the theoretical model of a pendulum’s period can be described as, . plugging in these values gives the equation  which when compared to our experimental equation of  the two values appear to be very similar. minor differences in these values can be accredited to error. figure 6 depicts our experimental equation and shows that the line increases like a power function with very small error bars. compared to figure 4 and 5 which depicted angle and masses effect, their equations are very far off from the theoretical equation and do not show the same power growth. 
+
+
+
+	for figures 4, 5, and 6 depicting the effect angle, mass, and length had on a periods pendulum, data points seem to fluctuate randomly, rather than a continual bias in a single direction, implying that random, rather than systematic, error seems to affect these data sets.
+
+if the experiment was to be repeated, random error could be reduced by limiting the amount of human activity and replacing it with more consistent mechanical devices. this allows experiments to be repeated much more consistently. some specific solutions for this experiment could be recording the pendulum’s swing and carefully determining the frame where the pendulum has reached the end of its period, in order to obtain a more accurate value for the length of the period  and creating a mechanical release system for the pendulum which will not impart an initial velocity to the pendulum and will help control the angle at which the pendulum is released. systematic error could be reduced by using very precise measurement tools.
+
+
+
+	some of the constraints within our experiment were that the angle must be kept under 30 degrees, that there is minimal to no air resistance affecting the pendulum, and that friction within the system is negligible.

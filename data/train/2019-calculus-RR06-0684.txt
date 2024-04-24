@@ -1,0 +1,3 @@
+Conclusion: 
+ Through the completion of this lab, the objective of finding the correlation between the acceleration and mass of a system was carried out. By collecting data of multiple different trials while only changing one variable at a time, we were able to determine that there was a positive correlation between the acceleration and mass of the system. Plotting the data into Microsoft excel and determining the line of best fit allowed us to come to the conclusion that the Acceleration and the weight in Newtons of a system are linearly proportional. This is characterized by the equations is 
+$y=3.1437 x - 0.246$			$y=2.8 x-0.0371$

@@ -1,0 +1,21 @@
+conclusion:
+
+the purpose of these two labs was to develop mathematical models which describe the behavior of a real system (lab 05) as well as to develop an understanding for each variable and numerical value included in the model (lab 06).
+
+although most of the mathematical modeling was done in excel, we were able to plot linear and power lines using the data collected from both of the experiments in lab 05 and the experiment in lab 06. using those lines we created a mathematical model based off of the line of best fit on the graph. as you can see in the graphs from those experiments, posted above, all of the data was fit with lines so that we could determine a mathematical model from them. 
+
+
+
+
+
+
+
+these were the mathematical models of other groups. (first is group 2, second is group 6)
+
+these helped us realize that the changes and results that we were collecting were universally being collected. that means that the other teams’ information supported ours and therefore made us more confident in what our information included. 
+
+4. there was random error involved and possible systematic; human reaction speed, timing of the sensors (possible systematic), accuracy of the sensors (possible systematic), strength of magnets (possible systematic). we tried to minimize these errors by readjusting the magnets, and by testing the same processes over and over, taking the average, to eliminate the randomized error.
+
+5. the equipment we used, especially the magnets, were not always 100% accurate. that being the case, there would be some variability among results if someone else was to do it at another lab and using different equipment. 
+
+6. our experiment supported newton’s second law because we never changed the mass of the system, and because of that, the acceleration was always directly impacted by the change in force. (negative force applied by the magnetic friction). therefore “f” did equal “ma”.

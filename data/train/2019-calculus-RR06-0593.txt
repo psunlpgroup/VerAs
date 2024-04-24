@@ -1,0 +1,17 @@
+discussion and conclusions
+
+research question: what affects the acceleration of a sliding system?
+
+as the mass of the hanging weight increased, the acceleration of the cart decreased. this can be seen in graph 2, where the line of best fit is decreasing. this means that the changing of the mass of the hanging weight is negatively correlated to the sliding system. the error bars on the points of the graph are very small, so the claim is backed by the graph.
+
+another group’s results refute our group’s results, as the show an increasing formula for that line of best fit, whereas ours was decreasing. their equation was 2.8678f + .0906. 
+
+the theoretical model for this experiment is that acceleration is equal to the force applied divided by the mass of the system. the mathematical model $a=0.939 - 1.2272 m$ supports the theoretical model because it as the mass increases, the acceleration would decrease in both equations.
+
+the enhanced theoretical equation states that acceleration is equal to the force applied divided by the mas of the system plus the external force divided by the mass of the system. the mathematical model supports this because the additional force does not make the data stray from the line of best fit.
+
+based on the data collected in this lab, a heavier string would increase the mass of the system and therefore decrease the acceleration of the cart.
+
+there could be random error in the experiment because the mass could have been hanging from an inconsistent height from the pulley.
+
+one constraint of the experiment was the number of trials that could be taken due to a limited amount of time in the lab. more trials for the experiment could have led to different results.

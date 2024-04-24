@@ -1,0 +1,11 @@
+conclusion:
+
+what impacts the period of a pendulum?
+
+
+
+random errors would cause 𝛔 to become larger, since they would be making the spread larger, and they are directly related. systematic errors would not affect 𝛔 since it would move the mean, along with the spread. it would move the mean because systematic errors are constant and affect each data point the same amount.
+
+
+
+constraints is  not enough research was done to prove whether or not our work was valid.

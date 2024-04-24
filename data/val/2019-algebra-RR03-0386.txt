@@ -1,0 +1,17 @@
+discussion and conclusion
+
+a. what impacts the period of a pendulum?
+
+b. the three experiments above address that weight, length, and angle of release of a pendulum have an affect on its period. it was claimed that an increase in the length of the pendulum would increase the period, that increasing weight, would decrease the period, and that increasing angle of release would increase the period. as shown from the graph above, only length of the pendulum has any noticeable effect on the period of a pendulum. 
+
+c. from our data on the how length of a pendulum affects its period we constructed a linear mathematical model to describe the period of a pendulum to be 0.01x+1. a linear mathematical model was chosen as the points line up best on a straight trendline. the is further reinforced by the r2 of 1. 
+
+the theoretical model for the period of a pendulum is shown in the figure below 
+
+
+
+this is very different from what we had obtained from our data. this may be because the theoretical model takes gravity into account, while ours does not. 
+
+d. random error was mostly likely present when obtaining the time. to obtain time, we used a stopwatch to measure the time that it took for the pendulum to complete a period. reaction time would in stopping the stopwatch is where our random error would have come from. this can be reduced simply by taking more measurements and determining the average.
+
+e. one constraint that could have limited the generalizability of our results could have been ho the pendulum weight was attached to the string of the pendulum. the way that these two objects were attached was did not make it as stable as other pendulum cold be.

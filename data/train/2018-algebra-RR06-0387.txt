@@ -1,0 +1,19 @@
+
+discussion
+
+for this lab our goal was simple, using a series of bobbers and an air track we wanted to test if applied forces had an affect on a system’s acceleration.
+
+
+
+the experiment directly addressed the research question as an applied force created by the hanging weights affected the acceleration of the car on the track’s system. the graph above had a direct relation to our studies because as the weight of the hanging mass slowly increased the force acting on the system grew too thus increasing the acceleration of the system in a mostly steady rate.  the mathematical model produced in the graph show a positive slope goes to prove that the applied force does have an effect on our system’s acceleration
+
+
+
+comparing our findings to two other group’s findings allows us to see that our research had similar results to the other groups, both their data and our data show a direct result on acceleration with both of our graphs having positive slopes and both of our data’s showing increasing acceleration as the applied force increased.  if more data were to be included from other groups, it can be inferred that their data would mostly match what we got too.  while the data wasn’t 100% similar to other groups our results were the same in terms of the graph and it’s slope
+
+
+
+the theoretical model made earlier and the experimental model had very distinct similarities, while the slopes don’t perfectly a-line. they share the basic shape and a positive slope all together.   besides the force of the hanging weight, two other forces could have been present in the experiment.  there was the potential friction of the track working against the system and then there was the force of gravity working down on the hanging weights.  in the experimental model the mass of the hanging weights appeared in the force (newtons) because to get the numbers the mass was multiplied by the constant gravity ex is  9.8*0.491
+
+
+From our lab we can say our results have been a success as we were able to prove that applied force has a direct affect on the acceleration of the system.  based on it as the applied force increased so did the acceleration but that doesn’t entirely mean that applied force will always increase acceleration.

@@ -1,0 +1,10 @@
+conclusion:
+the purpose of this lab is to develop mathematical models of a system as well as study the impact of changing masses in different ways.
+
+lab 05- the first experiment proved that as the hanging mass increases, the acceleration increases. the second experiment proved that the greater the force on the cart, the smaller the acceleration was. lab 06- as the tilt of the track increases, the acceleration decreases. 
+
+other groups found similar data to us.
+
+ 
+
+errors may have occured while measuring the mass of the bobbers, or possibly confusing which bobber had what mass. we avoided this by labeling the bobbers and applying them to the system in order.

@@ -1,0 +1,18 @@
+discussion and conclusion.
+
+our goal for lab 5 and 6 was to find out the different correlations that exist between acceleration, mass and changing forces in the system. we tried to find out variable mass could affect the acceleration of the system that as the mass increased the acceleration decreased with time. moreover, in another situation where we kept changing the force, we found that the same relationship i.e. acceleration decreased with decreasing force. also, in lab 6 we found that magnets had no affect on the system.    
+
+
+
+the scientific model that we got for lab 5 was power versus increasing speed is $y=4.6491 x - 0.01$ and our r^2 esteem which was 0.9998. the trial display bolsters newton's second law since it exhibited how the mass was the main factor in the power connected that changed the increasing speed of the framework. c1 speaks to the power, c1 is 2… . the qualities are near the given parameters of the lab. (our c1 esteems are around 0.6 in light of the fact that we constantly kept a 50-gram weight on the pulley) m/s. c2 is whatever iv you were trying, floating tilting c2 was reliant on how much tilt, and positive or negative in the event that the pulley was at the lower end or the higher end individually. for our investigation c2 was in close contact.
+
+
+after reading the results from the above two groups, we concluded that as we increased the mass the acceleration decreased and as we increased the force the acceleration increased. we found the similar results in our experiment as well. moreover, we noticed that the group 2 had very close r square values which gave them more accurate results. 
+
+ we found that the largest error was 0.008. other errors that could be possible can be systematic errors due to the magnets in lab 6, because we found that the cart went after when we brought the magnets below. this happened with all the 8 different trials, therefore concluding that it was a systematic error. these errors could be improved by used well built bar magnets as our bar magnets were a little bit tilt. a variable that could be changed is the length in which the cart has to accelerate. this would be accomplished by increasing the string length and allowing the cart to accelerate over a longer distance.
+
+
+
+there were certain constraints like the frictional resistance on the beam and the air drag. we had no control over these factors and could only make the best results by conducting the experiments a couple of times. 
+the two experimental model are fairly consistent with the newton law $f= m a$ as we found the direct correlation between the three quantitates in our experiments. as the law suggests, mass is inversely proportional to the acceleration of the body, we found the same in our experiment i.e. as we increased the mass the acceleration decreased. on the other side, as the law says that the force is directly proportional to the acceleration, we found that as we increased the force the acceleration increased.  
+

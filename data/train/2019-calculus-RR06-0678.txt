@@ -1,0 +1,42 @@
+discussion and conclusion
+
+	discussion:
+
+	research question: how does the acceleration of a system change when either the mass of the hanging block, the mass of the system, or the friction of the system changes?
+
+	when the hanging weight/force applied was varied, the experiment tested whether or not the mass of the hanging block affects the acceleration of the system. based on the fact that our graph for experiment 1 on feb 19 shows a significant upward slope and the error bars do not overlap, it is reasonable to claim that as the force applied increases, the acceleration also increases; they are directly proportional.
+
+
+	
+
+	similarly to group 2, group 3 also gave their formula which shows again that acceleration is nearly proportional to the force applied. friction again causes the slight external force that is seen in the second constant in the equation.
+
+	the theoretical equation for the acceleration of the system with a single force is 
+
+	$a = \frac{f}{m_{system}}$
+
+	our experimental model is
+
+	$a = 3.3461 f – 0.0277$
+
+	our model supports the theoretical model because the first constant in our model is the same as 1/(mass of system) in kg. the mass we used was less than 1 kg, so a constant of 3.3461 makes sense. the second constant in our model does not negate the theoretical model because the theoretical model does not take into account any outside forces that may be present, but experimental models show those outside forces.
+
+	the theoretical equation for the acceleration of a system with multiple forces is is 
+
+	$a = \frac{f}{m_{system}} +\frac{f_{external}}{m_{system}}$
+
+	our experimental model is
+
+	$a = 3.3461 f – 0.0277$
+
+	our model greatly supports the theoretical model because the first constant in our model is the same as 1/(mass of system) in kg. in this case, the second constant in our model fully agrees with the theoretical model because the theoretical model does take into account outside forces.
+
+	if the string used to connect the cart to the weight is a heavy string, then the mass of the system would increase as well as the force applied as the cart moves. the further the cart is from its initial position, the greater the force applied will be because the heavy string hanging off the edge is getting continuously longer. therefore, the acceleration equation would be a function that still has a constant mass, but would have a variable force applied based on the length of the string hanging off the edge plus the mass at the end of the string. the equation would look like is 
+
+	$a = \frac{x+m_{hang}}{m_{system}}$
+
+	where a is acceleration, x is mass of the string based on length, and g is the acceleration due to gravity.
+
+	conclusion is 
+
+	as mentioned before, if the experiment could have been performed in a perfectly frictionless environment, the experimental model would have better fit the theoretical model for acceleration due to a single force, but because the track and the sensor were not completely frictionless, there was a slight outside force that affected the model. if the experiment could be conducted where the sensor was frictionless and the air pushing on the cart by the track exerted the same force as gravity, then the external forces may have been eliminatetd.

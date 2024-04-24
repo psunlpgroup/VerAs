@@ -1,0 +1,15 @@
+discussion and conclusion:
+
+at this experiment we tested three variables could have some relation with the period of a pendulum. at first we could not determine which variables affect on the period of the pendulum because the data values were not accurate enough. the first test was the weight of the pendulum which we increasing the weight so that would increase the force of gravity. from the graph the test was not showing any effect of the period of the pendulum. so we can infer that the weight of the pendulum does not affect on the period of the pendulum. second, we tasted the angle of the release. so by increasing the speed that would decease the overall period time. based on the graphs there is a relationship between these two factors. finally, we tasted the length of the string which we found out that if the length of the string increases the period of the pendulum will also increase. the time between swings would be longer by increasing the length of the string.  we used the photogate to reduce the error bars which is remove the human error and make the data more accurate. 
+
+
+
+
+we can see that the only variable affect on the period of the pendulum is the length of the string. and the angle of release and the weight at the end of the pendulum do not have any effect of the period of the pendulum.
+
+
+there  was some random error such as there was some error with timing the  pendulum swinging. also stopwatches might have some problem. there was some human error such as incorrect measuring the length of the string and the weight of the mass. this error could be solve by doing more tests or using more accurate tape measure and scale. and also by using the reference point. 
+
+	the systematic error could affect on the data of this experiment. there was some error such as the weight of the mass could be higher or lower than the actual weight. and also the measurement on the tape measure could have some problem. we could have more accurate data by doing the experiment more that one time. 
+
+	finally, we found out that the length of the string was the only variable effect on the period of the pendulum and the other variables did not affect on the period of the pendulum.

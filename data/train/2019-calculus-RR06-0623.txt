@@ -1,0 +1,7 @@
+conclusions:
+
+a very sure conclusion that can be made about the relationship between the amount of hanging mass and the acceleration of a system is that the more hanging mass, the higher the acceleration will be. 
+
+another conclusion that we can make here is that the more the surface is raised, the more the acceleration will decrease. 
+
+this can be verified by looking at the best fit equations for the lab 6 graphs. each of the multiples of x for each. they are all within the domain of around 2.9, but in a perfect world they would all be the same. the only thing that changes with those equations is the constant that is subtracted off the acceleration for each value. that constant increases more and more the higher the surface is raised.

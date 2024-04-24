@@ -1,0 +1,16 @@
+conclusion:
+this lab was done to solve the research question on whether or not a change in angle, weight, and height had any affect on the period of a pendulum. for each of the three variables, an experiment was ran where, while the other two remained constant, the variable in question was changed and timed in order to see a correlation between the variable and the period. in the first graph, average period vs. weight, the data’s uncertainty overlapped and showed no correlation between weight and period. in the second graph, average period vs. angle, the data showed no correlation as well, showing that angle did not affect the period of a pendulum. the last graph, average period vs. height, shows a distinct increase in period as the length of the string increases. this can be seen again in table 6, where the average time increases as the string length increases, proving a direct correlation between height and period.
+
+
+
+	the theoretical model for a pendulum is $p=2 \pi \sqrt{\frac{l}{g}}$ where l is the length of the string, and g is the gravitational constant. this model fits our data, because the only variable out of the 3 in the equation is the length, or height, of the string showing that the only factor that affects the period is in fact length. this fits our data because as seen in tables 1 and 2, as weight and angle increase, there is no clear affect on the period. unlike table 3, which shows a clear increase in period and height increases, thus fitting the theoretical model.
+
+
+
+a possible factor not tested by our experiments is air resistance, which may have a major effect on the period of a pendulum due to energy loss. an experiment with the apparatus in figure 4 inside of a vacuum chamber could be conducted, while changing the amount of air inside the chamber and keeping the angle of release, mass, and length of string constant to determine the period.
+
+an improvement to the experiments conducted would be the ability to determine the center of mass for the weight of the pendulum. the length of the pendulum is determined from the distance from the pivot point to the center of mass of the pendulum, which was not determined through this experiment. our group measured the distance from the pivot point to the bottom of the weight, and while we may have gotten precise numbers, the accuracy is not ideal. if there is a way in this experiment to determine the center of mass for the pendulum, then the string length would be closer to its true value, and the formula for the trendline would be more accurate.
+
+
+
+	the biggest constraint in this experiment that would limit the generalization of our results was that we were unable to perfectly measure the height of the pendulum as well as the time which makes the data not perfectly fit the model, negatively affecting the credibility of the experiment.

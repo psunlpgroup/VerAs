@@ -1,0 +1,53 @@
+discussion and conclusion:
+
+throughout the completion of this lab, the objective of finding the effect of increased mass on m1 (cart) compared to the m2 (hanging mass) and how the acceleration changes were accomplished. 
+
+the three experiments allowed us to develop an excel spreadsheet with the points and see how each of the graphs looked and understand what the slope and line of best fit were. from the first lab and the second lab we can see on the graphs with the systems of the same mass that the graphs are linear and have very strong correlations. we can conclude that a system with the same amount of weight, but different iv can have linear accelerations. 
+
+$a=2.8$3  f - 0.0053
+
+
+
+
+
+
+
+9.52 mm (front end)
+
+
+
+6.25 mm (front end)
+
+$a=2.862$ f - 0.0358
+
+
+
+
+
+
+
+12.68 mm (back end)
+
+25 mm mm (back end)
+
+$a=2.8$16 f + 0.1101
+
+
+
+
+
+
+
+339 grams
+
+
+
+340 grams
+
+the information from these groups helps contribute to my understanding of the numerical models, because it shows how similar a lot of our comparisons are. i see that the two groups have very similar equations that represent the acceleration. this data simply represents that our conclusions for the system are similar, when the tilt is the iv.
+
+systematic errors could include not releasing the cart at the correct point or inaccurate mass measurements. the systematic errors could have affected the results, because the distance from where the cart was released could have changed the acceleration. the mass measurements could have been accurate, considering we have an approximate weight for the bobbers. a possible random error could be the pump not outputting enough air in a certain location, which alters the friction on the cart and changes the acceleration.
+
+the constraints are the amount of time we have during the lab, tools, and amount of testing. we have a very limited amount of time in the lab and we can only do a limited amount of testing. tools are also limited, which would allow us to accurately obtain our results. 
+
+the two experimental mathematical models are consistent with newton’s second law, because the acceleration of the system is affected by the force acting on it by the net force from the hanging mass and the mass of the object.

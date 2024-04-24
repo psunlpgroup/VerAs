@@ -1,0 +1,14 @@
+
+
+discussion and conclusion:
+mass of bob- our experiments show there is no correlation between the mass of the weight in a pendulum and the period time of the pendulum’s swing. while the results of the trials for different weights were not exactly the same, there is significant overlap between the error bars of all the data. the points that outlie the most (ma$s=50100$ grams) only outlie by 0.05 of a second, an error explainable by a small random error in human operation, such as measuring the time incorrectly by a small margin. the lack of correlation between the independent and dependent variable indicates our prediction is correct- that the mass of the bob of a pendulum has no effect on the period of a swing of a pendulum. 
+
+arm length- in contrast to mass of bob and angle of release, our experiments showed there is a correlation between arm length and the period of a pendulum. as the length of the arm of a pendulum is increased our experiments showed the time of one period of oscillation increases at a logarithmic rate. the difference between the measured results is far outside of the standard deviation indicating that the resulting correlation is probably due to an actual correlation between the independent and dependent variables. the arm length of a pendulum has a logarithmic correlation to the time of one period of a pendulum.
+
+angle of release- our experiments also show that there is no correlation between the angle of release of a pendulum and the period time of a pendulum’s swing. the results of the various trials are all within the previously calculated margin of error of ±0.035668 seconds. therefore, all variation in the data is more likely due to chance random errors than due to some sort of correlation. the lack of correlation between the independent and dependent variables confirm our prediction and show that the angle of release of a pendulum does not affect the time of a period of the pendulum. 
+
+theoretical pendulum period equation is 	$t=2\pi \sqrt{\frac{l}{g}}$   
+
+  when tis period length (sec) l is arm length (m) g is acceleration of gravity (m/s2)
+
+this equation represents period measurements taken in meters, but it can be made to represent centimeters by writing gravity as -980 cm/s2 rather than -9.8m/s2. once the equation is adapted to fit the units we measured in the theoretical pendulum equation fits our period vs. length chart.

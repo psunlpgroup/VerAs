@@ -1,0 +1,17 @@
+discussion and conclusion
+
+
+
+the purpose of the lab was to develop mathematical models that describe the behavior of a real system, and to develop an understanding for each variable and numerical value in the model.
+
+for the experiments we tested different increments of the ivs (force, mass, angle), we then took this data and graphed it to get our mathematical model. from the graphs you can see that as the force increases, the acceleration increases in the positive direction, the same goes for the graph of angle vs acceleration. for the graph of mass vs acceleration, we see that as the mass increases, the acceleration decreases in the positive direction. this supports our prediction of the behavior.
+
+for our equation we have $a = c1 f + c2$. where c1 is 1/mass of the object, c2 is the force beyond the applied force/hanging force. so when the applied force is 0 there is the force beyond the system remaining.
+
+the graph from the ta of angle vs acceleration supports our prediction and helps show the same equation and lets us see that our equation still represents c1*f + c2, where c1 is 1/mass of the object and c2 is the force beyond the applied force/hanging force. we see that our c1 on our graph of force vs acceleration is close to 1/mass of the object, while on our graph of angle vs acceleration we see that our c1 is a little less than 1/mass of the object. this could be that the angle of the track causes the c1 to be less than if it were on a flat surface.
+
+random error and/or systematic error could have been present in our experiment. to reduce the random error, we could have a machine turn the air track on and off when needed. to reduce any possible systematic error that would be caused by the computer program and track being uncalibrated, we could either recalibrate them or use the offset in our calculations.
+
+the generalizability of our results may have been limited by the time we had to perform the labs. if we had more time to perform the labs, we may have been able to perform more tests to make our model and results more generalizable. we were also limited in the amount of weight and the number of blocks for the angle that we could use. if we had more weight to test, we could make our model and results more generalizable. the same goes if we had had more blocks to test more angles.
+
+our mathematical models are consistent with newton’s second law, because as the force increase the acceleration increases, and as the mass increases the acceleration decreases. this is consistent with newton’s second law where force and acceleration have a proportional relationship, and mass and acceleration have an inversely proportional relationship

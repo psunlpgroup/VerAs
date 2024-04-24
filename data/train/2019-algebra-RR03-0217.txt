@@ -1,0 +1,11 @@
+discussion and conclusion
+
+we originally set out to find out what impacts the period of a pendulum.
+
+our results from the mass vs period show that the period is indeed affected by the mass, with a positive correlation. we feel that the last run with 210g was due to human error and should be excluded from our results because it contradicts the rest of the graph.  
+
+the results from the angle vs period experiment also show that there is a positive correlation between the angle of release and the period, meaning that the angle does affect the period, making the angle one possible answer for our research question.  
+
+lastly, our experiment on length vs time showed that there is a relationship between length and period.  this resulted in a positive correlation and also answered our research question by showing that the length of the string impacts the period of a pendulum. the relationship we found was from the formula $y=0.4761 x^{0.3918}$ where y is the time in seconds and x is the length in inches.  this experiment in lab 01 may have been affected by human error in the start and stop times of the stop watches, along with miniscule variations in the angle of release, although we believe that these would cause very small changes as compared to the error with stopwatches.  the experiment in lab 03 is much less susceptible to random error because of the computer aided time measurements and although systematic error is possible, the readings were found to be precise.
+
+our main constraint was time in that we had only two hours to perform each experiment, so during lab 01, we were limited to only testing 3 times for each independent variable.  we also assumed that air resistance and elasticity in the string were negligible.

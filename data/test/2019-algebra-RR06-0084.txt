@@ -1,0 +1,21 @@
+conclusion:
+
+the purpose of lab 05 was to develop mathematical models that describe the behavior of a real experimental system. the purpose of lab 06 was to understand each variable produced in the model from lab 05. 
+
+
+
+the three experiments our team conducted led to different mathematical models as follows is  the first experiment we performed in lab 05 involved changing the mass of a hanging object to change the acceleration of a cart while maintaining a constant mass throughout the system. this resulted in an equation that had a coefficient on a variable of “x”, which represented the changing hanging mass. changing the hanging mass directly changed the resulting acceleration. the second experiment our team performed in lab 05 involved changing the mass of the cart which meant changing the overall mass of the system while maintaining a constant hanging mass. this resulted in another mathematical model that had a coefficient next to a variable “x”, which represented the changing mass of the cart. changing the mass of the cart directly changed the resulting acceleration, just like in the first experiment. the third experiment our team conducted was in lab 06 and it involved testing the change in acceleration of the system by testing different hanging masses under different levels of friction. the resulting equations had larger coefficients as we increased friction, but smaller exponents on the variable “x”, which represented a change in the hanging mass. the “y” value in each mathematical model represented the resulting acceleration after each change of the independent variable. 
+
+
+
+
+
+our group found that other groups came to the similar conclusions. as friction was increased, the mathematical model producted by the experiment changed. however, changes in the equations were rather proportionate to changes in friction of other independent variables. this led us to conclude that the numerical values produced by our experiments our circumstantial to our specific lab setting. 
+
+
+
+as far as our team is aware, we did not make any prominent systematic errors. in fact, the nature of the experiment done in lab 06 could be compared to testing intentional systematic errors and studying the effects of such errors on the resulting mathematical models. as far as random errors, our team concluded that any inconsistencies in our data are a result of some sort of random error caused during our procedure. this could include not securing weights correctly or misinterpriting sensor results in an isolated incodent. no obvious random errors stuck out to our team, but we are sure that some were present. 
+
+constraints that limit the generalizibility of our reults are the lack of change in scale of our testing. with the resources provided to us, our team was only able to conduct experiments that differed mass by a few hundred grams. while being precise is helpful in producing accurate data, it is also beneficial to conduct experiments over a broader range of one vairable to see large scale effects and behaviors. 
+
+our two experimental mathematical models are consistent with newton’s second law because of one consistent behavior. change in any variable of mass, force, or acceleration will result in a change of at least one of the other three as well. a change in acceleration cannot occur without a change in either force or mass, just like mass cannot change without changing acceleration or force. the models we produced along with newton’s second law all conclude that within a system, force, mass, and acceleration are all related to and effected by each other.

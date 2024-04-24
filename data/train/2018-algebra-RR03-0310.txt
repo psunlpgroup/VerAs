@@ -1,0 +1,11 @@
+discussion and conclusion: 
+
+	the purpose of these experiments was to: 
+
+1) identify if mass, length of string, and angle of release influenced the period length of a pendulum
+
+2) identify and correct errors associated with the recording of pertinent data, and
+
+3) to derive the mathematical relationship between any independent variable found to influence period length of the pendulum
+
+in the first set of experiments where the effect of each independent variable was explored, the only one found to have a significant impact was the length of the string. each experiment had a significant amount of possible errors, most of which were random and related to human error. these were kept to a minimum by diligent and careful lab work. the standard error of the stopwatch was also calculated and factored into the standard deviation used to calculate the error bars on each graph. in the final experiment, form which the mathematical relationship between the length of the string and the length of the period was derived, an electronic photogate was used to measure the period. this significantly reduced the possibility of random error. the equation derived from the collected data was a power function $y=0.2714 x^{0.444}$. this was relatively close to the actual equation for the relationship between length of a pendulum and the period which is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. the experiment was successful in obtaining the influencing variable of length and deriving the equation of its relationship to the period.

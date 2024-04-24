@@ -1,0 +1,9 @@
+conclusions
+
+both groups conclude that as the slope of the track changes so does the equation for acceleration. which when compared to what would happen using newtons law this aligns because it shows a change in the y intercept, which is true because the force of gravity of m1 would then affect the acceleration of the system but would be a constant force normal of x of m1 divided by the mass of the system. this contributes to the overall understanding of the mathematical models because based on the conclusions made and the conclusions made by other groups show that these forces caused by something other than m2 affects the y- intercept.
+
+d. systematic errors include friction and the air track pushing m1 in a direction if there is an angle in the track. some random errors include the measurement of the pulley and the air track having differences in motor power, startup time and such. random error can be reduced by repeating more trials. the systematic errors can be reduced by making sure the track is level and since it is an air track friction is already greatly reduced.
+
+e. these findings of when the mathematical model is true is limited to when the system mass is kept constant and when the track is frictionless and when the string connecting the masses is nearly massless.
+
+f. when there is no other force acting on the system the equation for acceleration is (m2*g)/(m2+m1). which is talked about in previous paragraphs and how this aligns with the concluded mathematical models. when there is another force (assuming acting against the force created by m2) equals (m2*g-f)/(m1+m2). which again was talked about previously in how this aligns with the mathematical models concluded.

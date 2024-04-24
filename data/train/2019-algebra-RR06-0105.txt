@@ -1,0 +1,18 @@
+conclusion:
+The main purpose of this lab was to find out what aspects of a system will affect the acceleration, more specifically to develop mathematical models which describe the behavior of lab 05 and to develop an understanding for each variable and numerical value included in lab 6.
+
+The three experiments that were conducted in the two labs led to the mathematical models above.  In the first lab one of the models that was found was a linear function and one of the models that was found was a power rule function, the reason being is that in the first function when you took one of the bobbers off the cart and added it to the force applied it creates a linear positive graph.  Whereas for the second graph when you take the bobber off the cart but do not add it to the force applied it creates an exponentially growing graph.
+
+
+
+
+
+
+
+From looking at the other groups information it helps me recognize the other side of the lab 6 which is the incline, decline, and no slope. I can use this information to notice that the incline crosses at the negative y-axis, the no slope crosses at the point (0,0) and the decline crosses at the positive y-axis.  When looking at other groups that did the same experiment as my group in lab 6 I can confirm that the weights in the middle should cross at the point (0,0), when the weights are at the top it should cross the negative y-axis, and if the weights are at the bottom it should cross through the positive y-axis.
+
+There was a minimal area for error in this experiment but there is always an area for error in every experiment.  For this lab some of the random errors included starting the graphing machine too late and possibly not taking enough points into consideration to find the mathematical model.
+
+There were not many constraints in either of these experiments but one of the biggest ones that came up frequently was the fact that there was no exact way to start and end the computers position vs time graph so when you started too early or ended too late it would sometimes take unnecessary points into the equation.
+
+For our two mathematical models that we found we can relate them both to Newtons second law of motion.  For the first equation I would say that the second law of motion directly correlates to the equation because the acceleration of the object relies on the force that is applied on the object so when you take a bulb off the cart and add it to the force applied it increases the acceleration of the system.  For the second equation I would say that Newtons second law does not apply because of the fact that you are not changing the force applied when you take a bobber off the top and completely remove it from the mass and do not change the force applied.

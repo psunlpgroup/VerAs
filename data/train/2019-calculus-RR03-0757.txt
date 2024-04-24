@@ -1,0 +1,13 @@
+conclusion:
+
+mass and how it affects the length of the period: we discovered that mass does not affect the length of the period.  the slope of the “mass” graph shows a small value and the standard deviation was very low too. this means that there was no change in mass will change the length of the period.
+
+string length and how it affects the length of the period is  we discovered that the length of the string will affect the length of the period. it is very evident in the graph that we used the photogate with. with the power curve, we could see that when the length of the string got bigger so did the period. the standard deviation showed that it was accurate as well. 
+
+drop angle and how it affects the length of the period is  the drop angle does not have an affect on the length of the period. there is a small correlation between the two, but it is too small to make something out of it. angles lower than twenty degrees have basically no difference between them.
+
+period equation for the pendulum is  our equation was $t=2.0042 l^{0.44}$ this shows us that we had the right idea but we were not on the mark with our hypotenuse.
+
+errors is  we had both systematic and random errors, our random errors consisted of not measuring the right angle, not measuring the right length, and not stopping the stopwatch right. a systematic error we had was we tied the string in a way that it wasn’t straight. so, every time we did it, there was error. the photogate is a great idea of how to get rid of error.
+
+constraints is  a constraint we had was we could only use angles that were greater than 20 degrees. this was because length barely affected the length of the period.

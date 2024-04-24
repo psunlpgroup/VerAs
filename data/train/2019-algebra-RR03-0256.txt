@@ -1,0 +1,13 @@
+discussion and conclusion:
+
+a). the question that the experiment was trying to solve was what directly impacts the interval during a pendulum swing. we found out that the angle and mass have no effect on the pendulum. 
+
+b). during each experiment, each variable was tested against how it effects the interval of the pendulum swing. the angle and the mass of the pendulum resulted in a similar correlation. the data when testing for the angle and mass were both straight lines meaning the was no effect played on the pendulum. the length vs time graph though showed different results. the longer the rope the longer the pendulum interval resulting into a positive correlation. 
+
+c). the theoretical mathematical equation can be represented by 
+
+mathematical is  $t=1.54099570344125$   $t=2$ time the square root of 0.434*0.5^.5 *2.0836    t is 1.2124 s
+
+these values are close in time.
+
+d). some error could have played a part in the experiment both random and systematic. random error consists of starting and stopping the time. along with the angle being imperfect each interval as well. the angle is measured close to what the previous was but not precise. systematic error improved in this experiment using the motion sensor to get more accurate readings.

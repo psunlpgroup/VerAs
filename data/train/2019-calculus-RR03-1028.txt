@@ -1,0 +1,40 @@
+discussion: 
+
+the data collected from experiment 1 weight as iv proved our hypothesis correct, since this was the first experiment we had a few random errors that were likely due to random or systematic error. however, the data does still show that the change in weight has little to no (negligible) effect on the period of a pendulum, meaning the weight really has no clear effect on the period of the pendulum. the error bars used are a 1% of the vertical axis representing the error that may be had when recording time in respect to human error and reaction times. they all overlap, once again proving there is no negligible change.
+
+
+
+experiment 2 for lab 01 is  change in angle of release as iv
+
+	the second iv to test is the angle of release as the iv. the weight of the pendulum was kept at a consistent 50 grams and the length of string stayed the same at 66 centimeters. the angle of release iv was measured with a protractor kept parallel to the arm of the stand for accuracy. the stand arm was not moved or adjusted in any way between experiment 1 and 2.
+
+
+
+the change in the angle of release affects the length of the period.
+the data that was collected from experiment two with the angle of release as the iv backs our hypothesis as increasing the angle of release in respect to the stand’s arm decreases the pendulum’s period. this was interpreted from the negative slope of the graph. the error bars used are a 1% of the vertical axis representing the error that may be had when recording time in respect to human error and reaction times. this experiment had a clear and defined difference in the effect on the pendulum in respect to the angle.
+
+
+	the last independent variable that was tested was the length of string as the iv. the angle of release was kept consistent by measuring each pass at 40 degrees parallel to the stand’s arm. the weight was un-changed and was 50 grams as used in the pervious experiment. the length of the string was changed by wrapping the string around the stand’s arm to reduce it’s length. before the pendulum’s period can be measured the length of string was measured after each change in length. the length started at 66 cm, then was decreased to 53 cm, and then to 34 cm. 
+ 
+(should contain iv and dv so that it is a testable hypothesis) 
+
+ 
+
+the change in the length of string will change the period of the pendulum 
+
+the longer the length of the string the longer the period of the pendulum will be.
+the data that was collected from experiment three with the length of string as the iv backs our hypothesis as decreasing the length of string decreases the pendulum’s period. this conclusion was interpreted from the negative slope of the graph. the error bars used are a 1% of the vertical axis representing the error that may be had when recording time in respect to human error and reaction times, these error bars are much harder to see because of the data being so close to the line of fit with little to no deviation of it’s slope. 
+
+
+	with each experiment that was conducted there are different errors that were experienced. the first error that is the most notable is a type of random error, which is human error. whether its releasing the pendulum incorrectly, reading the protractor wrong, errors in timing or even errors in recording the data. the most prominent human error was the timing. the timing with he stopwatches was often inconsistent and off and can vary between people. to reduce this human error, we had two teammates record the pendulums time and then averaged out their results. this error was also eliminated once we used the machine to time to period swing in lab 03. reducing error in the experiment helps in accurately answering the question of the lab is  “what affects the period of a pendulum?” and can help other groups understand our data when comparing our methods. 
+
+	the data collected in lab 1 with the three iv’s is  length, weight, and angle of release, was conclusive to our hypothesis but did not support the mathematical model that fits a pendulum. using our mathematical model for the period of a pendulum, we predicted that the period for a pendulum with a string of .5 meters will be between 1.4 and 1.5 seconds. we can make this assumption because one of our string values, .51 meters, is very close to .5 meters and gave us a period of about 1.47 seconds.
+
+
+
+in this lab we essentially repeat the experiments from lab 01, just this time with a device rather than a stopwatch. sydney still swung the pendulum which this time micah started and stopped the machine and ross and christian recorded data. the setup was exactly the same as listed lab 01. 
+
+
+the data that was collected from experiment three revised with the length of string as the iv backs our hypothesis when further tested as decreasing the length of string decreases the pendulum’s period. this was interpreted from the negative slope of the graph. the error bars used are .01% of the vertical axis representing the error that was determined by the use of the photogate. these error bars are much harder to see because of the accuracy of the photogate. the equation for the graph is $y=1.5892 - 0.0284 x$ the y value is the period of the pendulum measured in seconds. the x value is the length of string measured in centimeters. the r^2 of the graph is 0.885 indicating that the line of fit is close to one, which states that the line of fit is a valid representation of the slope of the data.
+
+	overall, we used these experiments to not only find which ivs effected the period of the pendulum, but how they effected them too. we based the lab on our research question, which iv actually impacts the period of the pendulum? as found in the first two labs, the length of string to be the only really effector to the situation. however, our previous labs had numerous random and systematic errors. to try and improve these errors and find values close to the true value to see if our findings were really correct, we used a more accurate system to find the period of the pendulum. through multiple trials and analyzation of information, we found that our original findings were correct, and using a better system just proved it right even more. there was a lower degree of uncertainty which helped to get a more accurate line of fit. factors that may change the period of a pendulum either significantly or significantly is  inaccuracies in release angle, inaccuracies in the timer (negligible when using the photogate). the timer is insignificant, but with the release in angle it can be significant with our error when reading the protractor. another factor may be if the pendulum hits any objects in its path, this however is combated by negating the test where this error occurs. we found that the data and claims from other groups supports the same theories as ours. their equations were not only also linear relationship equations, but also indicated a negatively sloping line, which was the same as ours. this can impact all of our levels of confidence by lowering the level of uncertainty and backing up our overall claims. the theoretical equation for the period of a pendulum is $t=2$ * √(l/g). this would make my prediction correct as acceleration number increases, the overall value will increase. most of the improvements that could be made are within the manual itself, a lot of the explanations are vague when carrying out the experiment. this leads to different interpretations of the procedures that may lead to non-uniform data.

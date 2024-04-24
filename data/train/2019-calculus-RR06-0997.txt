@@ -1,0 +1,24 @@
+discussion and conclusion:
+ the purpose of this lab was to develop mathematical models which describe the behavior of a real system. this was done by doing an experiment to see how acceleration of a system change when the mass of the cart changes and how the acceleration of a system change when the hanging mass changes. 
+
+the other purpose was to develop an understanding for each variable and numerical value included in the model. this was done by doing an experiment to see hoe the acceleration of a system changes when the angle of elevation changes.
+
+
+mass of cart is  the relationship between the independent variable (mass of cart) and the dependent variable (acceleration of the system) is a negative correlation, because the graph has a negative slope. this means that as the mass of the cart increases, the acceleration of the system decreases. 
+
+hanging mass is  the relationship between the independent variable (hanging mass) and the dependent variable (the acceleration of the system) is a positive correlation, because the graph has a positive slope. this means that as the hanging mass increases, so does the acceleration of the system. 
+
+angle of elevation is  the relationships between the independent variable (whether the slope was negative, none, or positive) and the dependent variable (acceleration of the system) the steeper the slope in a positive direction is, the faster the acceleration will be. 
+
+this group tested the same hypothesis as my lab group did. their data was similar and comparable to our data. they used the same three slope scenarios as we did to test the hypothesis. this led to the same conclusion that we found.  this is when the incline changes, so does the y-intercept in the equation.
+
+ 
+
+this group used a different hypothesis. they found out of friction impacted the acceleration. they concluded that friction had a higher impact on the values than the slope would. 
+
+
+
+systematic error could be if the pully system was faulty. the pully could possibly not run smoothly, which would create inconsistent data. random error could be how we measured the masses. we used blocks that we measured the mass of ourselves. this could cause error in the measurements. these errors could be reduced by going through and looking at the pully to make sure that the system isn’t flawed. the other way it could be reduced is by using weights that were weighed in the factory where weighing is more accurate. 
+if we were able to use a system that was truly frictionless, then we would be able to be as accurate as possible in finding the relationships between mass and acceleration and well as relationship between the slope and rh acceleration.
+
+when the mass of a system is increased (the cart mass) the acceleration will decrease, to keep the force constant. for the hanging mass, the acceleration will increase when the applied force is increased, because the mass of the cart remains constant and it needs to compensate for the force.

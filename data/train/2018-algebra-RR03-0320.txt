@@ -1,0 +1,11 @@
+conclusion
+
+
+
+the research question being investigated in this lab is what impacts the period of a pendulum for small swings. through the investigation, it can be concluded that there is no relationship between the mass and the period of the pendulum because the graph of mass versus period shows that as the mass increases, the period remains the same. the same relationship can be concluded for the graph of amplitude versus period as the graph derived for angle versus period also showed that as the angle increased, the period remained the same. the graph for length versus period showed that the relationship between the angle and period of the pendulum are directly proportional. this conclusion can be concluded from the graph because as the length of the string increases, the period increases as well. the theoretical mathematical model is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. my data does not fit with this model because we’re not able to measure the effect of gravity on any of the factors measured in this lab which is required to relate to the mathematical model. there were both systematic and random errors present in the experiment. some systematic errors that were present were incorrect measurement of angles, length and string, not adding the correct amount of weight, releasing the pendulum with different forces, and delayed reaction when starting or stopping the stopwatch. some random errors present were movement of people causing wind to blow on the pendulum and movement of chairs causing vibrations affecting the pendulum. the problem of incorrect measurements and controllable errors were fixed to reduce the systematic errors present and the random errors were reduced by taking the average of repeated measurements and perfecting the techniques used for measurements. 
+
+
+
+
+
+

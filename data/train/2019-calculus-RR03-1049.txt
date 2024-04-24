@@ -1,0 +1,35 @@
+discussion and conclusion
+
+the research question that is being investigated in this lab is, “what impacts the period of a pendulum?”
+
+
+
+for test 1, the impact of mass on a pendulum was tested. the initial hypothesis was that the mass would not impact the period of the pendulum. figure 1 confirms this hypothesis. the time was relatively the same for each mass tested. the size of the error bars indicate that the measurements were very close to each other. this proves that an increase of mass does not equal a longer period.
+
+
+
+for test 2, the impact of strength length on a pendulum was tested. the initial hypothesis was that the string length would impact the period of the pendulum. figure 2 confirms this hypothesis. as the length of the string increases, the time of a period increases. the error bars support this hypothesis by barely overlapping. 
+
+
+
+for test 3, the impact of the angle of the string on a pendulum was tested. the initial hypothesis was that the angle would impact the period of the pendulum. figure 3 rejects this hypothesis. as the angle increases, the period of the pendulum does not increase. the error bars also indicate this by being barely visible. air resistant does impact this experiment as the angle increases but in an ideal experiment, the angle doesn’t impact the period.
+
+
+
+in lab 3, the string length was tested again but this time a photogate was used so the data would be more accurate. this test confirms the test 2 as shown in figure 4. the data shown in figure 4 can not reject the initial hypothesis because it shows a positive power relationship.
+
+
+
+ the theoretical equation is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$, where t is the period of the pendulum, l is the length of the string, and g is gravity. in figure 4, $y=0.2129 x^{0.4889}$, where y is the period and x are the length of the string. the equation from the data in figure 4 is similar to the theoretical equation when centimeters is converted to meters. in the theoretical equation, there is no place for angle and mass.
+
+
+
+the possible random errors that were present in this lab were not starting and stopping the timers at the exact moment. this would be random being it would be too high and too low than the actual amount. the photogate used in lab 3 and seen in figure 4 was used to reduce the amount of random error by timing the period in a stationary location.
+
+
+
+ a systemic error that occurred in the lab was the way the string length of the pendulum was measured. it was measured from the top of the string to the bottom when it should’ve been measured from the top to the center of mass. this error is systematic because it would’ve been off by the same amount each time. another systematic error that could have occurred in this lab is the masses could have differed from their actual amount. this error could be corrected by using a scale to weight the masses before the experiment. 
+
+
+
+the constraints of this lab are that the experiment was not performed in an ideal environment. air resistance impacted the results of every experiment. for example, in test 3, the results should’ve shown that angle did not impact the period of a pendulum at all. while the data shown in table 3b shows that the it doesn’t have a significant impact, if there was no air resistance, it would’ve shown no impact.

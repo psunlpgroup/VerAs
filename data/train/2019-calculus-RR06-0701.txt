@@ -1,0 +1,43 @@
+conclusions as in lab 05 graphs
+
+graph 2: this is graph is of the pulley on the side of the pulley with the car moving up the incline
+
+
+
+the incline was an independent variable that had a direct impact on the acceleration. in this graph the acceleration was slower than in graph three. this is because the car was going against gravity as it moved up the incline.
+
+
+
+
+as you can see the acceleration in graph three is higher overall due to the changing of the iv the incline. this was because as the car moved down the track it was also moving down an incline which increased the cars acceleration.
+
+discussion and conclusion
+
+	the purpose of this lab was to develop mathematical model of newton’s second law which described the behavior of the air track system. also, to develop on understanding of the variable and numerical values in the model and how those values changed as the physical system changed.
+
+	the way the three mathematical model were created was that the data was entered excel and then graphed to which ever had the line of best fit. which was determined both visually and by the r-value closeness to 1. the physical meaning for this was that acceleration and applied force had a linear relationship when the mass of the system didn’t change. these would be graph 1 of lab 5 and all the graphs of lab 6. although, when the mass of the system did change acceleration and force applied had a power relationship. the slope of the graph in a physical model is the acceleration and the y-intercept deal with applied force.
+
+
+$a=2.8298 f - 0.0364$
+$a=2.8298 f - 0.02$
+
+
+
+$a=2.8019 f - 0.1012$
+
+$a=2.863$  f - 0.0053
+
+
+$a=2.8622 f - 0.0358$
+
+$a=2.8316 f + 0.1101$
+
+
+
+the data supplied by group 3 and 5 supports the data and conclusions i have found. slopes and y-intercepts have simular relations.
+
+	random error could come from measurements or timing or release. although, due to the accuracy of the tools i think it’s unlikely to have a lot of random errors. systematic errors seem more likely. systematic error could come from taking measurements from the wrong side of the track thus messing up the orientation of the track. or misusing the caliber thus getting the degree of the incline wrong.
+
+	constraints of this experiment include time, amount of test possible, accuracy of tools, different testable masses, and objects. when i say accuracy of tools, i really mean a larger variety of accurate tools to take various measurement for the experiment to make it more repeatable.
+
+	the two mathematical model created are consistent with newtons second law. they show the inverse relationship between mass and acceleration. meaning that for force to remain the same as mass decreases then acceleration increases. this is backed up by the first graphs created in lab 5 and 6 that show was acceleration increases the force also increases while mass remains constant.

@@ -1,0 +1,27 @@
+discussion and conclusion
+the purpose of the lab was to determine the relationship between the acceleration (dv) and the applied force due to hanging mass (iv). the research question asks how the acceleration of the system changes, as the applied force does? 
+
+
+the experimental data collected in lab 5 table 2 & figure 1. shows a linear relationship between the applied force (iv) and the acceleration (dv) of the system. in figure 1 one can see that the data trends in a positive direction, in a relatively straight line. the error bars in the vertical direction are present but too small to be seen. the horizontal and vertical error bars show no overlap, meaning the claim that there is an increase in acceleration, as the applied force increases is justified. since no overlap exists it can be claimed that an observable change occurred. the iv and dv show positive correlation, and further evidence for this claim can be found in the experimental model is 
+
+$y=4.7231 x - 0.0124$       where acceleration is (y) and the applied force is (x) or
+
+
+
+$a=c1 f_{hanging} + c2$        where c1 is 1/msystem  
+
+
+
+as one can see the numerical model is a linear equation for a straight line. the plotted data, with no error bar overlap, and numerical model justify the claim that by increasing the applied force of the hanging mass (iv), the acceleration of the system (dv) also increases.
+as can be seen in figure 2, group 1 found that as the applied force due to the hanging mass (iv) increased, so does the acceleration (dv) of the system (phys-004 lab group 1, 2018). their claim, as can be seen in figure 2, was confirmed by this experimental data, which shows a positive correlation between applied force due to hanging mass (iv) and acceleration (dv). in figure 3, group 6 also found that as the force (iv) increases, so does the acceleration (dv) of the cart (phys-004 lab group 6, 2018). their claim, as can be seen in figure 3, was confirmed by this experimental data, showing a positive correlation between force (iv) and acceleration (dv). the data from groups 1 and 6, from table 3 and 4, and their claims, supports our claim, that the acceleration of the system (dv) increases as the applied force (iv) increases is supported by the data from groups 1 and 6. fellow groups found a similar positive, direct correlation, between applied force (iv) and acceleration (dv) as can be seen in figures 2 and 3 (phys-004 lab groups 1 and 6). 
+
+$a=c1 f_{hanging} + c2$        where c1 is 1/msystem and c2 is f_{unknown}/m_{system}
+
+the theoretical model for acceleration, as derived from newton’s 2nd law is is 
+$f=m_{system} a$ 
+an enhanced theoretical model including an unknown force is is 
+$a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$
+as one can see from the experimental model an unknown force (c2) is present in the equation. this can also be seen in the experimental model derived from excel, the unknown force in that case is a constant (-0.0124). this unknown force could be a result of several factors, which the theoretical model does not account for mathematically. these external forces are however accounted for in the advanced theoretical model. these forces could be the sum of air resistance as the fishing bobbers accelerated towards the ground, as well as possible kinetic friction (fk) between the cart and the track on which it slides. 
+the mass of the system appears in the coefficient preceding the applied force (x) in the excel model and in the pure experimental model (c1 is 1/msystem).
+if a non-massless string, also known as a string with appreciable mass, was connected between the mhanging and the cart, the system would not undergo uniform acceleration. as the fishing bobbers accelerate towards the floor, more length of string would extend past the pulley system, and thus more mass would be under the influence of gravity. this would result in non-uniform acceleration. 
+sources of error are present in this experiment in two forms, systematic and random. some possible sources of systematic error would include those errors resulting from the instruments and their calibration. in this experiment, the acceleration was determined based on the sensor and the computer program provided to us, this was the scale error of 0.001 m/s^2. as long as the sensor was correctly calibrated, then the systematic error should be negligible. however, in previous labs, sensors proved to be faulty, resulting in a skewing of our data in one direction, either overestimating or underestimating the acceleration. there is also a possibility that the air pump and track could not having been working properly, resulting in a small kinetic friction force being present, and an underestimation in acceleration. the impact of systematic errors is difficult if not impossible to reduce. if this experiment were performed in the future, simply ensure that all equipment is correctly calibrated.   

@@ -1,0 +1,21 @@
+discussion and conclusion
+
+-once again going back, our research question being investigated in this lab was “what impacts the period of the pendulum?”
+
+-we preformed 3 experiments to find out the answer to this question and ultimately succeeded with doing so. our first experiment we did a hands-on experiment with the materials needed such as the string, the weight, the protractor, the stop watch, and the pendulum stand itself. we tested each factor which the angle was released, the weight and the length of the string. doing this we kept the other two factors constant or as our control variables. we took the time with the stop watch ourselves collecting the data. the second experiment was a simulator. it did everything the same as what we did by hand. the third experiment was using a photogate which had a range of uncertainty of 0.01. all 3 experiments addressed the research question by testing out the possible factors and giving us the data to see which factor affected the period.
+
+-our claims were that the length of the string affected the period of the pendulum. this claim is valid under all circumstances since we tested in 3 different experiments and the data in each agreed with the claim. the graphs for each experiment testing the length of the string are shown below. experiment 1 is on top and 2 and 3 follow.
+
+                                                                                                                  
+
+
+
+
+
+the theoretical model for the period of a pendulum is $t=1.99 x^{0.5}$    our data fits this model since we got an equation of 2.03921x^.4269 which is noticeably close to the theoretical. the graph is above for our mathematical model, the equation we got doing the 3rd experiment which was the experiment we that had the least flaw or error using the photogate. the other factors that did not affect the period of the pendulum also took part of the experiment in the form of control variables. those other factors like the weight and the angle give a more horizontal graph that hardly has a slope. these were shown earlier in the lab report. therefore, they are incomparable to the theoretical model since they hardly have a slope.
+
+
+
+there were several errors that occurred in this general experiment involving the pendulum. random errors occurred with the timing of the pendulum. the stopwatch isn’t going to be perfect every time. with the 3rd experiment, the room for errors shrunk. one more error that happened was a systematic error. measuring the string and angle isn’t going to be perfect, this would then cause the data according to that to be slightly flawed. this shows in our mathematical model not being exactly to the theoretical model. we can reduce these errors by having multiple people take the time and having multiple people or a better measuring tool to measure the length of the string.
+
+constraints were that the angle had to be less than 30 degrees. the equipment given was another constraint.

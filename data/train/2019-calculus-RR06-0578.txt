@@ -1,0 +1,23 @@
+conclusion:
+
+
+
+the purpose of lab 5 was to observe the real system of a glider and describe how acceleration of the glider is affected when mass of the cart and the force is changed using a mathematical model attained through collecting data. the purpose of lab 6 was to observe what changed in the model as control aspects of the original experiment were manipulated, this was done in order to determine what the values of the constants in the model represented.
+experiment 1 consisted of five trials where in each the initial mass of the glider (303.5g) increased by 100g each time while the hanging mass remained constant. then, using datastudios the average acceleration for each mass was attained. these values are shown in lab 5 is  table 1. the results were then plotted in excel forming the graph shown in lab 5 is  graph 1. after they were plotted excel was used to find a line of best fit. the group determined that the best mathematical model to use would be the power function equation because the r^2 value was the closest to 1. the model was determined to be is  
+$a=\frac{201.82}{m^{0.918}}$. c1 in this equation represents a mass in kg. c2 (the exponent) represents the force in n/kg.
+experiment 2 was conducted by keeping the mass of the glider constant and decreasing the hanging mass (starting at 28g) by 4.75g for seven trials. as each trial was conducted datastudios was used to find the average acceleration this data is seen in lab5 is  table 2. this data was then plotted using excel and the plot was used to find the line of best fit this is shown in lab 5 is  graph 2. in this experiment the mathematical model was a linear fit, this was decided by the team because the r^2 value was closest to 1. the mathematical model was is  $a=0.0285 m - 0.0263$. c1 represents the rate of change and c2 represents the initial value in grams if there was no mass.
+
+in this experiment the same set up from experiment 2 was conducted three times with each time the slant height of the track being increased. this was done to determine what the actual constant values in the model for experiment 2 represented. the recorded values of the acceleration for each of the three trials of the experiment are shown in lab 6 is  table 1 2 and 3. these sets of data were then plotted on the same graph to visualize what was changed by changing the slant height and what that means about the model. it is clearly shown in lab 6 is  graph 1 that the c2 value represents what the initial value of acceleration would be with no mass. the value of c1 was found to be the slope or rate of change of acceleration by groups that manipulated the value of friction.
+
+the results of group 5 pictured below further confirmed the conclusion about the effect of height reached by our group. by determining that the y-intercept decreases as the tilt increases, they are confirming that the c2 value represents the initial acceleration. 
+the results of group 4’s data is what allowed our group to come to the conclusion that by increasing friction the rate of change of the acceleration decreases. this means that the more friction present in the system the longer it takes for the glider to come to a stop.
+
+
+
+in a scenario where a heavy string connects the handing weight with that cart it can be predicted that the average acceleration would decrease because the mass of the system would increase. this prediction is supported by the results of lab 5 is  table 1.
+
+one random error that might have been present in both lab 5 and lab 6 was the applied force to the cart. a student had to hold the cart at the start location and let go when the trial was started. it is very possible that in letting go they might have accidently applied some force. this would have affected our results by wrongly increasing the c2 value in the model. we attempted to reduce this error by having the desired applied force always being zero and having the student holding the cart let go carefully.
+
+one constraint to the experiments was that in the lab setting we had it was impossible to completely take away friction. friction was reduced by the blowing of air out of the track, but this does not completely eliminate friction. this causes the experiment not to be perfectly isolated which causes the results to be slightly off.
+
+newtons second law states that force is equal to the mass times the acceleration. this can be rewritten to show that the acceleration is equal to the force divided by the mass. this theoretical model is consistent with the obtained experimental mathematical model in one because the negative exponent shows that the mass is being divided by the force.

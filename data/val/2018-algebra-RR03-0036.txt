@@ -1,0 +1,19 @@
+discussion and conclusion
+
+
+
+how is the period affected by the length of the pendulum?
+
+	the period is affected by the length of the pendulum because our research showed that the longer the length the string attached to the pendulum was, the greater the period was. after plotting the data and inputting error bars, they were very small which led us to believe that the data that we collected was accurate.
+
+how is the period affected by the mass of the pendulum?
+
+	the period is not affected by the mass of the pendulum. after conducting an experiment where we changed the masses of the pendulum, there was no significant difference in the period. this led us to believe that there is not a major correlation between the mass of the pendulum in comparison the length of the period.
+
+how is the period affected by the angle of the pendulum?
+
+	the period was not majorly affected by the release angle of the pendulum. once again if the release angle was changed and there was a significant difference in the period there would be a correlation. during our experiment we significantly changed the release angle, and there still was not a big difference in the period of the pendulum.
+
+theoretical model is  $t=\frac{1}{2}$ 
+
+points of random error could be the fact that we started off measuring in cm and then switched to inches. there could have been a miscalculation in the conversion factors when switching. we also could have had errors in counting what was considered to be a full swing of the pendulum. if the photo-reader was not calibrated correctly, our results might have been skewed as well.

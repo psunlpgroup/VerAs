@@ -1,0 +1,15 @@
+discussion/conclusion 
+
+it can be concluded, the first experiment with mass [falling object]  as the dv suggested a negative correlation between the mass [sliding object] and its acceleration. the second experiment, with mass [falling object]  as the iv revealed a positive correlation between the mass of mass[sliding object]  and its acceleration. changing the mass of the sliding object vs changing the mass of the falling object both affects the acceleration of a system. increasing the mass of the sliding object causes the acceleration to decrease. however, if the mass of the falling object increases, the acceleration increases. applying any outside force to the system will affect the acceleration, the greater the applied force, the greater the acceleration. the three experiments conducted, data studio was used to construct the values and fabricate a mathematical model from the data displayed and plotting the data in excel. using excel to calculate the r^2 value and the line of best fit equation of the data. on figure 3.1, group 2’s data compared to our data (group 1), the mathematical models produced, and the constants held were very similar to one another. we both held our falling object mass constant while testing the mass of the sliding object.  
+theoretical model and experimental model 
+mathematical models 
+
+mathematical equation calculated from data is $y=- 16 x - 20.22$
+
+
+mathematical equation calculated from data for the other $y= -2 10^{-4} x^2+ 3.22 10^{-2} x-2.566 10-1$
+
+the systematic error present in the system in the form of a coefficient of friction. there could have been tension from the string that caused issues with interpreting the data and analyzing the results. a random error we combated was the added mass on the slide kept coming off making the weight distribution uneven causing some possible friction between the slide and the object sliding. 
+we were constraint on the number of bobs we had which limited the amount of mass we could have placed on the falling object. we were limited on our length of the string. the sliding object could have not slide to its final acceleration.
+
+

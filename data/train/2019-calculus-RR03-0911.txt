@@ -1,0 +1,11 @@
+conclusion:
+
+conclusions on the research question, “what affects the period of a pendulum?” which was broken down into the questions is 
+
+does a change in mass affect the period of a pendulum?
+
+does a change in the angle of release affect the period of a pendulum?
+
+does a change in length affect the period of a pendulum? 
+
+ given that the error bars on the graphs for both the mass and angle of release trials severely overlapped, we concluded that the trials failed to reject our hypothesis that the mass did not affect the period and that the length of the string would affect the period. this data also rejected our hypothesis that the angle of release would affect the period of the pendulum. the constraints of this experiment were that for the first lab day, the most advanced form of time-keeping equipment that we could use was a handheld stopwatch. another was the length of our string as well as the length of the hook on the mass, this set both a minimum and a maximum for the length of our pendulum that we could not change without using different materials altogether. the stopwatch was not only a constraint in the first set of trials, but also a source of random error. in the second set of trials, the photogate allowed us to remove that source of random error from the data, giving us more confidence in the values that we had obtained.

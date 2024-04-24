@@ -1,0 +1,15 @@
+conclusion:
+
+
+
+the purpose of the labs was to develop mathematical models which describe the behavior of a real system as well as to develop an understanding for each variable and numerical value included in the model.
+
+in all 3 experiments, the mathematical model was found by finding which model went through the most points on the graph which is represented by the r^2 value.  we took the mathematical model of the trendline with the highest r^2 value.  in experiment 1 the mathematical model was a linear model of $a=0.003 x - 0.0111$.  the x is the amount of mass in newtons that was in the hanging weight.  the .003 means the acceleration increases by .003 for every newton added to the hanging weight on top of the -.0111 acceleration that is already in the system.  in experiment 2 the mathematical model was a power model, $a = 5744.7 x^{-1.057}$ and this model was supposed to be as close to the exponent of power -1.  in experiment 3 the mathematical models used were linear models, this is because we were recreated experiment 1 with a slight change to the amount the angle of the track was.  these values represented the same thing, the x represented the mass of the hanging weight in newtons and the added or subtracted values was related to the amount of angle the air track was affected by.
+even though we used an air track to reduce friction, there was still some friction and no way of calculated how much exactly there was.
+
+the pully as had friction acting on the string that we could not account for.
+
+
+we might not have used the same exact weights as we did in the previous lab.
+
+the fact that there was still friction on the airtrack limits our results and we would have to run more tests in places with zero friction such as a vacuum so we can collect more data.  something else that limits the generalizability of our results is that range of weights we were given.  in order to get more accurate results, we need a way larger range of weights.  

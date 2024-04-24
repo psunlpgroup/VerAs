@@ -1,0 +1,12 @@
+conclusion:
+
+
+so, the research question that was being investigated is what affects the period of a pendulum.
+
+the first lab was mainly about us determining what we thought affected the period of a pendulum.  after we thought we found everything that could affect the period, we chose three of them and put them to the test.  in the second lab we focused on error analysis and how to determine the uncertainty and how to represent that on the graphs we created in lab one.  in the third lab, we focused on creating mathematical models based off of the tests we used in the previous labs.  in the third lab though, we used a photogate to time the period of a pendulum.  the photogate made our data extremely accurate to what it actually is.  
+
+the theoretical mathematical model of a pendulum is as follows,$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$, where t is the period, l is the length of the pendulum, and g is the gravitational acceleration.  our data fits this model quite well because when we took the length 20 inches, and plugged it into the theoretical mathematical model, we got a value that was extremely close to the value that our graph portrays. 
+
+one random error that we could have experienced is how accurate the angle at which we dropped the pendulum was.  we measured with the protractor each time to determine what angle we were dropping it at, but it is very unlikely that we had the protractor completely level every time we dropped the pendulum.  another random error we could have experienced is human error when it came to the timer.  the person operating the timer was as accurate as they could have been, but there is most likely a small delay in the time the timer started, and when the pendulum was dropped.  
+
+one thing that could have limited the generalizability of our data is that we collected data for this lab on two different days.  in those days, the string we used could have been replaced or changed, the way the hanger for the string was set up could have been changed, and the stop watch that we used in the previous day could be a different one.  all of these factors could have skewed our final results.  they might not have skewed them by much, but this could have an affect on the end data.

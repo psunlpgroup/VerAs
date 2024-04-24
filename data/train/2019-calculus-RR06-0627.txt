@@ -1,0 +1,26 @@
+conclusion:
+the purpose of this lab was to determine the relationship of the masses, hanging mass and system mass, with the acceleration of the system. another purpose was to observe how a lab setting, such as an inclined track, could affect the acceleration of the system. 
+
+the first experiment dealt with the relationship of hanging mass and the acceleration of a system. our group predicted that as hanging mass increases, the acceleration of the system will increase as well. this prediction turned out to be true since a linear relationship can be seen with these two variables in figure 2. a mathematical model was formed by taking the equation of the line in figure 2. this model is $y=0.029 x - 0.0228$. in this model, the y variable represents the acceleration of the system and the x variable represents the hanging mass. the second experiment dealt with the relationship of system mass and the acceleration of a system. our group predicted that as system mass increases, the acceleration of the system will decrease. this prediction turned out to be correct as a negative correlation can be observed in figure 4. as the system mass was increasing, the acceleration of the system was decreasing. a mathematical model was formed by forming a best fit line on figure 3 and taking the equation of that best fit line. this equation turned out to be $y=88.138 x^{1.007}$. in this equation, the y variable represents acceleration of the system and the x variable represents the system mass. 
+
+
+
+this group had dissimilar findings to what our group had. their coefficient averaged out to be 3.180 and their y intercept averaged out to be 0.0604. these values were not close to our values in our mathematical model when determining the relationship of hanging mass and acceleration. this group’s findings does create suspicion on our findings. this could be due to error in data collection. however, the numerical values in these models does enforce our belief that the numerical values in our mathematical models represent the mass of the system.
+
+ 
+
+
+
+this group’s findings were closer to our group’s findings. the coefficient averaged out to be 2.3732 and their y-intercept averaged out to be 0.2378. this group’s findings enforced our mathematical model to find the magnitude of acceleration. their numerical values also seem to represent the mass of the system. the y-intercept of our group and this group’s mathematical models represent one divided by the mass of the system. 
+
+
+
+ random error seemed to be consistently present throughout this experiment. the data that our group collected was spread out and had a different value each time our group recorded the data. these random errors could cause the mathematical models to be inaccurate and deviate from the theoretical mathematical models derived from newton’s second law. in order to reduce random error, more data could be collected so that the best fit lines of the graphs could be observed more clearly. the average over a larger set of data would be more accurate than a smaller set of data. 
+
+
+
+ a constraint that could have limited the generalizability could be that the only a section of the line of acceleration was taken to measure the slope. these sections were not consistent and could have caused deviation from the actual slope of the line. at different sections of the line, it also had different values for error. this constraint could have made our data deviate from the actual value of the slope and become inaccurate for representing the slope of acceleration as a whole.
+
+
+
+our mathematical models are consistent with newton’s second law because it shows the relationship between force, mass, and acceleration. our mathematical models depicted how acceleration correlated to the force acting on the system of mass. as force increases, the acceleration will increase as well. this makes sense because newton’s second law states that acceleration is directly proportional to the magnitude of net force acting on the object. also, the changes in hanging mass and system mass proved to be factors that affect acceleration of the system. the first mathematical model, which observed the relationship of hanging mass and acceleration, was $a=0.029 m - 0.0228$. in this model, mass of the hanging mass proved to affect acceleration linearly. the second mathematical model, which observed the relationship of system mass and acceleration, w$a=88.138 m^{1.007}$. in this model, the system mass had a negative correlation with the acceleration of the mass.

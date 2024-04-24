@@ -1,0 +1,13 @@
+discussion
+
+
+
+in the first two labs, the purpose one was to learn how to identify the possible errors and reducing errors as going on the labs  
+
+	the goal of the third lab was to determine if the length of the string used in the pendulum experiments would influence the amount of time it takes for the pendulum complete one full swing, or also known as the period of the pendulum. the length of string used was the independent variable in this experiment. it was the independent variable because it is the variable that we changed and measured between every trial. as the length of the pendulum changed we found that the period of one full swing of the pendulum changed as well. as we increased the length of the string attached to the pendulum we noticed that the period of one full swing was also increasing.
+
+
+
+as the data shows, the error bars are too small to be seen, indicating that the results we obtained are statistically significant. this addresses the research question that the length of the pendulum affects the period of one full wing of the pendulum.
+
+some constraints within this lab were time, general confusion, consistency, and materials. if our lab occurred over a longer period than two hours then we could’ve tested the effects of not only length but also mass and angle of release. a longer period would have also allowed us to conduct multiple trials to maximize the accuracy of our data. materials also caused some constraints in this lab the device we used to calculate the average period of one full swing was miscalibrated to begin with, and this cost our lab group time that could have been spent on other aspects of the lab.

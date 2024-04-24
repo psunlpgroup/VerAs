@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+
+
+
+
+however, there were errors present in the experimental design that need to be addressed. since we manually used timers to measure the period of the pendulum, we can’t be completely sure that we pressed the timers at the exact right time.
+
+	we did not have a precise way for exactly lining up the string with the protractor when releasing the weight attached to the pendulum. thus, the angle of release was our closest possible guess and the results for those tests may have imprecise values.
+
+
+one factor we did not investigate during these three experiments was how wind resistance impacts the period of the pendulum. a new research question we could ask could be, “is the force of wind on a pendulum related to the period of the pendulum?” a way we could investigate this is to set up a pendulum with a moderately light weight and use a hairdryer to artificially create a force of wind. the new control variables would be the mass of the weight, angle of release, and the length of the string. the experimental variable between the two trials would be whether or not the hairdryer was blowing against the pendulum during measurements.
+
+
+for graph 4, the length of the string and the period of the pendulum showed a positive correlation as a power function. as the length of the string increases, the period of the pendulum increases as well. this is true if the angle of release is controlled to be 30 degrees for the data collected.
+
+we are very confident in the trendline of graph 1 because the r^2 value is 0.9954, given a power relationship, which is close to 1.  it indicates that the line passes through nearly all of the data points and that there is a statistical correlation between the iv (length of string) and dv (period of pendulum).
+
+the theoretical model for the period of the pendulum is shown in the equation $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. the coefficient of the theoretical model in graph 4 is 2.01 and the coefficient of the experimental model is 2.0368. these numbers are close indicating that the experimental model has a power function that accurately displays how the length of the string and the period of the pendulum are related.

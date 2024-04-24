@@ -1,0 +1,19 @@
+conclusion:
+
+
+the purpose of these experiments was to develop a mathematical model that could predict, based on its mass, an object’s acceleration. this goal was achieved by collecting and recording data from each of the 3 experiments. the first was transferring mass from the cart to the string, the 2nd was having the mass on the string at a constant while adding mass onto cart, while the final experiment was to move mass from the cart while also adding friction with magnets.
+
+the three experiments led to the creation of a mathematical model by the data collected. the data enabled us to graph the functions which are present in the tables above. the data plotted can be calculated to the y-intercept as well as the slope of the line. after that, it can be concluded what either the acceleration or the mass of each type of experiment will be.
+
+
+
+the group we compared our trends to supported our claim. even though our trends were not a one-to-one perfect match, the trend is still present. this increases our group’s confidence that we are on the correct path overall.
+
+this group tested how an incline would affect the acceleration of the cart. the group claimed that as the tilt of the system grew, the slope stayed relatively the same. this similarity in slopes means that each of the 3 lines will be parallel. this is similar to our results because all of our lines were parallel.
+
+
+random errors that may have occurred in the experiment could be attributed to not starting the cart from the same starting distance for each and every trial. this would create inconsistencies in data values and cause the mathematical model to become altered. a potential systematical error would be creating a mathematical model in the first two experiments with no consideration for the force of friction, while the rail helped to simulate frictionless movement, it is impossible to run the experiment absolutely frictionless. 
+
+the constants that were used in part of the experiment had been contributed by weight/mass of the bobbers. the bobbers were being transferred from the cart to the string in two of the experiments. these masses were what led to the creation of our mathematical model. if these masses had differed at any point during the experiment run, then the model would have differed as well.
+
+the mathematical models from the experiments stay constant with newton’s second law because if the given acceleration or mass the model is then able to find the other, from that point one can multiply the acceleration (m/s^2) by the mass (kg) to find the force of the cart.

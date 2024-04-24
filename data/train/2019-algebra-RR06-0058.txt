@@ -1,0 +1,7 @@
+conclusion:
+ Our research question was how acceleration changes with different factors like mass and friction.
+ In conclusion with the hanging weights lab (Lab 05), As you moved the weights from the cart to the weighted side, the greater the acceleration of the cart was. Our data supports this claim and hypothesis because as we moved the mass from one to the other, our slopes increased, meaning increasing acceleration. Other groups that did the same experiment as us had similar results but we all had the same outcome, an increase in acceleration as you move weight from the cart to the weighted side.
+ Our equations are stated on our graphs for each of experiments.
+ If we were to use a heavy string instead of the string we used, the results would be different. The outcome would be the same, an increasing acceleration but the results themselves would probably not be as great of a difference in the acceleration.
+ There weren’t to many moments for error but some random error that could’ve happened is that the air from the vacuum wasn’t pushing hard enough so the cart could have got stuck on the track occasionally which wouldn’t give us accurate results. We can’t really fix this error so all we could is retest the trial.
+ The constraints for this experiment are the length of the string, amount of track, amount of fishing bulbs, magnets, and weight

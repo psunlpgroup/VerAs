@@ -1,0 +1,15 @@
+conclusion for lab 5/6
+
+ the purpose of lab 5 was to create two mathematical models to describe the actual behavior of a real system. the purpose of lab 6 was to understand the reason for change in value for each variable and numerical value included in the model. 
+
+the three experiments between lab 5 & 6 led to the resulting mathematical models because due to the variables changed to see how they affected the acceleration of the system. the meaning of the variables referred to the mass added in each spot of the system. the graphs show a direct correlation between the added mass and the acceleration of the system. 
+
+the other groups, group 1 and 3, mathematical models help give a better of understanding of how accurate and close or mathematical model is to the true value. they give another understanding of how the numbers are affected. 
+
+ 
+
+to improve the collected data our group could have used more precise measuring tools and an accurate way to determine the force of friction on the system. more factors that could affect the acceleration on the system could be the materials used. the type of sting could change the amount of acceleration of the system. by testing this experiment in a room with zero air resistance we could determine if the air has any effect on the system. 
+
+constraints that limit the generalizability of our results were errors and mis use of equipment. some of the values may have been affected due to the use of the equipment.  
+
+the determined mathematical models correlate to newton’s second law, , because as the mass increased so did the acceleration. in the law mass has a direct correlation to the acceleration.

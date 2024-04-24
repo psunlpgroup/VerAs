@@ -1,0 +1,27 @@
+discussion and conclusion:
+
+	increasing the applied force clearly resulted in an increase in acceleration of the block on the track. using the hanging mass as an independent variable addressed the research question because it results in a greater applied force to the cart through tension, even if the mass of the system did not change. keeping the mass of the system constant allows the experimenter to conclude that the changes in acceleration can be directly attributed to the increase in applied force. there are no error bars included in the graph, but there should be. these error bars would represent the unpredictable influences on the system, such as the irregular texture of the track, variability in mass of the bobbers, or air resistance.
+
+	the group 4 had a very similar model to our own, as their results likely reflected our own. they used a linear model with a negative ‘b’ value and a positive slope. their findings support my own group’s first model.
+
+	the group 2’s findings for their second model were very similar to our own. they also found a power model along with a positive constant and a negative power. this supports my group’s findings.
+
+
+
+mathematical model (hanging mass) is 
+
+$a = 22.2 f_{hanging} + 10$
+
+$a = c1 w + c2$
+
+theoretical model (newton’s second law) is 
+
+ $a = \frac{f_{net}}{m_{sys}}$ 
+
+c1 is 1/kg or 1/mass are very similar
+
+c2 is m/s2 the value of the force of the hanging mass will be identical to the net force of the theoretical model once c2 is added.
+
+with these similarities in mind, the mathematical model we found supports the theoretical model, as the different components for the mathematical model still result in the same acceleration, just using constants instead of purely data found.
+	using a heavier string to connect the cart to the hanging weight would increase the total mass of the system. this will result in a change in acceleration. the acceleration will likely increase, as more of the string goes over the pully, it will increase the mass of the hanging weight, while decreasing the total mass of the mass resisting movement, or attached to the mass on the track. this will constantly increase the acceleration of the system.
+	random error can be attributed to indeterminable differences in mass, possible uncertainties in the equipment used, and indeterminable forces applied to the system, such as inconsistent friction, and air resistance. using very new and polished equipment in a more controlled setting would allow for much less uncertainty.

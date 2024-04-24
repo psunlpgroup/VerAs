@@ -1,0 +1,15 @@
+conclusion:
+
+in lab 06 we tested the applied hanging force vs the acceleration. the hanging force would be the fishing bobbers on the one end. on the track was the air bus that would activate and begin sliding the course when the air switch was activated. we then altered the results slightly by adding a friction resistance force then calculated the results after applying the friction. 
+
+the tables and graphs from lab 05 and 06 all resulted in positive correlations. the graph from lab 05 resulted in the strongest correlation while graph 2 for lab 06 seems to be rising but then breaks off towards 30 grams and slopes downward. there must be some problematic error in graph 2 because the standard deviation was .461 which is significantly far off from 1.
+
+
+
+in the photos above, the data represents two different groups trails. the photo on the left shows the height of the airbus and when released found the average acceleration for each height increment. they believed the angle the track was set to would affect the airbus’s acceleration and once the tests had been concluded they found out their hypothesis was the opposite in the angle had no effect on the car. the photo above on the right shows how the friction directly effects the airbus acceleration. after concluding their experiment, they found that the friction played little to no affect on the airbus. 
+
+for random errors, our data calculation could be off in a sense for lab 06. some numbers may be the wrong number plugged in occurring for out data to be off. as i mentioned before the standard deviation for the graphs of lab 06 both resulted in numbers far from 1. as far as systematic error goes. the magnets to apply friction were very flawed. the magnets would at times fall of the airbus midtrial and did not stick well. also the airbus wasn’t pulled to an exact 900cm perfectly every time but the approximate distance was measured out each run.
+
+the constraints in this lab are that i truly believe the lab instructions are very brief. i do think there could be smarter to get our lab groups going right away. i feel all the groups in our lab class seems to have many questions right from the start and i feel better instruction can help eliminate the confusion.  
+
+in the experiment the two mathematical models both are equivalent to the format of newtons second law. the sum of the forces ‘f’ are a number then multiplied by the mass of the system and we solve the equation for the acceleration.

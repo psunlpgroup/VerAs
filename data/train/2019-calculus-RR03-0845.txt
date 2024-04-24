@@ -1,0 +1,30 @@
+discussion and conclusion
+
+a) the research question that we are trying to answer is what factors affect the time period of the pendulum like mass, string length, release angle. we are trying to create a mathematical model for this lab about proving our experiments. 
+
+b) in the first lab is  our claim was that mass of object and angle of release do not affect the time period of pendulum. our team proved these claims by performing experiments for each variable. we can see this form the three graphs below. the mass and the angle of release do not affect whereas the string length affects the time period of the pendulum. 
+we can notice that the string length affects the time period and  has a linear dependency. 
+in the second lab is  we work on different types of errors that can affect our measurements during the experiment. we got random ranges of uncertainty due to measuring technique. for ex. a smaller value of sigma indicates that the data is closer to the mean and the data is not spread out. we can see this from the errors bars in the above three graphs (graph 1,2,3).
+we also conducted trials that gave us a standard deviation of 0.053712.  we found that our values were pretty close for the mass and the angle of release and all these values of error bars fall within each other. we also found out that systematic errors cannot be really fixed whereas random errors can be factored out after good number of trials. 
+
+in the third lab is  we found that mass and angle of release can be removed from our mathematical model because they don’t affect the time period of the pendulum. we also found the power equation and the r value.
+
+$y=0.17719196 x$. with an r^2 of 0.9669.
+
+finally, we concluded that the only variable that affected the time was the string length because our recorded time was 0.001 sec. also, our best fir graph gave us the mathematical model and we are confident about our mathematical model as all the data points are on the trendline and our r ^2 value is 0.9962 is very high.
+
+c) our theoretical model for the period of pendulum was  
+
+
+
+$y=0.17719196 x$. with an r^2 of 0.9669.
+
+
+we found that relationship between the graph was a power with an r^2 value of 0.9962. we can find this in the graph above. the graph is affected non-linearly i.e. power relation. this can be explained by the fact that as the length of the string gets increased it value exponentially increases for being raised to a higher value. during the experiment the time period of the pendulum would increase if the g was 1.625m/s^2. 
+   we found that our experiment could have gone through random errors as well as systematic errors. systematic errors include the center of gravity due to location, friction between string and pivot point, and the amount of weight. the amount of weight could be an error based on the fact that the weights might have varied in mass by just a little bit due to chipping or erosion. the scale not being exactly accurate would result in these small errors not being picked up. random errors could include the difference between the time lapses or improper placement of the protractor.
+
+
+
+we could correct these errors in various ways. for instance, we could use duct tape for holding the protractor to decrease the angle variations between the experiments. a sensor could be used to start and stop the stopwatch so that it was more accurate than human reaction time. finally, the weight should be held in the same way for each release so that the center of gravity was always the same. another way to correct systematic errors would be to perform a large amount of trials which would help to offset these random errors after taking the average from all the trials.
+
+ we assume that pendulum bob moves in a constrained circle. also, the string is supposed to expand a lit bit every time we perform the experiment. 

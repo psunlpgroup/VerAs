@@ -1,0 +1,3 @@
+discussion:
+
+the objective of this test was to repeat any significant difference of a pendulum that changes the period of the pendulum with a photogate apparatus. the r^2 value is 0.9914 with very miniscule error bars located within figure 5. the independent variable is pendulum length and dependent variable is pendulum period. the c1 value from figure 5 is 2.1027 and c2 value from figure 5 is 0.3958. the c1 value had a difference of 4.7 percent and c2 value had a difference of 20 percent from the theoretical model. the theoretical model is $t=2 \pi$ sqrt l/g is used to help compare and determine the difference in values.

@@ -1,0 +1,9 @@
+discussion 
+
+the research question was what impacts the period of a pendulum after a swing. after looking at the graph in figure 1, it looks like there is no correlation between the angle of release and the length of the period because there is no marginal effect on the periods duration we change the angle according to the students. when the angle is lowered, the pendulum moves slow and covers less distance every period and as the angle increases it starts to move faster which covers more distance before coming back. at this rate the shorter angle and longer angle ends up have the same amount of period.
+
+looking at the second graph, the mass has not much effect on the pendulum. according to an article by physics stack-exchange, the reason lies in the nature of gravity is  under the influence of gravity, all bodies, no matter what their mass is, accelerate at the same rate. this is also true for bodies attached to a rope, resulting in a pendulum. the force driving the pendulum is gravity, and hence, its rate of acceleration (which effectively determines the period) is the same for all masses.
+
+the last graph looks different from the other two. it looks like every time the length was increased the period of the pendulum also increases and every time it decreases in length the period of the pendulum also decreases. 
+
+after this experiment, it can be concluded that both the angle of release and the mass of the pendulum has no effect on the period of the pendulum, however the length of the strings of the pendulum impacts the length of the pendulum. this is because as the length increases the period also increase and as it decreases the period also decreases.

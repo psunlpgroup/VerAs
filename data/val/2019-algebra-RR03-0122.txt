@@ -1,0 +1,23 @@
+discussion & conclusion:
+
+research question: a pendulum has multiple factors in its overall composition, but which of these factors affects the period of the pendulum?
+
+ when observing mass as the independent variable, we may conclude that this variable does not affect the period of the pendulum.  we come to this conclusion by looking at the period average vs mass graph which shows us that the period remains generally the same even when changing the mass around.  the error bars also convey the amount of uncertainty in the period, which doesn’t allow for a realistic prediction when using mass as the independent variable.
+ when observing length as the independent variable, we may conclude that this variable does affect the period of the pendulum.  we can conclude this by looking at the period average vs string length graph which shows an increasing time while increasing string length.  the range of uncertainty was quite small which helps confirm our conclusion.  also considering the equivalency criterion, our claim holds because the error bars for most of the points overlap.
+
+ when observing angle as the independent variable, we may conclude that this variable does not seem that influential in affecting the period of the pendulum.  the error bars of the period average vs angle graph do mostly have, and it has an increasing trend, but it is not as influential as string length.  
+
+
+theoretical model is $y=1.99 x^{0.05}$
+
+mathematical model is $y=2.0829 x^{0.4316}$
+
+the mathematical model supports the theoretical model because the coefficients in comparison to one another yielded a difference of .0929.  this slight difference helps probes that the mathematical model is extremely close to the true answer.  this slight difference may have been caused by slight errors in the experiments.
+
+constraints is  throughout the conducting of the experiment, there are possible human errors that may occur that can affect the result of the experiment, but they may be fixed to become more accurate for a follow-up experiment.  for example is 
+
+-angle change due to human error, have multiple people redo each angle and take the average to reduce single human error
+
+-time keeping may not be accurate due to human reaction time, use an automated time keeper with a low error chance.
+
+the factor that affected the period of the pendulum was the length of the string.  the other two factors (mass and angle) don’t affect the period.  as the length of the string increased, the period of the pendulum increased. therefore, the opposite is also true being that the period of the pendulum decreased as the length of the string decreased.  if the mass and angle of the experiment remain constant, our claim holds with our findings.

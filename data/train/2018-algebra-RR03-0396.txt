@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+what impacts the period or dependent variable of a pendulum for small swings? 
+
+did the mass at the end of the string have affect on the period? the overall trend on the line graph was straight indicating that the weight doesn’t affect the time of the period.
+
+did the length of the string impact the period? yes, when looking at the line graph for length vs. time you can easily tell there is an increase in time as the length of the string increases indicating that the length strongly effects the period.
+
+did the angle at which the string was released have effect on the period? while the line graph did increase the time remained inside the error bars indicating that like the mass, the angle does not have effect on the period.
+
+theoretical equation is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ so  t is 1.41 seconds
+
+in the mathematical model the results 1.123 this is relatively close to the theoretical equation the actual length should be 1.123. 
+
+multiple errors were in effect while testing the variables these errors would fall into categories of random and systematic
+
+random is  people hitting the table and only having on person timing 
+
+to fix the timing we would have multiple people time and take an average of the different times 
+
+systematic is  not releasing at an exact angle and not having the string length at an exact dimension

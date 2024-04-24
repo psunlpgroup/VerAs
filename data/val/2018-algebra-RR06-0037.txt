@@ -1,0 +1,19 @@
+discussion and conclusion 
+
+research question is how does the acceleration of a system change when the applied force changes?
+the linear relationship seen in the graph of the data supports the claim because of how it uniformly rises as force and acceleration of the cart rise. the error bars on the graph represent the error of the system and the horizontal error bars cannot be seen because they are too small. 
+below are the findings of one of the other groups in the lab. 
+their uncertainty is different than our group because of how we converted the grams and kilograms. 
+the other findings of the other group are the same way again because of how the data was converted it put it off by a certain factor.  
+this is the mass hanging 
+the experimental model is .590x (+/- 4.5e-4) -.322 (+/- 6.15e-4)
+this relates to the theoretical mathematical model because it is friction over mass of the system. 
+if the string is larger the acceleration will have an exponential change because fg would increase causing the loss of the constant change. 
+
+
+
+the systematic error would be having an inaccurate measurement for length, and the string having a knot in it.  those can be easily fixed by having more people look at the measurement, and inspecting the string before conducting the experiment. 
+
+
+
+the constraints would be using the track and how accurate it is as well as how much time to conduct the experiment.  these will not affect the outcome to severely.

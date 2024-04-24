@@ -1,0 +1,31 @@
+conclusion:
+
+this lab is based on the research question that asks what impacts the period of a pendulum for small swings.
+
+when looking at the period of the pendulum, we tested three independent variables which were the mass, the angle of release, and the length of the string. 
+
+my initial claim, when it came to the mass of the pendulum, is that it would have no effect on the period of the pendulum. after running the experiment and gathering data, it can be concluded that my claim held true. no matter how much mass is added to the pendulum, it will never increase its period. if you refer to figure 1 above, you can see that all the data plotted has error bars that overlap, even without the equivalency criterion of  2σ. this means we cannot be certain and claim that there is an actual change between data points. 
+
+ as for the effect of the angle of release on the pendulum, i made a claim that as the angle increased, the period would also increase. if you look at figure 2, you can see that the error bars overlap if an equivalency criterion of 2σ is used (double the bar length), so we cannot say for certain that this claim is true. each of the true values, for all we know, could be the same. with this being said, there is more of a probability that this initial claim was true. the claim is found to be true with larger angles, but since the research question was asking about small swings, the claim could not be supported.
+
+my initial claim for the length of the string having an effect of the period of the pendulum was that as the string increased in length, the period of the pendulum would also increase. if you look at figure 3 above, you will see that the data collected supports this claim. from the first data point collected, to the last data point collected, the error bars do not overlap. if the equivalency criterion of 2σ were taken, the bars would still not overlap. this proves with certainty, that the period of the pendulum increased as the length of the string was increased.
+
+the theoretical equation of the period of a pendulum is . the mathematical model that we developed was used after recording a second set of data, using a more precise experiment including a photogate. this allowed us to collect more accurate and consistent data, as opposed to hand timing it. the graph for this new data can be found above (figure 4). this graph was used to develop the mathematical model and was determined using excel. the mathematical model we found is a power function; $t=0.204 l^{0.5}$ where ‘t’ is time of period in seconds and ‘l’ is the length of the string in centimeters. this model best fits the data with an r^2 value of 0.9998. this means the model is a non-linear type, which fits better than the linear model because the r^2 value for it is only 0.986. since the mass of the pendulum has no effect on the period, it was not included in the model. likewise, the angle of release only effects the period if there is a higher angle of release, and since we are addressing pendulum periods for small swings, the angle of release would not apply here. both the theoretical model and mathematical model that we found only include the string length of the pendulum. the main difference between our model and the theoretical model is that gravity is incorporated. other than this, our model is very similar to the theoretical model.
+
+there could have some possible errors throughout this experiment.
+
+
+the stopwatch may not have been stopped at the correct moment in time in order to collect an accurate measurement. this could skew the data above, or below the expected value.
+
+at the release point of the pendulum, the pendulum could have been released to swing more side to side than straight, which would add time to the pendulum.
+
+the release angle of each trial may not have been exactly where it was before the trial before. this would cause data to be over and under the expected value.
+
+while changing the string length in between trials, it may not have been exactly 30 cm longer each time. this would throw of the period of the pendulum based on our mathematical model.
+
+
+while taking measurements, our pendulum broke, and the weight could not be used again. after getting a new weight, the mass could have been slightly more positive each time, or slightly more negative each time. even though it was not proven that the mass effects the period of the pendulum, it would still be an example of a systematic error in the experiment.
+
+some of these errors were reduced in the second experiment we performed. a photogate was used instead of a stopwatch. this made the measurements a lot more accurate and also allowed us to take many more data readings. the other factor is our mass stayed constant this time. we used the same mass throughout the experiment. in the future, there could be a steadily built apparatus that holds the pendulum still at an accurately measure angle. this apparatus would not move in between trials, which would allow you to repeat the same release angle over and over. this would greatly increase the results of the experiment.
+
+one of the constraints in this experiment can include that the release angles we used had to be small. if the release angles could have been bigger, this factor would need to be added into the mathematical model we developed. another constraint to this experiment was the time allowed for it. we were only allowed 2 hours of class time for the experiment part of it. if we were allowed a longer amount of time, we could take more measurements and wouldn’t have to generalize our data as much. the scale of this project also was a constraint we had to work with. we could only have a string the length from the floor, to the top of the string holding apparatus. increasing the string length to 20 feet could allow our group to create a more realistic equation to what the true equation of the period of a pendulum is. it would also allow for more measurements to take and make our data less generalized.

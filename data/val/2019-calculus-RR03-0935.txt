@@ -1,0 +1,13 @@
+conclusion:
+
+research question: what factors affect the period of a pendulum.
+
+
+
+	in our labs we had three possible factors that could have affected the period of a pendulum. our three factors were mass, release angle, and string length. we tested each of these factors using controls and only changing one thing at a time. mass does not affect the period of the pendulum. this can be concluded from the graph of mass vs. time. it is a straight line and has no correlation to time. the graph includes error bars and the best fit line passes through the error bars at one sigma. this gives us a 99% certainty that mass does not affect the period of a pendulum. the length of the string has a positive correlation to the period of a pendulum. we can conclude this because the best fit line of the graph string length vs. time has a positive slope and the line does not pass through all the error bars in a straight line. angle of release does not affect the period of a pendulum. the graph of release angle vs. time is a straight line and has no correlation. we can tell this because the best fit line of the graph goes through the error bars in a straight line.
+
+	in experiment three we look at the theoretical equation for the period of a pendulum. the equation is $t =2 \pi \sqrt{\frac{l}{g}}$. we calculated our equation to solve for the period of the pendulum to be $t=2.1163 l^{0.4562}$. using the length of 0.5m the theoretical time for a period is 1.41 seconds. using our experimental equation at 0.5m we get the time for a pendulum to be 1.5 seconds. this gives us a difference of 0.09 seconds. since the difference is so small, we can conclude that our equation represents the theoretical equation in our experiments.
+
+	in our lab we had a couple of random errors. some of the errors were mistiming when to start and stop the stopwatch and having a human determine the angle of release with a protractor. these errors could have been eliminated if a robotic arm was used to automatically start and stop the timer when it was released. using a robotic arm would also allow the pendulum to be released at the same angle between each experiment.
+
+	during this lab we had a couple of constraints, one being time. we only had 3 lab periods of 2 hours to do this experiment. this means that we could not do as many tests as we would have liked. another constraint was the precision of our measuring tools. we used a measuring tape, when a caliper would give a more accurate reading. we also used hand held stopwatches which had a small delay. these are just a few constraints of the labs. overall, we learned that the string length affects the period and how to set up experiments and analyze the data.

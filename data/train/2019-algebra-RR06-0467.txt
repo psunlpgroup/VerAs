@@ -1,0 +1,14 @@
+conclusion:
+to develop mathematical models which describe the behavior of a real system (lab 05) as well as to develop an understanding for each variable and numerical value included in the model (lab 06).  
+
+our three experiments led to our mathematical models by performing our experiments, putting them into graphs, putting on a line of best fit. then finding the slopes of all the trials. plugging these into our models. the variables in our models is  our value of for c1 is -.001 and that is where the c1 value is in the first equation. c2 the location is .9227, we know with these values acceleratio$n=0.9227 - 0.001 m$. we can calculate the force by multiplying the bobbers by the acceleration of gravity. after its all said and done we get a total of 28224 newtons.
+
+
+
+comparing our data to theirs we see that our hypothesis was different but he equation and conclusion were very close to being the same, for example their data proves that an increase in mass of the sled leads to a decrease in acceleration of the system.
+
+some possible errors we noticed that could have affected the experiment were friction and human error. friction was definitely pretty negligible in the experiment, so we would have to look further into the human error side.
+
+if we were to redo or further our experiment it was clear, we would do more trials at different weights and the same weights to get better more accurate answers. 
+
+our two mathematical models compare to newtons second law by its formation and variables. our models are identically setup with the variable of mass and acceleration which we found in our experiment.

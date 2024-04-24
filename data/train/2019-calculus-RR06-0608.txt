@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+the purpose of this lab was to determine whether mass of at the end of the string and the height of the track affected the acceleration of the system. our mathematical models from our data were $a=2.8728 m - 0.014$ for acceleration vs. hanging mass, where a is acceleration and m is mass. $a=4.2746 m^{0.35}$ for the mass of the system vs acceleration, and $a=2.83 m + 0.001$ at 0 mm, $a = 2.8161 m-0.0224$ at 6 mm, $a=2.7466 m - 0.03$ at 16 mm for height of the track vs. acceleration.
+
+
+
+these mathematical models were found by testing each variable and gathering data and then making the models of based off the data. the physical meaning of these models is is  acceleration vs. hanging mass - as the mass increases, the acceleration increases, mass of system vs. acceleration – as the mass increases, the acceleration decreases, height of track vs. acceleration – as the height increases, the acceleration decreases. these are all proven by our data and graphs that we have tested and gathered.                                                                                
+the other group results prove that our results are right since they got the same results as we did. the numerical values in our mathematical models represent the constant values that were needed in order to see the relationship between the variables.  
+some errors that could have occurred are that the frictionless track could have not been leveled correctly. it could have a slight slant, which would have caused some systematic error, although a small one. to fix this possible systemic error is to check beforehand if the track is leveled.  another error is not placing the system in the same position every time when doing an experiment. this wouldn’t give you accurate results and would skew your data. to fix this random error, you should put the system back in the same position when testing.
+
+
+
+a constraint in this experiment that may limit the generalizability of our results is the size of the string being different when we did the two experiments on different days. if on the first day, the size of the string was longer and then on the second day the size of the string was shorter, then our results wouldn’t have been accurate. it would have skewed our data and mess up our results. 
+
+
+
+our mathematical models are consistent with newton’s second law. the way it is consistent is when you change the mass or the force, the acceleration increases or decreases. when you increase the force, the acceleration decreases. you get this by newton’s second law when you manipulate it. this is the same when you increase the mass, the force increases, which causes the acceleration to decrease. our mathematic models show this happening. $a=2.8728 m - 0.014$ for acceleration vs. hanging mass, where a is acceleration and m is mass. $a=4.2746 m^{0.35}$ for the mass of the system vs acceleration, and $a=2.83 m + 0.001$ at 0 mm, $a = 2.8161 m-0.0224$ at 6 mm, $a=2.7466 m - 0.03$ at 16 mm for height of the track vs. acceleration.

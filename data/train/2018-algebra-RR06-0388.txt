@@ -1,0 +1,17 @@
+discussion and conclusion 
+
+
+
+	the purpose of this lab was to further understand the relationship of how the acceleration of a system was effected when the applied force of the system was changed. after running eight trials within our experiment with various different applied forces, measured in newtons, we obtained our data. the mathematical relationship between acceleration and applied force is a positive linear relationship based on our graph. the equation we obtained from the findings of our graph was $y=4.083 x + 0.053$ and the r-squared value was extremely close to 1 at a value of 0.99329, which indicates that our mathematical model fit our data well. we also calculated an error value of 0.005. 
+
+
+
+	to compare our results with other groups within the class, the data we collected was very similar to the data collected by group 4 and very much supported our claim. our mathematical model equations had very similar slope values and our calculated errors were both positive 0.005. as for the data from group 6, our mathematical model equations differed significantly. the error value group 6 calculated was 0.0105, which was a value much closer to 1. their results did not entirely refute our claim, but their data collection was significantly different from our group’s data. 
+
+
+
+	based on our experimentation, the heavier that the hanging mass is, the greater the applied force is, and therefore the acceleration is larger. in the case that a heavier string was used, then the entire mass of the system would be greater. the m1 value would be greater. if plugged into our mathematical model and calculated correctly, the acceleration would be larger. in the case that a lighter or non-massless string was used, the applied force would be smaller, causing the acceleration to be smaller. 
+
+
+
+	this lab dealt with two types of error is  systematic and random. a systematic error that could have occurred during this experiment was not properly calibrating the balance before measuring weights. to reduce systematic error, ensuring that the balance is properly set to a zero value before making measurements between each trial would eliminate chances for this type of error. a random error that could have occurred during this experiment is not carefully rounding when solving equations for force and mass that would eventually help us to find our mathematical model. a solution to this random error would to be consistent with rounding techniques. due to a lack of time we had to complete the experiment, the generalizability of our results was limited. with more time, more trials could have been run and a wider range of control variables could have been measured.

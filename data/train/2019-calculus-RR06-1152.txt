@@ -1,0 +1,19 @@
+discussion and conclusion
+
+
+
+the purpose of this lab was determine whether or not changing the mass on the end of the pulley would affect the acceleration of the cart, as well as whether or not changing the slope of the track would affect the acceleration of the cart.
+
+the three experiments in labs 5 and 6 showed me the inverse relationship between mass and acceleration. in order to keep the summation of forces constant in the system, the mass times the acceleration always has to equal the same value. so when the mass is increased, the acceleration has to decrease, and when the mass decreases, the acceleration has to increase. if this was not the case, the summation of forces would not be constant.
+
+when the slope of the track is raised so that the cart is going upwards, the acceleration of the cart will decrease. other groups that performed the same experiment as we did had the same results as we did. we determined that with the combination of an increasing cart mass and increasing slope, the acceleration of the cart will decrease.
+
+
+
+
+
+i believe that there was random and systematic error in our experiment. for systematic, we tried to start the cart at exactly the 700mm mark on the track, but sometimes we would be off by a couple millimeters. to help with the systematic error, we were able to use the computer system to determine the speed and the time it took to reach that speed, ultimately letting us determine the acceleration. there was also some random error in that there is the possibility that each bobber was not 5 grams in mass. if this was the case, then to solve this issue we should be given predetermined masses for the bobbers so we did not have to measure the mass of the bobbers.
+
+some constraints in this experiment would be that there were times where we wanted to test whether or not the friction would affect the mass of the cart. since we measured the acceleration on a frictionless track, we were not able to see how friction would affect the acceleration. we were also not limited to the amount of trials we had to complete. if we had a limited amount of trials for each group,  we could narrow down the variety in the results of other groups compared to our results.
+
+according to newton’s second law, the summation of forces equals the mass times the acceleration. when increasing the mass on the other end of the pulley, the mass of the cart would be less than the mass at the end of the pulley, therefore since the mass is smaller, the acceleration of the cart is going to keep getting larger as the mass of the cart decreases. when the mass of the cart is increasing, the acceleration of the cart will start to decrease. this balance is to ensure that the summation of the forces is constant.

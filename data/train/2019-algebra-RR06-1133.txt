@@ -1,0 +1,10 @@
+conclusion:
+ the purpose of this lab is to determine mathematical models that can be used to model a real system, additionally, in this lab an understanding of how different variables can affect the behavior of a system
+
+ the model equations were obtained through modeling the excel data and formulating trendlines that were representative of the known equations given in class 
+
+ possible errors that could have occurred is a random error of the bobbers which were used to represent the hanging mass could be of varying masses, when conducting this experiment our group assumed that all bobbers carried the same mass and this could obviously be false with imperfections on each bobbers being possible. this could be reduced by measuring each individual bobber before applying it to the end of the hanging force
+
+possible constraints is the use of the triple beam balance for measuring the mass of the objects, this tool is notably less precise than an automatic scale. another constraint is the time in lab with only two hours being given for in lab time, our group was required to meet outside of lab for additional time. 
+
+ these experimental models are consistent with newton’s second law because they represent all of the variables given in newtons second law equation.

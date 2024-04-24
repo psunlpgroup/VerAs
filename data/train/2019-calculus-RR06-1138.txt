@@ -1,0 +1,31 @@
+discussion and conclusion:
+
+the purpose of lab 5 was to describe a behavior of a system using two mathematical models. the purpose of the second lab (lab 6) was to explore the models you discovered previously and how your results were impacted by your physical lab settings. for lab 5 we looked at how mass 1 changed the acceleration of a system and we also looked at how mass 2 changed the acceleration of a system. 
+
+the three experiments done in lab 5 and lab 6 led to the resulting mathematical models is 
+
+
+$dv=- 3 e - 5 iv^{2} - 0.0267 iv + 1.0791$
+
+$dv=-8e-5 iv^2+0.0306 iv-0.0102$
+
+
+linear model is  $a=1.1019 - 0.0284 x$
+
+power model is  $a=\frac{24.247}{x^{1.3743}}$
+
+for lab 5, our first mathematical model that looks over the constant mass over the system states that the acceleration is directly proportional to the inverse of m1. as acceleration increases m1 decreases, which means that there is a negative correlation between the acceleration of the system and the mass. 
+
+our second mathematical model that looks over the change in the mass of the system states that as the dependent variable increased the independent variable increases as well. this means that there is a positive correlation between the independent and dependent variable. the mass of m2 was the only one that did not change. we started with the mass of 35g and continued decreasing the mass by 5.00g +0.75g until the mass of m2 was 10g, with this, we found that m1’s acceleration decreased. 
+
+	our measurement of uncertainty was measure on excel and we got 0.1+-g.
+
+	for lab 6, we can assume, from our model, that there is a correlation between the height of the track we raised (slope) and the acceleration of the car. we can assume that the acceleration due to gravity increases when the track is at a downward slope facing the way the direction is going. we can also assume that the acceleration will decrease when the track is at an upwards slope going against the direction the cart is going to. as the acceleration increases the slope becomes more negative.
+
+the other groups had a similar result to our findings. most groups agreed that there would be a correlation between the height raised (slope) of the track and the acceleration. most groups also had the same conclusion that as the acceleration decreases the height of the slope against it increases. this makes our conclusion that there is a negative correlation between the height of the track (slope) and the acceleration of the system. 
+
+some error that could have been presented in the system was the accuracy in the measurements that we found using the triple beam balance. we also could have calibrated the triple beam balance wrong and it could have created a systematic error when measuring the mass of the bobbers. another systematic error that could have affected our results was the position of the car. we always positioned the car at the 900 cm mark. if it was off it could have affected the results. 
+
+some constraints in this experiment that could have limited the generalization of our results were the time we had to complete the lab. if we had more time, we could do more trials and have a better understanding.
+
+newton’s second law states that force is equaled to the mass of the system times the acceleration. our mathematical models are consistent to newtons second law because there is a correlation between the mass of the system and the acceleration. we saw that the acceleration was inversely proportional to the mass in our experiments and in newtons second law.

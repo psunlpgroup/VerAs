@@ -1,0 +1,5 @@
+
+conclusion:
+
+
+the purpose of the lab was to determine how changing the various elements of the system with a cart and hanging mass affected its acceleration. the three acceleration equations ended up being used to create the mathematical models, with the y value being represented by the acceleration and the x value being represented by the force. the findings of the other groups help us realize that it is possible to get a large array of results from tests like these. random or systematic errors may have occurred with a larger slope by picking inaccurate test points when finding the line using the software provided. constraints with the experiment could include things like the weights we used all being essentially the same mass as each other, which could take away from the variety of changing the weight of the system (or a part of the system) by a different amount. out mathematical models are consistent with newton’s second law because they show that as the acceleration or the mass of the system increases, so too does the force.

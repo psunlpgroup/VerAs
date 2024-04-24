@@ -1,0 +1,15 @@
+discussion and conclusion:
+
+a.	the purpose of laboratory six (part 1 and 2) was to develop mathematical models for the acceleration of the system when mass at different applied forces acted onto the system. there were multiple variables for laboratory 6 (part 2) experiments to record as well.
+
+b.	we are extremely confident in our values due to the r^2 rating of 0.978, 0.9988, and 0.9999 respectively. when plotting our graphs for graphs one, two, and three we plotted our data onto an excel graph and determined the mathematical equation by analyzing the trendlines given off by the graphs. after determining the trendline for each graph we looked to see which mathematical model fit the trendline data. once this was determined we were able to its relation to newton’s second law and translate that into a proper solution to use for the mathematical model.
+
+c. 	
+
+our photos are of group 4 and group 1 respectively. group 4’s picture doesn’t display the correct information and thus a conclusion/finding cannot be determined from their whiteboard. group 1’s data is clear and concise, there data and findings also concur with ours telling us that applied force does in fact effect acceleration of the system. their data also agrees with our data results in that acceleration is affected by applied force.
+
+d.	in our laboratory we had systematic errors that could be caused by a single person taking all measurements of the glider and the fishing bobs in which the correct measurement was off. a solution to this problem would be to replace the manual scale with an electronic scale in which the number weight is clearly displayed.
+
+e.	the experiment had a max weight constraint of  340g, and the fishing line was capped at a specific length too causing the distance of releasing the glider to be shorter. these constraints could have decreased the effectiveness of the data given.
+
+f. 	our two math models follow newtons second law because the value 2.18514(kg^-1) represents the inverse of the mass of the system which will cancel out with the iv to get m/s^2.  the value of -0.0111(m/s^2) is an outside force.

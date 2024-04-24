@@ -1,0 +1,15 @@
+conclusion:
+	
+
+the research question for this lab is what impacts the period of a pendulum for small swings?
+
+
+
+each of the three experiments was designed to see if the independent variable had an effect on the period of the pendulum. the first test having an independent variable of mass, showed that there was no correlation between the mass of the pendulum and the period of the pendulum. this can be seen in figure 2. the second test had the independent variable of angle of release. the results showed that the angle of release had little to no effect on the period of the pendulum if it was below 30 degrees. above 30 degrees angle of release had a small effect on the period of the pendulum. this can be seen in figure 4. the third experiment had an independent variable of string length. the string length had a direct correlation with the time period of the pendulum, that can be represented by the power equation $t=0.204 l^{0.5}$. the relationship shows that as the length of the string is increased the time period of the pendulum also increases. this can be seen in figure 6.
+
+
+
+the theoretical mathematical model for the period of a pendulum is $t =2 \pi \sqrt{\frac{l}{g}}$      . when comparing the result of our first experiment, the mass verses time period of the pendulum, shows that the results do not match the mathematical model, thus leading us to conclude that the mass has no effect on the pendulum of the period. the angle of release also lacks similarity to the theoretical model, leading us to conclude that it has no significant effect on the period of the pendulum. finally, the string length verses period of the pendulum model is similar to the theoretical mathematical model and therefore we can conclude that the string length does have a significant affect on the period of a pendulum.
+
+a random error that presented an issue for us was the timing of starting and stopping the stop watch. the values we were getting were not as consistent as expected. this was fixed by using the photogate sensor to record the time period of the pendulum.
+one of the constraints that may limit the generalizability of our results are the time limit of our class. the two-hour class period limits the number of times we can run the test to gather data. with a longer time frame to gather data, we could have more accurate results. another factor could be that the photogate only measures to a certain standard deviation, and therefore could be less accurate then previously believed to be. finally we had a limited amount of mass and string, with more of each more tests could have been run and accuracy could have been improved.

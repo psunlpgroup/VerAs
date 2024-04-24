@@ -1,0 +1,5 @@
+discussion/ conclusion:
+
+		after performing this experiment, we found that only the length effected the period of the pendulum. we know that this data is statistically significant because we got an r^2 value larger than 0.05. also the error bars on our graph didn’t overlap meaning there was a change in the period. we found that the shorter the length of the string the faster the period would be. our longest string was a length of 20 inches, which gave us a period of 1.5 seconds. our shortest string length was 2 inches which gave a period of 0.7 seconds. we came up with a mathematical model $t=0.6088 l + 0.71712$. we know this mathematical model is accurate because we can check it by plugging in our actual data. we made a hypothesis that the shorter the length of the pendulum string the faster the period, we found this hypothesis to be true based on the data above. throughout this experiment there was human error due to timing and releasing the string which could make a small difference in the time. a way to further improve this experiment would be to take more data points to better show the relationship of the data.
+
+	

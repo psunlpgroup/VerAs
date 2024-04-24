@@ -1,0 +1,23 @@
+discussion and conclusion
+
+the purpose of this lab was to acquire mathematical models and graphs which showed a system of force’s behavior. this was carried about by doing experiments in seeing how applied force (hanging mass experiment) and the mass of a system affects acceleration.
+
+another purpose in this lab was to understand the variables in the experiments carried out, and what their numerical values mean. this was done by finding out how much friction force affects the acceleration of a system.
+
+hanging mass experiment is  there is a positive correlation between the hanging mass of the system (independent variable) and the acceleration of the system (dependent variable) because the graph of this is a positive slope.
+
+mass of cart experiment is  there is a negative correlation between the mass of the cart (independent variable) and the acceleration of the system (dependent variable) because the graph has a negative slope in it.
+
+friction force is  there is a negative correlation between the amount of friction force (independent variable) and the acceleration of the system (dependent variable) because the graph of the experiment has a negative slope. this concludes that as friction increases, acceleration decreases.
+model 1 $a=2.4175 f - 0.0154$
+model 2 $a=2.3608 f - 0.0382$
+
+
+model 3 $a=2.2439 f - 0.0661$
+model 4 $a=2.2236 f - 0.081$
+$a=2.863 f - 0.0632$
+$a=2.8717 f - 0.0255$
+$a = 2.899 f  -  0.1228$
+a systematic error in this lab could have been that the pulley system was possibly faulty. if the pulley was not running smoothly, the forces acting on the system would be affected and create incorrect data. random error in this experiment could have been how the magnets were used on the cart. the magnets were placed on the cart as well as they could with tape, but the tape and magnets could shift throughout the experiment causing it to output incorrect data. this random error could be fixed by finding better ways to place magnets on the cart, like creating slots in the cart for magnets to be placed in.
+a constraint in this experiment was the small force of friction that was almost impossible to take away. if the system was truly frictionless, then the relationship between the independent variables (friction force, hanging mass, mass of cart) and the dependent variable (acceleration) would be flawless in its values.
+the two experimental mathematical models are consistent with newton’s second law because they kept the force constant. the mass of the cart experiment did this when the mass of the cart increased, the acceleration decreased. the hanging mass experiment also did this when the force applied was increased, the acceleration increased with it.

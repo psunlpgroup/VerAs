@@ -1,0 +1,14 @@
+conclusion:
+ the purpose of lab 05 was to determine the impact that the gravitational force had on the acceleration of the glider. as the gravitational force increased, the acceleration increased as well. the purpose of lab 06 was to determine the impact of an applied magnetic force on the acceleration of the glider. as the magnetic force increased, the acceleration of the glider decreased.
+
+ in lab 05 it was determined how the gravitational force, as well as how the mass of the glider affected the acceleration of the system. figure 1 displays a graph of acceleration vs. glider mass and the negative correlation between them, as the glider mass increased, the glider acceleration decreased. figure 2 displays a graph of the acceleration vs. gravitational force and the positive correlation between them, as the gravitational force increased, the acceleration also increased. in lab 06 it was determined how a changing gravitational force affected the acceleration of the glider which also had a constant magnetic force acting on it. figures 3, 4, and 5 show how the acceleration was affected with no magnetic force, 2 magnets, and 4 magnets. it was determined that as the magnetic force increased, the acceleration decreased.
+
+    
+
+	group 5 also did the magnet experiment in lab 06 and they determined that as the magnetic force increases, the acceleration decreases, displaying a negative correlation.
+
+ one error that may have been present in this experiment is the use of the triple beam balance, which makes it difficult to get an exact mass of an object which could have affected the overall mass of the system. to mitigate this error in the future, digital scales could be used which are known to be more accurate. another error that could have been present is all the bobbers may not have had the same mass, this could be avoided by using weights that have known masses.
+
+ one restraint that may have limited the generalizability of our results was the number of bobbers available to us, if we had more bobbers, or even heavier bobbers, the positive correlation between the gravitational force and acceleration in lab 05 may have been more noticeable, or on a larger scale.
+
+ our mathematical model in lab 05 are consistent with newtons 2nd law because the acceleration and gravitational force are proportional to each other, causing a positive correlation. in lab 06 the acceleration and gravitational force are also proportional, displaying another positive correlation between them. also in lab 06 it was determined that the acceleration and applied magnetic force were negatively proportional to one another, displaying a negative correalation.

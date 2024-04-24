@@ -1,0 +1,9 @@
+discussion and conclusion
+
+	in the first three labs, we investigated the properties which may affect the time period. we tested the mass of the bob, the angle of release, and the length of the string as independent variables. this was done by testing each factor one at a time while keeping the others constant. 
+
+the relation between length of the string and the period of the pendulum, as calculated by the data collected, seems to be a function $t = 0.2709 l^{0.4439}$, where t represents the number of seconds for the pendulum to complete one period, and ℓ represents the length of the string in centimeters. however, the actual model was given to be $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$, where t represents the time of the period in seconds, ℓ is the length of the string in meters, and g is the acceleration due to gravity, -9.8m/s2. the differences in the experimental and actual models of the period as it relates to time can be accounted for by various errors and limitation of the equipment available. 
+
+random errors that may have occurred include errors in measurement of the string, errors in measurements of the angle, and not releasing the pendulum with impartial force so that the only force allowing for motion of the pendulum is gravity. systemic errors that may have occurred include an inaccurate tape measure, inaccurate protractor, inaccurate weights, inaccurate photogate, and air resistance. 
+
+overall, the period of the pendulum was not affected by changes in mass or angle of release, but was affected by the length of the string.

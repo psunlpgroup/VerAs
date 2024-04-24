@@ -1,0 +1,18 @@
+conclusion:
+ the purpose of lab 5 to develop mathematical models which describe the behavior of a real system and the purpose of lab 6 was to develop an understanding for each variable and numerical value included in the model. 
+
+ the two experiments in lab 5 led to the resulting mathematical model because once the applied force increased, the acceleration of the system increased and when the hanging mass was increased, the acceleration increased. in the first model mass from the hanging mass was added to the resting mass while in the second model the hanging mass was left constant and the mass of the resting mass was increased. the first model shows the trendline having an r^2 value of .999 and the second one has a value of .9529. the model tells us that the slope of the acceleration will be 2.9 and the y intercept will be -.0137. this means the object will have an unknown negative force acting on it and where the slope represented the acceleration of the system. that resulted in the graph of force applied vs acceleration which can be seen above. the experiment in lab 6 led to the resulting mathematical model is that we found that with more hanging mass meant more acceleration not including the angle but with a higher tilt there was less acceleration but with a smaller tilt the faster the cart went. the data and the graph for experiment one is shown above with the other data tables and graphs for reference. c1 in our model equations relates to newton’s second law by c1 being the ratio of the mass of the system to the force. 
+
+
+
+
+the 9.46 mm and the 28. 33 mm incline slope are very similar to group 2’s but the 22.03 mm incline is different from group 2.  the data and claims from group 2 add to the understanding of our data because of their graphs was different then ours making us look at our data in a different way.
+
+ systematic errors could be the tilt of the track and the hanging mass. random errors could be forgetting to remove or add a weight, not measuring with the right device or forgetting to convert units. 
+
+constraints with these labs are the amount of time given for the lab and being restricted to the materials that we have provided. 
+
+c1 in our model equations relates to newton’s second law by c1 representing the ratio of the mass of the system to the force.
+
+c2 being the (f2/msystem), making c2 is a constant. meaning f2 is a constant.  in addition, from lab 5 it supports newton’s second law because as the mass of the cart increased the acceleration decreased and as the weight of the hanging mass increased the acceleration increased. 
+

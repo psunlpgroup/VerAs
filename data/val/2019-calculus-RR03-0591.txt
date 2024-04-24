@@ -1,0 +1,13 @@
+discussion and conclusion
+
+
+
+what impacts the period of a pendulum for small swings?
+
+
+
+with the first two experiments, the factors investigated included both mass and release angle as well. both of those were determined to not be factors affecting the period of the pendulum, based on the little to no correlation observed from the near horizontal linear fit line. eliminating mass and release angle allows for the modeling of the period as a function of only pendulum length. fitted to an exponential curve allows the realization of the model $t=2 l^{1/2}$ which fits the classically understood function of pendulum period – $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+
+
+with the first experiments, random error existed from the human timing of the system and the inaccuracy of forces applied at release of the pendulum. while these didn’t affect the conclusions of what impacts the period, they were minimized in the later tests of period with the introduction of a photogate to time the period. no systematic errors were present in the experiment, and the results as a whole is only applicable to those low angles of release that were tested.

@@ -1,0 +1,41 @@
+discussion & conclusion
+
+the research question to be answered with the data obtained from these labs was, “what impacts the acceleration of a cart along a fixed path?”. this question was to be interpreted, hypothesized, tested, and confirmed, in that order. the answer to the research question was supposed to be built upon as more progress was made.
+
+during the first lab, the cart’s path was presumed to be frictionless. during this lab session, we were only concerned with varying the force and mass and seeing how these variables impacted the acceleration of the cart. we hypothesized that the force of the system was related to the acceleration of the cart and that the mass was not. we tested these hypotheses by attaching a bob of certain mass to the cart and hanging the bob over the end of the table with a pulley system. our hypothesis for the force of the system was correct, as the acceleration increased as the force of the system increased. our hypothesis for mass was not correct, however, as the mass of the cart was increased, the acceleration decreased. the experiment with the hanging weight as the independent variable addressed the research question in that both the force and mass of the system can both be varied in this way. mass added to the bob increases the force acting on the system and adding mass to the cart varies the mass of the cart itself. 
+
+in the second lab period, we tested the effect of friction on the acceleration of the cart. we compared our collected data to that of group #4, who also tested the effects of friction. below is their data is  
+
+
+
+
+
+group 4’s data is a bit more varied than ours, but their claims still strongly support our findings. in particular, their r2 values are less uniform than ours. their r2 values for trials 1-3 were 0.9457, 0.9546, and 0.9444 respectively. these r2 values are not on a downward trend as ours are. the value from the second test is greater than that of the first and third test. still, their graphs have a similar line of best fit. they show a positive correlation between the force of friction and the acceleration of the system, as ours do.
+
+	when comparing our data to that of another group, we turned to group 5. group 5 was yet again testing the acceleration of the system (dv), however their independent variable was the tilt of the track. group 5 would tilt their track at an angle and test how this impacted the acceleration of their system, mostly by observing the y-intercept of their graph group 5’s data shows a decrease in the y-intercept of the mathematical model as the angle of the track is increased. the heights that the track was raised were .3 cm, .6 cm, 1.2 cm, 1.7 cm, and 2.9 cm. the y-intercepts of these heights were -.0258, .0185, .0534, .0729, and .0969 respectively. from the data obtained by group 5, the conclusion can be drawn that the angle of inclination impacts the y intercept of the resulting graph. in fact, the inclination of the track has a greater impact than the friction acting on the system, which was the independent variable tested by our group. the data that we collected did not show a strong correlation between friction applied to the system and the y intercept. although we did not test the effects of increasing the angle of the track, their data makes sense.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	the theoretical equation  is used to represent the acceleration of a system by a single force. the experimental mathematical model  serves to support the theoretical model. the theoretical equation applies to this situation in that the mass of the bob has a direct effect on the force applied to the cart. the mass of the bob is the only force acting on the system, so the theoretical equation applies. the system mass relates to the fitting parameters in that a linear fit is best for the corresponding graph. the r2 value is 0.9868. 
+
+the enhanced theoretical equation,  is used to represent the acceleration of a system by multiple forces. in the second lab period, in addition to the force on the cart by the bob, magnets with substantial masses were added to the cart in order to enhance the force of gravity on the cart. therefore, this theoretical equation applies. the extra forces relate to the fitting parameters in that a linear fit is best for the corresponding graph. the r2 values for these trials were 0.9978, 0.997 and 0.9904.
+
+if another test were conducted with a heavy string connecting the hanging weight with the cart, the results would remain the same. the heavy string would act against the acceleration of the cart in horizontal motion, but act with the acceleration in the vertical motion (a.k.a. the force acting on the cart). right after release, the cart would move slowly, but as more of the string transferred from horizontal to vertical, the cart would begin to move faster and faster until it hits the end.
+
+random errors in this experiment are few and far between. in general, all random errors were likely due to the measuring software slightly misunderstanding when the cart stops accelerating. this can be basically ruled out by performing multiple tests when data seems to break trends too harshly.
+
+	the biggest constraint in this experiment has to be the cart apparatus. in the second lab period, as the magnets were added to the cart, it became increasingly hard to attach the magnets to the cart without having the magnets fall off the cart. if we were to secure the magnets with tape, this would add weight to the cart (which would need to be measured). also, as we began to add more bobs to the hanging string, the bobs would touch the ground before the cart was finished accelerating, we believe this to have a slight effect on the acceleration of the cart. even with these constraints, the data collected still strongly supports our predicted outcomes. this should not have an impact on the generalizability of the results, as tests where this became an issue were repeated and averaged.

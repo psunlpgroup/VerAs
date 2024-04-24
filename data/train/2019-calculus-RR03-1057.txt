@@ -1,0 +1,27 @@
+discussion
+
+	the research question that was evaluated was: what factors affect the period length of a swinging pendulum. 
+
+	the experiment testing the angle vs the period length tested whether different angle measurements from which the pendulum was dropped affected the time it took to make one swing i.e. the period length. the claim for this experiment is that the angle does not affect the period length to an extent. it was noticed that after 30 degrees there is an extremely small change in period length.  in general, the angle and the period length have little to no correlation. this is noticed due to as angle changed the period length did not change significantly. this claim is valid because the weight and string length were held constant throughout the experiment thus isolating the angle when testing.  this allows us to claim that there is no correlation because there are no other factors affecting the length. 
+
+	the experiment testing the weight vs the period length tested whether changing the weight of the pendulum would affect the period length.  the claim is that the weight does not affect the period length.  when looking at the graph it is noticed that as the weight increased the period length stayed relatively the same.  this claim is valid because the other two variables were controlled thus isolating the weight on its own. 
+
+	the experiment testing the length of the string vs the period length tested whether changing the length of the string connecting the pendulum to the frame affects the length of the period.  the claim is that the as the length increases the period length increases. when looking at the graph comparing these two variables it is noted that as the length of the string increases the period also increase. thus, showing a positively correlated slope. 
+
+	the theoretical mathematical model for the length of the period is is 
+
+
+$t=2 \pi \sqrt{\frac{l}{g}}$
+l is length
+
+g is gravity
+
+
+
+
+
+this theoretical model of the length of a period fits the data found as it only incorporates length of the string.  this is consistent with the data found because it was found that the length had a relationship with the period length due to the increasing slope on the graph of length of the string vs the length of the period. as well it is consistent with the variables not included.  the angle of the drop and the weight of the pendulum are not included in the equation which is consistent with the data that we found.  the graphs show that as the weight and angle increase the period length does not change which would be why it is not included in the theoretical model. 
+
+	the errors that were present were mostly random errors.  these errors were user errors such as timing inaccurately, not measuring the angle/length of string/weight accurately, pushing the pendulum when dropping.  all these random errors could result in an inaccurate measurement throughout the experiment. the timing error was reduced by using a time gate capture device that calculated the period length with an error of .001 seconds.  the measuring was reduced by double checking and realizing that the angle and weight were irrelevant to the period length. a release mechanism that would drop the pendulum on its own would help limit any external forces on the pendulum as it was dropped. 
+
+	constraints of this experiment were measuring using a protractor and a tape measure. if there was a better way to measure the length and angle the results would be generally more accurate and reliable.

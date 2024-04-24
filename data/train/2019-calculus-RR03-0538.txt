@@ -1,0 +1,23 @@
+conclusion:
+ the research question being investigated is “what impacts the period of a pendulum?”
+
+ the first experiment, period vs length of pendulum, addresses the research question by asking if the length of the pendulum effects the period. the claim made was that the length of the string will affect the period of the pendulum. this claim is valid under conditions of constant mass and angle of release. the graph shows this because the graph was made as period vs length, where period is the dependent variable and length is the independent variable. we were able to see a correlation between these variables, as the length was increased the period also increased. we also confirmed our claim based on the error bars seen in figure 2, using the equivalency criterion the first and last data points do not overlap, so there may be a correlation and needs to be investigated further. after being investigated further, we found a mathematical model that accurately models the data and relationship.
+
+	the second experiment, period vs angle of release, asks if the angle of release of the pendulum effects the period. the claim made was that the angle at which the pendulum is released will affect the period of the pendulum. this claim is valid under constant mass and length. we rejected our original claim based on the error bars shown in figure 3, using the equivalency criterion we can see that the error bars obviously overlap, and we can’t say that there is any correlation.
+
+	the third experiment, period vs mass, asks if the mass effects the period of the pendulum. the claim made was that the mass attached to the bottom of the string will affect the period of the pendulum. this claim is valid under constant angle of release and length of the pendulum. we rejected this claim as well based on the error bars in figure 4. we can see in the graph that using the equivalency criterion, all of the bars overlap, so we can conclude that there is not any correlation.
+
+
+
+
+	our data is very close to this theoretical model. our mathematical model is $t = 0.3266 l^{0.4953}$ and the simplified theoretical model is $t = 0.3197 l^{0.5}$. the coefficient and the exponent are both very similar to the values in the theoretical model. our data fits our curve with an r-squared value of 1 which means that the data is essentially a perfect fir. since our model is similar to the theoretical model and the data fits our model very accurately, we can say that our data fits the theoretical model fairly well also.
+
+from the equation we can see that the time changes as the length changes. based on our model we can see that mass and the angle of release do not affect the period, because they are not represented in the theoretical model.
+
+
+
+ some of the random errors present were the timing, the measurement of the angle and the measurement of the length of the pendulum. the random error of the timing could be reduced more in the future if we were to take more data points, we originally only used 6 times total for testing each variable. if we were to do more trials, the error would be reduced. the random error of the measurements of angle and length could be reduced by either being more careful when making measurements or using a different instrument with more precise measuring abilities. 
+
+some of the systematic errors present in the experiment were the measurement of mass and the timers. the scale could have had an error that caused all the measurements to be skewed either higher or lower than the actual values. in the future we can calibrate the scale before using it to be sure that the values we are getting are accurate. the other present systematic error was in the timers. the handheld stopwatches could have had an amount of systematic error, where we could either try to calibrate them or just adjust for the error afterwards. however, the photogate timer had a given error attached to it. since there was a given error we can just use that to adjust the data afterwards.
+
+this experiment works for the scale that we conducted the experiment on. if the same experiment were done on a very large or very small scale the results may be different. also, the mass was losing momentum each time it completed one period so the time values are not completely accurate assuming that the theoretical model is based on the fact that the pendulum returns to the same position each period.

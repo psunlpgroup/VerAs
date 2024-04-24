@@ -1,0 +1,53 @@
+discussions and conclusions:
+
+
+
+for this lab, we were asked to find if the factors (string length, object mass, and release angle) had any impact on the pendulum’s time period. after designing three separate experiments to isolate each on of these independent variables, our group was able to find how they related to the dependent variable (the period.)
+
+
+
+	before we started the experiment, we predicted that string length did impact the length of the pendulum’s time period. with the results from the first two lab periods, our data was able to support our claim that the period was in fact affected by the length of the string. using this, our third lab period experiment was designed to confirm the data received in the first two lab periods, while also making collections more precise using the photogate. as shown in our graph including the line of best fit, there was a clear positive correlation between the increasing string length and an increasing time period. using the error bars, there was no evidence of data overlapping and let us create a trendline for the relationship. after doing this, we found a power relationship was present and had a strong correlation ($r=0.9966$ leading us to believe we had found an equation nearly identical to the correct one.
+
+
+
+	before testing the relationship of mass and time period, our group made the prediction that there would be no correlation between the two variables. as we tested varying weights in the first lab period, we were able to observe there was little to no change in the resulting period as shown in our graph and data table created. because of this, we were able to infer (with 95% confidence) that the true resulting period would fall within the error bars that were created to fit the points on the graph. in conclusion, there was no relationship between a changing time period and the differing masses.
+
+
+
+	the prediction made before testing that the release angle having no relationship to an increasing time period was found to be true after we collected data during the first lab period. with our data, we found the range of the time period to be from 1.01 seconds to 1.08 seconds without any trend along the way, therefore showing no possibility for a line of best fit to be drawn. also, with the use of our error bars, we found that the time periods overlapped, and the resulting period would fall into the error bar with 95% confidence. because of this, there was no correlation between time period and the angle of which the mass was released at.
+
+
+
+	after being given the theoretical equation for time period as $t=2$ we were able to compare how our results differed. after creating the line of best fit and finding the equation of that line $t=2.1718 L^{0.4492}$, we found that it differs from what the theoretical equation expected, but not to a great degree as the “r” value showed a high correlation between the two. because of this, we would be able to use any values associated with the equation and find approximately the correct output.
+
+
+
+when setting up each experiment, it would have been nearly impossible to avoid all the random errors associated with the lab setting. however, there multiple errors our group may have made without noticing.
+
+
+
+the tightness of the pendulum string may cause the timing of each period to be skewed to either direction.
+
+if there were any external forces applied to the string from one trial to another, it would hinder the freedom the swing.
+
+protractor was not fixed to a certain point, it was held freely, so the angle measurements fluctuated
+
+
+
+although these errors were rather minute and skewed the data in small amounts, we also had some systematic errors that lead to the incorrect recording of data and shifted results. for example, the person who was timing each trial in the first two lab periods, may have consistently been recording earlier or later than the true value of the period. although that would not affect the trend, it does impact how the data is plotted and what the results look like. also, if the person measuring the release angle was consistently misreading the protractor, the results would be impacted in the same way. although both of these do not lead to an incorrect result from our predictions, the numbers themselves could be skewed.
+
+
+
+because the environment that we tested these variables in was not “perfect”, there were some constraints that limit us from being able to apply this to all pendulum examples.
+
+
+
+there was no reasonable way to account for the external forces being applied to the pendulum (air resistance, any unintended human force, etc.), therefore we had to account them as negligible.
+
+the use of a small angle (<20 degrees) worked for our tests but does not allow for the release from any point.
+
+assuming there were no other calculations or margins of error to account for (mass of string or preciseness of measuring tape.)
+
+
+
+with these constraints in place, it does not allow us to generalize the data for the pendulums in this lab, however it gave us an understanding of how pendulums work while also showing what it would be like in the perfect setting.

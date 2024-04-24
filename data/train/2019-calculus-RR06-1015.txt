@@ -1,0 +1,32 @@
+discussion and conclusion 
+
+
+
+the purpose of these labs was to develop mathematical models that describes the behavior of acceleration with a force applied when the mass of the cart and the angle of incline is changed.  the purpose of these labs was also to understand how the equation of $f=m a$ was displayed in a real system.  
+
+
+
+from our graphs made with the data in lab 5 with the hanging mass as the independent variable, it can be seen that there is a positive relationship between acceleration and force.  the slope from our graph was .003.  this data supports newtons second law.  we are confident that this value is correct because our r value is close to 1 and error bars are too small to be seen.  this value is also similar to that of other groups.  from part 2 of lab 5, it can also be seen that there is a negative relationship between acceleration and mass of the cart.  the slope from our graph was    -0.396.  this data supports newtons second law.  we are confident that this value is correct because our r value is close to 1.  this value is also similar to that of other groups.  
+
+
+
+
+the findings of other groups help to contribute to my understanding because this provides more data to analyze.  this helps for conclusions to be more accurate.  newtons second law states that acceleration is proportional to the net force.  in model 1, group 3 supports this claim and our data because they have a positive slope.  this means that as the force increases, the acceleration also increases.  in model 2, group 5 supports our claim because they have a negative slope.  this means that as the mass of the cart increases, the acceleration decreases.  
+
+
+
+the physical meaning of each variable in lab 6 can be determined by looking the equation of the line $y=m x+b$.  where m represents the acceleration of cart.  the acceleration decreases as the incline of the track increases.  the b in the equation represents the error in the lab.  the track is not completely frictionless, and this results in some error in data collection.
+
+
+
+a random error in the lab could be from the device we use to find the acceleration of the cart.  if the trial was run multiple times with the same set up, different values would be collected.  this can be fixed by taking the average of many attempts.  
+
+a source of a systematic error in the lab could be that the scale to measure the mass loaded on the cart was off by a certain amount.  to fix this error, the amount that the scale is off would have to be found and the data could be adjusted accordingly.  
+
+
+
+the data collected in this lab was constrained by the fact that the air track was not completely frictionless.  this friction caused to data to be off by a small amount.  the lab was also held back by the accuracy of the acceleration reader.  if more tests had been conducted, the average of the acceleration could have been taken and allowed for a more accurate value for acceleration.  
+
+
+
+in conclusion, our data is consistent with newtons second law which states that the acceleration is directly proportional to the net force.  in the lab, it was found that as the force applied increased, the acceleration also increased.

@@ -1,0 +1,50 @@
+discussion and conclusion:
+
+does the mass of a pendulum effect the period of the same pendulum? in our experiment, for each weight, we timed 10 periods with 3 stopwatches. to find the period, we averaged all 3 times measured, and divided the average by 10, rounding to the hundredths place. since we kept the cv constant in all trials, and only changed the iv, our measurements should reflect the correlation between the iv and dv.
+
+
+
+the line in our graph is starkly horizontal. this strongly suggests that upon changing the mass of a pendulum, the period will remain unaffected.
+
+
+
+there appeared to be no random errors present. we preempted our human error with start/stopping our stopwatches by measuring more periods and using multiple stopwatches. systematic errors could have been present in the form of a faulty stopwatch, but this was minimized by our process using multiple stopwatches.
+
+
+
+this experiment worked well and can be reproduced and scaled easily. however, our results aren’t generalizable because of our relatively small range of weights, drop angle, and length, as well as the low number of trials
+
+
+based on the results of our experiment, we have concluded that the mass of a pendulum does not effect the period.
+effect of a pendulum’s drop angle on its period
+
+does the drop angle effect the period of a pendulum? despite having to use the sample data given to us, we were able to design our experiment before time ran out is  for each drop angle, we planned to time 10 periods with 3 stopwatches. to find the period, we were going to average all 3 times measured, and divide the average by 10, rounding to the hundredths place. since we would have kept the cv constant in all trials, and only changed the iv, our measurements should have reflected the correlation between the iv and dv. the source of the sample data confirmed that the same process was used to collect the sample data.
+
+
+
+this graph shows a trend that is very close to being horizontal. this strongly suggests that upon changing the drop angle of a pendulum, the period will remain unaffected.
+
+
+
+the sample data assured us that multiple stopwatches were used in the collection of the data. this minimizes the risk of systematic error effecting the outcome of the experiment.
+
+
+
+this experiment can be reproduced and scaled easily. however, the results aren’t generalizable because of our relatively small range of weights, drop angle, and length, as well as the low number of trials
+based on our interpretation of the data, we concluded that the drop angle of a pendulum does not affect the period.
+
+
+
+does the length of a pendulum affect the period? in our experiment, we used a photo-gate to measure the period of our swinging pendulum. upon measuring a new length, and confirming our cv’s were constant, we let the pendulum swing multiple times through the photo-gate until a steady reading for the period was displayed. since we kept the cv constant in all trials, and only changed the iv, our measurements should reflect the correlation between the iv and dv.
+
+
+
+this graph shows a positive correlation between the length of a pendulum and the period. we used a power function ( $y=0.12263488 x$ ) to find the best fit line. our r2 value equals 0.9988, representing how much the data points vary from the best fit line. because of how close it is to 1, our model is a tight fit.
+
+
+
+using the photo-gate strongly reduced the chance of random and human error affecting our results. however, a small systematic error might be present if the photo-gate was somehow faulty. 
+
+this experiment was easy to do, set up, and is reproducible. the results are fairly generalizable because of the increased number of trials, and the wide range of lengths that were tested. however, we concluded that the overall mathematical equation that models the relationship is not discernable from this experiment and other similar experiments for there may be variables that cannot be measured in lab.
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$  is the theoretical mathematical model for the length vs. period relationship. t is the period, l is the length, and g is gravity.
+based on the results from our experiment, we concluded that the length of a pendulum has a direct relationship with the period of the same pendulum.

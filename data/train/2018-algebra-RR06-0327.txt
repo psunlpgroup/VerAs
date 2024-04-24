@@ -1,0 +1,20 @@
+discussion and conclusion
+
+
+
+	our research question for this experiment as stated before was to find how does the acceleration of a system change when the applied force changes.
+
+	the hanging weight as the independent variable addresses the research question because the weight of the system stays the same during the experiment and proves our prediction correct because as he force increases the acceleration increases. the error bars are too small to be seen in the graph above, because the bars do not overlap it proves that there is a significant difference between all 5 trials.
+
+	from group 6’s lab results we were able to compare data and it turns out that their results support our results. according to their graph, which almost mirrors ours, their graph is a linear line that shows as force increases, acceleration increases.
+
+	our group also compared our results with another group, group 2. from their results that they displayed in class they predicted that the heavier the mass of the hanging weight, the faster the system would run which was true for their results, and also for my group’s. their graph also increased steadily showing that as force increases, so does acceleration. this shows that their results supported ours.
+
+	our theoretical equation for the acceleration of a system by one force is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$. our mathematical model supports because it is $y=5.3792 x+0.0074$
+
+our theoretical model for the acceleration of a system by more than one force is $a=\frac{f}{m_system} + c2 \frac{m_{old}}{m_{new}}$
+
+	in a different scenario, for example, if a heavy string was connecting the hanging weight with the cart. the heavy string would add more weight to the hanging weight, causing the acceleration to be even faster than expected.
+	during this experiment many random errors could occur these could include not properly weighing the mass of the system, which using an incorrect weight would change our results, not by much but a little. another error is not allowing the vacuum to support the air track to warm up enough. during our experiment the first trial we redid because we let go of the cart as soon as we turned on the vacuum and that number differed from when we allowed the vacuum to warm up.
+
+	in our experiment there were a few constraints. the string holding the hanging mass must have been weightless in order to have a true measurement of the hanging mass. a heavy string would add more mass to the system and unless it was weighed, then it would be an added mass that wasn’t accounted for. another constraint would be that the air track had to be perfectly leveled in order to get true results. if it was unleveled depending on what way it was tilted more, it could cause it to be slowed down or go even faster than the acceleration should be.

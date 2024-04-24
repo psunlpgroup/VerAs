@@ -1,0 +1,26 @@
+discussion and conclusion:
+
+how is the period of a pendulum affected by independent variables such as string length, weight, and angle of release?
+
+
+when comparing the weight/mass vs. period, the evidence does not show a correlation. all the data points fall within two standard deviations of each other; these error bars indicate that any differences between the points can be marked off as error. in other words, the points all fall within the equivalence criterion. this further shows that there is no correlation between mass and period of a pendulum.
+
+
+
+when comparing length and period, a positive correlation was shown. the data points of the graph show that no two points fall within the equivalence criterion. this is shown by the error bars for each point and the fact that they do not fall within two standard deviations of each other. this means that there was no distinct error in the data and similar results would be found if the experiment was repeated.
+
+
+
+the angle of release has a slight correlation to the period of the pendulum. angle values that are under roughly 15 degrees are too small to obtain accurate data from. therefore, when testing for angles 5 and 15, the error bars displayed an overlap. however, for the values of 30, 50, and 70 degrees, a slight correlation is shown. this is shown by the error bars because the points do not fall within the same equivalence criterion.
+
+
+
+the theoretical equation is     $t=2 \pi \sqrt{\frac{l}{g}}$         using the data collected in lab, the points were plotted in a graph and it showed that the relationship between the length and the period appear to be an equation raised to a power. the equation that was formed 2.0142l^.405997. this is represented in the length vs period graph in figure 7 above.
+
+
+
+a random error could have been a human error in correctly and accurately timing the period. the impact of this error could have been reduced through increased repetition of the experiment. this is because, the average is more likely to be accurate if there are multiple trials. a systematic error could have been an error in the setup of the pendulum. if the rig that is attached to the string of the pendulum is not entirely stable, then the period may be affected. the solution to this error would be to double check every part of the setup to ensure that it will not affect the period of the pendulum.
+
+
+
+a major constraint of this experiment was the force of friction on the swing of the pendulum. this is shown physically as the period decreases in time and speed with each swing. the force of air resistance was not considered in this experiment. time was also a major constraint as more time could have led to more accuracy.

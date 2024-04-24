@@ -1,0 +1,15 @@
+discussion
+
+what impacts the period of a pendulum?
+
+the experiments comparing the length of the string and the period of the pendulum tested how the period of a pendulum would change if the length of the string supporting the swinging object is changed while keeping mass and angle of release constant. the data provided by these experiments indicate that there is a positive correlation between the length of the string and the period of a pendulum. the first experiment’s graph suggests a linear relationship, while the graph of the experiment using a photogate suggests an exponential relationship.
+
+the experiment comparing the mass of the bob and the period of the pendulum tested how the period of the pendulum would change if the mass of the bob at the end of the string is changed while keeping length and angle of release constant. the data provided by this experiment indicates that there is no correlation between mass and period. this is further evidenced by the graph, which has values that all lie within each other’s error bar’s, meaning that there is no way to confidently determine that each value is unique.
+
+the experiment comparing the angle of release and the period of the pendulum tested how the period of the pendulum would change if the angle of release is changed while keeping the length of the string and mass of the bob constant. similar to the experiment for mass, the data provided by this experiment indicates that there is no correlation between angle of release and period. the graph is similar as well, with the data overlapping to the point where no value can be considered unique.
+
+the theoretical mathematical model for the period of a pendulum is  where t is period in seconds, l is length in m, and g is acceleration due to gravity (9.8m/s2). the data for the experiment comparing string length and period fits with this model, as a larger value for l will result in a greater t value, which is evident in the data. the model also reaffirms that mass and angle of release have no effect on the period, as they do not even factor into the equation.
+
+random error present includes the inaccuracy gained from having to time the period of the pendulum by hand. this resulted in varying values for the time, which led to the idea of averaging the measurements for time. this reduced the error by bringing the measurements closer together to the mean. the error in time measurement was greatly reduced by switching tools for measurement from the stopwatch to the photogate, which automatically recorded the time, resulting in a much lower uncertainty.
+
+the one constraint that may limit generalizability of the results is the assumption that all experiments regarding the pendulum will be done on earth, where acceleration due to gravity is always 9.8m/s2. if performed in an environment where acceleration due to gravity is different, the value of t would scale differently.

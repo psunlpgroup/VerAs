@@ -1,0 +1,7 @@
+discussion and conclusion: 
+
+the purpose of this was to determine how the aspects of the physical lab setting contribute to the mathematical models. for this lab we were to conduct two experiments one a control and the other was used to see how it differs from the first control and see how the results affect the mathematical models. the three different experiments lead us to understand how changing aspects of the lab setting and environment can be seen in the mathematical model. 
+
+
+
+when we compare out mathematical models with that of other groups we can see that we have very similar results which backs our data and understanding that when we change the environment in which we conduct our experiment the mathematical models will also change, and this must be noted because of it isn’t then we can have misleading results outcome form the experiment. there were several errors in our data collection that could have affected the results of our experiments. for example, we could have mis-measured the heights of the angled ramps this would change the plotting of the acceleration vs height graphs and skew our results. another error that could have occurred during our experiment is that the cart isn’t fully frictionless the force of friction could affect our results. the mathematical models generated are inline with the concept we can gather from newtons second law of . if we look at the data results you can see that they do follow the laws of physics.

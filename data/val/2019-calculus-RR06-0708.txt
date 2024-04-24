@@ -1,0 +1,29 @@
+discussion and conclusion:
+
+to reach a conclusion on the research question asked: will friction or elevation change on the track affect the acceleration? my group tested 3 different variables. these variables consisted of a fixed system weight, weight of the system changing with a fixed applied force and adding magnets to the sled.
+
+hanging weight- through the experiments, we were able to determine that the hanging weight did have an affect on the acceleration of the system. this was only if the weight of the entire system remained constant. this is proven through graph 1 and table 1 which show how when the mass of the system remains constant, the acceleration follows a linear curve. this also backs up equation . as seen by the graph, as the force was increased, and mass remained constant, the acceleration would be affected linearly.
+
+
+
+theoretical equations- the equations our group found consisted of the following for each variable tested is 
+
+hanging mass with weight of system unchanged  $y=4.6491 x - 0.019$
+
+hanging mass with change in weight of system $y=1.765 - 0.0041 x$
+
+adding magnets  $y=0.5811 x - 0.7537$
+
+these equations when shown along with the graphs show how the acceleration of the system remains consistent and predictable when only changing one variable.
+
+
+
+heavy string- if a heavy string were to be used, there would be no effect on the acceleration of the system unless it had some other property like elasticity. the acceleration would remain unchanged because the weight of the system is constant, and the weight of the hanging mass wouldn’t be changed either. therefore, there would be no noticeable effect on the system.
+
+
+
+errors- a systematic error would have been any error within the measuring system, which was given to us after each measurement. another error was the weighing of the bobbers which was .05g because that was the smallest increment on the scale we were provided in lab. one way to overcome this error is to use a more precise scale. a random error that could have occurred in this lab is the person releasing the cart giving it a little extra nudge which would skew the acceleration. to compensate for this possible error, more tests would have to be conducted. 
+
+
+
+constraints- the mass of the system had to remain the same except for the testing where the system mass was the independent variable.  this constraint meant that reaching the conclusion of force on the system and mass of the system play direct roles in affecting the acceleration. as graph and table 3 show, the magnets had no real effect on the acceleration of the acceleration of the system. this was due to the track that the sled was on being made out of a non-magnetic metal.

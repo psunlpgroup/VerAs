@@ -1,0 +1,9 @@
+conclusion:
+
+what impacts the period of a pendulum for small swings?
+
+this experiment measures this by testing the 3 different possible factors of the time of a period. it can be concluded based on the data provided by the experiment hat the change in string length has the highest correlation with the change in the period. in the second graph, the error bars do overlap; however, the r squared value is so close to one that it can be assumed to have a linear relationship. in graphs 1 and 3, the error bars overlap significantly more than in graph 2, indicating that there is no correlation between mass and the period or the angle of release. instances in which the error bars do not overlap in graphs 1 and 3 and instances when they overlap in graph 2 can be attributed to human error. also, not dropping the pendulum correctly and timing incorrectly lead to different timings, which is why the period would differ from its true value. 
+
+because of the data received during the lab, a mathematical model for the period was able to be created. it is made from the idea of the square root function. the data in my second figure creates a trend line of the graph. 
+
+	the error in graph 1 and graph 3 is caused by random error. the random error in this experiment is due to human error as stated above. to limit this error, we timed the oscillation at the same time each trial. this allowed for more accurate and precise readings as it was the same period being measured, allowing for less standard deviation to decrease. also, the timing sensor helped reduce a huge amount of human and random error. another random error is invoked because the pendulum was not released from a constant angle most likely.

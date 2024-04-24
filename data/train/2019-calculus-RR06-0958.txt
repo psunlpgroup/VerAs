@@ -1,0 +1,11 @@
+conclusion
+
+	the lab was conducted to see how the applied forces on the system change the acceleration. in lab 05, we did this two different ways. one by just adding mass to one end of the system and the other by transferring the masses between the sides of the system. in lab 06, we tested to see what the slope of the track would affect the variable and mathematical model we got from the part in lab 5 where we added mass to one end of the system. in graph 2. we can get the standard mathematical formula which all of lab 06 is based on ($a = 2.7539 f_{applied} - 0.0482$). as we increased the mass of the hanging weight the acceleration increased. this also happened at the same rate for lab 06, the only difference was the y-intercept. the acceleration decreased each time the slope became greater and greater.
+
+
+
+this group tested what would happen to the acceleration if the tilted the track forwards. this was the closest one to what we tested and it confirms our results. as shown whenever the increase the slope (forwards instead of backwards), the acceleration would increase. their slope also stayed relatively the same as did ours. the only thing that changed was the y-intercept.
+
+
+
+this group tested what would happen to the acceleration if they increased the friction. the results of their experiment came up to be similar to ours. while the rate of change of the acceleration didn’t really change, the y-intercept decreased as the friction increased.	

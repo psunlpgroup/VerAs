@@ -1,0 +1,12 @@
+conclusion:
+ the three parallel lines recorded in data table 3 show that our hypothesis was proven--the slope didn’t change but the y intercept did. the as the tilt increased the y intercept increased all with the same slope is 
+
+                     	at a thickness of 3.17mm we had a b value of 0.0277
+
+                    	at a thickness of 12.58mm we had a b value of 0.059
+
+                    	at a thickness of 18.87mm we had a b value of 0.0764
+
+due to small errors in our bar graph (r2 values) we are very confident in our results.  also, newton’s 2nd law ($f=ma$ shows a linear relationship like our data. we do still have the problem of friction that we could not fully address. we did account for the error in the b value in the 0 tilt equation.
+
+other groups’ data is   below are pictures of other groups’ data. based on their findings this makes us very confident in our results.

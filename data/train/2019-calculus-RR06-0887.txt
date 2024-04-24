@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the purpose of this lab was to develop mathematical models which describe the behavior of a system (part i) as well as to develop and understanding for each variable and numerical value included in the model through investigating what happens when you change the physical lab setting (part ii).
+
+the two experiments in lab 05 led to the conclusion that as the applied force of the system increases, the acceleration of the system increases as well. this is shown by the positive slopes in figure 1 and figure 2. the experiment in lab 06 gave information on how the physical lab setting impacts our mathematical model. our mathematical model was 0.0029x-0.055, where 0.0029 was the slope and -0.055 was the y-intercept. the slope means that for every n of applied force added, the acceleration goes up by 0.0029.
+
+ the two pictures are photos of other groups’ whiteboards. the two groups both performed the same experiment as our group and their conclusions contribute to our understanding of the numerical values in our mathematical models by supporting our data. their conclusions both state that as the slopes increase (or become more negative), the acceleration decreases, which is a similar claim to ours. 
+
+a possible error during lab 05 and 06 include friction along the air track. this could be fixed by either introducing the effects of friction by holding other variables constant to isolate the effect it would have on the system or by further trying to reduce friction by maybe using an ice ramp or increase the air flow. 
+
+constraints in this experiment that may limit the generalizability of our results were small weights and small blocks to change the slope. if given weights that varied more as well as blocks to change the slope more dramatically, then the relationship and changes in our mathematical model would be more obvious. an additional constraint was time. if we were given more time, then we could have ran more trials on more negative or more positive slopes. 
+
+newton’s second law states that mass and acceleration are directly proportional to force, or, . our experimental mathematical models are consistent with newton’s second law because as the force increases, the acceleration increases, which you can see in each graph from lab 05 and lab 06.

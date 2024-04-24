@@ -1,0 +1,20 @@
+conclusion and discussion 
+
+before the conclusion and discussion begins, as a reminder the research question for this lab was, “what affects the period of a swinging pendulum?”.
+
+first test is the initial hypothesis for this test was that the change in mass would have no effect on the period of the pendulum. based on the results shown in the first graph (and data table), this hypothesis can not be rejected. as shown on the graph and table, each measured period was approximately the same, no matter what the mass of the system was. on the graph itself, the error bars determined show an overlap across each point. this means that it is a possibility that each measured number could have in fact been the same. in conclusion, this hypothesis was supported by this data, since it could not be refuted and it can be determined that the mass does not affect the period.
+
+second test is the initial hypothesis for this test was the change in the angle of release would not affect the period. based on the data collected, this hypothesis cannot be rejected. as shown on the graph, the numbers did not vary greatly over the change in the angle. on top of this the error bars overlap, which means that there is a chance that each point is the same value. so, this hypothesis was supported by the data gathered, since it could not be rejected, and it can be determined that the angle of release does not affect the period.
+
+third test is the initial hypothesis for this test was that the length would not affect the period. this hypothesis can be rejected due to the data and results found. based on the data above, the period does indeed appear to change as the length changes. this is supported by the fact that each error bar does not overlap, which means that each point could indeed be an unique value. in conclusion, this hypothesis can be rejected, and it can stated that the length does affect the period. 
+
+fourth test is the initial hypothesis for this test was the change in the length would affect the period of the pendulum. this hypothesis cannot be rejected, based on the data found. as shown above, the error bars due not overlap, so this means that each point represents a unique value that shows an increase in period as the length increases. using a line of best fit, it was determined that the relationship between period and length is a square root curve (this is discussed more in the “theoretical equation” section). so, this hypothesis could not be rejected and a square root relationship was determined between the period and length.
+the theoretical equation is      $t=2 \pi \sqrt{\frac{l}{g}}$      the model found was      $t=0.193 l^{0.5068}$         and it is the full model because we tested the independent variables and only used the one that we found to impact the period to calculate the model. as seen by the equation found, the constants are nearly the same, so the found equation is close to the theoretical model.
+
+two possible sources of random error are not starting the time on the stopwatch at the same time as the pendulum was released and not always stopping the stopwatch at the exact time the pendulum completed the cycle(s). this error could have increased the standard deviation of the data, since this type of error causes data points on both sides of the true value. to reduce the amount of random error (now and in the future), more trials could be repeated to get a better average of the true value.
+
+ one possible sources of systematic error was the masses used may not have been the exact value labelled due to extended use, worn down and scraped. also, the length measured may not have been exact due to the tape measure being stretched out from use over time. to reduce the amount of systematic error, each measuring device would have to be checked over to make sure everything was properly calibrated. 
+
+ a possible constraints that could have affected the data is the lack of an account for friction through air resistance. if for some reason air resistance was higher at any point in time, the pendulum could have been slowed down by an outside force changing the period.
+
+

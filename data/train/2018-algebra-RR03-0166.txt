@@ -1,0 +1,17 @@
+discussion:
+
+
+
+the tests above were helped used to solve the research question that asks what impacts the period of a pendulum for small swings. this was solved by three different experimental design’s that tested a different variable each time to determine whether or not it has an impact on the period of the pendulum. the variables tested were the length of the pendulum’s string, the release angle, as well as the bobber’s mass.  after the tests were complete, it was determined that both the length of the pendulum as well as the angle of release have a direct correlation between the period of the pendulum. 
+
+this was determined when looking at each graph, when looking at the graphs for the length and the angle, it was clear that when the independent variable increased, the period of the pendulum also increased. however, the mass of the bobber did not have a direct correlation with the period of the pendulum. the error bars in the graph also allowed us to see what impacted the period of the pendulum. if there were multiple error bars in the graph that overlapped each other it can be concluded that variable has no correlation with the dependent variable. however, it was discovered that the variables of length and angle release had no overlap in their uncertainties, which leads us to the conclusion that the numbers are different.
+
+the theoretical model suggested that the data in the plots from measuring the length of pendulum’s string vs. period had the same relationship. it was concluded that from the relationship of the r^2 value as well as our theoretical model, that the length of the string and the pendulum’s period are proportional to each other. this suggests that as the length of the string increases, the period will also increase.
+
+some possible errors that could have happened throughout our experiment could have been random such as, reaction time of the stopwatch, not releasing the string at the correct angle making the release angle too large. to help find how these errors were related we used a photogate timer to try and see how close our data points were to each other. these could have been reduced through repetition and having multiple sets of data that could then be averaged for each trial. some systematic errors include, an imbalance of the scale, an improper measurement of the length. this can be reduced by using multiple scales to find exact weight, or getting a more precise ruler.
+
+ a physical constraint in this experiment was that we were only allowed to use small swings because it has to be less than 30 degrees due to the research question. this effects our results because the model will not apply if we were to use a larger angle. the fact that we restricted our results to small swings meant that we are unable to use larger swings for our data.
+
+
+
+

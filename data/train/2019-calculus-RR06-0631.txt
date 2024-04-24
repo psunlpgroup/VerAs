@@ -1,0 +1,15 @@
+discussion and conclusion
+
+the purpose of this lab was to develop mathematical models relating force, mass, and acceleration. the purpose of this was to show the correlation between the forces at hand and develop the mathematical models to help better understand what is happening in this situation.
+
+
+
+as you can see from the graphs in experiment 5 part 1 there is a correlation between force and acceleration. the graph shows a positive correlation that as force increases, acceleration increases as well. the graph from experiment 5 part 2 shows that there is a negative correlation between the force decreasing as the mass of the cart is increased. finally, in experiment 6, graphs 1,2,3 and the combined graph. it can be seen that there is a direct correlation between friction and the acceleration. this is shown by the graphs because you can see as more friction is added between the cart and the track, the more force it takes the cart to move at the same velocity. 
+as seen by group one’s data, they also appear to have a correlation between increased friction decreasing acceleration. as the magnet bars are added to the side of the cart, the multiple of the acceleration in the equation is decreased.
+as seen by group six’s data the angle of the ramp and the acceleration had little to no correlation with each other, as the multiple of acceleration is pretty much unchanged, no matter the height of the ramp.
+error did not seem to be an issue in this experiment, as our data’s error bars are unvisible. although it would not hurt to collect more data, as the more data you have the more accurate your test results will be.
+one constraint of this experiment that may limit the results is that we performed it on an air track. even though we were adding friction by placing magnets on the cart, the cart still does not behave exactly like a real-world situation such as a car on the road. therefore, testing on the air track could be compromising the usability of our data.
+
+
+
+for experiment 5 we found that the more force that was applied the greater the acceleration, as well as the greater the mass of the cart the greater the force it took to increase acceleration. this is exactly what would be expected when looking at newton’s second law, $f=ma$. in experiment 6 we found that the greater the friction the greater the force it took to increase the acceleration of the cart. this also fits newtons second law, because it can be expanded to $f=ma$-mgu (u being the coefficient of friction).

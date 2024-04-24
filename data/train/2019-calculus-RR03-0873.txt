@@ -1,0 +1,11 @@
+conclusion and discussion 
+
+	based from the experiment and models presented above, the evidence seems to have answer the research question is  “what would impact the period of a pendulum from a small swing?” from the experiment three factors were given to test out; length of the string, angle of release, and mass of the pendulum. while having these factors considered, a model was set up and tested along side of the hypothesis knowing whether the predictions can be true. 
+
+	a hypothesis was formed for the length of the string, “if the length of the string increase, then the period of the swing will be affected.” based from the graph and data table above, there was no change in the period of the swing whatsoever. the graph shows a relation between the time and length, however the error bars had very little difference between the independent and dependent variables. therefore, showing that the length of the string does not affect the period of the swings at all. 
+
+	for the mass of the pendulum, one would think that weight would affect the time, “if the mass of the pendulum changes, then the period of the pendulum will change as well.” testing this out shows the graph of no correlation between the mass and period. from the graph, the error bars showed approximately the same difference as the previous graph of length vs time. therefore, showing that the mass does not affect the period of the pendulum. 
+
+	the last test was done for the angle of release. a hypothesis for this factor stated, “if the angle of the swing changes, then the time will also change.” after testing this factor out and looking at the predictions, graphs, and charts, this factor has been proven right. compared to the other two graphs, the error bars showed a value of change through the points of the graph. showing that the period was affected by the angle of release. 
+
+	this experiment had systematic and random error, due to the fact of the reaction of start/stopping the watch, as well as the measurement and set up. from these errors they are mostly human errors that can cause it, therefore giving it the systematic error. however, human error cannot be changed but for more accurate results, there can be improvement by repetition. as for random error, test trialing the equipment first and make sure the measurements are correct can have little error.

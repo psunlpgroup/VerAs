@@ -1,0 +1,23 @@
+discussion and conclusion:
+
+the purpose of this lab was to explore newton’s second law, and determine what factors impact the acceleration of a system. from the data collected in the experiment we determined a mathematical model for the relationships tested. this model can then be related to the theoretical model to explore what each element of the model is and how those elements affect acceleration. 
+
+the first part of the lab 5 experiment was a comparison of the acceleration to the mass that was hanging over the pulley system. from our model we determined that the larger the hanging mass the greater the acceleration of the system. thus, the hanging mass positively correlates with the acceleration of the system. the units of the coefficient multiplied by the mass are m/(g*s2). the units for the added constant are m/s2. our model demonstrates that for every gram of mass hanging over the pulley system, the acceleration increases by 0.0287 m/s2. it also implies that there is a minimum mass of 2.49 grams required for the system to accelerate at all. the second part of the lab 5 experiment was a comparison of the acceleration to the mass of the system. from our model we determined that there is a negative, non-linear relationship between the mass of the system and its acceleration; that is, as mass is added the cart acceleration decreases.
+
+
+
+
+
+these are the results from group 3’s experiment for backwards tilt. in their experiment they increased the angle so that the cart would be pulled up a slight incline hill. their data shows that as the angle increased, the constant value became increasingly negative. this shows that the initial tilt of the track does correlate to the acceleration of the system.
+
+
+
+
+
+group 1’s experiment was to test whether adding magnets to the cart will have a correlation to the acceleration of the system. their results showed that an increase in the number of magnets attached to the cart correlates to a decrease of the constant in the calculated mathematical model.
+
+one error in our experiment was our track. the air track we used for the cart had a small dip towards the center. if the cart was left idle with the air track on, then it would rock back and forth in the dip. we performed our experiment multiple times and took the average of our results using only the one track to reduce the error. this error could be reduced further by performing the experiment on multiple different tracks and averaging the results from all of them.
+
+our first mathematical model for lab 5 is consistent with newton’s second law because it demonstrates that as the hanging mass is increased, there is more gravitational force, and a greater acceleration in the system. our second mathematical model is consistent because as the mass of the cart increases the acceleration decreases as represented by 
+
+$f= m a$

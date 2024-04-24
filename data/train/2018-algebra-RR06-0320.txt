@@ -1,0 +1,9 @@
+discussion and conclusion
+
+the research question being investigated in this lab is how the impact of applied force and mass on a system effects the acceleration of the system. through the investigation, it can be concluded that these is a relationship between applied force and the acceleration of a system. from all the data collected, it can be seen that as applied force is increased in a system, the acceleration of the system increases as well. all the figures presented in the data section above show this trend of a positive correlation between the force applied and the acceleration of a system. the difference between the graph derived form my group and those of other groups can be seen in the r^2 and slope values of each graph. the slope values of the other groups appear to be smaller than the one found by my group and the r^2 values are all different values for each figure. the mathematical model is $y=44.343 x + 0.01$ for the experiment performed. my data does fit the mathematical model because the data collected was used to derive this model. 
+
+
+
+
+
+

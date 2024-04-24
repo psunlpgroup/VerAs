@@ -1,0 +1,11 @@
+conclusion:
+
+the purpose of this lab was to develop mathematical models that describe the behavior of a real system, as well as to develop an understanding for each variable and numerical value included in the model.
+
+these three experiments led to our mathematical models because they follow newton’s second law, which in turn follows the equation $f=ma$. each of the experiments gave us a model that followed this equation. the physical meaning of the models gives us an estimate of what that remaining variable in newtons law is. that is, if we are testing mass versus acceleration, the physical quantity represents an approximate of what the force acting on the system is. the second physical quantity in the model for lab 6 represents the retardation value, or the value resisting the system. based off of the independent variable that was tested, the retardation value represents the frictional force opposing the motion of the system. the graphs prove it, as the acceleration consistently dropped as the friction increased.
+
+the random errors in this lab are the method of measuring the mass and the method of adding friction to the system. using a balance to measure mass is not a very accurate way to measure, so a more accurate method could have been used. this could have affected the force values in our data. also, using magnet bars is not the best method for adding friction. they add a lot of unaccounted mass to the system, which affects the results. if the lab were to be done, better methods for these would be done (such as a digital scale for mass and reducing the amount of air flow on the air track for friction).
+
+constraints of this lab include is  having to use magnet bars for friction, without any other method to add friction, time, and resources for the lab.
+
+the mathematical models are consistent with newton’s second law because the numbers show a clear relationship between the variables that are similar to the law. the model shows a clear indirect relationship between mass and acceleration, and a clear direct relationship between force and acceleration. this is consistent with newton’s second law.

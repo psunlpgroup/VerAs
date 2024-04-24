@@ -1,0 +1,67 @@
+discussion and conclusion
+
+
+
+the goal of this experiment was to identify what factors impact the period of the pendulum.
+
+
+
+the independent variables were isolated and tested against the hypothesis.
+
+
+the dependent variable ‘period of the pendulum’ was measured against the isolated independent variable ‘mass of the pendulum’. 
+
+the length and the angle of release were made controls. 
+
+multiple trials were taken for the period. the time taken for 5 swings was measures and divided by 5 to convert to period.
+
+before adding the equivalence criterion, the line of best for period vs. mass of pendulum release is linear and has a negative slope. 
+
+this indicates that the mass of the pendulum affects the period of pendulum.
+
+after adding equivalence criterion, the values of the period of the pendulum measured against varied masses lie within 2 standard deviations with 95% confidence. the uncertainty is 0.050997168. 
+
+the dependent variable ‘period of the pendulum’ was measured against the isolated independent variable ‘length of the pendulum’. 
+
+the mass and the angle of release were made controls. 
+
+multiple trials were taken for the period. the time taken for 5 swings was measures and divided by 5 to convert to period.
+
+before adding the equivalence criterion, the line of best for period vs. length of pendulum is linear and has a positive slope. 
+
+this indicates that the length of the pendulum affects the period of pendulum.
+
+after adding equivalence criterion, the values of the period of the pendulum measured against varied lengths lie within 1 standard deviations with 99% confidence. the uncertainty is  0.025498584. 
+the dependent variable ‘period of the pendulum’ was measured against the isolated independent variable ‘angle of release of the pendulum’. 
+
+the mass and the length of the pendulum were made controls. 
+
+multiple trials were taken for the period. the time taken for 5 swings was measures and divided by 5 to convert to period.
+
+before adding the equivalence criterion, the line of best for period vs. angle of release is linear and has a negative slope. 
+
+this indicates that the angle of release of the pendulum affects the period of pendulum.
+
+after adding equivalence criterion, the values of the period of the pendulum measured against varied angles of release lie within 1 standard deviations with 99% confidence. the uncertainty is  0.025498584
+based on the above results, length is the only factor affecting the period of the pendulum.
+
+to establish a relationship between length and period, another 10 values of period were measure against the length of the pendulum. 
+this time a more accurate device i.e. a photogate was used to measure the period to reduce uncertainties and human error. 
+
+the graph of period vs. length was found to have a power trendline. the line of best fit is given by the equation is 
+reduce magnitude of angle of release
+
+use of systematic release of pendulum
+
+have multiple people take the measurements
+
+increase the number of trials and take the mean
+
+increase the number of swings to allow a greater reaction time.
+
+check the measurements of the tool used against other tools 
+
+verify tool is being read correctly
+angle of release has to be within 40 degrees ensure swing stability
+
+using a point-mass (minimum surface area) can reduce the effect of air resistance

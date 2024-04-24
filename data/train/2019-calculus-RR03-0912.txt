@@ -1,0 +1,11 @@
+discussion
+
+this experiment was all about trying to determine the relationships between a pendulum’s attributes at it’s launch and its period. all three of our experiments tested this by controlling all other factors and only changing one variable at a time. it is possible however that our data could be affected by random error that occurred throughout our testing. the most common form of error during this experiment was likely in our period timings, as it is possible that we could have recorded the time too late which would have raised the average period for that test. however, this was combatted by the fact that each individual test was conducted five times, so any changes to the average would have been minimal. some constraints of this experiment were that air resistance was always a factor that affected the period of our pendulum, and that there was no automated method of releasing the pendulum, which introduces addition sources of potential error.
+
+
+
+
+
+conclusion
+
+from our experiments we concluded that the only factor that had a non-negligible impact on the period was the length of the string. all other variables only had differences of a few hundredth of a second from their least to most extreme, which led use to believe that air resistance was the culprit. for example, our mass vs period tests showed a slightly decreasing period as weight increased while our angle vs period tests showed the period increasing as the angle increased. these can both be explained by air resistance. in the case of the mass it is likely that as it got heavier the air couldn’t take as much of its momentum away while in the case of the angle the total distance the pendulum had to travel increased which led to the air being able to slow it down for longer and longer. the theoretical equation we found on google also supports our conclusions (as you can see only length is included in it).

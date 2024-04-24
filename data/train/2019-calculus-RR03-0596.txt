@@ -1,0 +1,39 @@
+conclusion:
+
+The first independent variable tested was angle of release. To test this we used our base structure and pulled the string back to varying lengths. With everything else being held constant the dependent variable could only change with the length of the string. For these experiments we used a string that was 60.62 cm long and a weight of 150 grams
+
+ 
+Data points seem to fluctuate randomly, rather than a continual bias in a single direction, implying that random, rather than systematic, error seems to affect this data set. Some possible sources of this error are inconsistent timing, specifically regarding human reaction time, inaccurate positioning the initial angle, or accidentally imparting an initial velocity to the pendulum upon releasing it. Systematic error could occur from using a protractor with inaccurate angle markings.
+
+The angle of release will have no effect on the duration of the period.
+ We found that the angle of release for the pendulum had no effect on the duration of the period. The table above shows that different angles of release does not affect the duration of the period. The graph above with error bars shows that the standard deviation for each value is very large. If a straight line was to be drawn between each point, it would pass through all the error bars stating that all the values for the varying angles are very close. These facts show that the angle of release does not have any effect on the duration of the period.
+
+Data points seem to fluctuate randomly, rather than a continual bias in a single direction, implying that random, rather than systematic, error seems to affect this data set. Some possible sources of this error are inconsistent timing, specifically regarding human reaction time, inaccurate positioning the initial angle, or accidentally imparting an initial velocity to the pendulum upon releasing it. Systematic error could occur from using a protractor with inaccurate angle markings.
+
+
+ For this experiment, string was hung 60.62 cm below the apparatus shown in Figure A. Each period started from an angle of 30 degrees. Time was recorded after the pendulum completed five periods, the time was then divided by five to give an average period time in seconds. Results were recorded and the steps were repeated, but this time with a different weight. The weights we used were 90g, 150g, and 210g.
+
+
+ 
+Data points seem to fluctuate randomly, rather than a continual bias in a single direction, implying that random, rather than systematic, error seems to affect this data set. Some possible sources of error are small errors in timing, a nonzero and inconsistent initial velocity given to the pendulum mass when it is released, and even though the angle is not being tested, the initial angle of release could vary slightly. 
+
+
+The mass on the string will have no effect on the duration of the period.
+ We found that the mass on the string will not have any affect on the period of the pendulum because in our first experiment we found that the time that it takes for one pendulum varied by a very small amount and the range of the error bars shows that the standard deviation is very large. If a straight line was drawn, it would be able to go through all three of the error bars which means that the values must be very close together. With all this being said, the graph shows that the mass of the string has close to or no effect on the period of the pendulum.
+
+Data points seem to fluctuate randomly, rather than a continual bias in a single direction, implying that random, rather than systematic, error seems to affect this data set. Some possible sources of error are small errors in timing, a nonzero and inconsistent initial velocity given to the pendulum mass when it is released, and even though the angle is not being tested, the initial angle of release could vary slightly.
+
+
+
+For this experiment, we changed the lengths of the strings to cause a change in the time of the period. For this experiment, we used an angle of 30° and a constant weight of 150 grams. We used these constant variables while changing the length of the string with a distance of 15 cm between each length.
+
+
+As the length of the string increases, so does the length of the period of the pendulum. There appears to be a linear relationship between the length of the string and the period. The minimal deviations from this linear seem to fluctuate randomly, rather than a continual bias in a single direction, implying that random, rather than systematic, error seems to affect this data set. Some possible sources of error are small errors in timing, a nonzero and inconsistent initial velocity given to the pendulum mass when it is released, and even though the angle is not being tested, the initial angle of release could vary slightly. Systematic error could result from using a measuring stick with inaccurate length markings.
+
+ The length of the string will affect the duration of the period.
+We found that the length of the string causes a change in the duration of the period of a pendulum. The table above shows that the points change with the length of the string. The error bars are very small showing that the standard deviation is very small. This means that a straight line cannot be drawn and hit all three of the error bars meaning that the values differ with varying lengths. This means that the graph shows that the duration for the periods of pendulums with differing lengths changes with the lengths of the strings.
+
+
+As the length of the string increases, so does the length of the period of the pendulum. There appears to be a linear relationship between the length of the string and the period. The minimal deviations from this linear seem to fluctuate randomly, rather than a continual bias in a single direction, implying that random, rather than systematic, error seems to affect this data set. Some possible sources of error are small errors in timing, a nonzero and inconsistent initial velocity given to the pendulum mass when it is released, and even though the angle is not being tested, the initial angle of release could vary slightly. Systematic error could result from using a measuring stick with inaccurate length markings.
+
+

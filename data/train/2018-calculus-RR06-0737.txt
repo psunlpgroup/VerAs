@@ -1,0 +1,5 @@
+discussion and conclusion
+
+research question: what happens to the acceleration of a system when the applied force changes?
+
+the experiment with the hanging mass is an accurate representation of what happens to acceleration when force applied changes because it holds all non-negligible factors constant and allows the testing of the dependent variable, acceleration, by changing only one variable, the independent variable, force applied. as the mass hanging increases, the force on the system increases because the hanging mass is being acted upon by gravity, creating a force downward. 

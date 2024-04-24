@@ -1,0 +1,39 @@
+conclusion
+
+we have determined that there exists no relationship between the period of one oscillation of a pendulum with the mass of the bob. we can claim with much certainty that this is case, because according to graph 1-a, across multiple mass, the period stayed the same within the equivalency criterion.
+
+we have also determined that there exists no relationship between the period of one oscillation of a pendulum with the angle of release of the pendulum. we can claim this with much certainty because according to graph 1-c, across multiple angles, the period stayed the same within the equivalency criterion. 
+
+we can however claim that there exists a positive relationship between the period of one oscillation of a pendulum with the length of the arm of the pendulum. according to both graphs 1-b and 3-a, we can see that a positive relationship exists between period and arm length. also, using graph 3-a, as well as the ‘trendline’ feature of excel, we have deduced that the relationship that exists between the two is a power relationship ($y = x^2$).
+
+the theoretical mathematical model for a pendulum is is  
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+ 
+
+where t is period,  l is length, and g is 9.8m/s2.
+
+our experiments produced the mathematical model of is  
+
+ $t=0.2876 l^{0.4295}$
+
+where t is period and l  is length (as supported by graph 3-a with variable substitution to match the theoretical).
+
+our model was fairly identical to the theoretical. because our model was in centimeters, while the theoretical was calculated using meters, once simplified, the theoretical model would be
+
+$t=0.2 l^{0.5}$
+ 
+
+which is identical to our model.
+
+
+various errors occurred during the duration of these experiments. time constraints let to us not having collected sufficient data ourselves, and rather required us to rely on instructor-provided values. 
+
+for our first two experiments, we used a stopwatch for determine our period values, but that was susceptible to human error, due to reaction time, which could lead to inconsistencies starting and stopping the stopwatch. this was random error.
+
+our method of starting the pendulum was also subject to human error. we used a protractor to determine angle of release, but using a mechanical system, such that the pendulum was consistently released at the exact angle for every trial would result in less random error.
+
+in experiment 3, with usage of the photogate. our measurements for arm length were also subject to human error. this is evident in our r2 value not being 1, which is a result of mismeasurement regarding arm length. this was random error.
+
+
+
+we were limited in our resources that we had available in order in limit human error. with experiment 3, we used a photogate to greatly reduce the random error associated with the stopwatch but had no systems in place to reduce the random error regarding angle of release and arm length.

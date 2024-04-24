@@ -1,0 +1,29 @@
+discussion and conclusion
+
+what are the impacts of string length, angle, and mass on the period of a pendulum swing?
+
+our findings suggest that the only factor that affects the period of a pendulum is the length of the string it is attached to. we determined mass has no effect on the period of the pendulum. this is due to the slope of the created graph to be 0. a slope of 0 indicates that mass did not directly affect the period. the angle graph appears to have a slope of 0 when the angle is small. taking into account the error bars and using smaller angles it is determined that the angle is not a contributing factor to the period based off of our lab records, the length of the string impacted the period. the line of each graph for these variables were linear. 
+
+therefore to confirm the length of string had an impact on the period we conducted another trial using time gates and many more trials to limit human involved error and grant more accurate results. the resulting graph confirmed that string length is the only factor that impacts the period of the pendulum. 
+
+the relationship between the independent variable and the dependent variable is nonlinear according to our data. previously we determined that the relationship was linear between string length and period. this conclusion arose from using fewer trials and less precise equipment and technique. we determined a square root relationship between period and length
+
+the relationship between the variables are nonlinear according to our data. the type of curve that best fits our data is a square root curve. the r^2 is .9995 which shows that the relationship of this curve is very close to the actual equation that the data represents. this is because the graph is very close to 1.
+
+we are very confident in our data. the photogate was very accurate in its measurements. it had an error .001 seconds, which seems to be very accurate for our use case. also, our graph itself followed nearly a perfect square root function which means our measurements were close to perfect. 
+
+the mathematical model can be found by running multiple trials of different lengths. from this, an average period can be found at each length. using these values, a graph can be created on excel and a line of best fit can be found. by comparing r^2 values, the best line can be found, which in this case was a square root relationship between period and length. 
+
+we are very confident with the excel findings. the actual relationship for the period vs length has this square root equation. also, the r^2 value is .9995 which is very close to 1, which means the excel equation is very good representation of the experimental values. 
+
+the first whiteboard doesn’t support our data because their equation was p>1 when our equations worked when p<1. the second one does support our data because we had the same equation.
+
+the possible random errors were mostly human errors. for example, the measuring too great of angles. we also measured the length of the string wrong. we didn’t measure from the center of mass of the weight for the first few attempts.  another possibility of random error would be with the stopwatch.  it was all up to the user to start the watch when the weight was dropped, but this was remedied in the last graph by use of time gates.  systematic errors would include a basic protractor as it had no guide and therefore meant we had to eyeball measurements. this resulted in inherent errors that were unavoidable with this tool. another error was do to some give with the tape measure as in the top l piece moved when pulled, which could have made the length longer than measured.
+
+to reduce systematic errors, we could have used more precise measurement instruments such as a better, more accurate protractor and length measuring device.
+
+
+
+
+
+

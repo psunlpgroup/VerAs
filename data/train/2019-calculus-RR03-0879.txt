@@ -1,0 +1,32 @@
+conclusion:
+
+
+the question being investigated during this lab was what factors impact the period of a pendulum.
+
+
+
+for mass vs. period, this addressed the research question by testing to see if mass does impact the period of a pendulum. we claimed that mass would not impact the period of a pendulum. by looking at the graph, when the mass was varied the period length did not change with varying length. the error bars from the mass vs.  period graphs show that the error in this experiment is not statistically significant since the line of best fit goes through each error bar.
+
+ for release angle, this addressed the research question by testing to see if release angle impacts the period of a pendulum. we claimed that an increase in release angle would lead to an increase in time for the pendulum to complete one full period. these claims are valid for all release angles above 20 degrees. by looking at the graph, when looking at the graph for mass vs. period, when the release angle was held constant, the period length did not change with varying mass. the error bars from the mass vs.  period graphs show that the error in this experiment is not statistically significant since the line of best fit goes through each error bar.
+
+lastly, for string length vs. period, this answered the research question by testing to see if the length of the string impacts the length of a pendulum period. we claimed that longer lengths of string will lead to an increase in pendulum period. we found these claims to be true for all string lengths. by looking at the graph, when looking at the graph for mass vs. period, when the string length was held constant, the period length did not change with varying length. the error bars from the mass vs.  period graphs show that the error in this experiment is not statistically significant since the line of best fit goes through each error bar.
+
+
+
+the theoretical mathematical model for the period of a pendulum is 
+
+
+
+$t=2 \pi \sqrt{\frac{l}{g}}$
+
+the data for length vs. period best fit with this model. the data fits with this model because based on the equation, as the length of the string increase, this will lead to an increase in pendulum period. looking at the data above for string length this makes sense since as the string length increased, the data showed that the period length did in fact increase. 
+
+for the mass and release angle, based on the theoretical equation, these factors should not impact the period of a pendulum. this is because in the equation, 2pi and gravity are constants and the only variable is length of string. based on this information, the release angle and mass will not impact the period of the pendulum. 
+
+
+
+the errors present in this experiment were random error. in order to help reduce error in this experiment, additional data was collected to help eliminate any outlier data sets. in the future, to further reduce error in the experiment, we can perform even more trials for each independent variable tested to ensure that any bias in the data is minimized.
+
+
+
+the constraints in this experiment that limited results is that the longest our string could reach was roughly 95 cm. additionally, the heaviest mass that we could test was about 200g. with these constraints in mind, our models can only form generalizations for pendulum lengths less than or equal to. 95 cm in length and for masses less than or equal to 200g.

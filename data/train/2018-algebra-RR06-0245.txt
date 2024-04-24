@@ -1,0 +1,25 @@
+discussion and conclusion
+
+
+
+the purpose of this lab was to determine how the acceleration of a system changes when the applied force changes. this was accomplished by changing the hanging mass of the system which changed the applied force on the system. 
+
+
+based off of the results of the experiment and mathematical model obtained, it was shown that as the applied force on a system increases, so does the acceleration of the system (figure 1). the graph obtained shows a positive linear relationship between applied force and acceleration. in other words, if the applied force to a system increases, the acceleration will increase as well. if the applied force on a system decreases, so will the acceleration. as the mass of the hanging weight increased, the applied force increased as well. this ultimately resulted an increase in acceleration.
+
+the findings of at least two other groups are as follows is 
+
+
+group 6’s data shows that as the force due to the hanging mass increases, so does the acceleration. this would support our own group’s claim because our results showed the same positive linear correlation in our data. along with this, our numbers in our calculated mathematical model are also similar with this group’s being $a=4.873 f - 0.0077$. for group 5, the data obtained also supports our own group’s claim. this is because as the force due to the hanging mass increases, so does the acceleration of the system. their data showed a positive linear relationship as well. along with this, our numbers in our calculated mathematical model are also similar with this group’s being $a=5.35 f + 0.06$. finally, we all concluded that the b-value on our mathematical model was representative of the friction and air resistance encountered in the experiment. something to note is that group 6 had a negative b-value, while group 5 and our data was a positive b-value. this may be a result of a random error.
+
+
+
+the theoretical model for the relationship of force and acceleration is $a =\frac{f}{m_{sys}}$. the experimental model for the relationship of force and acceleration is $a=3.817 f+.0699$ m/s², or c1*w+c2. this was calculated after plotting force due to hanging mass versus acceleration on a graph and using a linear fit to find the linear equation. the slope of this equation is supported by the theoretical model because it accounts for the mass of the system. however, the b-value in this experimental model is not supported by the theoretical model. this is because this theoretical model does not account for the external forces such as friction and air resistance, which is the .0699 value in the experimental model. 
+
+the forces that are likely present in the experimental model other than the hanging weight would be force due to friction and also air resistance. these are represented by the 0.0699 value. 
+on the other hand, the enhanced theoretical equation is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$. this would better support the experimental model because the it would include the external forces such as friction and air resistance (fext) on the system that is not previously represented in the first theoretical model. 
+a non-massless string connecting the hanging mass to the cart would cause the acceleration to increase because more mass is added. as the cart would go along the track, the non-massless string would go over the side. more force would be contributing from the weight of the string, therefore, the acceleration increases.
+
+there were both random and systematic errors present in this system. among the random errors would include not reading the scale correctly when weighing the parts of the system. this would cause an incorrect calculation in the force due to the hanging mass. another random error could potentially be incorrectly using the datastudio tools, resulting in measuring the wrong data. to reduce such errors, each measurement on the scale was allowed to calibrate completely until the ticker stopped moving. the values were read carefully to ensure the correct mass was recorded. a way to reduce the error use of datastudio would be to ask questions when unsure of how to record a certain trial. a systematic error present in this experiment would include an uncalibrated scale, which would impact the force calculation. another systematic error would be if the rotary motion sensor was broken or uncalibrated, which would result in the wrong acceleration values. these two errors can be reduced by checking to make sure all instruments are calibrated and working properly before conducting the experiment.
+
+constraints for this experiment would be the amount of hanging mass we were allowed to use in the system. if we were allowed to test larger hanging masses, we may be able to see if the linear pattern between hanging mass and acceleration continues. this limited our ability to test smaller hanging masses as well. another constraint in this experiment would also include the fact that the air track was not completely frictionless. due to this friction, a completely accurate experimental equation was not obtained. 

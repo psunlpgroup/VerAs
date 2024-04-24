@@ -1,0 +1,9 @@
+discussion
+
+newton’s second law of motion states that force in a moving object is equal to mass multiplied by the acceleration in which the object is moving at. these variables have a directly proportional relationship. this means that an increase in force will lead to an increased acceleration. in this experiment, the variables obtained were plotted in a graph. the resulting line of best fit where m presents the gradient in the experiment and it is the change in acceleration with change in force. 4.5 newton’s added on the moving mass in the experiment led to an increase in acceleration by 1m/s. the straight line obtained in the plot is proof of the linearity of force and acceleration. 
+
+there are two possible sources of error in the experiment. systematic errors in the experiment could have an effect on the final result. the weight of the string was also not considered in the experiment. this could also be a source of error too. friction on the pulley can also lead to errors in the end result in the experiment.
+
+conclusion 
+
+this experiment was successful and met its objectives. the experiment was able to proof the newton’s second law of motion. increased force on the moving body translated to an increased acceleration in the body.

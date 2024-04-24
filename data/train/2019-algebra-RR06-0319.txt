@@ -1,0 +1,14 @@
+conclusion:
+the purpose of lab 05 was to study the changes in mass versus acceleration in terms of how much mass you add to the sled vs the string. the purpose of lab 06 was to study the differences in acceleration when a tilt was applied to the airtrack. 
+
+the experiments led to the resulting mathematical models by use of an acceleration over mass graph for all of the experiments performed. the models were formulated by using a trendline to find the most straight forward path to find the models. to make the models, you just use the linear formula to create a $y=m x+b$ line. 
+
+
+
+the other groups found data that helps to contribute to the overall understanding of the findings. the largest thing that helped me was to see the differences in the tilts that were applied, and the proportional differences. as seen in group #3’s data, you can see a in increase in the acceleration when the airtrack is at a decline and the incline has a decrease in the acceleration. (group #3)
+
+one of the errors that could have occurred would be a systematic error that is created by air resistance. this could have come about within the room that the experiment was performed in having drafts of uneven air flow. another source of error could have come from an error in the measurements from the data studio. this is a systematic error due to the calibration being off on the tool so therefore all of the data would be affected. a possible random error could have been that the placement of the weights on the string could have thrown off the acceleration. this could have caused a difference in the potential and kinetic energies due to a height change. 
+
+one of the constraints that existed for this lab was the length of the string that was available as well as the length of the track. this limited the generatability of the experiment due to a shortened sample for the acceleration. another constraint is the 5 test limit that was applied. if there was room for more data, it would have made the data more generalized. 
+
+the mathematical models found follow newtons second law because as you changed the placement of the mass, the acceleration either increased or decreased.

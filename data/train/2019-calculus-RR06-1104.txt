@@ -1,0 +1,36 @@
+conclusion
+
+lab 5 was meant for us to see how the increase of the mass would change the acceleration of the system
+
+lab 6 was made for us to see how external forces can change the acceleration of a system.
+
+
+
+the slope of the graph is acceleration. the intercept was the frictional force.
+
+for the equations in labs 5 and 6 the slope was found by increasing the masses of the bobbers so that acceleration would increase. the friction was found by finding the y intercept.
+
+if the track is at a negative angle, then the acceleration increases. if the angle is positive, then the acceleration decreases. 
+
+
+the more magnets there are the smaller the acceleration. 
+
+
+horizontal forces from the air track.
+
+there could be a vacuum chamber that uses magnets to keep the cart off the track.
+
+extra friction from the string on the wheel and wheel grip.
+
+making sure the wheel is well kept with good lubrication as well as good grip for the string with a coarse material.
+
+the magnetic forces not being perfectly places opposite each other
+
+there could be spots already designated in the cart that are put in by a machine
+
+
+the use of the air track could cause there to be a constant shift in the data. if it was held by magnets, then there would only be the vertical magnetic force.
+
+the use of bobbers of weights can be very inconsistent. if standard weights were used it would be more accurate and better for constant intervals.
+
+the results were consistent with the second law. all of the values worked out with the addition of frictional force.

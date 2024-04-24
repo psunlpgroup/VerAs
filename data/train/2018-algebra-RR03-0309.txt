@@ -1,0 +1,11 @@
+conclusion: 
+
+the research question in this lab is what factor affects the time of the period of one swing of a pendulum. 
+
+each experiment tested a different variable to see if there was a difference in the time it took to complete one period or if all the trials were about the same. the second and third experiment, which tested mass of the pendulum and angle of release respectively, both had relatively about the same outcomes for all of their trials. the first experiment, which had the independent variable be the length of the string was the only experiment to have a different time for each trial. experiment 1 was the only one to have a noticeable slope in a sort of parabola type way. 
+
+the theoretical mathematical model for the period of a pendulum that we got was $y=0.13191758 x$. we determined the power curve best fit our graph. the theoretical mathematical model is closely related to the equation we found for our graph. the variables that did not affect the time of one period from experiment 2 and 3 have a very small, if not zero, slope so their data on the graph would not fit the theoretical model.
+
+the systematic errors that were present were friction and the readings on a protractor. for the friction we changed the pivot so that there was less contact between the string and metal. the readings on the protractor we had it marked at a point to keep its place. the random errors that were present were the mass of each individual weight and human error. for the individual mass of each weight we had to assume it was the weight labelled on each one. human error was reduced by using a photogate to measure the time for each period instead of doing it ourselves. 
+
+some constraints of this experiment were the maximum angle of release and the maximum length of the string we could use.

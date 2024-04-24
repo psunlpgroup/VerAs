@@ -1,0 +1,34 @@
+discussion and conclusion
+
+research question:
+
+what impacts the period of a pendulum?
+the effect of mass on the length of a period is 
+ the mass does not affect the length of the period. 
+ the graph shows a trendline with a very small slope. this slope is practically zero which means that the line is horizontal. this means that regardless of how much the mass changes, the length of the period is not altered.
+ there is no correlation between mass and the length of the period. the standard deviation was approximately 0.6m which is very small. furthermore, the trendline goes through every single error bar. this shows that the data can be trusted because there is little deviance and a clear trend.
+
+
+
+the effect of length of string on the length of a period is 
+the length of the string does affect the length of the period. 
+
+graph discussion is  the second graph for length of string shows a positive correlation between the length of the string and the length of a period. this positive correlation is a power curve. this means that while it is true that as the length of the string increases, so does the length of the period, it also means that the slope of the line is getting slightly smaller as the lengths of the string increase. this means that the larger the string gets, the less it affects the length of the period. this is very accurate because the standard deviation is very small. this is shown by the size of the error bars. they are so small that they cannot be seen. 
+ as the length of the string increases, so does the length of the period. 
+
+
+
+the effect of angle of release on the length of a period is 
+
+the angle does affect the length of the period. 
+ the graph shows that there is a slight positive correlation between the angle of release and the length of the period. for the values tested, angles below 40 degrees, it is valid to say that there is a slight positive correlation. the slope of the trendline is very small, so it is not significant enough to take into consideration. the standard deviation was approximately 0.6m which is very small. furthermore, the trendline goes through every single error bar. this shows that the data can be trusted because there is little deviance and a clear trend. 
+ for small angle values, the size of the angle does not affect the length of the period.  
+
+
+the equation for the period of a pendulum is $t=2$ *(l/g). the results from the lab show that the length of the period is the only factor that truly affects the length of a period. as a result of this, it is the only variable in the equation. furthermore, as l increases in the equation, so will t. this is identical to the results found in the lab. additionally, out power equation has the exponent of 0.486 which is almost 0.5. something to the .5 power is equivalent to taking the square root of it, which is shown in the theoretical equation as well. it is not exact because we had some deviation (0.001) in the data.
+
+
+
+one of the constraints was that the angle had to be below 30 degrees. below 30 degrees, the angle did not affect the length of the period. it was not truly tested for higher angles. 
+
+this generalizes the results to only be valid for small angles.

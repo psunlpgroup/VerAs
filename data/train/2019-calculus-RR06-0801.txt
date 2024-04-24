@@ -1,0 +1,16 @@
+discussion and conclusion
+
+the purpose of labs 5 and 6 was to make mathematical models/equations for the acceleration of an air car under different forces. in lab 6 we tested many different variables. the outside forces acting on the system were magnetic strips acting as friction. tiling the ramp forward adding a positive gravitational force on the cart. lastly, tilting the ramp backwards adding a negative gravitational force to the cart.
+
+the models we got were from conducting the experiments and converting them into graphs using excel and having them make us a trendline for each of the graphs. 
+
+
+
+
+the photos i have are from group 3 and 5 both of their information was testing the same hypothesis of how the slope affects the acceleration. they both were able to conclude that the slope itself does not change but the y-intercept. their data agree with the data that we collected because as the incline changes the acceleration stays the same but he y-intercept changes just like what we found in our testing’s. 
+
+in the lab we had systematic errors. the systematic errors that could have occurred was the air track. over time the air track pump was getting hot and it felt like it wasn’t blowing a constant amount of air. we let it cool off, but the pump could have not been blowing enough air causing there to be a friction force from the cart on the track resulting in the acceleration to be lower than expected. also, sometimes the photogate would sometimes spike and plot a point way higher than the other points sometimes causing the acceleration to be off. we would redo it, but we don’t know how accurate it is and how precise it is. 
+
+one constraint is that the cart could only go so far. if the track could have been taller and the string longer. we would have a longer line that would give us a more accurate velocity compared to what we were able to do. 
+
+the experiments are consistent with newtons second law because the main force driving the system was the mass of the hanging weight that created a tension force wit the cart moving it in the positive direction (left). the only other force acting on it in experiment 5 should have been due to the air track not being perfectly level this was the y intercept of the models. because it is on an air track in experiment 5, friction is negligible. in lab 6 there was friction and that was taken care of by the y intercept as well. it is just bigger depending on the coefficient of friction.

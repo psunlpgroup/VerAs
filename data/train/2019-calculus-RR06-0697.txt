@@ -1,0 +1,15 @@
+discussion and conclusion: 
+
+research question: what affects the acceleration of an object connected to a hanging mass on a frictionless surface?
+
+	the evidence that increasing the hanging mass will increase the acceleration of an object on a frictionless surface is shown in the force vs acceleration graphs in lab 05.  the error bars are very low due to the use of electrical equipment. the evidence that increasing the number of magnets on the object will decrease the acceleration when comparing each trendline on the lab 06 graph. the error bars are also low due to using the same equipment.
+
+	several other groups had the same findings as our group. increasing the hanging mass increased the acceleration as did decreasing the number of magnets. no discrepancies in any of the data was found.
+
+	the theoretical equation for acceleration of an object is $a = \frac{f}{m_{sys}}$. the experimental mathematical model $a = c1 w+c2$ supports the theoretical model because the trendline on our data is very closely related to the actual data.
+
+	if a heavy string connected the hanging weight to the cart, the acceleration of the cart would be greater due to the string adding to the hanging mass. 
+
+	systematic error for the experiment could include friction due to the string and a not totally frictionless surface for the cart. random error could include the air resistance.
+
+	a major constraint of the experiment includes not having a completely frictionless surface. we attempt to create as little friction as possible by blowing air under the cart. another constraint of the experiment includes the equipment used such as the cart and the hanging mass. the groups we experimented with used similar equipment, but not all exactly the same.

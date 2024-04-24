@@ -1,0 +1,18 @@
+discussion and conclusion:
+
+the research question that was being investigated in these labs was to determine what variables can affect the time of the period of a simple pendulum mechanism. these experiments that we conducted were intended for us to follow the scientific method and create model to show the correlation between dependent and independent variables. from the variables i discussed above, these are the results we found is  when it came to the weight of the pendulum versus the period. it seemed to have no effect. whatever the weight was (with certain controls), the period was consistently about the same (refer to the graph above). the same thing seemed to happen with the angle of release versus the period. there were slight variations when the angle got relatively large, but when the angle of release was less than about 30, the period was virtually the same amount of time (refer to the graph above). once we got to the length of the string versus the period, we could see a correlation between the two variables. when we used stopwatches, it looked like it was a positive linear relationship. once we took more data points with a laser timer device, the relationship turned out to be slightly exponential (refer to both graphs above). therefore, the longer the string, the longer the period. the theoretical model of this relationship is shown as is  
+
+
+
+
+
+our model that we calculated was is  
+
+
+when various values of l are plugged in to the equation and you use the gravitational constant of acceleration at 9.8 m/s^2, the value of t is close. when plugging in a random value of t, we got the theoretical to be 1.42 seconds, and the experimental to be 1.54 seconds. this difference could have been caused by possible random and systematic errors throughout the experiment.
+
+many possible errors could have impacted the pendulum experiment causing flaws within the results and the final graphs. one possible error is the time kept for one period. use of the stopwatches can no completely guarantee the true value of the time of the period. another possible error is not letting the pendulum go at the correct angle. the angle was difficult to measure so it could negatively impact the results. other possible errors include friction between the tied rope and the bar and air resistance. i believe these errors could be reduced by possibly introducing technology to accurately measure the time it took the pendulum to complete on period. also, i believe we should have used more trials to get more accurate averages. these measures could both reduce the chance for error.
+
+in this experiment, there were certain constraints, which could have possibly generalized the results. one constraint is that we only had up to 250
+
+ grams of weights to put o the pendulum. this constraint does not really mean anything because we concluded that the weight variable did not affect the length of the period. the variable that we did find to affect the period was length of the string, and that was constrained to less than 180 cm. that means we can technically only say for sure that the data should follow this curve from 0 to 180 cm.

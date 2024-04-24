@@ -1,0 +1,57 @@
+conclusion:
+
+	research question: how does the hanging weight affect the acceleration of the system?
+
+	the experiment addresses the research question because as we changed the hanging weight, we are able to see a change in the acceleration. the experiment refuted our hypothesis because it appears that as the hanging weight increased the acceleration was increasing while we predicted it would decrease. the graph and error bars represent this because the acceleration and hanging weight have a positive linear relationship showing that acceleration does increase as the hanging weight increases. the size of the error bars and how they overlap so that the graph we have is relatively accurate with not a concerning amount of error. 
+both of the other groups that we looked at also had positive linear relationships for their graph. this means that most likely they would claim the same have had the same finding as our group that as hanging weight increases the acceleration also increase. the findings of these different groups are all supporting of each other’s. 
+	the equation given $a=\frac{f}{m}$ would be represented that the acceleration can be found be measuring the force that was provided by the air machine and divide it by that mass of that run. the mass that would represent that is the fact that will the hanging weight is getting larger the mass on the air track is getting smaller making the glider be able to accelerate faster. the equation  $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ represents that the acceleration is equal to the force of the system over the mass plus the external forces over the mass. the extra forces would either increase or decrease the overall acceleration. if friction or air resistance is added than the acceleration will decrease but if more force is added in the opposite direction such as a push or pull the acceleration will increase. 
+
+equation of experiment is  $y=0.0368 x+0.1955$
+
+this equation says that as the hanging weight increases by one the acceleration will increase by 0.0368 m/s^2 and that the acceleration when hanging weight is 0 is 0.1955m/s^2. 
+
+prediction is  as the hanging weight is increased, the acceleration will also increase. 
+
+some error that may have been present is error in reading the scale for what the mass of the bobbers or the system are. any error the data recording tool may have had. if the time of the air track stating and he recording tool starting were not accurate there could have been a reading error. some constraints may have been we only had a limited amount of masses we could use for the hanging weight and mass of the system and only had two hours to complete the experiment to the best of out ability. 
+
+as the mass of the system increases, the acceleration will decrease. 
+
+as the mass of the system increases, the acceleration will decrease in a power relationship. 
+the graph represents a negative power relationship between the mass of the system and acceleration. as the mass of the system increases by one the acceleration decreases by the power of 0.985. the size of the error bars on the graph represent the equation would be accurate and that there is not enough error to doubt the results that we have found. as in the groups boards from earlier that they had like results to us. they also had power graphs with a negative relationship. both of their equations were also a positive y-intercept times x to a negative power. we all had the same claims that as the mass of the system increased the acceleration decreased. 
+
+the theoretical equation $a=\frac{f}{m}$ shows that as the mass is increased the acceleration will decrease. because the force from the air machine is the same each run it would make sense because as the denominator gets larger the answer gets smaller. in the equation $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ it represents that acceleration is equal to force over the mass plus external forces over mass. this means that the acceleration will be affected by external forces such as friction or push or pull. 
+
+prediction is  as more mass is added to the system the acceleration will decrease. 
+
+some errors that may have been present are if we measured any of the masses wrong or if the timing of the air machine turning on and the recording tool were off. if the data recording tool was not exactly accurate which could have affected the data, we recorded. some constraints could have been the time we had to complete the experiment, or the material provided may not have given us a large enough range of masses to test. 
+
+	with the glider, air tracks, bobbers and masses we have to set up an experiment to determine how the acceleration changes as the track is inclined or declined. although for the experiment we are technically measuring how the acceleration increases or decreases as the hanging weight increases. we conducted two models with an incline and a larger incline and then conducted one with a decline. 
+
+both of the graphs above have a positive linear relationship between the acceleration and hanging weight. the error bars in both are small enough that we can assume that the results are accurate, and the error does not overlap enough to question that the information we have would be wrong or not strong enough to support our claim. the slope and larger accelerations in the first model represent that the larger incline does decrease the acceleration more than the smaller incline. 
+
+
+
+
+
+
+
+the other groups had similar results that the more inclined the air track is the more the acceleration will decrease and vice versa. 
+
+the equation $a=\frac{f}{m}$ means that the acceleration would be equal to the force on the system divided by the mass of the system. while the equation $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ would be the acceleration is equal to the force over mass in addition to the external forces over mass. in this experiment the inclines could create the force of gravity to be different and create a different acceleration overall.
+
+
+some errors could be from measuring the inclines wrong or measuring the masses wrong. the timing of the recording tool starting and the air machine starting may not have been completely at the same time possibly resulting in less accuracy. the recording tool may have not been completely accurate in recording. some constraints would have been from the two hours we had to complete the experiments to the best of ability and be able to find the most accurate results. 
+
+
+
+
+the graph has a positive linear relationship between the acceleration and the hanging weight. the error bars represent that the information is fairly accurate and overlap in a way that shows that the relationship is correctly portrayed from our experiment. 
+
+
+
+the other groups had the same findings that it was a positive linear relationship with the acceleration increasing as the hanging weight is increasing. while it was the same concept the second group, we observe had a much smaller slope than our results and the first group’s. 
+
+the equation $a=\frac{f}{m}$ represents that the acceleration is equal to the force divided by the mass. the equation $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ represents that acceleration equals force over mass plus force external over mass. in this experiment the external force could be represented by the decline causing gravity to exert a different force on the object creating a different acceleration. 
+
+
+some errors that may have be present is any error in measuring different masses or declines. timing of the start of the air machine and the data recording tool may not have been exact. the data recording tool may have had a glitch in the recording resulting in the data not being as accurate as possible. some constraint on the experiment is the time we had to complete it along with the limited supplies we had to create the inclines/declines or change the masses which limited the range we had.

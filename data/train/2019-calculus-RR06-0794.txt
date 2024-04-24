@@ -1,0 +1,19 @@
+discussion and conclusion: 
+
+the purpose of lab 5 is to develop mathematical models which describe the behavior of a real system. in this case the variables chosen are acceleration and mass of the two objects. the purpose of lab 6 is to develop an understanding for each variable and numerical value included in the model. 
+
+by conducting the three experiments and writing down the data acquired through multiple trials, our group was able to put all the data that we collected and created a graph based on those data. for the two experiments conducted in lab 05, we found that the heavier the mass of object 1, the smaller the value of acceleration of the system as we can see in the graph that the slope of the function is negative, while the heavier the mass of object 2, the larger the value of acceleration of the system as we can see from the graph that the slope of the function is positive. 
+
+ 
+
+for the results of the group above, when we change the slope value, the y-intercept changes and the value of the acceleration changes which make our group more confident on the data that we found. their conclusion and result are similar to our group so there is nothing new that we learned through these results. 
+
+
+
+for the group above, their conclusion was while the slope of their equations stays the same, the constants remained negative and varied which we can understand that the friction also changes the acceleration of the system. we are unable to determine the influence of friction due to a lack of data from the second group.
+
+the errors might have been present through the two experiments may be the way how we set up the experiment, the inaccuracy of the objects mass, and other factors such as wind resistance and friction of the string that connect the two objects. we could limit these errors by using a better system to measure and collect results from the experiment. or we can just do the experiment and find the margins error. 
+
+the constraints that i find in this experiment is the weight of the objects, we were given bobbers which doesn’t have a variability in values which may limit the generalizability. 
+
+our group’s two experiment mathematical models are consistent with newton’s second law. because we have already tested with multiple random values.

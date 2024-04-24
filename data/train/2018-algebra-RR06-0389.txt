@@ -1,0 +1,21 @@
+discussion and conclusion
+
+how does the acceleration of a system change when the applied force changes?
+
+the part i and part ii of newton’s laws experiment addresses the research question by adjusting the number of bobbers on the hanging mass while keeping the total number of bobbers in the system for every trial and measuring the force (n) and acceleration of the system (m/s2). the data in data table 1 and graph in figure 1 show that as the force of the hanging mass increases, the acceleration of the system increases. this is evidential because the average error is 0.003. also, the error bars are so small and do not touch. the resulting mathematical model addresses the research question by illustrating that the data follows a linear pattern which displays the relationship of acceleration increasing as the force of the hanging mass increases. the mathematical equation found is $y=0.0043 x + 0.002$. 
+
+c.
+
+
+
+		group 1							group 2
+
+
+
+the two findings pictured above are from phys 1051l-001. group 1’s and 2’s findings are very similar to my group’s findings. as the number of bobbers on the string increases, the acceleration of the system increases. as the number of bobbers on the string decreases, the acceleration of the system decreases. although the group’s findings are the same, they differ a little by their equations because group 1 and my group measured in grams and group 2 measured in kilograms. group 2’s y-intercept in their linear equation is negative while group 1’s and my group’s y-intercept is positive. overall, both groups support my group’s claim that as the mass of the cart becomes lighter and the mass of the hanging mass becomes larger, the cart is pulled at a faster velocity, which leads to a faster acceleration.
+
+the experimental and theoretical models are comparable. the forces of tension and gravity act on the hanging mass. the forces of tension, friction, and gravity act on the cart. thus, the equation for the force of the hanging mass is is  which also means that  the equation for the forces acting on the cart is is   which also means that  when the equation of the forces acting on the hanging mass and the equation of the forces acting on the cart, the final equation is is   the mass of the system is m in the experimental equation. the theoretical relationship is found through using newton’s second law, the greater the mass, the greater the amount of force needed. this compares to the experimental equation because the greater the force of the hanging mass, the greater the acceleration. a non-massless string connecting the hanging mass to the cart might affect uniform acceleration of the cart by increasing the acceleration as the hanging mass falls. this might happen because the weight of the string would contribute to the force of the pull.
+
+a possible systematic error that could have happened in this experiment is not keeping the same number of bobbers in the system for each trial. this did not happen in my group’s experiment because we made sure before starting each trial that we counted the number of bobbers as the hanging mass, the number of bobbers on the cart, and the total number of bobbers. this is one way to reduce this systematic error.
+
+there are no major constraints of the experiment that may affect the generalizability of the results. one minor constraint that may have affected the generalizability of the results is that the rotary motion sensor did not work for my lab group. thus, we had to join another group later in the class and catch up with them. this could have led to experimental errors such as mishearing a force value. these errors could have led to wrong recordings of force which could have led to incorrect results.

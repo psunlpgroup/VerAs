@@ -1,0 +1,27 @@
+discussion and conclusion
+
+in this paper, we are investigating the relationship between hanging force (n) in the form of bobbers hanging at the end of a string and acceleration of a cart (m/s2) pulled by the aforementioned bobbers. our data, as shown in table 1 and figure 1, reveals a clear relationship, affirming our hypothesis that hanging force has an effect on the acceleration of the cart. in accordance with our prediction, hanging force is proportional to the acceleration of the cart. the non-overlapping of the error bars in figure 1 permits such a claim.
+
+when comparing our results with the other groups, it must be stated that some of their data in terms of units or exact measurements is not clear. for instance, group 1 does not identify the units of either “car mass” or “string mass.” for convenience, we will assume that the intended units for both were grams (g). further, for both group 1 and group 6, only the mass of the hanging force (g) was measured rather than fully accounting for gravity (9.8 m/s2) in order to get proper force calculations; however, this can be remedied by, first, converting their mass measurements in grams into kilograms, and then multiplying those values by 9.8 m/s2, the downward acceleration of gravity. these corrections would not affect the data points of the dependent value of acceleration already recorded.
+
+even when accounting for these shortcomings, however, mass remains a function of force, as will be discussed shortly, and the graphs (figure 2, figure 3)  produced from both  group 1’s and group 6’s results (table 2, table 3) show a roughly similar trend to our data; in all three datasets, an increase in hanging force, or at least hanging mass, correlates with an increase in acceleration of the cart. moreover, error bars do not overlap, meaning that all three datasets can plausibly lend itself to that conclusion.
+
+we decided our mathematical model to be as follows is 
+
+
+
+to derive acceleration from force, mass must be divided by force to obtain this equation is 
+
+
+
+where m would equal the mass of the system. newton’s second law states that the acceleration of an object is directly proportional to the net force acting on it (serway). what is the net force acting on the cart in our experiment? it would be the force of the moving cart in addition to the tension caused by the hanging mass, as shown below (with no hanging mass, however, the cart would not be moving, and so its force will equal zero).
+
+
+
+the force exerted by the hanging mass in the system would be the hanging mass itself times gravity.
+
+the acceleration in our data and that of group 1 and group 6 does indeed increase with the net force (or mass, being a function of force), in accordance with newton’s laws.
+
+possible sources of systematic error include possible mass measurement errors of the bobbers involved in the system. if a given mass does not produce an acceleration value that is similar to the results obtained, then it may be due to the fact that the mass of only one bobber was measured and was multiplied by the number of bobbers in the system to produce the total mass of bobbers in the system. without having to measure the mass of one bobber, the entire mass of bobbers if they are at the end of the string could be measured, or a mass of a specified number of bobbers hanging from the spring in an interval could be measured. random error may include imprecise placement of the cart prior to launching the apparatus, which could be solved by a barrier fixed at a certain where the cart is to be released, so that the motion sensor in the pulley always has equal time to measure acceleration in each trial. this would be accounted as a control value in release length (m).
+
+any constraints present in the experiment are likely due to the environmental factor of air resistance. for an experiment like this to be generalizable, it will need to be conducted in a vacuum chamber in order to eliminate air resistance.

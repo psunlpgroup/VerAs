@@ -1,0 +1,6 @@
+conclusions:
+
+
+
+the period of the pendulum is affected by the variables such as length of the string and the constant gravity. mass and angle were both originally thought that they would affect the period but when tested only the length will affect the period. when the length of the string is longer the period of the pendulum will also be longer if the constants are held. we used the control of angle of release which is 15 degrees and the mass of the pendulum which was held at 50 grams. 
+we could correct these errors in various ways. for instance, we could use duct tape for holding the protractor to decrease the angle variations between the experiments. a sensor could be used to start and stop the stopwatch so that it was more accurate than human reaction time. finally, the weight should be held in the same way for each release so that the center of gravity was always the same. another way to correct systematic errors would be to perform a more trials which would help to offset these random errors. 

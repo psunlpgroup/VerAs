@@ -1,0 +1,22 @@
+conclusion:
+our purpose for this lab was to test the accuracy and practical application of newton’s second law of motion, which states that the acceleration of an object is dependent on the net force applied to the object and its mass. in the first experiment of lab 05 we tested the mass of the object and its effect on acceleration and in our second experiment in lab 05 we tested the net applied force of the system. in lab 06 we further tested the net applied force of the system by testing two distinct variables in a variety of simulations, friction and downward force. we used this data to create equations which we were able to compare with others in the lab for practical applicatory purposes.
+
+
+
+in lab 05, our first experiment which includes figure 1, table 1, and figure 3, we tested m(cart) vs. acceleration and were able to create a model off of our data. our model was incorrect with an r^2 value of 0.7311. we are unsure as to how we came to this conclusion and how our data differed from other groups data but this allowed us perspective as to our variables and what they actually represented. we learned that though it appeared to have a linear relationship, m(cart) vs. acceleration is actually a power relationship and that it has a positive relationship none-the-less. x represents the additional mass of the system (cart) and y represents the overall acceleration of the system.
+
+
+
+in lab 05, our second experiment which includes figure 2, table 2, and figure 4, we tested the effect of m(bob) vs. acceleration and found that our model resembled the model given for the simulation and both had a strong positive linear relationship. this helped us to show that as force increases, acceleration increases by a set value. x represents the additional force added to the system and y represents overall acceleration.
+
+in lab 06, which includes figures 5, 6, 7, & 8, as well as tables 3, 4, & 5, we further tested the effect of m(bob0 vs acceleration with an additional force in play, friction. this was established using magnets to create a magnetic field that interacts with the vacuum slider in a similar way as does friction. we found the same positive relationship as in lab 05 experiment 2, however as friction increased, acceleration decreased. each test was representative of the friction involved, and 0 magnets had the steepest slope, followed by 2 magnets, and final 1 magnet. the difference between 2 magnets and 1 magnet was surprising in our findings that 2 magnets had less effect on the acceleration than 1 magnet. this could have been due to the disruption of the magnetic field due to additional magnets.
+
+
+our findings were relatively close together, save for our c1 value which is larger, but shares the same relationship as do the other groups. our c2 values were all fairly close as well, especially between us (group 2) and group 1, with our 0 magnet c2 value being off by .0001
+our error discussion came down mostly to our results from the first experiment and that the systematic error was the method in which we performed it. we haven’t been able to identify the specific error but due to the repetition of the error throughout the experiment it is systematic. other errors involved may be due to an unlevel track (systematic), bobbers not being the exact same mass (random), and the effectiveness of the vacuum (systematic). there is always the possibility of human error both in performing the experiment and in recording the data, which would be random, and shows mostly in our mathematical models of the corresponding experiments.
+
+our constraints that would limit our generalizabity of our results were the lack of using a single track for everyone’s tests so there is variability in our results. there is also the constant of mass for our carts which differed from group to group. and since our tracks were not all level, the net applied forces can’t be completely accurate causing for lack of generalizability.
+
+
+these are consistent with newton’s second law in that they use the manipulation of two variables (force and mass) to determine acceleration, where in the first equation force is a constant determined by c1 and c2 and mass is a changing variable and in the second equation mass is a constant determined by c1 and c2 and force is a changing variable.
+

@@ -1,0 +1,10 @@
+conclusion:
+what impacts the period of a pendulum for small swings? 
+
+in the first lab, our group thought weight changed the period, not the length of the string. in testing, we were able to conclude that the opposite was true. the first lab tested the three variables side by side. in the next lab, we mathematically worked to the same answer. finally, in lab 3, we solely tested the length vs. time and did find a trend.
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. our data fits this model because our data indicated that only length affects the period.
+
+stopwatches presented systematic error, because the two recorders would often get different times. to reduce the area, we averaged the two times.
+
+a constraint of this experiment was testing area. since we cannot test on a different planet with different gravity, we cannot test all the variables in the equation.

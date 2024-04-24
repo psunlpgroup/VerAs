@@ -1,0 +1,14 @@
+conclusion:
+
+purpose of this lab was to develop a model with masses to watch the behavior of the system within the experiment to give an idea of the effects it would have on a real system.
+
+the three experiments we conducted in labs 05 and 06 eventually led us to the mathematical models stated earlier as we conducted many trials for each experiment to get more clear-cut results instead of only doing 1 trial and not knowing if it is promising enough. the graphs we used and along with the tables were evidence of our conclusion for our mathematical models. 
+
+
+these results do help support our mathematical models as they had tested the same factors as us or similar factors to see about the relationship between the two to find out that they are related. 
+
+the results within our experiment could be that the tape that we used to put the magnets on the cart could very slightly affect the mass of the cart. another error could be the calibration of the data collection software. it could’ve been slightly off by the smallest amount. 
+
+the only things that are limiting our results would be that we only had 8 bobbers. if we had more, we could have had more trials with more accurate results. 
+
+our models are consistent with newton’s second law as the force is always different based on whether we alter the mass or acceleration. since we altered the mass, the acceleration also changed in the experiments, so the force was different each time.

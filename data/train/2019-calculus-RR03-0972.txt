@@ -1,0 +1,18 @@
+discussion + conclusion
+
+in the pendulum lab, experimental research was done involving 3 different independent variables in order to predict and test for variables that show a significant change in the pendulum’s period. the purpose of this lab was to show that even if parts of a pendulum are changed, it can have a similar period. 
+
+in all of the experiments conducted, two of the independent variables were kept at constant values while the last one changed three separate times for two separate trials. it was found that the variables that didn’t prove a change were the mass of the pendulum and angle of release; this can be seen by the near-zero curve of the mass vs period graph and the small slope of the angle graph. the other graph proves a positive and significant slope, showing that as its values changed, the period had significant change. thus, string length is the only variables that effectively shift the pendulum period.
+the theoretical mathematical model found was is  $t=c l^{p}$       when p>1. c in this case is a constant value while l represents the length. p is another constant value that only works if it is greater than 1.
+
+
+
+in the final graph with length the curve is non-linear. thus, it best fits the found mathematical model. the uncertainty is plus/minus 0.001. the other graphs don’t follow a linear trend either, allowing for this type of equation to work there as well.
+
+human error due to measuring angles and string lengths. this could be fixed by more carefulness and time taken to measure.
+
+the weights on the mass hook might slip in air during the swing. this could be fixed by securing the masses to the hook.
+
+accidental force on the pendulum upon releasing. this could be fixed with a releasing device (for example, tongs).
+
+at first, time was harder to measure until we were given the photogate sensor.

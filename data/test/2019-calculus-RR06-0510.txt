@@ -1,0 +1,15 @@
+conclusion and discussion
+
+this experiment was done to determine if the force applied of mass of the system can effect on the acceleration or not. the graph and the data for part 1 shows that relationship between the force and acceleration and we figured out that by changing the mass of the system, the acceleration will change. in addition, it also shows that the graph 1 gives us a linear relationship of the slope. and the slope/constant 3.3014 represents 1/m, where mass is in kg, since $a =\frac{f}{m}$. in addition, the mathematical model $y = 3.3014 x-9.5135$ where x is force (n) and y is acceleration (m/s^2). this shows us the acceleration is increasing with force of mass. the mathematical model is supporting my hypothesis.
+
+in graph 1, the results that we got in the first one was 3.168n and the acceleration was 0.939 (m/s^2). the second force was 3.125n and the acceleration was 803 (m/s^2). the third force was 3.082n and the acceleration 0.622. which means that the slope is constant as we see in the graph. 
+
+the second part we tasted the relationship between the acceleration and mass. the control variable was just mass 2 and he gravity. so, we investigated that by increasing mass 1 the acceleration decreased. the mathematical model that we got $y = 0.1415 x^{0.33}$ and the r^2 is  0.9617 which means our data are accurate. 
+
+in picture 2 is from other group that can support our data which has the r^2 is 0.9868 and it is very close from our data. we can confirm that the relationship between the mass and acceleration.
+
+in the third part in lab 06 we investigated the relationship this between the force and acceleration when increase the angel of system increased. so, as we see in the picture 1. in addition, we tasted three different heights instead. so, the first 1 has height 0.00309m the second has 0.00631m the third has 0.0063m. and we conclude that as the force increased the acceleration increase and the height doesn’t really affect on the relationship between the acceleration and force. one of the mathematical models was $y=3.3484 x-0.023$ and the r^2 is 0.99 which means it is very accurate.
+
+there were some random errors in the experiment. one of the errors was when we were moving the cart. also, when the cart was moving that there is a friction in the system. however, there are a few random errors. moreover, there is systematic error like air resistance and the nature of martials those two things can affect on the data. 
+
+at the beginning of the experiment, the first hypotheses stated the mass increases, the acceleration of the system will decrease. after we did the experiment our results support our hypotheses.

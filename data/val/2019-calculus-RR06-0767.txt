@@ -1,0 +1,24 @@
+discussion
+
+		the question this lab poses is the relevancy of mass and force to the acceleration in a system and how the equations for mass vs acceleration and force vs acceleration graphs are obtained. 
+
+
+		the data shows that during the first lab, there was a direct relation between the force in on a system and the acceleration of the system while the mass of a system has and inverse relation to the acceleration. the force went up with the acceleration in a linear line, but as the mass grew, the acceleration decreased. this makes sense because in the equation $f= m a$ , as mass would increase, it would take a decreased acceleration to equal some control variable for force. however, when force increases, it would take a greater amount of acceleration to multiply with some control variable for mass to equal the force. in the second experiment, the equation’s c2 value would increase the more the plane was tilted (disregarding inaccurate results for second test. this makes sense because when tilting the plane of the track forward, the car would have the force from the bobs working on it as well as the force of gravity causing the cart to accelerate. the error bars in the graphs shows that the results were accurate using one standard deviation, which makes us 99% sure that our results were correct. 
+
+	
+
+
+in the first picture, the group tested to see what would happen if the track was tilted upward so that gravity would be working against the cart. they found that this decreased the acceleration of the cart in the equation. this supports our idea that downward tilt increases acceleration because it shows that gravity’s affects are a factor on the acceleration of the cart down the track. the second picture tests friction. they found that friction does not affect the equation in this case which also supports the idea that gravity is the reason the equation has the c2 element in the first place. 
+
+
+in the end, we found that the equation $a=\frac{f_{sys}}{m_{sys}}$ came up with a mathematical model $a=c1 w+c2$ because c2 is the tilt of the system and because all forces are summed, it is added to the rest of the equation which consists of the mass and force of system. the extra forces in $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ can be accounted for the extra force of gravity working on the system. 
+
+
+
+	if a heavy string was attached to the system, the string would add to the mass of the system, thus decreasing the acceleration of the system given a constant force. 
+
+
+	random errors in this experiment may come from slight pushing on the cart when releasing it for the experiments. this could be reduced by using a mechanical device to let go of the cart at with the same amount of push/pull every time. the systematic errors include the friction that the air track and the air itself puts on the cart and the fact that the table is not completely level which causes a slight tilt. 
+
+
+	constraints of this experiment consist of the air resistance on the cart as it is going down the track and the mass of the string on the cart. this was not accounted for in the procedure and results in less accurate results. other errors may have to do with unbalanced triple beam balance showing more or less mass for each bob or the mass of the cart system. this would lead to results having to do with mass (all of them) being slightly off.

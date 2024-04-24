@@ -1,0 +1,9 @@
+discussion:
+
+the theoretical formula for the period of a pendulum is , and our formula, $t=1.05596029 l$ which is very close.
+
+from this formula, we know that the only two things that affect the period are length and acceleration due to gravity. this made it easy to eliminate other variables after the first experiment.
+
+we tested to see if length, angle, and/or mass affected the period. the data between the length and period had a positive correlation, while the data between angle and period as well as mass and period had no correlation. from this, we can conclude that only the length has an effect on the period. the length has an effect because the total distance the weight travels is longer, and this causes the period to increase.
+
+some error occurred with the measured times since we timed them by hand. two people were timing simultaneously to help reduce error, but since the times we were dealing with were so small, there was still probably some error. the graphs show us that our measured times were close, but there were still some outliers.

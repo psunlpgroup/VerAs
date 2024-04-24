@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the purpose of this lab was to develop mathematical models that describe the behavior of a system when you change the applied force and when you change the overall mass of the system, and to understand what the values in the mathematical models mean.
+
+the mathematical model for the first experiment was taken from the line of best fit for the data. it was in the form, $y = c x-b$ where the mass of the system is equivalent to 1/c and b represents some force skewing the data. the model for the second experiment shows that changing the mass of the system doesn’t change the acceleration when there isn’t friction. the lab 06 results show how increasing the angle of the track can account for the unknown forces that skew the data.
+
+the two sets of models above correspond with our data for lab 06. in the first, making the cart                      go downhill took the y-intercept closer to 0 because the value was negative. in ours, making it go uphill made it approach 0 because it was positive. the second set of models adding magnets to the cart could account for any unwanted forces that were acting on the experiment.
+
+error in the experiment could have been with the surface being not entirely frictionless, which we attempted to account for in lab 06. this would be systematic error. the balance could have been read differently by different students, this would be random error. to decrease thus, you could take more masses and average them.
+
+the experiment may have some constraints that limit generalization. for starters, everyone’s systems had different masses. it was also conducted in a lab setting where everything can pretty much be controlled.
+
+both models are consistent with newtons second law. for the first model, as the force applied increased, so did the acceleration. for the second model, the sum of the forces was consistent.

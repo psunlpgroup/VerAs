@@ -1,0 +1,13 @@
+conclusion:
+     his lab was done in order to find the models that would allow us to describe the behavior of a particular system as well as the variables defined in said system.
+ In each trial the data was plotted in excel and then graphed and the line of best fit could then be determined. This equation that was found is the mathematical model that was described in the experiment. In experiment 1 the linear model $y=0.031 F+0.1497$ (figure 4) was found and this equation allowed us to compare the force and the acceleration of the system to see what force is applied on the system. The units of this equation are 1/kg and m/s^2. The value of F in the equation is the mass due to gravity and the y-intercept represents the acceleration constant.
+In experiment 2 the acceleration and mass were compared. The model that was found in this trial yielded the equation of $a=2.9153 m^{0.234}$. This is different from our last model because we didn’t convert grams into kilograms. Even though the conversion wasn’t made the relationship is still evident as seen in figure 5.
+    
+During lab 6 the first mathematical model was tested further. It was determined the there is an inverse relationship between the slope and the angle of the track. The y-intercept and angle are directly related. The slope of the graph is 1/mass which causes it to increase as the angle decreases. 
+
+
+These other groups had a similar idea to what we predicted and what we found when we analyzed our data. The numerical values in our equations represent the force that was being applied as in this equation; $a=0.031 F+0.1497$ and the mass of the system as in this equation; $a=2.9153 m^{0.234}$. The other team’s data seems like it could be opposing our results but if we look a little closer at the experiment that they did, they angled their track differently. If we make their data negative, then when compared to our data it is similar which makes us feel confident with our results.
+
+ When we initially began the experiment (before altering the angle of the track) we noticed that the track was not level. We tried our best to level the track but we couldn’t get it perfect so it caused the cart to move slightly in the negative x-direction (relative to how we had the cart moving) which could have slowed down our acceleration during each trial.
+ In a few of the trials we did we didn’t convert grams into kilograms which would make the data hard to compare to each other since the units are a little different.
+ The mathematical models that we had ($a=0.031 F+0.1497$ and $a=2.9153 m^{0.234}$) take the form $\frac{f}{m}=a$. The equations can then be manipulated in order to get them into the form $f=m a$.

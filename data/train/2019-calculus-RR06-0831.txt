@@ -1,0 +1,14 @@
+conclusion & discussion
+
+	the purpose of these labs was to take real systems of mass and to learn how they are affected by real physical changes; both to the system itself and its physical setting. then, to take our data and to create visuals capable of elaboration on the relationship between our experiments and changes. these visuals were created in the form of data tables and scatter plots with trend lines to more accurately and clearly show a relationship in our data. for example, in figure and table 1, you can see that force has a direct relationship with acceleration. in that the greater force acting on a system, the higher acceleration that will occur. looking at figure and table 2, you can see that when maintaining a constant force in each trial but altering the mass of the system, another direct relationship presents itself where a higher system mass correlates to a lower total acceleration. in table 3 and figures 3 through 6 you can see the effect created by changing the angle of the system by raising one end, in which it significantly diminishes the acceleration of the system.
+
+
+	group 4 ran a similar experiment in lab 6 in which the also tested the effects that tilting their system would have on the acceleration of said system. after reviewing their data, you will find that both of our experiments support the claim that changing the physical setting of a system will alter its acceleration. such as in that when the pulley end of a system is raised, the acceleration will decrease.
+
+
+	after reviewing group 1’s data, i learned more about what we had tested in lab 6. while they did not test the same setting as my group, they did alter the physical setting of their system resulting in a decrease in acceleration overall after having in succession increasing the friction present in their system. the direct relationship observed by their experiment is plainly that adding friction to your system will in turn lower the total acceleration of your system.
+
+	due to the precision and extreme accuracy of the equipment and tools we used in this experiment, it is safe to say that there was little to know error in the performance of this experiment. the scale of our data versus the scale of any possible error renders said error negligible in this experiment. 
+
+	given the specific nature of our experiment, any generalizations made by our results would be limited to defining and supporting newton’s second law in that we proved in our experiment a direct relationship between force, mass, and acceleration. shown by tables 1 and 2 that an increase in force leads to a direct increase in acceleration, as well as that a decrease in mass leads to a direct decrease in acceleration.
+

@@ -1,0 +1,25 @@
+discussion and conclusion:
+
+	the purpose of this lab was to show how mass in a system can change the acceleration of that system. we gathered data through experimenting with an air track pulley system. by changing various variables in the system, we were able to clearly see what affected what.
+
+	in the experiment, there were two different places that we changed the mass. the two places were on the string, or the hanging weight, and directly on the cart. when the hanging weight increased the acceleration of the system also increased. this can be seen in table #1 and graph #1. the positive slope of the graph shows that acceleration and mass were increasing together. when the mass of the cart increased, the acceleration of the system decreased. this can be seen in table #2 and graph #2. the negative slope of the graph shows that while mass increases, the acceleration decreases. both of the graphs are almost perfectly linear which depicts the relationship between acceleration and mass very well. we performed another experiment where we changed the angle of the air track which affected the acceleration of the system. you can see in table #3-5 and graph #3 that the acceleration always increases in a linear fashion but is affected by the angle of the air track. when the angle of the air track increases, the acceleration and force decreases. although the acceleration and force are increasing together at roughly the same pace, if there is a larger angle on the air track, the line will shift down. this is because when there is an angle on the air track, you have to use trigonometry to find the force in the x-direction. as the angle increases, the force decreases which will cause the line in the graph to shift downwards. 
+
+	other groups had similar results as us is 
+
+
+
+
+
+
+
+
+
+	
+
+	group 3,7, and 8 all had very similar results to us. their models prove to be close enough to ours to provide higher accuracy and higher confidence.
+
+	errors could have happened while measuring bob masses which is from human error. there were not many systematic errors besides having the air track not be completely frictionless. 
+
+	in the experiment, the masses of the cart and the hanging weight were not adjustable which affect a range of mass. also, the bobs were a specific mass that we were not able to change or adjust.
+
+	the experimental models are true to newton’s law because when the force is constant and the mass increases, the acceleration has to decrease which is what happened in our experiment. also, when you increase the weight of the hanging mass, it increases the tension force pulling the cart which would cause the acceleration to increase. every observation made in the experiment correlates to the equation $f=ma$.

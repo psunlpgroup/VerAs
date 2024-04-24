@@ -1,0 +1,26 @@
+discussion and conclusion:
+
+the research question that is being investigated in this lab is what is the period of a pendulum for small swing? each of the three-experiment helped address this research question. on the first experiment we established the data that were needed for lab two including a graph on each part just to justify our testable hypothesis and prediction. according to the graph above both the testable hypothesis and prediction were truth. the mass and period graph show an almost horizontal line with a slope of 0, the error bars are all leveled and can be fit into one another. the same goes for the angle and period, the graph also had a slope of 0 with error bars that can fit into one another. which means it has no effect on the period of the pendulum. after the completion of the second lab we had all of the proof that we needed to claim that length of the string is the only independent variable that has an effect on the period of the pendulum. the mass and the angle of launch doesn’t have any affect on the time period. we went as far as to do another lab which really did proof the testable thesis as shown by the graph below
+
+
+
+this graph shows that the length of the string influences the time period of the pendulum. the relationship between the iv and dv is not linear as seen on the graph we used a power function for our new graph. it was close, but not the full model. to have the full model we should experimented with larger range of length of the string.
+
+the correct theoretical equation is 
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+
+
+using our experimental equation, the period of the pendulum is close but not exact to the period when the theoretical equation was used. our precise percent error is 2.1%. speaking of error during our lab we have noticed that there was some error that was possible that we made
+
+reaction time when measuring period of pendulum. (random error)
+
+having the correct angle of release as measured. (random error)
+
+
+the string stretching while it was being swing. (systematic error)
+
+the reaction time has been eliminated using the pendulum time recorder. for the angle we double checked it every time before launch, same for the length of the string. 
+
+the only constrain within the experiment that might has affected the generalizability of the of the results is air resistance. it is one thing that we can not control which means that we had to test the experiment as if there was no air resistance. the air resistance could have had slow the pendulum down faster than expected.

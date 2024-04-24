@@ -1,0 +1,26 @@
+conclusion
+
+ what impacts the period of a pendulum for small swings?	
+
+	
+
+ as shown by figure 1, altering the length of the string connected to a pendulum with a constant weight and angle of release (when the angle is small) causes the period of the pendulum to increase. this experiment was conducted by timing when the pendulum swung back to its starting position, and the only variable altered was how long the string it was attached to was.
+
+	
+
+as shown by figure 2, altering the mass of the pendulum with a constant string length and angle of release (when the angle is small) has no effect on the period of the pendulum. this experiment was conducted by timing when the pendulum swung back to its starting position, and the only variable altered was how heavy the pendulum was.
+
+	
+
+as shown by figure 3, altering the angle of release of the pendulum with a constant string length and pendulum mass has no effect on the period of the pendulum, but this only applies to small angles. this experiment was conducted by timing when the pendulum swung back to its starting position, and the only variable altered was how high the angle of release was.
+
+	
+this equation is a power series with the constant , and is the proportional to t.
+
+	
+
+this model is very similar to the theoretical model since l is the only variable that is proportional to t, since angle of release and mass did not affect the period in our experiments, and has a similar power to the theoretical model (0.4943 compared to 0.5). the constants are also very similar in our data derived model since , and 2.007 is very close to 2.0068. 
+
+	
+ the majority of the error present in our experiments was random error, specifically from us using a stopwatch to calculate the period of the pendulum. this was later reduced since we used a photogate when measuring the period of the pendulum when altering string length, but angle and mass were tested with a stopwatch. the photogate was used after we determined there was a relationship between string length and period of the pendulum with the stopwatch. for mass and angle, we had three people measure the time, and then take the average of those measurements to generate a more accurate result.
+ the one major constraint is that this only applies to small angles of release, and does not hold for larger and larger angles of release.

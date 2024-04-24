@@ -1,0 +1,10 @@
+conclusion:
+the experiment was to test which of the three given variables affected the period of the pendulum. 
+
+the three experiments addressed the question by isolating the three variables at question and testing each of them to see which ones really did have an effect. as you can see from the graphs of each, the string was the only variable that had any real sort of change to the line of best fit. from this we can deduce that it really was the only variable that changed the period of the pendulum. these conditions are applicable in all situations (of normal atmospheric pressure and gravity).
+
+the theoretical mathematical model is is  2pi*sqrt(l/g). when compared to our graphs and data it gave very similar results. we created an equation using our data and we found that our equation was +- 0.1 off the theoretical model. the factors of mass and angle also agree with this because in our equation and in the theoretical model they still have no affect on the period. 
+
+there were both random and systematic error involved. the random was very minor, but in order to try to reduce them we made sure we tested each hypothesis many times and then took the average. there really was no systematic error. in order to make sure that we did not have it we were carful to have several people taking the time periods and checking the correct angle. 
+
+in theory our results should be able to be generalized, and we know simply from any level of research that they could indeed be generalized as long as the error was accounted for. however, there was the fact that we only tested at one station and used the same types of materials. if we had tested using different types of string and different masses, then we would be more confident. also, something to take into consideration is that we used very aerodynamic materials and so wind force and resistance were not a consideration in our calculations. this could change if the experiment was to be tried in a different place. 

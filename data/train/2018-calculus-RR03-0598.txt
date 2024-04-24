@@ -1,0 +1,11 @@
+discussion and conclusion
+
+
+
+	as a reminder, this experiment was used to show whether adjusting certain properties of a swinging pendulum; such as mass, length, and angle, change the time of a one period of the said pendulum. in the first experiment, multiple trials were done to change the mass, length of string, and angle where the pendulum dropped, in order to answer the research question. data was recorded via a stopwatch used my a human, rather than a computer, to support the second experiment, which focused on the systematic and random errors performed during the experiment. it was reasonable to conclude that both random and systematic errors occurred greatly throughout the first experiment. for the third experiment, the experimenters used a photogate to obtain an accurate measurement for the change in length of string.
+
+	the mathematical model produced via changing the length of string was that of a power graph, matching the original graph at 0.9999/1.0000. although the curve of the power graph matched the most, the polynomial also matched well. in this trial, the period of the pendulum was not affected by mass or angle as they were both constant.
+
+	throughout all the experiments, there were both systematic and random errors. as presented in the 2nd experiment, the way to correct systematic errors is to acquire better gear to conduct the experiment. in the future, we could have acquired a more readable protractor to measure the angle of the drop. the way to correct random errors is to have multiple trials, with multiple people completing each task. for example, as we collected the time, we had ¾ members of the group taking the time via stopwatch, and then we took the average of what everyone acquired.
+
+	constraints can hinder your results. in this experiment, the maximum height was dependent on the classroom, as well as the total length of string that was provided. the minimum and maximum weight could also hinder your results, as the minimum weight at my table was 50 grams, and the maximum was 130. with a smaller minimum, and a larger maximum, the results could have been much more spaced out, thus improving the experiment.

@@ -1,0 +1,10 @@
+conclusion:
+How does the acceleration of a system change when the applied force changes?
+When the applied force changes on a system, this creates a linear slope of acceleration. Our mathematical model was $y=4.3797 x + 0.002$ giving an R^2 is 0.9937. As seen in Graph 1, this our experimental linear data. 
+
+ 
+A force acting on the hanging weights is the act of gravity. This is shown in our data via Graph 1, that shows the steady incline of the force vs. acceleration which impact each other. 
+	The mass of the system is shown in the m value in the experimental model, as seen above in Graph 1.
+A non-massless string connecting the hanging mass to the cart might affect the acceleration to due a friction/tension force pulling in the opposite direction of motion of the cart. 
+	A non calibrated scale could have created off set data from the start to get the mass for our constant system, to reduce that risk could improve data. Issues with the vacuum during the collection of data could create error in the data, to improve this error practice trials should be conducted in order to be confident in using the lab equipment. 
+	Our data could limit further conduction of research due to its small sample size or the lower number of trials conducted. Finding an average of each trial conducted several times with bigger sample sizes could improve the conduction of further research. 

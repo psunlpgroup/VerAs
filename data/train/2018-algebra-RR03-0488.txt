@@ -1,0 +1,15 @@
+discussion & conclusion
+
+
+
+the three experiments that we conducted were able to allow us to determine what factor affected the period of the pendulum. the first experiment that was conducted was testing whether the length affected the period. in this experiment, we found that the longed the string got, the longer time we recorded for the period. after graphing the data that we recorded in table 1 (graph 1) you can see that there is a power relationship between the length of the string and the time. the slope of the line of best fit is positive, indicating that we do indeed have a positive correlation. 
+
+	when it comes to the mass of the pendulum results (table 2), it is obvious that there isn’t much of a correlation between the increasing mass and the average period time. upon graphing this (graph 2) it is even more evident that there is no relations ship. when we determined the slope of the line, which was equal or close to 0, it was proof that mass does not have an effect on period time. 
+
+	for the third experiment, we tested whether the angle that we released the pendulum would have an effect. based on table 3 and graph 3, we can once again see that there is no correlation based on the slope of the graph and the recorded numbers on the table. 
+
+	from this collected data, we were able to determine that the length of the string is the only variable, of the three that we tested, that affects the period of a pendulum. 
+
+	the theoretical mathematical model for the period of a pendulum is 2x^.4232. our data fit this model in graph 1, once again indicating that length is the determining factor in period time. in our other experiments, our lines had no slope, therefore not fitting the mathematical model. 
+
+	some of the random errors that may have occurred include the stopwatch only recording to the centisecond, the weights being worn down from previous use and the string being frayed or loose. some of the systematic errors include our response time to starting and stopping the stopwatch, and what we considered the middle of the pendulum bob when measuring string distance. in order to eliminate some of those, we used a string that looked to be new, without any frays, and we also used a photogate to better capture the period time. some things that we also could have done include using brand new weights and using better technology for dropping the pendulum.

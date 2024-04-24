@@ -1,0 +1,33 @@
+discussion and conclusion:
+
+
+
+do variables including length of string, mass, and angle of release impact the period of a pendulum?
+
+
+
+after analyzing mass, we claim that mass does not impact the period of a pendulum.  by looking at graph 1, the slope is very close to zero, meaning that there is no correlation between mass and the period.  this goes against our original hypothesis that mass does impact the period.
+
+
+
+after analyzing angle of release, we claim that small angles do not significantly impact the period of a pendulum.  by looking at graph 2, the slope is very close to zero meaning that there is not a significant correlation between angle of release and the period.  this goes against our original hypothesis that angle of release does impact the period.
+
+
+
+after analyzing length of string, we claim that length of string does indeed impact the period of a pendulum.  by looking at graph 3, the data points match up closely to a power curve, meaning that there is a relationship between length and period.  this matches our original hypothesis.
+
+
+
+a theoretical mathematical model for the period of the pendulum is tim$e=2 \pi \sqrt{\frac{l}{g}}$.  .  in graph 3, we utilized a power curve, and the theoretical mathematical model is also a power curve.  our data matches this model because length is the only variable we tested that greatly impacts the period.  however, we did not incorporate gravity in our experiments, which is also a variable in calculating the period.  mass and angle are not mentioned in the model, which also matches up to our data, since we decided that mass and angle of release do not greatly impact the period.
+
+
+
+one example of random error includes human variations in starting/stopping the stopwatch.  in order to reduce this, we utilized a photogate, which has a measurement uncertainty scale of 0.001 seconds.  this is far more accurate and precise than using a stopwatch and will provide better experimental results in the future.
+
+
+
+an example of a systematic error that happened in our experiments was the incorrect measurement of the length of the pendulum.  during every trial, our team measured the length of the pendulum from the top of the pendulum, to the bottom of the string.  in the future, it would be better to measure from the top of the string to the center of the mass.  this is the correct was to measure the length of a pendulum and will provide more accurate results. 
+
+	
+
+constraints in the experiment include maximum angle of release of  <90 degrees and a maximum length of 76 inches. at 90 degrees or above, the pendulum is no longer effective and does not act appropriately.  also, our pendulum stand would not allow the length to go above 76 inches.

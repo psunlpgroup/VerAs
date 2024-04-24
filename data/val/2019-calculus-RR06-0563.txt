@@ -1,0 +1,16 @@
+conclusion:
+
+a. the purpose of these labs was to develop a mathematical model which describes the characteristics and behaviors of a real model.  
+
+b. the three labs led to the three models created because the force applied resulted in an acceleration and changing the mass resulted in a change in acceleration as well and then using the data we collected to create a line of best fit.  the iv for model 1 and 3 are the force applied to the system and the iv for model 2 was the mass of the system.  the dv and output for all of the models was the acceleration of the system.  the numerical value at the end of the model acceleration experience without any force acting on the system probably cause by slight leans in the table.  the slope from the models were the final piece left from newtons second law either 1/mass, for models 1 and 3, or 1/force, for model 2.  
+
+the data from group number 2 helped us understand what the values might mean because unlike group 2 we had a positive value for the b in the slope intercept equation.  this led to an understanding that this was caused by the slight angle in the table that was present and not by any of the bobbers moving it.  
+
+
+the results from this group showed us that the slope of the line constantly decreased as more friction was added this showed me that number that the equation equaled as acceleration because as friction increased acceleration decreases.  
+
+d. some systematic errors that occurred to our group was the string having knots in it, so it was not able to perfectly go over the pulley and slowed it down slightly throwing off our results.  another systematic error is the tables not being perfectly level and cause just a slight acceleration increase or decrease in one direction.  a random error that could have occurred during this label that we tried to minimize was the bobbers swinging before the sled was moving thus creating another force to accelerate the system.  these errors could have been avoided by getting a new piece of string had that been available to us.  the random error could be reduced by holding the bobbers steady until the system is going to move.  
+
+e. the error of the knot being in the end of our rope prevents our results from being used on a larger scale also our results from lab 6 had a small inaccuracy due in part to the table being tilted and the mass of one bobber not being able to apply as much force.  
+
+f. the models are consistent with newtons second law because they all have a linear shape except for graph 2 were the exponential fit our data slightly better even though a linear still would have fit just fine.  the linear model all resulting in a slope of 1/mass or 1/force for graph 2.

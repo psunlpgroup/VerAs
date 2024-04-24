@@ -1,0 +1,21 @@
+discussion:
+
+	-research question: how does the acceleration change when mass changes and when the friction force changes?
+data set 1 is  in this data set the effect of a hanging mass on the acceleration of the system was measured. this was done by keeping the mass of the cart constant and varying the hanging weight. this experiment resulted in a linear graph. as the weight of the hanging mass was increased, the acceleration of the system also increased. this relationship is valid as the error bars in the data set 1 graph do not overlap. 
+data set 2 is  in this data set, the affect of mass and a hanging mass was measured. this was measured by varying the mass on the cart and keeping the hanging mass constant. according to our data and the graph obtained there is an exponential relationship. as the mass of the cart was increased, the acceleration exponentially decreased. 
+data set 3 is  this experiment served as a control for the coming experiments. this was done by increasing the mass of the cart while simultaneously decreasing the hanging weight. the acceleration of the cart was then plotted against the force, calculated by multiplying the weight by the acceleration due to gravity. this also had a linear relationship. as the force was increased, the acceleration of the system was also increased. 
+data set 4 is  in this experiment, the affect of a retarding force on the acceleration was measured. this was accomplished by adding 4 magnets to the top of the cart and increasing the mass of the cart and decreasing the hanging weight. the data suggests again a linear relationship. as the force increases, so does the acceleration. however, because of the presence of the retarding force, the acceleration for each data point was significantly less than the control experiment. 
+data set 5 is  in this experiment, the affect of a retarding force on the acceleration was measured. this time this was accomplished by adding 2 magnets to the top and 2 magnets to the bottom of the cart. the data suggests a linear relationship. as the force is increased, so is the acceleration. however, the acceleration was slightly less than the experiment with all 4 magnets at the top. 
+data set 6 is  in this experiment, the affect of a retarding force on the acceleration was measured. this time this was accomplished by adding 4 magnets to the bottom of the cart. the data suggests a linear relationship. as the force is increased, so is the acceleration. however, the acceleration was slightly less than the experiment with all 4 magnets at the top and the experiment with 2 at the top and 2 at the bottom. 
+after, consulting with a second group, our data was further supported via their findings. 
+theoretical equation is  $a = \frac{f}{m_{sys}}$
+
+experimental equaton is  $a =0.0435w+0.1684$
+
+enhanced theoretical equation is  $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$
+
+-the model above show a linear relationship between hanging mass and acceleration which is directly related to newton’s second law. the hanging mass in the experiment was equal to the sum of the forces in the $a =\frac{f}{m_{sys}}$ equation. the model also shows that the mass of the cart is related to acceleration showing the mass of the cart to be equal to msystem in the newton’s second law equation. overall this shows that as the force increases, so does the acceleration. also as the mass is increased, the acceleration decreases. both of these are consistent with newton’s second law. 
+
+error is   random errors were associated with the experiments as they are with any exorcise using measuring devices. there could also have been systematic errors associated with the experiments such as improper calibration of the scale during measurement. this error was minimized using high precision measuring tools. 
+
+constraints is  one constraint of the experiment was that the angle of elevation was not altered in any way. this inhibits our ability to draw any conclusions as to whether changing the angle has any affect on acceleration.

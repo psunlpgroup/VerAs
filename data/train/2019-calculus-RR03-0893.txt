@@ -1,0 +1,11 @@
+conlusion:
+
+what impacts the period of a pendulum? our group determined that mass and angle did not affect the period of the pendulum. length was the only variable that affected the period of the pendulum. our data shows that the period in seconds increased as the length in meters of the string increased. conditions in which this experiment holds true are if the angle is less than 30 degrees.
+
+the numbers that were obtained for each measurement are very reliable due to the fact that there were 10 periods measured for every length that was tested then the average was taken of the 10 periods creating a value that is a good representation of our data. using the data from the table and graph we used excel to calculate the best fit line equation. this equation is listed above in the graph and here $y = 2.1221 x^{0.4512}$ with a r squared value of .9992 which shows a very close relationship between data points and our equation. the theoretical equation for pendulum period is shown here is 
+
+
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+inputting a length of 1 m into both equations we find a difference of 0.116 which is very small and increased our confidence of our findings.

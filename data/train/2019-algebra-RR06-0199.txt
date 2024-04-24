@@ -1,0 +1,12 @@
+conclusion:
+In this experiment, we tested the questions “How does the acceleration of a system change when the hanging weight changes?” and “How does the acceleration of a system change when mass of the system changes?” To test these questions, we used a glider system to measure the acceleration of each trial and compare it as the hanging weight or mass of the system changed. In the first experiment, our dependent variable was acceleration, independent variable was the hanging weight, control variable was the mass of the system (338.15 g or 0.33815 kg). We predicted that as the hanging weight increased (along the x-axis) increased, the acceleration (along the y-axis) would also increase. In the second experiment, our dependent variable was acceleration, independent variable was the mass of the system, and the control variable was the hanging weight (30.32 g or 0.0302 kg). We predicted that as the mass of the system (along the x-axis) increases, the acceleration (along the y-axis) would decrease.
+
+
+	In this lab, we performed the same experiment as the week before, measuring how the hanging weight affects the acceleration of the glider, but this time we easured how this is affected at an incline. We predicted that as the incline increased, it would make it more difficult for the acceleration to increase, causing acceleration to decrease. In model 1, our dependent variable in this situation was acceleration, independent variable was the hanging weight, and control variables were the mass of the system and the incline (11.94 mm). In model 2, we tested the sam eresearch question, but at a larger incline. In this mode, we predicted once again that accleration would decrease as the incline increased. Our dependent variable was acceleration, independent variable was the hanging weight, and control variables were the mass of the system and the size of the incline. In model 3, we measures the opposite question. “How does the hanging weight affect acceleration with a decline?” We predicted that at a decline, acceleration would increase. Our dependent variable was acceleration, independent variable was hanging weight, and control variables were mass of the system and a decline (11.94 mm).
+
+
+
+
+
+
+In conclusion, we decided that there was not enough data to fully support our hypotheses. We believe that if we performed these experiments more times and continuously increased our inclines and declines, we would be able to gather enough data to support or deny our claims that inclines and declines affect the accelerations of the glider.

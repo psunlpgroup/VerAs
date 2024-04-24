@@ -1,0 +1,6 @@
+conclusion__
+
+in conclusion, the laboratory experiments performed during lab 05 – newton’s laws part i and the challenge activity during lab 06 – newton’s laws part ii enabled the analysis of the research question “how does the acceleration of a system change when the applied force changes?” by experimentally calculating the relationship between the force applied due to a hanging mass system and the acceleration experienced by a cart on an airtrack system, the experiments helped to address this research question and displayed that there is a linear relationship between the applied force and the acceleration of a cart. this was further corroborated by the display of the error bars for the experiment, with no overlap being shown for the gathered data, concluding that the applied force is correlated to the acceleration. in addition, the laboratory experiment helped to demonstrate newton’s laws of physics, specifically   and allowed for further analysis of the theoretical mathematical model through curve fitting to find the best relationship. the laboratory experiments also enabled the discussion about random and systematic errors that were present during the lab, as well as identifying experimental constraints that limited the generalizability of the results.
+
+
+

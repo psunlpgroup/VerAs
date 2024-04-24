@@ -1,0 +1,11 @@
+conclusions
+
+several conclusions can be drawn from these three experiments. one of which is that only two of the three independent variables that we tested influenced the duration of the period of the pendulum; the length of the string and the angle of release. the only problem being that we learned that if the angle of release is less than 20 degrees than there is no effect on the duration of the period of the pendulum, although this does not show it in our experiments.
+
+the research question can very confidently be answered as a result of these experiments. the length of the string has a positive relationship with the duration of the period of a pendulum and the angle of release (when kept to below 20 degrees) and the amount of weight attached to the pendulum do not have an effect. 
+
+lab 3, however, furthered our conclusion by helping us see that there was a clear relationship between the length of the string and the period of the pendulum
+
+the theoretical mathematical model equation that we were given in class was $t=0.8051472 l$. although our equation that we got from our graph ($t=0.3165 x^{0.4048}$ was considerably off from the target equation, we were able to compare our results with other groups to see if they were similar and those that we had compared with were near the target equation. 
+
+a lot of the error from our experiments and testing came from the systematic error mainly stemming from the stopwatches. it was just too hard to get everyone starting and stopping at the same instant that it led to a more widespread table of data then we would have liked. this can be reduced by solely using a photogate as the time measurement tool since the amount of error from using it was so minimal. another factor of error might have been the misalignment of the angle when that was our independent variable. also, since we didn’t pay as much attention as we should, and we would’ve only used angles under 20 degrees when the angle was our independent variable and that would’ve helped us conclude what we were meant to. more careful measurements and using tools that would not produce as much random or systematic error would result in more accurate measurements.

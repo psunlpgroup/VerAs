@@ -1,0 +1,17 @@
+discussion and conclusion
+
+the research question being investigated in this lab is: what impacts the period of a pendulum?
+
+
+
+the three experiments addressed the research question by investigating different factors that impact the period of a pendulum. the first experiment investigated the effects of mass on the period of a pendulum by keeping the angle of release and the length of the string the same for every trial. the claim that we made for the first experiment is that as mass increases, the time of the period decreases. our data does not support our claim, our graph shows that mass does not affect the period of the pendulum. the second experiment investigated the effects of angle of release on the period of a pendulum by keeping the mass of the pendulum and the length of the string the same for every trial. the claim that we made for the second experiment is that as the angle of releases increases, the time of the period increases. our data does not support this due to the small angles we chose to use but as the angles of release get greater than 20 degrees then an increase in the period of a pendulum is seen. the third experiment investigated the effects of the length of string on the period of a pendulum by keeping the mass of the pendulum and the angle of release the same for every trial. the claim that we made for the third experiment is that as the length of the string of the pendulum increases, the time of the period increases. our data supports this claim because as the length of the string increases, the period of the pendulum increases.
+
+the theoretical mathematical model for the period of a pendulum is . our data fits this model because when you calculate the period of the pendulum by plugging in the length of the string your results are like the times we found in our experiments. the mass of the pendulum does not affect the period because it is not a variable that is plugged into the model. angle is also another variable that does not get inputted into the model which shows that it does not affect the period.
+
+
+
+random errors that are present in our lab are the reaction times for the starting and stopping of the stop watch when the pendulum was released and when it completed one period. another random error is the protractor not being directly centered on the horizontal bar that holds the string. the reaction time error was later corrected when we used the photogates to record the period of the pendulum. the protractor error was accounted for by making sure the string was released as close to the same place as possible. the error with the protractor can be fixed in the future by having the angle marked that we would release from the same point every time. systematic errors that are present in our lab are uncertainties in the triple beam balance and the tape measure. this could be caused by the triple beam balanced not being zeroing before the masses are weighed and the tape measure not being specific enough. these could be fixed in the future by zeroing the balance before each mass is weighed and a more accurate form of measurement tool could be used to get a more accurate value for the length of the string.
+
+
+
+constraints that exist in this experiment that may limit the generalizability of our results are air resistance and friction. the air resistance may affect the period of the pendulum because it could slow down the pendulum. friction can also cause the pendulum to slow down as the string moves along the horizontal bar that holds the string.

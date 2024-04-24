@@ -1,0 +1,15 @@
+discussion and conclusion 
+
+the research question was what impacts the period of a pendulum for small swings.
+
+in the three experiments we had done, we changed the independent variable each time in the first experiment in order to find out which variable would affect the period of the pendulum. originally, we had though that the length of the string and the mass of the pendulum had affected the period of the pendulum. however, in our second experiment we looked at the iv and dv and we had found that the length of the string and the angle of the string had a direct connection to the change in time. however, the mass of the pendulum did not affect the time at all. this idea we had in the second experiment would not be fully right. the reason is because when we made our error bars graph we saw that the angle of the string did not affect the period at all. it was just the length of the string that had affected the period. in the third experiment we went and looked at the relationship between length of the string and the time to see if it was linear. from our table and graph we had found that it shows a power trend. from all the experiments we had done, we had found that the length of the string impacts the period of the pendulum.
+
+
+
+
+
+the theoretical mathematical model for the period of the pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. in our equation we had $y = 0.2717 x^{0.4424}$ and if we compare it to the actual equation which was $y = 0.2007 x^{0.5}$ our data would fit close to the model. the difference between the two can be regarded to the errors in measuring and the length of the string
+
+the reason for why we may have thought the angle affected the period could be because errors like incorrect timing with the stopwatch which is a systematic error, or incorrect measurements which is a random error. in order to reduce the errors timing consecutively would provide more accurate data and by doing so we get rid of the times we have to hit stop and start, causing less errors.
+
+a constraint in this experiment i found would have to be time. the reason is because for the first experiment it was a little hard to finish all the trails and get all the data done with such little time. if there was more time for some experiments, then our results could have been much better.

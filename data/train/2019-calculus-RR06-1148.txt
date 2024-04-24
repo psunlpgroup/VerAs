@@ -1,0 +1,17 @@
+conclusions.
+
+the three experiments lead to the models above first by controlling the mass and second by controlling the force and lastly modifying the conditions of the experimental set up, friction. the first graph produced the model is  $a=0.0029 f - 0.008$ which resembles newton’s $f = m a$. however the constants in our model represent the inverse of mass and the intercept component represents an amount of error because the model should contain no intercept. that is when force is zero, acceleration is also zero. the second week of lab showed that the first constant is related to the friction present. increasing friction showed a decrease in this number as seen in tables 5-7. meaning there is some ideal value when friction is completely eliminated. the second model came from controlling force on the system. it showed newtons second law in a rearranged format. the model is  $a = 0.9752 e^{-0.002m}$ shows an inverse relationship between mass and acceleration whereas the first model was a direct relationship between force and acceleration. when mass is increased under constant force, acceleration decreased. when force increased under constant mass, acceleration increased. this is seen in tables 2 and 3.
+
+data from these two groups agree with our claims that the first coefficient in the model of force vs. acceleration represents a component of the experimental set up. group 1 shows that the tilt of the track has an impact on this numerical value, and group 2 agrees with us that the higher added friction causes a decrease in the slope of the model or a lower coefficient.
+
+some errors include measuring the mass of the bobbers or using an average mass to calculate the force from several bobbers. since the masses were not completely consistent across several bobbers, this introduced random error. careful measurements could be made any time a new bobber is used to calculate the force of gravity on the bobber. additionally there might be a systematic error in the conditions of the track. when the same set up is used, there may be a tilt present and a certain amount of friction that is not eliminated. as concluded from altering these factors, they would have a systematic effect on the models produced by running several trials on the same track.
+
+these experiments were done over short distances covered by the cart on the track. having the mass of bobbers fall a much larger distance may increase the effect of friction in the pulley the string passes over, the difference in the strength of gravity at different altitudes, and the ability for friction to be eliminated by an air pump on a larger length of track. 
+
+netwon’s second law is usually written $f = m a$. our models 
+
+$a = 0.0029 f^{-0.008}$ (mass is constant)  and
+
+$a = 0.9752 e^{-0.002m}$ (force is constant) are consistent with this because they can be rearranged in such a way that the first model becomes is  $f =\frac{a+0.008}{0.0029}$ 
+since the factor .0029 is the inverse of mass (units m/s^2 / n), dividing by it is the same as multiplying by mass. therefore this rearrangement is in line with $f = m a$
+likewise the second model shows mass and acceleration are inversely proportional under constant force. as one decreases the other increases and vis versa.

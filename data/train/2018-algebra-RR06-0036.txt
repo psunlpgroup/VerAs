@@ -1,0 +1,19 @@
+discussion and conclusion.
+
+research question is how does the acceleration change when the hanging force changes?
+
+when moving the bobs and/or paperclips from the hanging string to the cart, the acceleration would increase. after running the different trials there needed to be more of a forced applied as the number of bobs increased that were on the cart. the error bars that were on the acceleration vs. hanging weight graph were so small that they did not show up on the graph. these were placed at an interval of 0.001 due to the fact if the track was not 100% frictionless.
+
+this group had similar results as ours stating that as the hanging mass increases, the acceleration of the cart also increases.
+this group had similar results as ours stating that as the hanging mass increases, the acceleration of the cart also increases
+
+
+the theoretical equation for the acceleration of a system by a single force is f$=m_{sys} a$. the experimental model was $y=0.0043 x-0.016$. our mathmatecal model supports the theoretical model that was given for the experiment.
+
+the enhanced theoretical model is $a=\frac{f}{m_{sys}}+ \frac{f_{ext}}{m_{sys}}$. our experimental model was $y=0.0043 x-0.016$. our experimental model was supported by the enhanced theoretical mode.
+
+a pulley and cart are placed on a frictionless track. the mass of the total contraption is kept the same, but the hanging mass changes when parts of the hanging mass is moved from the pulley to the cart.  as the hanging mass of the pulley changes the acceleration and velocity are also affected. these are all measured and interpreted. 
+
+
+ random errors in this experiment could have been not letting the air track get to its maximum strength before removing your hand from the cart. there were also points of error because our string had multiple knots in it, and since there were knots there were points of friction causing our apparatus to not be 100% frictionless. there also could have been a bend in the airtrack causing our results to be skewed.
+some constraints that we had were it was hard to get the mass exactly. we had to use multiple variations of bobbers and paperclips in order the achieve the mass that we wanted. we were unable to change our string. this could have affected our experiment a lot since there were multiple knots in the string.

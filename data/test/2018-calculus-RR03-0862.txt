@@ -1,0 +1,17 @@
+discussion and conclusion
+
+
+
+during this lab, we investigated what factors would influence the length or period of a pendulum.  we tested three of these factors in the experiment is  mass of pendulum, length of string, and angle of release.  during these experiments, we kept two of the variables constant whilst altering the third.  this would allow us to see the how a single variable affect the period of the pendulum.  the first experiment, we tested the effect mass had on the period of the pendulum.  even with only three trials, we could conclude that as we varied the mass, the period of the pendulum was not affected.  the graph in figure one, shows the data ranges are close together as we increased the mass significantly.  next, we tested the length of string on the period of the pendulum.  this time we had enough trials to conclude that the period of the pendulum is directly related to the length of string.  as seen in figure two, the time of the pendulum doubles between the first and the last trial; because the string was significantly increased in length.  finally, we tested the angle of release against the period of the pendulum.  the graph in figure three represents the data well, as the data did not alter greatly even though the angle of the release was eventually doubled.  which concludes that the only variable that affected the period of the pendulum was the length of string.
+
+
+
+the theoretical mathematical model for the period of a pendulum is represented by the equation is  .  the mathematical model only involves the length of the string, but not the other two variables because they do not affect the period of the pendulum.  if we look at figure two, an equation is displayed to represent the trendline of the data points.  the equation is is  $y=2.0927 x^{0.3986}$.  at first glance, the equations look completely different, however after rearranging the mathematical model, we $t=2.0071 l^{0.5}$.  comparing the two equations, they are extremely similar; except for the exponent.  this is where the error has an impact on the data and the equation.  the other two figures and equations are in linear form, which means the equations could never be similar.  also, the linear line represents no change in the data, unlike the power curve in figure two.
+
+
+
+as i’ve already mentioned before throughout this report, both types of error have been present during the experiment.  however, random error did occur more frequently than systematic error.  any human error or the misuse of the measuring equipment would result in random data which could possibly create outliers.  to reduce these errors, we should have the same person measure the data the same exact way every trial.  another example on how to reduce error would be to take three or more trials of the same measurement and average them into one trial.  this would allow the data to become more accurate and leave less room for error.
+
+
+
+the equipment we used during the experiments were not the best, or most accurate.  each piece of equipment had some uncertainty involved in the displayed number.  the last digit in every recorded number was most likely uncertain and prevented us to create the most accurate data.  we also had time constraints during the lab, we couldn’t make ten trials for each variable there simply wasn’t enough time.  therefore, we had to limit ourselves to a small amount of trials each experiment.

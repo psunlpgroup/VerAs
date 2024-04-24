@@ -1,0 +1,10 @@
+
+conclusion: 
+
+	throughout the labs we tested the effect of certain dependent variables (weight, drop angle, string length) on the independent variable (period length) to see what variables influenced the period length of a pendulum. in the end of lab one we concluded that only string length was a factor of the period length of the pendulum.
+
+	in lab two we learned to calculate and understand errors and their causes in the design and testing of our experiment. we used the new understanding to start to calculate error from the previous lab to have a greater understanding of our data.
+
+	in lab three, we utilized what we had learned from lab one and two respectively to test the effect of pendulum cord length on period time more accurately using photogates to get a more accurate interpretation and model of our data. we also added error bars to the graph of our data in lab 3 to more accurately display our data. from the trendline of our data from lab 3 we created a experimental model of $t=0.0111 x + 0.819$ as we interpreted the data as linear. however, we now know the proper formula is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ these are relatively different equations as ours was linear and the actual is a sqrt function, however they do both relatively fit the data so it is understandable that we would believe that it was linear.
+
+	from the labs we can conclude that string length is the only factor on the period length of a pendulum, and we learned to minimize error using better techniques and accounting for it in our data/graphs.

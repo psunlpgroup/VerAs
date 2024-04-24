@@ -1,0 +1,26 @@
+Discussion:
+the length of the string affects the period the most
+
+
+
+as the mass increased, the time of the period stayed the same. we started at 50 grams and ended with 250 grams. the period didn’t change because our graphs show us that the slope didn’t change (stayed flat) so the weight didn’t affect the time. the error bars are very small so that tells us that are data was accurate.
+
+
+
+when we would change the length of our string, we noticed a significant difference in the times compared to the mass and angle released. we started with a 27 cm string and ended with a 58 cm string. our graph had a positive slope so that told us that when you increase the strings length then the time would also increase.
+
+
+
+ the angle didn’t have an affect on the period either. we started at a 30-degree angle and ended with a 65-degree angle. our graphs had a flat slope for the most part (human error) so the angle didn’t affect the time. you can see the error bars, but they aren’t very big, so our data was still accurate.
+
+
+
+ the theoretical equation is      $t=2 \pi \sqrt{\frac{l}{g}}$         the data we collected didn’t match with that equation. but the graph we made fits the line for that equation, but the equation did not.
+
+
+
+the biggest error we could have had was the time with people timing the pendulum with a stop watch. the best way for us to fix this is, without a laser motion sensor timer, to have multiple people time it and then average the times to get a closer answer. unless one time is an outlier.
+
+
+
+ the constraints for this experiment is the maximum string length, maximum angle we could release at, and the amount of weight we could put on the pendulum.

@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+the purpose of this lab was to develop models that present the behavior or a real-life scenario. this was done by experimenting if friction affects the acceleration of a cart by adding magnets to a cart on a frictionless track, therefore adding friction. 
+
+
+
+this experiment was also done to understand how and what each variable represents in the real world. this was done by adding magnets to a cart on a frictionless track in order to add friction. 
+
+
+
+friction on the cart is  the relationship between the independent variable (friction) and the dependent variable (acceleration of the system) has a correlation because the graph has a positive, linear slope.  as the friction increases, the acceleration decreases.
+
+
+
+hanging mass of the cart is  the relationship between the independent variable (hanging mass) and the dependent variable (acceleration of the system) is also a positive correlation because the graph is positive. as the hanging mass increases, so does the acceleration. 
+
+
+group 1 is  we had the same hypothesis and found very similar data that we did.
+
+
+unknown group # is  they tested if the slope of the track affects the allocation of the cart.

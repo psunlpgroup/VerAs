@@ -1,0 +1,14 @@
+discussion and conclusion
+
+the research question for the first part of the lab was to find the effect of the force applied on the acceleration of the cart. the research question for the second part of the lab was to find the effect of the mass of the cart to the acceleration of the cart. for the third part of the lab, the question was to find the effect of a tilted track to the acceleration of the cart and the relationship between various track angles.
+
+
+
+for the first experiment, we found that as the force applied was increased, the acceleration of the cart also increased. the effect was a linear curve with a positive slope. for the second experiment, we found that as the mass of the cart was increased, the acceleration decreased. the relationship was an inverse regression curve with a negative slope. for the third part of the experiment, we found that the tilt of the track effected the y intercept for the graph, however with mass of the cart held constant the slope of the graph stayed the same.
+
+these are the photos of the 2 other groups whiteboards that we obtained. group 1 (green text) and group 2 (red text) both had their own mathematical models. group 1 tested the effects of magnets on the acceleration of the cart. group 2 tested the effect of the angle of the track vs the acceleration. group 2’s data backs up exactly what we had discovered. the slope of their graphs was the same, the only thing that changed was the y intercept of their mathematical models. the enhanced theoretical equation $a = \frac{f}{m_{sys}} +\frac{f_ext}{m_{sys}}$  supports our data.
+some errors that might have been present in the lab would be the frictional force between the track and the cart. we believe that even though the track has relatively no friction, there is still some force of friction between the cart and the track. this effect was noticeable effect as the mass of the cart was increased significantly. we could wipe down the track beforehand and make sure that the surface is adequately smooth.
+some constraints that could have limited the results of the lab could have been the values we tested. if the mass of the cart that was tested had a larger range, the results that we had gotten might have followed a better fit line for the mathematical relationship. 
+
+
+for our 2 mathematical models, they both followed newtons second law, $f = m a$. for the experiment testing the effect of the force applied on the acceleration, we got the equation --. this closely follows $f= m a$ and is like $c f = a$ where c is the mass constant for 1 / m. for the second part of the experiment that tested the mass of the cart vs acceleration, we got the equation --. this follows $f= m a$ and had a close relationship with $f = \frac{1}{x}$.

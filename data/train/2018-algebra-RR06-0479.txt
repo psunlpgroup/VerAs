@@ -1,0 +1,8 @@
+conclusion:
+
+The purpose of this experiment is to provide an investigation of how the acceleration of a system changes when the applied force is changed.
+Both Figure 2 and the resulting mathematical model of this experiment, $y=4.9007 x - 0.0093$ show a positive linear slope that addresses the research question of how the acceleration of a system changes when the applied force changes because it shows a positive correlation between the IV and DV tested in the experiment.
+
+
+Both Group 3 and Group 4’s findings support my groups claims of the acceleration of a system changing when the force applied changes. Both groups and my own have a positive correlation between the acceleration and the force applied.
+Forces other than the hanging weight that might be present are friction and the angle of the track. Both forces are present in the uncertainty. The mass of the system shows up in the equation of the for calculating the force in the experimental model. A long non-massless string connected to the hanging mass of the cart will increase the acceleration of the cart. Every measurement in the experiment is a random error, to avoid that, a value should be stated or more data should be taken and averaged. Systemic errors present are friction and the track angle. Friction reduces acceleration, while the angle of the track might increase or decrease acceleration. To decrease systematic error, the track must be perfectly level. Constraints in the experiment are the string that must be as light as possible, the track having to be perfectly level and the pump running at full power.

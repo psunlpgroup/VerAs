@@ -1,0 +1,11 @@
+discussion and conclusion:
+
+a. during this lab, we conducted several experiments so that we could create mathematical models that showed the real behavior of the same system. we used these mathematical models to better understand each of the variables that we tested and their values.
+
+b. during each experiment, we conducted the trials very cautiously and took the averages of all the trials to receive more accurate data. we then inserted our data into excel and got our graphs, and then found the trendline/equation to get our mathematical models. i got a better understanding of the physical meaning of each variable as we tested them. every variable’s numeric value was more apparent as the experiment went on.
+
+each of these groups’ values are similar to our values. this makes me believe that our values were accurate because we are pulling data from other classmates and comparing the values, and them being similar makes me even more confident in our data testing.
+
+ some random errors during this experiment are the glider being unstable and inaccurate data values. what we did to fix this was hold the legs of the glider during each trial, and average out all of our data values to lead to more accurate data.
+ the only constraint that i can think of was that the glider was not completely frictionless. this may have altered the results (in the slightest bit).
+ each of our mathematical models follow newton’s 2nd law ($f=ma$ because our force is equal to the mass of the glider multiplied by the variable tested, which ultimately equals the acceleration of the glider.

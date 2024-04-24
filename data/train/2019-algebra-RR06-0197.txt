@@ -1,0 +1,15 @@
+discussion & conclusion
+
+
+
+the point of this lab was to see if we kept the mass constant in the system, but just moved it around, how it would affect the acceleration of the hover car on the air rail.  what we discovered is that when the mass of the force is greater, it creates a linear relationship on the graph.  in lab 6, we were trying to figure out how the mathematical model would be affected if we changed the tilt, or in other words, the angle of the slope of the track.  
+
+the experiments in both labs led to the formation of a mathematical model because we took the data that we gathered from each experiment and placed it in an excel spreadsheet and created a graph from the data.  from the graph, we were able to calculate the equation, or in other words, the mathematical model for each instance we experimented with. 
+
+unfortunately, we were unable to capture a photo of another groups finding, but we were able to talk to another group and our results were pretty much the same.  we tested different tilts than they did, but the results were similar to ours. 
+
+some errors that could have occurred was of course human error.  there weren’t many instances where human error would be a problem, but you always have to take it into consideration.  another error we have to consider is the error of the device we were using to determine the acceleration, which its error was 0.001.  
+
+one constraint that we found might affect our results, is that the leg that stabilizes the air track was a little loose, we did not know how to tighten it, but we did our best to make sure that the leg didn’t move much while we were testing.  this is something that could have very easily skewed our data.  
+
+our two experimental mathematical models are consistent with newton’s second law because what his second law states is that if the force changes, but the mass stays the same, then the acceleration is what has to change.  in our graphs this is made very clear that the acceleration did indeed change.

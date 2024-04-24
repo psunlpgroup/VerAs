@@ -1,0 +1,17 @@
+discussion and conclusion
+
+	these two previous labs, five and six, were used to test newton’s laws, but more specifically the theoretical model, $f=ma$.  during these experiments, we investigated the affect of applied force has on the acceleration of the system.  our prediction was that the relationship between applied force and acceleration would be linear.  during the experiment, we conducted seven trials, as seen in table 1.  the graph of this data is displayed in figure 1 shows a linear relationship between the two, as we predicted.  the mathematical relationship is displayed on the graph as the equation, $y=4.791 x + 0.0518$.
+
+
+
+
+
+both groups had different mathematical models, with different numbers.  however, the relationship shown between force and acceleration is linear, which is exactly what our data displays.  the numbers are different between groups because of control variables that vary, as well as different errors between groups.
+
+after rearranging the previous theoretical model, we get $a=\frac{f}{m}$ which represents our equation of $y=4.791 x + 0.0518$ well.  the variable “y” represents acceleration, the variable “x” represents force, while 4.791 is 1/m.  as discussed previously, the y-intercept represents any outside factors on the trials.  after analyzing both models, they are very similar, and only different because of error.  also, the massless string was key when creating the system and allowing a uniform acceleration through the system.  a non-massless string connecting the mass to the cart would not allow for a uniform acceleration through the system.  this is because the mass of the string would alter the force as the cart becomes closer to the sensor, which would increase the acceleration as well.
+
+during every experiment, their will always be error present in the data.  in this experiment specifically, random error unless the sensor was not calibrated correctly before the data was collected.  if each trial was not performed the same exact way each time, random error is produced because of our inability to take measurements correctly.  other errors include environmental factors such as friction or air resistance.  in the future, we need to be as accurate as we can when taking data during our trials.  the other environmental factors will always be present unless we do the experiment in a perfect environment.
+
+experiments always have constraints, whether they are technological, or budget constraints.  in this experiment, we didn’t have the most accurate measuring equipment, especially the scale.  if provided with a more accurate measuring device, the results would become more precise.  also, the air track doesn’t take friction away completely, but with a better air track the friction present would be less noticeable.  a time constraint is also a factor when conducting the lab, with more time, more trials could be conducted which would provide better results.
+
+

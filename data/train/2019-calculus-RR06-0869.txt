@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+the purpose of lab 05 was to find which factors increased or decreased the acceleration of the system. we found that as the force of the cart increased, the acceleration increased. we also found that as we increased the mass of the cart, the acceleration decreased. lab 06 was used to develop an understanding for each variable and numerical value in the model. this was used by adding magnets to add “friction” to the cart, which showed that the more friction the cart had, the acceleration was decreased. 
+we took the acceleration of each model by tracking it with a computer. we then put these numbers into an excel file with their respective iv. we then graphed them to give us our models by using the trend line function. 
+$a= 2.89 f- 0.0506$ the “force of hanging” was determined by taking the mass of the bobbers hanging multiplied by gravity.  we used a linear expression to determine the trend line.
+$a = 0.375 m^{-.997}$ the mass of the cart was measured to give us the variable mass. 
+we used a power expression to determine the trend line. 
+$a = 1.89 f_{applied} -0.0395$
+
+the “applied force” was determined by taking the mass of the bobbers hanging multiplied by gravity. 
+
+we used a linear expression to determine the trend line. 
+this group tested the same claim as us, changing the number of magnets in the system, and they found similar results. their ‘b’ value decreased as the number of magnets increased. they did not state their findings, but they likely found a similar conclusion.
+this group tested a change in height as opposed to a change in friction. they found a similar result to us, with a change in the ‘b’ value. the b likely had to decrease in order to compensate for the change in height, as the model has to account for the change.
+some friction was created from the pulley system.
+ mass of bobbers could have been off because the balance was off. this could lead to calculations being off.  this could have been fixed by putting an object with known mass on the balance to see how accurate it was. friction from the hanging mass slowed it down. this would lead to the acceleration being smaller than it could be. 
+ both models relate to newtons model because they both contain force and mass, which will then yield the acceleration.
+
+first model is $a = 2.89 f_{hanging} - 0.0506$
+
+second model is $a = 1.89 f_{applied}- 0.0395$

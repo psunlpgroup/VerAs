@@ -1,0 +1,32 @@
+discussion and conclusion
+
+the question being researched in these experiments are the different factors that affect the time period of a pendulum. 
+
+the first experiment, experimental design, served to identify the different possible factors that could possibly affect the time period of a pendulum and to construct and either prove or disprove the hypothesis that that factor would affect the time period. experiments were set up to collect sufficient data to come to a conclusion based on the analysis of the data. the claims made were that length would affect the time period of the pendulum while the mass of the bob and the angle of release from the center would not.
+
+data was collected from several different trials in the experiment and graphs were made. analyzing the graphs of mass vs period and angle vs period, it can be seen that the graph is mostly linear with a slope of zero, which indicates that there is very little to no correlation between the angle of release or the mass of the bob and the time period of the pendulum. this is true especially for small angles. at larger angles the angle will affect the time period.
+
+the second experiment dealt with errors in the data collected, and uncertainty in measurements. the uncertainty was calculated by taking multiple readings of the time period and recording this in an excel sheet and using the excel tools to calculate the standard deviation and other information.
+
+random and systematic errors were both present in our experiments. for example, random error can be caused by human reaction time being too slow. systematic errors would be the fact that air resistance was consistently not taken into account, so our time period varied from the actual time period. 
+
+to reduce these errors there are different ways depending on the type of error. for example we reduced the random error by taking multiple readings and finding the average value of all these readings. systematic errors can only be reduced by using better or properly calibrated equipment and so we decided to use a photogate in our third experiment instead of depending upon the human eye to time the pendulum swings, and this made our data a lot more accurate.
+
+the third experiment that we did helped us create the mathematical model to determine the time period of the pendulum. the final theoretical model that we arrived at looked something like this is 
+
+
+based on this we were able to realize that the actual equation for the time period of a pendulum was
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+            where t is the time period of the pendulum,
+
+                l is the length of the string, and
+
+                g is the acceleration due to gravity.
+
+from this it can be seen that mass and angle are not part of the formula, which implies that they do not affect the time period, which is consistent with our past results and graphs.
+
+
+
+there were several constraints in the experiment for example, the equipment we used was non-ideal and non-standard, as it was not a regular pendulum with a small spherical ball, and also we did not take into account the air resistance as that would likely affect the time period. there’s also the location of the experiment, it was not carried out in an ideal location. several issues like this would prevent the generalizability of our results.

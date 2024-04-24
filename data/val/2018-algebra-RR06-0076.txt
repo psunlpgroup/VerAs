@@ -1,0 +1,17 @@
+discussion & conclusion
+
+the research question is how does the acceleration of a system change when the applied force changes? the data that we gathered supports this research question. though all the points could not pass through the trend line. this shows that acceleration does not changes as the force changes, thus it implies that it is a linear relationship. as the error bars too minute this was another reason why the trend line didn’t pass the points. larger error bars would have made it easier.
+
+the group 4 data is similar to as both of seem have got a linear relationship. the trend line of group 4 also dose not passes through all the points thus its very similar to our prediction as well. group 2 also has a similar situation as ours as the acceleration and force show a linear relationship. so as the acceleration was increasing the force was increasing as well. the theoretical equation is $f=m_{sys} a$ . this supports the mathematical model $a=c1 w+c2$ as given below is 
+
+mathematical model is  $y= 4.9007 x - 0.0093$
+
+theoretical equation is  $a= \frac{f}{m_{hang}} +\frac{f_{ext}}{m_{sys}}$
+
+$f=m a$
+
+$m_h= c2 m_{sys} - \frac{0.5 m_s}{0.5}$
+so  m_h is 14.5 g
+
+
+the enhanced theoretical equation is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ this supports our mathematical model $a=c1 w+c2$.  the constraint was to keep the leveled and keep the string connected to it. another major constraint was making sure that the surface was completely frictionless and in order to reduce that we had to let the pump running so that the the surface gets enough time to be as close to zero friction. a systematic error was that the pump was not at the maximum rpm and we had to let it run for quite some time to attain the surface. also the weight of the string (which is negligible in this case) was not recorded. we also took more amount of trials and averaged them out to decrease the random error.

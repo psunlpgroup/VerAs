@@ -1,0 +1,4 @@
+
+conclusion:
+
+overall, our predictions we made were correct. the data collected from each experiment and from each trial showed us that mass, force, and force with an incline all affect the acceleration of the system. due to constraints and experimental error, the data collected wasn’t completely precise or accurate, but it was accurate and precise enough to conclude there were correlations with the various factors and the acceleration of the system.

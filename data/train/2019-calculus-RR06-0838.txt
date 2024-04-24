@@ -1,0 +1,13 @@
+conclusion:
+
+the purpose of this lab was to develop mathematical models which describe the behavior of a real system (lab 05) as well as to develop an understanding for each variable and numerical value included in the model (lab 06).
+
+the three experiments led to the resulting mathematical models by testing three different factors is  the mass of block 2*, the mass of block 1^, and the change in height^*. an automated sensor calculated the velocity/time of the system and then calculated the trendline, that is, the acceleration, of the graph. the force was calculated using the mass and acceleration and a graph of acceleration vs force was created.
+
+
+
+the errors that were present in this experiment were mostly random error. for example, the graph from our second experiment^ looked very different from our prediction and what the graph should’ve looked like due to a large amount of error that we received on our first test. we could not repeat this experiment due to time constraints. however, in the future, to fix this error, we would need to repeat the experiment to correctly obtain accurate data points
+
+some constraints that were involved in this experiment that may have limited the generalizability of our results are the limited tools that we have at our disposal and the uncertainty of measurements that we took. in terms of the tools, for example, in both lab 05 and lab 06, if the experiment was done in a vacuum sealed room, the results would be more accurate to the true value. with the uncertainty of measurements, repeated trials could be done to gain an average closer to a generalizable result.
+
+in lab 05, our models support newton’s second law ($f = m_{system} a$) because they show that mass and acceleration have a negative correlation. the differences can be attributed to the uncertainty. in lab 06, our model supports newton’s second law because it shows that the height and acceleration have a negative correlation. 

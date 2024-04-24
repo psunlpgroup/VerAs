@@ -1,0 +1,19 @@
+discussion and conclusion
+
+
+
+	our research question for this experiment was to find out what impacts the pendulum for small swings. 
+
+	for the experiment with mass as the independent variable we can determine that the mass of the bobber does not directly affect the pendulum for small swings. the data shows that there was no correlation with changing the mass, because the period was all around the same amount of seconds. in the mass vs. period experiment, the error bars overlap meaning there is no significance between the two variables, thus we can determine from the data that the mass has no effect on the swings of the pendulum.
+
+	for the experiment with the length of the string as the independent variable it addresses the research question because it shows a significant effect on the pendulum’s period. as the length of the string increases, the period of the pendulum increases. this bit of information allows us to predict that there is a correlation between the two. the error bars on the graph do not overlap, indicating that they are significant meaning there is a direct correlation between the independent variable and the pendulum’s period.
+
+	the experiment that uses the angle of release as the independent variable addresses the research question because it shows a correlation between x and y. during this experiment we adjusted the angle (degrees) of release for each trial, kept the length and mass constant. on our graph we have almost a linear line showing that as we increased the angle release, the period of the pendulum also increased. the error bars do not overlap meaning they is significance for the independent variable and the pendulum’s period. this experiment is the only one of the 3 that allowed us to keep our hypothesis. 
+
+	the theoretical model of a pendulum for our experiment with the length of the string as the independent variable almost matches the theoretical model. this is because the length of the string directly correlates with the period of the pendulum and you can prove that with the equation       $y=r^{2}$
+
+	the random errors in the experiments were all somewhat similar. random errors were reduced by repeating the experiments, which we did 5 trials each experiment to ensure we were getting good data. random errors could include reaction time to starting the stopwatch, not starting the string from the exact desired angle release, or not accurately measuring the length of the string. all of these could somehow affect the given data above. the only systematic error we could think of is not zeroing out the scale before weighing new mass.
+
+	the constraints within the experiment are small swings because the experiment was restricted to no more than 30 degrees for the release angle. these could affect the results because the results may vary if we could have a bigger release angle, it may increase the period of the pendulum but then it would also change the research question.
+
+	

@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the purpose of this lab is to develop mathematical models that reflect the behavior of a real system, found in lab 5, and to develop an understanding of each variable in the experiment, found in lab 6.
+
+the models in all three experiments showed that the mass of the system and the acceleration of m1 have a positive correlation. in the first experiment, as we added mass to m1 and removed the same amount of mass from m2, we found that more mass m2 had, m1 would have a faster acceleration. in the second experiment, as we changed the mass of the system, we found that the less mass on m2 the slower the acceleration of m1. in the final experiment, we came to the same conclusions found in experiment one and experiment 2. this can be seen in the graphs of each experiment, since they all look similar. 
+
+ our group board   group 3 board   group 5 board
+
+one of the largest errors in our experiment was that in lab 5 we did not measure the mass of each bobber. after we found the mass of one bobber, we assumed each bobber had the same value. we discovered this is not true, leading us to not have precise measurements in lab 5. we also did not record the values of uncertainty in experiment 1. if we were to do this experiment again, we would weigh each bobber properly and record the uncertainty for each value found in the experiment in order to reduce any errors in our experiment and to be more precise.
+
+one of the constraints these two labs had was that each bobber was approximately 5 grams. because of this, we could not as precise as someone who could change the mass 1 gram at a time. we also had a time constraint for each lab, causing us to work quickly and potentially leading us to be more careless and imprecise.
+
+the mathematical models found in this lab are consistent to newton’s second law since the mass is inversely proportional to the acceleration. this can be seen in our graphs and in our data.

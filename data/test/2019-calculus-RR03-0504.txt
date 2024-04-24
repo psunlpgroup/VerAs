@@ -1,0 +1,9 @@
+conclusion:
+the question was ‘What impact the period of a pendulum?After the third lab we decided that the length was the only factor of the period. We made a graph using a linear curved fit and the line passed through the error bars and data points without derivation. We came up to a mathematical model what was (g*cos(theta))/ (distance to travel). We proved this using the error bars where each bar significantly overlaps on the time travel without changing the magnitude of the acceleration. 
+    	This is the mathematical model we came up with.  
+	So, increasing the length of the pendulum string increases the required distance to travel without increasing the velocity of the pendulum.  This evidence can be seen due to the insignificant change in the period when mass and angle were changed. While length created a significant change. 
+
+
+	We had different errors that occurred during this lab, the most important one was the angle from which it was been released. We got the angle from which we wanted to make from, but some error might have occurred during this process and maybe we didn’t get the right angle maybe by a uncertainty between one and three degrees. Also, another error that might have occurred will be the length of the pendulum. The length of the pendulum we got are in the data above and we the graph below gives you us and estimates of how error we got from our measurement. Looking at the graph, I will guess a range of uncertainty of about ± 0.05.
+Also, looking at our table we 99.53 percent error free data. so this is to say that our data was almost accurate.
+	Overall, my team and I concluded that the answer to our research question was that the length. The longer length takes a long time to a short length take a short time to complete a period. 

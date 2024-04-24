@@ -1,0 +1,24 @@
+discussion & conclusion
+
+
+to develop mathematical models which describe the behavior of a real system as well as to develop an understanding for each variable and numerical value included in the model.
+
+
+the model in graph 1.a was derived from the data collected in part one of experiment one. this model is a linear mathematical equation in $y = m x + b$ form because the hanging mass (number of bobbers, x in the equation) is proportionally and positively correlated to the applied force (y in the equation). 
+
+the model in graph 2.a was derived from the data collected in part two of experiment one. this model is also a linear mathematical equation in $y = m x + b$ form because the mass of accelerating object (mass added to cart, x in the equation) is proportionally and negatively correlated to the acceleration of the cart (y in the equation). 
+
+the model in graph 1.b was derived from the data collected during experiment two. during this experiment multiple sets of data were plotted. each data set represented the same mass ratio of cart to hanging mass but with varying angles of elevation. this model is a linear mathematical equation once again in $y = m x + b$ form because the hanging mass (number of bobbers, x in the equation) is proportionally and positively correlated to the acceleration of the cart (y in the equation). observing all data sets as a whole shows us that the relationship between hanging mass and acceleration is preserved (as evidenced by the linear model applied to each data set) but also shows us that acceleration is decreased in conjunction with an increased angle of elevation.
+
+
+
+the models from group one coincides almost exactly with our models. their models were also linear and in $y = m x + b$ form. not only this, but their coefficients were nearly identical (when accounting for the units used, as their mass was in g and ours was in kg). the models from group two are also greatly comparable to our own models. again their data is modeled in $y = m x + b$ form with nearly matching coefficients (again accounting for different mass units). with both other groups having the same measurements for the x and y variables in their models as my own group we can conclude that my group was right in assuming that x is representative of the hanging mass and that y is representative of the acceleration of the cart.
+
+
+random errors were most definitely present during experimentation. this is because this type of error is always present in measuring devices. this type of error was reduced however, by using devices with high precision. systematic errors could have occurred during the measurement of the height of the wedge placed under the air-track. this error could have occurred if the meterstick used was held at an angle rather than held completely vertical which could have skewed our data. systematic error could have also occurred due to improper calibration of instruments. despite this, both systematic errors mentioned were minimized by ensuring proper calibration of measurement devices and proper use of the meterstick.
+
+
+the first constraint of the experiment was that the angle of elevation was not decreased to a position under the horizontal. doing this with several trials and various decreasing angles could have allowed us to generalize our findings to say that if angle of elevation is decreased under the horizontal then acceleration increases.
+
+
+the models above that showed a clear linear relationship between hanging mass and acceleration of the cart directly relate to newton’s second law. this is because the hanging mass in the experiment is equal to (summation) f in the nsl equation $f= m_{sys}  a$. also the above models show that the mass of the cart is related to the acceleration thus showing that the mass of the cart is equal to msystem in the nsl equation. overall our models show that as the mass of the system (cart in this case) increases then acceleration decreases and likewise as net force (hanging mass in this case) increases then acceleration increases. both of these findings are consistent with newton’s second law.

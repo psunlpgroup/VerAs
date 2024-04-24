@@ -1,0 +1,53 @@
+conclusion:
+
+these experiments were set-up using an air track, weights, slabs, a sled, a string and some bobbles. the string connected the sled (which was on the air track) and the bobbles (which were also weights) for all the experiments were switched from hanging off the end of the string at the end of the track to attached to the sled (keeping the total amount of mass constant). differently in the last experiment with tilt, the slabs were placed under the air track to create a tilt (like a hill or ramp). 
+
+the outcomes of each experiment resulted in positively correlated data. meaning if you look at experiment 1, of force applied vs acceleration, the data in the tables and shown in the graph reflects that as the force applied decreases the acceleration decreases as well. also, in experiment 2, of mass of the system vs acceleration, as the mass of the system increases the acceleration decreases. finally, in experiment 3, of tilt vs acceleration, as the tilt backward increases the acceleration increases, and the tilt forward increases the acceleration decreases. as you can see in the graphs of all the experiments the slope of the line is represented in a linear fashion. as well, on the graphs there are error bars, but you cannot see them because in all the experiments they were to small to be seen. meaning there is little error in the data and that the experiments were effective. 
+
+in experiment 1 as discussed before the team was researching the question of how force applied affects the acceleration. and as the data shows as the force applied increases the acceleration increases. before the experiment the team hypothesized that there would be a positive correlation between the variables. and we as a team predicted that as the force applied increased the acceleration would increase. 
+
+in experiment 2 as discussed above the team researched the question of how the mass of the system would affect the acceleration. the data and graphs for this experiment shows that as the mass of the system increases the acceleration decreases. before this experiment we hypothesized that there would be a positive correlation and predicted that as the mass of the system increased the acceleration would decrease.
+
+in experiment 3 as discussed, we also researched the question of how tilt affects the acceleration. the team again hypothesized that the variables would represent a positive correlation at the end of the experiment and predicted that as the tilt backward increased the acceleration would increase and as the tilt frontward increased the acceleration would decrease. in this experiment we also created a baseline with no tilt on the air track, much like the experiments, to create a control and something to compare the other results too. overall these predictions agreed with the end results of this experiment. 
+
+mathematical model experiment 1 is
+
+the equation representing the data for experiment 1 is linear and the y-intercept of this equation represents tilt. and the team is confident in this reflection of the data and the curve fit of linear because the r value is extremely close to 1 meaning the data fits very closely.
+
+$a=2.9498 m - 0.0377$
+
+r^2 is 0.9999
+
+mathematical model experiment 2 is
+
+the equation representing the data for experiment 2 is linear and the y-intercept of this equation represents tilt. as you can tell this fit did not accurately depict our data by the r value is much further from 1 than normal. we suspect this to be because by the low amount of data points we were able to take by the time restriction of class.
+
+$a=- 0.0532 m^{0.2024}$
+
+r^2 is 0.7776
+
+mathematical model experiment 3 is
+
+tilt forward
+
+the mathematical equation for this experiment follows a linear equation. also, the linear fit is well reflected by the closeness of the r value to 1. 
+
+$a=3.1304 f + 0.035$
+
+r^2 is 0.9972
+
+tilt backward
+
+the equation for tilt backward is also linear, which fits very value well when examining the r value and its closeness to 1.
+
+$a=3.1186 f - 0.1487$
+
+r^2 is 0.9986
+
+when comparing our team’s final equation to the other teams provided equations. it was clear there was some difference but very minor. for the majority of the other teams results they had an equation similar to this is  $a=2.8019 f - 0.101$ for both ends. our data does vary from this slightly, but i expect this to be from systematic error. either by the air track itself or the measuring equipment. 
+
+
+
+possible systematic errors throughout these experiments could have come from the capability or quality of the equipment. whether it being the air track, the measuring equipment, or the software any issue could have caused noticeable error. random errors in these experiments could have come from the sled releaser accidentally pushing the sled or accidentally putting a body part in front of the sensor. either of these errors would have caused clear errors in the data. these errors could be fixed by having the use of more quality equipment and completely removing human interaction and using a robotics system to release the sled. 
+
+during this experiment the team was burdened with a few constraints. mainly the constraint of time, over these labs time was a major issue when trying to complete the tasks. as well as, the discussed possible errors from equipment, the limitation by equipment whether by its age or accuracy it most likely affected the data.

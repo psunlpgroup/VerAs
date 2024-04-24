@@ -1,0 +1,11 @@
+discussion and conclusion
+
+	a) what impacts the period of a pendulum for small swings
+
+	b) the first experiment addressed the research question because it had us evaluate three different independent variables that may have an affect on the period of the pendulum. in the second lab, we evaluated the errors that were associated with the measurements we took in the first lab. in the third lab, we evaluated the independent variables we thought may have an association based on previous graphs (angle of release and length) and evaluated them using better technology in order to reduce error.
+
+	c) the theoretical model for the period of a pendulum is 2π. our length and weight data fit with this theoretical model. according to our length vs. period graphs, there is a positive correlation between length and period. according to our weight vs. period graph, there is no correlation between the weight of the pendulum and its period, which is reflected in the theoretical equation. according to our graphs, there is in fact a positive correlation between the angle that the pendulum is released and its period, but it is not reflected in the theoretical equation.
+
+	d) in our experiment, we only found random errors. the random errors presented were slight inconsistencies in release angle, human error in measuring distance, and human error in the operations of the stopwatches. to help the inconsistency of the measurement, we marked a protractor on 45 degrees for easy measurements. to help reduce human error in measuring the length, we had multiple people in our group check the length of the string when it was measured out. to reduce the error in measuring the period, we took multiple times, even when we used the computer program
+
+	e) there were few constraints that limited the generalizability of the results. first, we did not have time to take many trials because of the time constraint on the lab itself. another major constraint we had was the constraint on the angle, since it had to be relatively small. the last major constraint on the lab that was presented was length. we were limited to the  table and the apparatus as the maximum height.

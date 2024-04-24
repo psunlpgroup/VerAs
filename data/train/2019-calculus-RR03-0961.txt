@@ -1,0 +1,11 @@
+discussion and conclusion
+
+
+
+research question: what factors affect the period of a pendulum?
+
+
+
+to investigate what factors affect the period of a pendulum, we tested string length, mass of the pendulum, and the angle that the pendulum was released at. we predicted that each factor would directly affect the period of a pendulum. for string length, we were correct in our hypothesis because we determined that the longer the string length, the longer the period of the pendulum. this data can be seen in data table 1 and in string graph 1 as shown by the positive linear relationship between string length and the period of the pendulum. we were also correct in our hypothesis that the period of a pendulum is directly affected by the angle that the pendulum is released at. shown in data table 3 and angle graph 1, there’s a strong positive linear relationship between the angle of release and the period of the pendulum, concluding that the two are directly related. our hypothesis that the mass of the pendulum directly affects the period of the pendulum was incorrect. according to data table 2 and mass graph 1, the mass of the pendulum does not affect the period of the pendulum. this is shown on the graph from a relatively horizontal line. $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ is the theorhetical equation of a period of a pendulum. 
+
+a huge error in the beginning of the experiment was that we were measuring the time of the pendulum using a stopwatch and measured the beginning and end of the period based on our vision. using the photogate as shown in the sketch below solved the problem of this human reaction based error.

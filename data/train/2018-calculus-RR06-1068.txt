@@ -1,0 +1,27 @@
+conclusion
+
+the acceleration of the system was affected by the applied force on it. our evidence supports this claim, because we found a linear mathematical that matched our prediction of the slope of the applied force of the hanging to be 1/m.
+
+we had found this value, because $a=\frac{f}{m}$ which is also saying $a=\frac{f}{m}$.
+
+the mass of our system was 0.1824 kg. 
+
+this line of best fit is valid for our graph, as it falls within the error bars of the equivalency criterion. the largest disparity between the line of best fit, and a data point is the value of the applied force of 0.188454 n. using our experimental mathematical model, i found the value the line of best fit passes through to be 0.95, which falls within the equivalency criterion of 0.02 from the value of 0.968.
+
+there also exists a constant in our mathematical model that is an instance of systematic error that we did not account for in our experiment.
+
+our theoretical model, given our system mass should have been $y = 5.48 x$. our experimental mathematical model supports this theoretical model, because it matches in relationship, and its slope is of similar magnitude. the constant on our experimental model shows some external force acting on our system. this force is $\frac{f_{ext}{m_{sys}} = c$ -> $f_{ext} = c m$ so -0.0020 n acting against our system. if we were to account for this in our theoretical, the model would be
+
+$a = 5.48 x – 0.0112 $
+
+mathematical model
+
+$y = 4.8951 x – 0.0087$
+
+the dax group’s data also supports our claim. they had found a similar linear mathematical model, which also includes a negative constant that supports our claim that a systematic error occurred in the experimental process. their slope is smaller than ours, despite having a smaller system mass. this could be a result of inconsistency in calculation of the applied force on the entire system, such as assuming similar mass between all bobs.
+
+mathematical model
+
+$y = 5.259 x – 0.0096$
+
+the nerys group’s data also supports our claim. they had found a similar linear mathematical model, which also includes a negative constant that supports our claim that a systematic error occurred in the experimental process. their slope is larger than ours, despite having a larger system mass. this is the result of inconsistency calculating the applied force on the system. they stated they assumed all bobs were the same weight, which may have caused their applied forces to be incorrect.

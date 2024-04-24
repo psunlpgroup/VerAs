@@ -1,0 +1,20 @@
+conclusion:
+	
+
+the purpose of this final wrap-up is to clearly display the results of our experiment. 
+
+
+
+it was discovered that an increase in the opposing force yielded a decrease in the y intercept (acceleration) in our models above. the retarding force was an addition of magnets to the side of the cart.
+
+
+
+our group had confidence in the data we’ve uncovered. the uncertainty of plus or minus 0.001 m/s2 contributed to that confidence. none of our data points had an uncertainty remotely close enough to see a noticeable change in our graph.
+
+
+
+there were a few factors that could have swayed our results. firstly, the weight of our tape used to attach the magnetic strips could have added unaccounted mass to the cart system. second, the friction in the wheels, although our coefficient was undeniable low, as natural force increases multiplied by the coefficient could have raised the frictional force at higher weights. lastly, air resistance, although low undeniably exists.
+
+
+
+our group met after lab 6 and discussed some improvements that could be implemented to increase our certainty and confidence in our trials. one of which would be to remeasure the mass of the cart and weights we used. also, increasing the amount of trials we performed could have helped our accuracy.

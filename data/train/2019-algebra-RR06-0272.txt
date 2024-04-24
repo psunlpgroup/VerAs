@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+the purpose for completing lab 05 was to observe the way that changing mass affects the acceleration by changing the mass of the bobs at the end of the string pulling the cart and changing the mass of the cart while keeping the bobs at the end of the string a constant mass. the purpose for completing lab 06 was to observe how changing the kinetic friction between the cart and the track affect the acceleration of the cart. we looked at our result through mathematical models and compared them to other groups. these models are shown in the graphs above.
+
+	in the first experiment ion lab 05 we found the mathematical model between changing the mass of the bobs on the end of the string in comparison to the acceleration of the cart. the model showed that as the mass of the bobs increase the acceleration also increases. we found this by taking each bob and adding it to the end of the string one at a time starting at one bob on it. we then got the acceleration from the computer and recorded it. in the second experiment of lab 05 we found the mathematical model of how the mass of the cart affects acceleration of it and the model showed that as the mass of the cart increased the acceleration decreased. we found this model by putting all the bobs on the end of the string and comparing that to the weight on the cart by adding 50g to the cart each time we did a trial. in lab 06 we found the mathematical model between how the kinetic friction affects the acceleration and we concluded that as the kinetic friction increased the acceleration of the cart decreased. we found this model by putting magnetic strips on the cart and saw how it affected the acceleration by taking trials until we found a good trend in our data. in the model , the c1 value represents a cluster of both incline and friction. when actually calculating a value for c1 we got -115.158 which is way off of the number from our model which was 2.1. the c2 value represents a cluster of both incline and friction. when using newtons 2nd law to calculate a value for f we calculated a value of 159.494n which is even further off of our expected value of 348.9n. 
+
+
+
+after looking at other groups’ values and mathematical models. the group who did the same experiment had a different a model as us which makes sense as to our findings because we had an error in our calculations. although the other group did a different experiment as us there model still indicates that outside forces applied to the cart affect the acceleration of it. 
+
+
+
+	one error that came up in the experiments is a systematic error with the scale. when we were measuring mass of the weights the 50g weights did not read as 50g on the scale. if we reduce this error it would greatly the horizontal error and improve our level of confidence in the results of our experiments. another possible error there could have been is a systematic error in the timing device. the sensor could have been off which could alter our data we collected and skew it.
+
+	a constraint to this experiment would be needing to do the experiment here on earth versus somewhere else where gravity is different. gravity would affect the acceleration and the mass of the weights.
+
+	our mathematical models are consistent with newtons second law because the forces have a linear relationship with the acceleration caused by different forces acting on the cart.

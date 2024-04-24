@@ -1,0 +1,16 @@
+conclusion:
+The purpose of this lab was to experimentally determine which of three variables (length, mass, angle) affects the period of a pendulum. The experiment was divided into 3 separate parts, each testing a single variable. The Experimental Design Templates for each part are provided above.
+	For length, we set a fixed mass and angle, then we determined 3 different testable lengths. We tested 5 trials for each different length. We then averaged those 5 trials to give us an average for the tested length. These steps were repeated for mass and angle.
+	When graphed, the length has a positive linear best-fit line, which suggests that the length of the string impacts the period. For mass and angle, the best-fit line was linear, but had no slope, indicating no relationship with period. 
+	To analyze sources of error, we repeated the length vs period experiment, with one difference is  we tested 5 different points instead of 3. This was with the motivation of increasing precision. The table and graph are above, without a number next to the title, to differentiate from the initial test. In that test, we also used a time gate instead of a stopwatch.
+	The theoretical model for the period of a pendulum is  where T is period, L is length, and g is acceleration due to gravity. This model does not have any mention of mass or angle in it, supporting the result of the initial experiments is  mass and angle have no effect on period. Our theoretical model is modeled by the 2nd length vs period graph.  Using Excel to curve-fit our length vs period data, we came up with  which is very close to the theoretical model  is  . This was different than our original length vs period trials, where we used a linear trendline.
+	We also analyzed our procedure for any sources of error, random or systematic. Our random sources of error were is 
+      Different people timing the period because different people have different reaction times.
+      The angle of release was not accurately measured
+And our systematic sources of error were is 
+      Length of string stretching after measurement
+      Mass not manufactured correctly
+Our ideas to reduce errors were is 
+      Using time gates to reduce timing delay (This was accomplished later in experiment)
+      Use a standard number of significant figures throughout calculations and measurements
+      We could have done more trials, increasing precision

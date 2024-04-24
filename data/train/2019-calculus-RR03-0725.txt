@@ -1,0 +1,38 @@
+discussion and conclusion
+
+the purpose of this lab was to determine what factors affect the period of a pendulum. 
+the first experiment addressed the purpose by determining if mass affected the period of the pendulum. it was predicted that increasing the mass would increase the duration of the period. while the length of the string was 81.60cm and the angle of release was 35°, this is not true. through experimentation, it was determined that mass has no effect on the period of the pendulum. this is made clear on the graph (figure 1), where the trendline is almost horizontal and the error bars show significant, and almost total, overlap. 
+the second experiment addressed the purpose by determining if angle of release affected the period of the pendulum. it was predicted that increasing the angle of release would increase the duration of the period. while the length of the string was 59cm and the mass was 250g, this is not true for all angles. through experimentation, it was determined that angle of release has no significant effect on the period of the pendulum for small angles. this is made clear on the graph (figure 2), where the trendline remains flat until the angle of release becomes greater than 20°, after which the angle of release is shown to have an impact on the period of the pendulum. this is also supported by the error bars, which overlap significantly until the angle of release reaches 20°, after which the error bars overlap less if at all.
+the third experiment addressed the purpose by determining if length affected the period of the pendulum. it was predicted that increasing the length would increase the duration of the period. while the angle of release was 15° and the mass was 250g, this is true. through experimentation, it was determined that length of the pendulum has a positive relationship with the period of the pendulum. this is made clear on the graph (figure 3), where the trendline indicates a power relationship and the error bars show almost no overlap.
+the theoretical mathematical model for the period of the pendulum was is 
+$y=0.9320844 x$ where y is the time in seconds of the period and x is the length of the pendulum in meters.
+
+
+this model fits the data because it was determined experimentally that mass and angle of release do not affect the pendulum as long as the angle remains less than 20°, so therefore the model would only be a function of the period in terms of length. since the model will only be in terms of length, the other variables can be ignored as long as the pre-existing conditions (an angle of release less than 20°) are met. according to the trendline of the graph comparing the length of the pendulum with the period of the pendulum (figure 3), this relationship can be defined mathematically as $y=0.9320844 x$ where y is the time of the period in seconds and x is the length of the pendulum in meters. 
+
+	the theoretical model of the period of the pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ where t is the time of the period in seconds, l is the length of the pendulum in meters, and g is the acceleration due to gravity.
+
+
+
+the mass of the weight has some relationship with gravity, and the angle of release has some relationship with the 2π found in the theoretical equation. despite this, it is still clear that the length of the pendulum is the factor that determines the duration of the period.
+
+	the mathematical model’s similarity to the theoretical model is evident when the theoretical model is solved to fit the form of the mathematical model, as shown is 
+
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ it is 2.0071l^0.5 where t is the time in seconds of the period, and l is the length of the pendulum in meters.
+
+
+
+	when this is compared to the theoretical mathematical model, $y=0.9320844 x$, it is seen to be significantly similar. to show how close these two models are, suppose l is 0.5m. the theoretical mathematical model produces a period of 1.529209179s, and the theoretical model produces a period of 1.419226895s. the proximity of these calculations shows how the experimentally found model and the theoretical model are similar.
+
+	there were random and systematic errors present in these experiments. for random errors, the mass of the pendulum could have differed due to measuring with a triple beam balance and determining when the balance was even and the measurement was correct. the angle of release could have differed due to measuring the angle with a protractor. the length of the pendulum could have differed due to measuring the length with a tape measure with limited demarcations. the period of the pendulum could have differed due to variations in stopping the stopwatches.
+
+	to reduce these errors, multiple trials were conducted according to each factor in order to create multiple data points to form an average. this average of data points reduces the affect random error has.
+
+	for systematic errors, the mass could have regularly differed due to scratches and bumps in the masses used, thus affecting the weight of the objects. the angle of release could have regularly differed if the release was not perfectly perpendicular to the ground. the length of the pendulum could have regularly differed if the string was not perfectly straight while being measured. lastly, systematic error could have been present in measuring the period of the pendulum due to human controlled stopwatches measuring the time.
+
+	the only systematic error that was reduced was the measuring of the period of the pendulum, which was reduced by switching from using human operated stopwatches to a photogate. this photogate is not only more accurate, but it is free from the biases of reaction times and such that human operated stopwatches experience.
+
+to reduce these errors in the future, a better balance could be used to measure the mass more accurately, a protractor with more demarcations could be used, a tape measure with more demarcations could be used, and, above all, the materials used to conduct the experiment could all be brand new, and thus less prone to bends, scratches, bumps, and other use-related defects.
+
+these results were obtained with certain constraints. the length of the pendulum could only be as long as the string, which means the pendulum could be no more than 4m. also, the string had a limited tensile strength, and thus masses could not be much more than 500g. due to the protractors used, the angle of release could not be more than 90°.

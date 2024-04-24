@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+	in this lab we wanted to determine what impacts the period of a pendulum for small swings. in other words we wanted to isolate three independent variables and manipulate each individual independent variable, while maintaining control variables, and see how this affects the amount of times a pendulum swings per second.  
+
+	in the first test we conducted we wanted to determine how the length of the string impacts the period of the pendulum. after conducting this test over, over our five trial period, it can be concluded that string length is related to the period of the pendulum. if you look at the graph for this test, you will see a very linear and strong relationship. the linear form of the data point tell us that there is in fact a relationship between the period and the string length. the error bars of this graph are so minimal that it is very difficult to see them. this backs our finding that there is in fact a relationship between string length and the period of a pendulum for small swings. the relationship between the two is that as we increase the string length of the pendulum, the period of the pendulum also increases. 
+
+	in the second test that we conducted we wanted to determine how the mass of the bob impacts the period of the pendulum for small swings. while looking at the graph for this data collection it is clear that our data is nonlinear. the points are relatively close to one another with the exception of one outlier. you can also see clear error bars that enforce a nonlinear relationship between the mass of the bob and the period of the pendulum. this allows us to draw the conclusion that the mass of the bob does not affect the period of the pendulum for small swings. 
+
+	in the third test that we conducted we wanted to determine how the angle of release impacts the period of the pendulum for small swings. while looking at the graph for this data collection we see a similar pattern as our mass vs period graph; the points are relatively close to one another. this means that as our angle of release increased our period stayed approximately the same. we could also say the opposite, such as, as our angle of release decreased, our period remained approximately the same. this allows us to conclude that the angle of release does not impact the period of a pendulum for small swings. 
+
+	after determining that the length of string has a relationship with the period of a pendulum, we recreated this experiment using a more accurate means of measure through a protogate. below i attached the data table used for this procedure, as well as our graph. we were able to create a mathematical model for this experiment.
+
+
+our model allowed for an r value of 0.5062, creating a mathematical model of 0.142. the correct theoretical equation for the period of of a pendulum is as followed is 
+we are able to substitute the value of 3.14.. in for pi, and we may also substitute 980 in for g. our desired value for the theoretical equation would come out close to 0.5.  in other words this theoretical equation comes out to be is  $y=0.14142135623731$  which is 0.141 this allows us to conclude that our mathematical value is supported by the theoretical value.
+
+	in this lab we did have random errors, due to measurement uncertainties. these random errors came into play during the measurement of the bobs mass, the angle of release, and the length of the string. these errors may be reduced by using tools of more accurate measure. an example of this would be using a photogate to determine the period rather than manually doing it ourselves. 
+
+	it is also important to note that there is one important constraint of this lab. we made a physical constraint on the release angle, only allowing it to be no greater than 30 degrees. in this experiment the fact that we constricted ourselves to small swings only allows us to apply our findings to pendulums with small swings.

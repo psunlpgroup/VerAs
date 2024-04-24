@@ -1,0 +1,19 @@
+discussion and conclusion 
+
+
+
+the effect of mass on the length of period presented no relationship between the mass of a pendulum and the period of the simple pendulum.  examination of the data collected during the experimental procedure of the three-day laboratory course confirms the mathematical model for the period of a pendulum. the mass vs. period data produces no liner or direct relationship between the two variables. the standard deviation of the data collected was .045704 seconds calculated using a ten-trial control experiment. this deviation is represented by the error bars present on the graph. the error bars indicate that with a higher level of certainty the data should have presented a horizontal line with zero slope. indicating there is no direct relationship between the variables.  
+
+ the noticeable differences in mass vs. period data could have been caused by systemic errors of improper procedure by not verifying actual weight of each 20-gram plate added to the pendulum. the stopwatch used for the experiment was not calibrated so there is uncertainty within the presented data points. there also could be random error as each trial was not conducted by the same two researchers meaning reaction times for stopping and starting the stopwatch. the data cannot be used to make a definitive answer due to uncertainty but the mathematical model of a simple pendulum,  can verify the lack of a relationship. 
+
+
+
+the angle of release and the period of a pendulum offered a comparable relationship to that of mass and period length. researchers believed that there would be a direct effect from angle of release and period of a pendulum but upon review of collected data, a direct relationship is lacking. the error bars represent a standard deviation of .04507 which was calculated using a ten-trial control experiment. the error bars show a lack of relationship between the angle of release and period of a pendulum. the data could be skewed towards an appearance of a relationship by random error of measurement of the angles using a plastic protractor. the angles may not have represented the true value by either being higher or lower than the intended measured angle. 
+
+the length of string is the only variable examined that affected the overall period of a simple pendulum. the data was examined under a standard error of. oo1 seconds due to the use of photogate and pasco software. this is the reason no error bars are presented within the graphed data. the data was then described by a power law through excel giving us the best power-law fit line. the r² values was 99.49 percent indicating a reasonably strong regression line with minimal variability. the power-law equation presented by our data was is   .   this is drastically different from the theoretical equation of  .  the discrepancies in power and leading term are most likely caused by precision errors in measurement in angle of release and length of the pendulum. such errors would be represented in the final equations. the most likely of the two would be improper measuring by researchers of string before applying the pendulum. trying to measure to the middle of the mass of the pendulum is difficult and produces numerous errors. reduction in random error should present more certain data in the future with the experiment. 
+
+
+
+
+
+success! your submission appears on this page. the submission confirmation number is 0fda3140-dfa8-4b20-b9eb-f4102a2f1bea. copy and save this number as proof of your submission. view all of your submission receipts in my grades.

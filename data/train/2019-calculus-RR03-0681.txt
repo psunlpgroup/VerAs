@@ -1,0 +1,15 @@
+discussion and conclusion: 
+
+these three experiments were all conducted by using the same research question of what effects the period of a pendulum. 
+
+the first variable that was tested was how the mass added to the bob would affect the period of the pendulum.  our hypothesis was that the mass would lengthen the period as more mass was added. this was found to be proven wrong by the graphs shown in lab two. the graphs show that the time barely changed and the errors bar overlap telling us that there can be no true conclusion that mass has any effect on the period of the pendulum. 
+
+the second variable that was tested was how the angle of release of the string would affect the period of the pendulum. our hypothesis was that the larger the angle the longer the period would become. this was found to be proven incorrect by the graphs from lab two where the points look like there could be a connection but once the error bars were added it showed that they overlapped and that there was no correlation between the angle of displacement and the period of the pendulum. 
+
+the third variable that was tested was how the length of the string would affect the period of the pendulum. our hypothesis was that the longer the string was would also make the period become longer as well. this was proven correct by the graphs from lab two and three. the points on the graphs clearly show a rise in time as the length increased as well as the error bars did not overlap meaning a conclusion could be made that the length does affect the period of the pendulum as long as the constants used are held. 
+
+the theoretical model for the period of the pendulum is given by $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. our mathematical model was $y =-5e^{-0.5} x^2 + 0.0183 x + 0.7282$. though the equations look completely different when tested with values they receive a similar answer. so our model does support the theoretical model that exists. 
+
+the random errors that effected our experiments were primarily the stopping of the stopwatch and the measuring of the release angle and length of string that was meant to be kept constant but could have been changed when different people released the pendulum. these errors were resolved by the third experiment as a photogate was added to count the pendulum instead of someone pressing a stopwatch, and the same person always released the pendulum. 
+
+	the major constraints of this experiment were what variable could be tested and how much mass and length of string could be adjusted. we were given a mass amount of mass and a set amount of string to adjust so everyone who did this experiment were likely gaining similar results causing their to be a generalized conclusion.

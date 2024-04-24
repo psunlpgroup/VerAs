@@ -1,0 +1,19 @@
+conclusion:
+
+
+
+the purpose of lab 05 was to show different relationships between mass, force, and acceleration in a real-world scenario, and to develop mathematical models to predict acceleration based on a change in either mass or force. the first experiment showed the relationship between the hanging mass and acceleration, while the second experiment showed the relationship between the mass on the cart and the acceleration.  the results from the graph of the first experiment, graph 1, would make sense since the more mass there is hanging at the end, the larger the force of gravity due to $f_g=m g$. the results from the graph of the second experiment, graph 2, would make sense that a higher mass would correlate with a slower acceleration, since $f = m a$ would suggest that if either mass or acceleration would increase, the other would decrease to keep a constant force.
+
+
+
+the purpose of lab 06 was to show how the established relationships in lab 05 can be changed by putting the track at an incline. the mathematical model followed the addition of the original acceleration found in lab 05 and the change in acceleration due to incline. it would make sense that the acceleration between the different inclines would move a vertical distance either upwards or downwards based on the increase or decrease in incline, as shown in graph 3.
+as shown in the above graphic, six teams’ equations for both experiments of lab 05 were listed out on the chalkboard. groups 2 and 3 had similar numbers while group 4 has a very large coefficient in the front but a more negative coefficient that is the power of the mass. one would suspect that the equations would be of the same shape and curvature, but would suit each individual group’s data the best.
+systematic error bars should be present in the graphs. this is because the possible random error is very small if not negligible, meaning that any possible error would result from the instrument that was used to measure the speeds and overall acceleration, which was the spinner linked to the computer. additionally, the velocities were recorded over a long period of time, meaning the slope, or the acceleration, can be adequately established in terms of numbers. the only way to account for the error is to recognize the magnitude of the error and adjust all data accordingly.
+
+
+
+the only real constraint on the experiment was the lack of time. with more time, the group could have gathered more data points, yielding a better and more accurate result.
+
+
+
+the two derived mathematical models are consistent with n2l. the linear nature of graph 1 is consistent with how acceleration increases. velocity exponentially increases, but only at the given rate of the slope of graph 1. the curved nature of graph 2 is again consistent with n2l, this time because the slope $\frac{a}{m} =\frac{1}{f}$. 1/f yields a curved graph like that of graph 2.

@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+the purpose of the lab was to create mathematical models that describe the behavior of a real life system and to develop an understanding for all of the variables and numbers represented in the model.
+
+the first part of lab 05 had us move masses from the cart to the hanging mass which we conducted slightly differently, instead we just attached one bobber at a time increasing the mass each time as shown in table 1. the result of this takes the form of a positive slope as shown in figure 1 which makes sense because as the hanging mass increases in mass there is a stronger downward pulling force due to gravity. the second part of lab 05 had us add weights to the cart directly and have a constant hanging mass. as shown in table 2, the mass is added in increments and the acceleration was recorded. the result of this take the form of a negative slope as shown in figure 2 which makes sense because as the mass of the cart increases the force pulling down gets less and less effective at pulling the cart mass. lab 06 had us add little spacers under the ramp to increase the severity of its slope and then record trials of the same test in lab 05 part 1 where we redistribute the mass. as it is shown in table 3 every time a new spacer was added we recorded 3 acceleration value for different mass distributions. this is why the graph in figure 3 shows 3 different slope model that reflect the different trial and at different amounts of slant. the data clearly shows that when the slope is increased the acceleration is decreased due to the need to overcome the mass of the cart itself which only gets harder the more the slope increases.  
+
+
+
+
+
+
+
+these results are very similar to ours where their slopes have similar curves and similar values it seems that however while we increased the slope with each trial, they must have decreased the slope. this results in our graphs being inverse of each other as well as our models having negative coefficients while theirs have positive ones. it is interesting to see how it truly is an inverse relationship between the slope and the acceleration.
+
+the error was very minimal and if there was any is was either systematic from the sensor, or random from possible air resistance. it should also be noted that the cart was not on an entirely frictionless track.
+
+the small amount of trials is limiting the generalizability and also the fact that the r squared values are not perfect.
+
+the models are consistent with newtons second law because shown by the data and the models, the mass clearly has an inverse relationship with the force and acceleration, and they all have a great affect on each other.

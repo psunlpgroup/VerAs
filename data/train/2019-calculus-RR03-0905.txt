@@ -1,0 +1,29 @@
+discussion and conclusion
+
+
+
+research question: what impacts the period of a pendulum?
+from the experiment that tested for mass vs. period we have found that mass has no correlation with the period of a pendulum. we can prove this because after numerous trials we found that after every increase in weight there was a small time change. but given the error bars and the uncertainty of the photogate we have found that all values fall within the given threshold. therefore restating mass has no impact on the period of a pendulum. 
+from the experiment that tested for length vs period we have found that the length does in fact affect the time period of each swing. through many trials we have seen a linear relationship between the two variables with each point out of the error bar threshold. 
+from the experiment that tested for length vs period we have found that the angle has no relation with the time period of each swing. through our graphs each value was within the error bar threshold. we then concluded that the angle has no impact on the period.
+theoretical equation is  $y=1.41067359796659$
+
+
+
+mathematical model is  $y=1.35003498807067$
+
+ r2 is 0.9993
+
+
+
+the mathematical model produced from the lab data supports the theoretical model because both integers are similar values and the r value is .9993 which is very accurate.
+
+
+
+the error in any lab and it consists of two types, human error and systematic error. the human error during lab 1 would be a delay in reaction with the stopwatch on both start and stop. another source of human error would be measuring the string to the right length. some tape measures also have an uncertainty. the systematic error would be the timer having an uncertainty. these errors can be reduced by acquiring more precise technology and tools for the experiment.
+
+
+
+ 
+
+the main constraints within the experiment were the mass, length of string, and the preciseness of the technology used. these constraints limited the trails to only a certain range of values. we could not go beyond the constraints and test the trials therefore affecting the results. the constraint of precise technology affects the output values throwing off the final results. some of these can be accounted for, like error bars for the constraint of precise technology. constraints definitely have an effect on the results of any experiment.

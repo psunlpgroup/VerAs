@@ -1,0 +1,23 @@
+discussion and conclusion:
+
+
+
+	the mass of a system and force on a system proportionally and directly affects the rate of acceleration. this is proven in the graphs.
+
+	in graph one, it shows how if the mass of a system doesn’t change but the force acting on it does, so does the acceleration. this graph particularly proves a direct relationship between an increase in force versus acceleration (as force increases, so does the acceleration). the error bars in this experiment were so small they were negligible, as the r^2 value is one. the other teams had very similar results to ours and similar r^2 values.
+
+
+
+	the experimental mathematical model $a = c1 w + c2 $ supports the theoretical model $a =\frac{f}{m_{sys}}$  as when breaking these into their components, $c1 w + c2  =\frac{f}{m_{sys}}$ . no curve fitting was needed as the r^2 value equaled one.
+
+
+
+the experimental mathematical model $a = 2.87 x + 0.261$ x could very well reflect the enhanced theoretical equation $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$  as x can impact the results of a.
+
+
+
+random and systematic errors in this lab were easy to avoid. if any systematic errors were there, it would most likely be because of the scale used to weigh our system and weights. to reduce the error, the system could be weighed more than once and with other scales also.
+
+
+
+	major constraints in the system that might affect the generalizability of the results would be gravity, string mass, and air resistance. on the moon, this experiment may not work the same. the mass of the string could affect the system also if it is large enough. air resistance shouldn’t matter, but if wind was blowing then it would be another force acting on the system and the net force would change.

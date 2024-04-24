@@ -1,0 +1,3 @@
+discussion 
+
+in conclusion these experiments were conducted to test if the acceleration of a system is affected by changes in applied force.  the graph we created shows a direct correlation between the force applied to the system and acceleration. other groups in the lab also experienced the same results (see attached photos). all groups agreed on the same hypothesis and their data supported the claims. the theoretical models and experimental models are comparable but not identical. the acceleration of the theoretical model was 0.0525 m/s2  the acceleration for the experimental model was 0.0475. these differences could be due to the track not being completely level, air resistance, and other error in the experiment. 

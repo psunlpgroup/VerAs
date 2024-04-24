@@ -1,0 +1,7 @@
+discussion and conclusion 
+
+after we tested how acceleration is affected when the applied force is changed our hypothesis was confirmed as the force increased so did the acceleration. when we confirmed our results with other groups we had noticed we had a higher uncertainty average than any other group and that was due to a mistake in converting units. our hypothesis matched the findings in the other groups confirming our results as well.
+
+the theoretical model is $a=\frac{9.8-f_f}{0.174}$ and our experimental model was $a=0.1919 x+2e^{-05}$ the friction of the experimental model was so low that it may not play a role in the theoretical model.
+
+some errors that may be in effect would be knots in the string and an inaccurate measurement of length.

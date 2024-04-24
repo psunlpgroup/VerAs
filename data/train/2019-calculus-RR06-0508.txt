@@ -1,0 +1,22 @@
+discussion and conclusion:
+
+	a. we conducted lab 05 to find the relationship between acceleration of one object depending on what the mass of the object, and an additional hanging mass connected to the object are. we created a mathematical model that explains how a real system behaves. then, for lab 06, we tested to find which features that we can change will change our results for the mathematical model. we also conducted this lab to understand the numerical value for every variable we can change.
+
+	b. we conducted the three experiments to find which features affect the acceleration of an object. we conducted the first two experiments, and at first changing the mass of the mass hanging from the object, then we changed the mass of the object itself. as you can see from the graph, by changing the hanging mass (m2), it was a positive, and linear relationship between acceleration and m2, and then we got the slop and y-intercept to get the mathematical model of                                  which comes directly from the graph. after this, we found that acceleration is dependent on atleast the hanging mass.
+
+	experiment 2 was changing the mass of the object itself, by changing the mass of the object, we collected data and plotted it and we got the above graph, which looked like it had a decreasing slope as mass of 2 got higher which shows that the m1(mass of the object) also affects the acceleration of the object. the mathematical model for this was 
+
+	after completing experiment 3, we found that the as the amount of friction (number of strips) increased, the lower the acceleration of the object would be as you can see in the graph above, as we had 2 strips on the object, our slope was .0171 which is significantly less than the slope of .0184 of the object without any strips, considering the strips did not weigh a lot. this also showed us and made me understand that friction is also another feature that affects acceleration of an object.
+
+our r-squared values value for all graphs were all above .995 which shows that all our data fit the trendline almost perfectly
+
+these groups agreed with our results as their slopes also decreased with added strips to the side of the object. their r-squared values also were very close to 1 so that means that their data was also good to acknowledge. their hypothesis and conclusions also complemented ours.
+
+d. there could have been a systematic error of the software we used being consistently wrong in the acceleration every time. maybe the equipment connected to the computer was not very accurate. also, the masses could be wrong and a systematic error as they could not be exactly the weight they are claimed to be. a systematic error could be the hanging mass falling from the wheel a couple of trials without us recognizing that the mass has fallen off.
+
+to improve the results, we could use even more precise equipment to enable us to take out any error in the scenario, as well as using a purely frictionless environment as well to test just those factors, not any other forces acting on it.
+the acceleration due to gravity could change the mass dropped since the force would be lower, netting a lower acceleration in the x direction. however, since earth has a constant acceleration due to gravity, we could never test this, only theorize.
+
+we could not test air resistance as we did not know the value of it and air resistance could be a factor that will affect acceleration.
+
+f. our two mathematical models are consistent with newton’s second law because they are both affected by mass and change the acceleration based on the mass of either mass one or mass two.

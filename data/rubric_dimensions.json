@@ -1,0 +1,21 @@
+{
+    "1":{
+        "1": "Is able to restate the research question for reader clarity.",
+        "2": "Is able to describe how the experiment with hanging weight as the independent variable addressed the research question and what claim can be made. The acceleration vs. hanging weight graph and its error bars are referred to in the discussion.",
+        "3": "Is able to describe how the findings of a group different from the author's group either support or refute the author's group's results and conclusions.",
+        "4": "Is able to describe how the findings of a second group different from the author's group either support or refute the author's group's results and conclusions.",
+        "5": "Is able to provide the correct theoretical equation for the acceleration of a system by a single force and discuss how the experimental mathematical model supports, or does not support, the theoretical model.",
+        "6": "Is able to provide the correct enhanced theoretical equation for the acceleration of a system by more than one force and discuss how the experimental mathematical model supports, or does not support, the theoretical model.",
+        "7": "Is able to identify random errors and how they were reduced or could be reduced. (Systematic errors are included when applicable.)",
+        "8": "Is able to identify constraints within the experiment and discuss how these may affect the generalizability of the results."
+    },
+    "2":{
+        "1": "Is able to state the research question for reader clarity.",
+        "2": "Is able to describe how the experiment with mass as the independent variable addressed the research question and what claim can be made. The mass vs. period graph and error bars are referred to in the discussion.",
+        "3": "Is able to describe how the experiment with length as the independent variable addressed the research question and what claim can be made. The length vs. period graph and error bars are referred to in the discussion.",
+        "4": "Is able to describe how the experiment with angle of release as the independent variable addressed the research question and what claim can be made. The angle of release vs. period graph and error bars are referred to in the discussion.",
+        "5": "Is able to provide the correct theoretical equation for the period of a pendulum and discuss how the mathematical model produced from the lab data supports, or does not support, the theoretical model.",
+        "6": "Is able to identify random errors and how they were reduced or could be reduced. (Systematic errors are included when applicable.)",
+        "7": "Is able to identify constraints within the experiment and discuss how these may affect the generalizability of the results."
+    }
+}

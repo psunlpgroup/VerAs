@@ -1,0 +1,18 @@
+discussion and conclusion.
+
+how does the acceleration change when certain factors including mass of the system, mass of the hanging mass, and friction on the cart are altered and changed?
+
+the first experiment we conducted included changing the weight of the hanging mass while keeping the mass of the system and friction the same. we predicted that there would be a positive correlation between the mass of the bob and the acceleration of the system. when we conducted the experiment, we found our prediction to be correct and that there is indeed a positive correlation as seen in the graph of our first test. for the second test conducted included adding mass to the system while keeping the hanging mass and friction constant. we predicted that we would find a negative correlation between the mass of the system and the acceleration. what we found was that it was a negative power function as seen in our graph. for the last test we changed the friction experienced by the cart by applying magnets to the top middle and bottom of the cart. we predicted that the lower on the cart the magnets were the higher the acceleration will be. when we tested this we found that just to be the opposite and that the lower the magnets were the lower the acceleration was.
+
+
+ these results agree with out findings about how acceleration changes when the friction force is changed
+
+the computer equipment could have a systematic error that skewed our data, the place we put the magnets could have not affected the friction at all from the last test. to fix the magnets you could indicate a certain spot on the cart on where to place them so there is less of a chance for random error
+
+the string connecting the cart was only so long and the cart itself could only fit so many bobbers on it so if the string connecting the hanging mass to the cart was longer and the cart could hold mass easier we could get a more accurate model
+
+i honestly have no idea how they are connected to newton’s second law
+
+
+
+correct grammar usage and properly cited references, if applicable. it is important to proofread your writing and to correct mistakes in spelling, grammar, and punctuation. use the apa style to handle references.

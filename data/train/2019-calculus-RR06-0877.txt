@@ -1,0 +1,24 @@
+discussion and conclusion:
+
+	the purpose of this lab was to develop a mathematical model and find out what other factors may affect the numerical values of the real system
+
+	the first experiment was to test if the mass of the system remained constant and the mass was shifted from the cart to the hanging end. this proved there was a linear relationship between the force of the system and the speed of the system from graph 1 as well as graphs 3-5. graphs 3-5 show that as you increase the friction as well this will affect the y-intercept of the system as there is more friction for the cart to overcome and will require more force to move the same amount of distance across the track. 
+
+	the second experiment showed that if the mass remained consistent on the end of the string and the mass of just the cart changed there was loosely positive relationship in that more mass on the cart required more time required to make it to the end of the track.
+
+	other groups work from 6
+
+	
+
+	their hypothesis was that the tilt would not affect the coefficients in the mathematical model found in experiment 5. this helps the understanding of the experiment because, the problem can be viewed from another angle and eliminate one potential variable that can effect the system.
+
+
+
+	the hypothesis presented by this group is the more magnets added will change the acceleration and they found similarly that it changed the y-intercept of the system.
+
+
+	one constraint is the system was not entirely frictionless in the beginning as there would be a small amount of drag produced by the cart moving through the air streams
+
+	another constraint is the tension. although the tensions would cancel out in the calculations, they would still have an impact on the system.
+
+	the first experiment is consistent with newtons second law because there was a direct relation ship between the weight(force) and the acceleration. when the mass was consistent and the force was increased the acceleration had to increase to match the force.

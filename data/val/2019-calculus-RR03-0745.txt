@@ -1,0 +1,17 @@
+conclusion:
+
+the question that was addressed in this experiment was: “what impacts the period of a pendulum?”
+
+all three of the originally tested experiments addressed this question because they changed one of the independent variables (mass, length of string, and angle of release) at a time while holding everything else constant to see if that specific variable would cause a change in the period length.
+
+our group originally claimed that mass and angle of release had no effect on the period of the pendulum and that the length of string had a positive linear relationship with the period. however, after performing the last experiment with less error, we discovered that a positive power relationship is actually the best fit for period length vs. length of string due to a higher r-squared value.
+
+using excel, and the power curve fitting for the last experiment described above, we found the equation relating period length and length of string to be $t=0.3383 l^{0.4845}$. our data fits this model very well since the r-squared value is .9987, indicating a strong relationship. if the values in our data table are used in this equation, the output would be very similar if not identical. for the other two graphs, period length vs. mass and period length vs. angle of release, no accurate theoretical model could be concluded since there was no strong relationship able to be seen based on the data. if these two graphs were zoomed out, it would be clearer that the slope is flat and that there is no significant relationship between the variables. the graph with the theoretical model is different than the others because it has a strong correlation between consecutive points while the other two don’t seem to follow any pattern or curve.
+
+in the first part of the experiment there was random error associated with hand timing the period as sometimes we would stop the stopwatch to soon or too late or start the stopwatch differently. also, due to the difficulty using a small protractor, there was random error associated with the angle of release since a completely accurate measurement couldn’t be achieved every time. the timing error was originally addressed by finding the standard deviation of hand timing error and using that to produce error bars, however, the last experiment utilized a photogate to eliminate human timing error and produce a very precise reading. to reduce error in the future, a larger protractor or more precise angle measuring tool could be used.
+
+constraints in our experiment that may limit the generalizability of our findings may include the fact that we only did measurements for short lengths. to get a better idea how the graph would follow the fit, we would most likely want to get measurements at more extreme lengths to make sure the graph doesn’t follow a linear curve. also, since we didn’t use the photogate for the variables we didn’t think affected the period length, we can’t be completely certain that these variables don’t affect the period length as well.
+
+ 
+
+based on the results of two other groups, our conclusion that there is a positive power relationship between period length and length of string is supported. the two other groups had procedures that were similar to ours and their results were similar as well.

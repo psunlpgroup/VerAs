@@ -1,0 +1,26 @@
+discussion and conclusion:
+
+	the purpose of lab 05 was to determine a mathematical model to describe the relationship between mass of the system versus the mass of a hanging mass. lab 06 was intended to also develop an understanding and mathematical model of other factors that may influence the acceleration of the system.
+
+	the three experiments (two from lab 05 and one from lab 06) led us to the results of the following mathematical models is 
+
+	lab 05-hanging mass is  $y=0.0282 x - 0.011$
+
+	lab 05- mass of cart is  $y=18.288 x - 0.849$
+
+	lab 06 – inches of tilt is  $y = 0.2863 x+0.07025$ (average of all three graphs)
+
+	for the hanging mass and the inches of tilt, we determined that it was a linear relationship between the acceleration of system and the mass of the hanging mass or height of tilt. this is true because the more of either independent variable, the faster the car accelerated.  for the mass of the cart, we determined that the more mass added to the cart, the more friction there was making the acceleration of the cart slower. this is a power function. the more the mass there was, the slower the acceleration was. 
+
+	y is equal to acceleration of the system and x is equal to the mass or tilt of the independent variable. the y-intercept is where the cart starts but is not needed due to its value being so small.
+
+
+		group 1 tested how friction affects the acceleration of the system and group 1 and 2 from another lab tested how much a magnetic force affects the acceleration of the system. group 1 determined that friction does not affect the acceleration of the system.  the larger the magnetic force there was  the normal force and the friction force increased on the cart, decreasing the acceleration of the system. 
+
+		therefore, proving that our mathematical models are only influence by mass and the force being applied to cart. $a = \frac{f}{m}$ . the larger the force, the smaller the acceleration. the larger the mass, the smaller acceleration as well. 
+
+	
+we only had one random error, which was during the first experiment of lab 05, our data collection software was not working correctly, and we had to use another program. the systematic errors include is  the time delay between when the button was pressed on the air track and the time the button on the computer was pressed to collect data. we can reduce this systematic error by having the same person, at the same time press both buttons. there may still be a time delay, but it will be much less than having two people press different buttons at different times. these errors prevented our r^2 values from being one, they were already between 0.9993-0.9999, which are extremely close to the value of one. once means that the graphs are perfect fits for the data points and the conclusions. 
+
+there are no constraints that we can think of for this lab. even if this experiment was done on a larger scale outside the lab room, the same data points would occur. we are testing mass on a car, mass of a hanging mass, and the tilt of the track. all which can be tested in a large scale with the same results due to having the same factors that influence the acceleration of the system. 
+our two experimental mathematical models are consistent with newton’s second law( sum of the $f =m a$) because the more mass you added to a system, the large force you get. also, the larger force divided by a larger mass equals a smaller acceleration. (look at lab 05- mass of cart to confirm any doubts)

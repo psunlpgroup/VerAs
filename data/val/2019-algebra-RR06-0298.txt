@@ -1,0 +1,13 @@
+discussion and conclusion
+
+	in this experiment we were looking to see how incline affects the acceleration of a system. we can see you got the hanging weight affects the acceleration. the heavier the hanging weight, or the more bobbers at the end of the string the faster the cart accelerated. the air bars in this graph we’re too small to be seen. 
+
+another group found that the acceleration decreases as the incline increases. this does not support our claim that the acceleration increases as the incline increases. it is possible that this group obtained these results because their coefficient for force applied was less consistent throughout their trials. which would show us that there could be factors not being controlled accurately. 
+
+a second group claims that the y-intercept changes as the friction changes. they also saw changes in the coefficient of force applied. this data is hard to analyze since it is unclear if the mass of system stayed the same throughout the trials. we can deduce that a higher force of friction will slow the acceleration because it is a force that acts in the opposite direction of the motion. i think their mathematical model supports this claim.
+
+when there is a heavy string connecting the hanging weight with the cart acceleration will increase. we know this because this is what our data shows. this makes sense because if you have a heavy string helping to pull the cart down the ramp it would speed up the acceleration.
+
+some random errors we could have come across could be that the online program used to measure the acceleration could have been faulty, causing us to get an accurate data. a systematic air we could have tell with is that they have in accurately measured either the weight of the car, the bobbers or the incline height.
+
+one of the main constraints would be that we only had so much time to perform this experiment. another constraint in this lab is that we are not able to control how each group decides to measure the weights of objects, how they perform the calculations and their experiment. this would affect the generalizability because it could cause all of our data to be different from group to group.

@@ -1,0 +1,59 @@
+discussion
+
+the purpose of this experiment was to determine the relationship between applied force 
+
+and acceleration and determine if newton’s second law is valid in this scenario. in this experiment, we wanted to research how changing the weight of the hanging mass on a cart would affect the force applied to the system, in turn affecting the acceleration. this was done by changing the hanging mass on the car on an airtrack in order to change the applied force. by 
+
+changing the hanging mass, the force of gravity on the system is changed ($f=m g$). 
+
+the mass of the whole system stayed constant throughout the experiment, helping to keep all 
+
+other variables controlled. our resulting mathematical model was $a=4.8734 f+0.0198$ which 
+
+shows how acceleration can be solved for when given the applied force. this is also shown in 
+
+figure 1 which represents the accelerations for different given applied forces. the trend shown is 
+
+very linear with an r2 value of .9986 which means that the data fits the linear trend very well. 
+
+this shows that there is a direct relationship between acceleration and applied force. as one is 
+
+increased, the other will also be increased in a linear fashion. the error bars present on the graph 
+
+were too small to be seen. the values used for the error bars corresponded with the uncertainties 
+
+given for each data point. each of these values was doubled in order to give a 95% confidence in 
+
+the data. the mathematical models shown for these two groups were $a=4.4681 f+0.0076$ and 
+
+$a=4.8214 f+0.002$. both of these sets of data support our claim that applied force affects 
+
+acceleration in a linear fashion. they are not exact to ours which could have been due to 
+
+different users performing the experiment as well as different airtrack machines being used.
+
+the theoretical model for this experiment is $a=5.90 f+c2$ which is close to the calculated 
+
+mathematical model from our data. there is a slight variation between the two models which 
+
+could have been due to a couple of experimental errors. 
+
+in the experimental model, the mass of the system shows up in the mathematical 
+
+model in the slope. the theoretical slope is (f hanging/total mass). using the slope that the 
+
+equation shows, 4.8734, the theoretical mass of the system would be 205g, calculated by setting 
+
+4.8734 is 1/total mass. the actual mass used was 170g. this is pretty close to the expected value, 
+
+but it differs slightly due to the potential errors discussed above.
+
+the non-massless string used could have also affected the uniform acceleration of the cart. this is because as more of the string is pulled over the pulley, a larger hanging mass is present which affects the applied force, due to the force of gravity pulling on a larger mass.
+
+one of the errors involved in the system includes the other forces present in the 
+
+experimental context. there was friction from the string on the pulley of the system and air resistance from the moving cart. both of these will affect the total acceleration of the system. another error could have involved improper calibration. both the airtrack sensor or the balance to weigh the system mass could have been improperly giving values due to be1ing uncalibrated. 
+
+	one constraint to this experiment that could limit the generalizability of our results includes the airtrack machine. this makes it so that a very negligible amount of friction is present, which will not typically be the case in other scenarios. it is also likely that the string used was much more lightweight than other cases may be. if this string was much lighter, it contributed less to the hanging mass than it perhaps would have in a more generalized situation.
+
+

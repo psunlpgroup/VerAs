@@ -1,0 +1,33 @@
+discussion and conclusion
+
+what factors impact the period of a pendulum for small swings?
+
+
+
+the first experiment compared the mass with respect to the time. with the mass of the pendulum (in grams) being the independent variable and the time (in seconds) being the dependent variable. our prediction was “the number of periods of a pendulum will increase as mass decreases”. upon running the experiment, we observed that the weight had no effect on the time. on our graph the time stayed constant throughout the trials, even though we were adding weight. we observed no error in the first experiment. this only confirmed that our prediction incorrect.
+
+
+
+the second experiment compared the release with respect to the time. with the release angle being the independent variable and the time (in second) being the dependent variable. our prediction was “the larger the angle the longer the period will be”. upon running the experiment and graphing the data, we observed that the release angle had a positive correlation with respect to time. but this data was not perfect because it did have some error bars with it. this is because there was a bit of random error when recording our data. when we recorded our data, we were not able to start and stop the stop watch perfectly. in class we also observed that when the release angle was anything less than 25 degrees then, there was an extremely low impact on the time. when we graphed the data, we only observed the angle 20 degrees and nothing less so we could not observe the change at 25 degrees. since the error bars in our graph didn’t cross all the time proves that our prediction was indeed correct but was still incorrect about the angles less than 25 degrees.
+
+
+
+the third experiment compared the length (in meters) of the string connected to the pendulum with respect to the time (in seconds). with the length of the string being the independent variable and the time being the dependent variable. our prediction was “the longer the length of the string the longer the period will be”. upon running the experiment and graphing the data, we observed that the length of string and the had a clear positive correlation. this observation was later confirmed when we used the photogate sensor in lab 04. by using the photogate sensors, we eliminated the random error of starting and stopping the stopwatch. when the data was plotted in excel, we noticed that there was a power curve trend in our data. by plotting this data set in excel, we only proved our predictions correct.
+
+
+
+
+
+in lab 04 when we used the photogate sensors, we were able to obtain a power curve trend. when we graphed this in excel, we obtained the equation $t = 2.1034 l^{0.439}$. the theoretical formula for the period of a pendulum is $t = 2.01 l^{0.5}$ which is extremely close to what our numbers were for the calculation. this statement was only proven true by our r^2 value being .9978. the theoretical for a perfect fit line is an r^2 value of 1.
+
+
+
+though the testing done in these four labs it has become evident that the mass and a release angle less than 25 degrees are the only thing that does not affect the time of the period of the pendulum. also, it can safely be assumed that the length of the string and an angle greater than 25 degrees do produce a positive slope when it is taken with respect to time. if you do take measurements with release angles of less than 25 degrees, then you will get a consistent time that can be related to the theoretical formula. since the only variable changing now is the length of the string, you can safely relate it to the theoretical formula.
+
+
+
+random experimental error was observed throughout most of the experiment. one random error that was present was random human error because we cannot always start and stop a timer exactly on time because the human has delayed reactions that are random. one way we could have reduced this error is by having everyone in the group take a measurement and then take an average so that we can be closer to the actual value. another way we could reduce this random error is by using photogates to start and stop the timers. another random error is when we had to measure the angle with the protractor. the protractor was a good tool for when we were using a small length of string but as the lengths got longer it became harder to get a consistent angle measurement. one way we could fix this is by getting a digital protractor that tells you the angle you are at on a screen.
+
+
+
+one constraint that we had was the amount of weight that we could use on our pendulum. even though, we proved that weight was not a factor in any way, it would have helped to have more weight to help prove that we were correct another constraint that we had was the length of the string. our length of string only stretches out to be 0.6 meters at max length. this was also no a huge deal but would have been nice to give our data set a wider range of values to help prove our point.

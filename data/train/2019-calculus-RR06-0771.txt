@@ -1,0 +1,20 @@
+conclusion 
+because of how small the times were (hundredths of a second), it was sometimes 
+
+difficult to distinguish between human (potentially systematic) error and an actual 
+
+trend. there are certainly some outliers to the data points on our graphs. for 
+
+example, the average period for a 90 degree angle was higher than expected for 
+
+there to be no trend between angle and period. additionally, the 70 gram mass 
+
+seemed to produce a higher period than expected. contrastingly, a string length 
+
+of 20 inches created a lower period than expected in the linear relationship we 
+
+ discovered. once again, these odd data points may be attributed to error both 
+
+ we agree with student two because conditions such as air resistance would slow the pendulum with each swing such that the time changes for one period. 
+
+we think that the best option is a-- reducing random error by taking more measurements. we think this because it does not seem to be systematic error (because the values seem to increase and decrease randomly rather than due to some technical error in the scale. additionally, if random error is causing the variation, more data helps to find the true value.

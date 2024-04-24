@@ -1,0 +1,10 @@
+conclusion:
+the research question was what factors, if any, affect the period of a pendulum.  the variables tested were mass of the ball, angle of release and length of the pendulum itself. to test for each variable we kept all other variables constant.  we suspected a positive relationship with all independent variables on the dependent variable.  the hypothesis was rejected for the mass of the ball, which had a r^2 value of .0838 and the margins of error were not in overlap.  the hypothesis was not rejected for the angle of release, which took more extreme values to notice the effect.  the mathematical model that fits the length of string to time period is is  $t=0.3266 l^{0.4953}$.  the length of the string had an r^2 value of 1 when plotted on a power curve, a perfect relationship withstanding after many trials.  this stands for conditions under a constant mass of 250 degrees and angle of release of 25 degrees. 
+
+
+
+a testing and recalibration of all measurement devices could assure for possibly less systematic error.  most error would have been random error in measuring technique and inconsistency, taking many trails and averaging them out helps account for this random error.  other variables like humidity in the room and wind resistance were not accounted for and could be in the future to reduce interference in the consistency of results.
+
+
+
+the results of our experiments were produced under the specific domain of our controlled and test variables, be they the mass of the ball, angle of release, shape of the bob, type of elasticity of string, etc.  they cannot speak for results outside of their specified perimeters.

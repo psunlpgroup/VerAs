@@ -1,0 +1,25 @@
+conclusion:
+what impacts the period of a pendulum for small swings?
+
+
+after performing all three experiments and carefully analyzing the data yielded by these three experiments, it is safe to draw conclusions about the relationship between the dependent variable and each of the independent variables.
+
+the experiment studying mass vs. period length answered the research question by holding any other variable that could affect period length constant and varying only the mass so that any change in the period length would be directly caused by the mass change. based on the data, it can be claimed that mass does not affect period length in anyway. since the error bars for the mass vs. period length overlap graph, it can be reasonably claimed that the period length did not change at all throughout the trials. 
+
+the experiment studying angle release vs. period length answered the research question by holding any other variable that could affect period length constant and varying only the angle so that any change in the period length would be directly caused by the angle change. based on the data, it can be claimed that angle release does not affect period length in any way. since the error bars for the angle vs. period length graph overlap, it can be reasonably claimed that the period length did not change at all throughout the trials.
+
+the experiment studying pendulum length vs. period length answered the research question by holding any other variable that could affect period length constant and varying only the pendulum length so that any change in the period length would be directly caused by the pendulum length change. based on the data, it can be claimed that the pendulum length directly affects the pendulum length. since the error bars for the pendulum length vs. period length graph do not overlap, it shows that there was a change in period length for each trial. 
+
+the equation for the period of a pendulum as calculated through experimental data is 
+
+$y=0.2077 x^{0.4919}$
+
+this supports the theoretical model between pendulum length and the period length because the equation above yields an r value of 0.9999, indicating a very high positive correlation between the two variables. these findings were similar to lab group 2’s data, as their final equation yielded is 
+
+$y=2.0847 x^{0.4541}$
+
+this equation had a correlation of 0.9998. the data points were very similar in value, and reinforced our findings and results. 
+
+throughout the series of experiments, random error had an influence on the data collected, as it does to some extent on every experiment conducted. one random error source is the stopwatch used to measure time not starting or stopping when pressed to. this error can be eliminated by testing stopwatches until one is found that stops exactly when the stop button is pressed and starts exactly when the start button is pressed (not using old or faulty stopwatches). another source of random error is not catching or releasing the pendulum exactly when it is supposed to. this source of random error can be eliminated by practicing releasing the pendulum and starting the stopwatch when a team member says “go” to start the trail, or practicing catching the pendulum and stopping the stopwatch exactly when 5 trials have finished (when a team member says “stop”). one final source of random error is sometimes not releasing the pendulum at the correct angle because of inaccurate measurement; to eliminate this, the angle measured prior to the trial (of the pendulum) can be confirmed to be accurate by having at least three other people confirm accuracy. there was also scope in the experiment for systematic error; if the stopwatch was a few milliseconds fast or slow, or if the protractor was incorrectly made by the manufacturer, the results would be consistently wrong. however, after cross-referencing with other lab groups, our data seemed to be accurate; furthermore, the chance of systematic error being present from these sources seemed unlikely. 
+
+throughout the series of experiments, there were some constraints which restricted the generatability of the experimental results. one constraint is that due to the height of the lab table and length of string provided, the correlation between pendulum length and period length could not be tested more extensively to reinforce accuracy with large pendulum lengths. another constraint  is that the string was the only material that could be used to create the pendulum and test its influences; mass, angle, and pendulum length could not be tested on a pendulum made of different materials, such as wire, or cloth.

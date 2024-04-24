@@ -1,0 +1,16 @@
+discussion and conclusion.
+
+the purpose of lab 05 was to help develop mathematical models for the acceleration of systems with different variables. lab 06 was used to find the significance of the numerical values that we found in lab 05
+
+by putting our data together in a excel spreadsheet we were able to then create our mathematical models based off these graphs and the lines to best fit they created. these models showed how different our data was to each other creating a somewhat similar slopes shows the data is consistent or different starting points shows how far the data is away and other things like that
+
+the data of group 2 helps us understand that our data is correct because there results ended up being very similar to ours resulting in us being able to come to the conclusion as the angle/height of the ramp increases the velocity and acceleration decrease. the friction/magnet test showed the same results as the different angle/heights test as the more magnets were place the slower the velocity and acceleration.
+
+in these labs there could be some random error do to the string having inconsistent friction causing small changes to the acceleration. also, the bobbers being put on both the string and cart in random ways could cause some differences on how the car pulled. to reduce this we could have gotten a system to put the bobber and also getting a brand new identical string every single time to test each other 
+
+some constraints in this experiment were the classroom setting and also not completely knowing of the track was frictionless would also be a big factor in finding out how constrained we were in the experiment limiting how generalized these results could be.
+
+our mathematical models are consistent with newtons second law because as the masses change in both the labs it does cause the acceleration to change in both increasing and decreasing causing the forces to be relatively the same through every trial which follows newton’s second law fully.
+
+correct grammar usage and properly cited references, if applicable. it is important to proofread your writing and to correct mistakes in spelling, grammar, and punctuation. use the apa style to handle references.
+

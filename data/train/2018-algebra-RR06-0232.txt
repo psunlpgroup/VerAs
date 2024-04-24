@@ -1,0 +1,37 @@
+conclusion
+
+i began this experiment by asking, “how does the acceleration of a system change when the applied force changes?”, and now that i have planned experiments, carried them out, and collected the data to be analyzed, it is time to conclude in regard to this question. 
+
+in these experiments my lab partners and i examined the effect off one independent variable upon the acceleration of a system. my group and i predicted that increasing the hanging weight (iv) would result in an increase of the system’s acceleration. according to our results in graph 1 above, our prediction is presumably accurate. the graph of our data shows a positive, linear relationship between applied force (hanging mass) and acceleration. our graph contains error bars that are very small and do not overlap, this supports any conclusions we can draw from the data. our correlation coefficient also seems to imply some sort of relationship between the iv and dv. it is reasonable to confirm our hypothesis and make the claim that there is in fact a relationship between hanging weight and acceleration of a system.  
+
+	a separate group called the uncertainties collected data that closely represents our own data. their graph showed a positive linear relationship between hanging mass and acceleration. they obtained a mathematical model of $y=4.297 x + 0.101$ which is very similar to our model, $y=4.346 x-0.1698$ . a third group, sato, collected similar data. they also had the same trendline and a reasonably close mathematical model. because both of the external groups we collaborated with had results that matched our prediction, we are confident in assuming that they support the validity of our own results.
+
+	the theoretical equation for the acceleration of a system by a single force is as follows is  $a=\frac{f}{m}$ 
+
+a being acceleration, f being force applied, and m being the mass of the system. 
+
+the mathematical model that we came up with does reflect this theoretical model.  
+
+$y=4.346 x-0.1698$
+
+4.346 is equal to 1/total mass of the system (msys)
+
+force is equal to the hanging force (fh)
+
+y is equal to the force unknown (fu )/ total mass of the system
+
+$a=\frac{f_h+f_u}{m_{sys}}$
+
+	the enhanced theoretical equation to determine acceleration caused by multiple forces is 
+
+$f=m a$, which when modified to solve for a is $a=\frac{f}{m}$. 
+
+the special character here is a sigma, which symbolizes the sum of all forces acting upon an object. 	the equation we provided does not account for all forces acting upon our system. it excludes the force due to gravity, the normal force, air resistance, elevation, and friction that may be due to the track not being perfectly frictionless. because our model does not include a  of the forces acting upon our system, it cannot support the theoretical model above. if a heavy string were used in place of the string we used, the total acceleration of the system would change. this is because you are altering the mass of the system. if you refer to the equation above that includes f, m, and a you can see that changing m while keeping f constant will have an effect on the a. 
+
+$a= \rac{f}{m}$
+
+if you were to increase the mass, the acceleration would decrease because the proportion between f and m would decrease. 
+
+	the major error we experienced in this experiment was the one associated with our fourth data point. there was random error in our use of the data studio for this trial. we did not think this was an error during the lab because we assumed that equal masses between the car and hanging weight would prompt a constant velocity and an acceleration of 0. this was an incorrect assumption and lead our graph and best fit line to be a bit off of what they should be. another random error that might’ve occurred is that we could’ve released the car from different points both above and below the theoretical starting line. this would lead to slightly varied values in out acceleration. a systemic error that might have occurred is that the balance might have been calibrated wrong which could’ve lead to incorrect calculations. incorrect measurements of velocity in data studio could’ve also contributed to any unwanted variances of our results. 
+
+	one constraint we experienced during this experiment was time. my lab group is very slow, thorough, but slow when completing experiments. so, when it came time to examine our data, we were out of time to make any changes or even interpretations as a group. i think that being able to discuss an experiment with your peers in important to having an in depth understanding of the material you’re covering. if we would’ve had more time, or if we had moved along quicker in lab 05, we might’ve been able to catch the error caused by not using the data studio correctly, and then we would’ve been able to repeat that trial with correct methodology, and our data would not be skewed. this definitely affects the generatability of our results, because our results include a glaring error that makes them ungeneralizable. this would hopefully be avoided by other groups repeating our experiment.

@@ -1,0 +1,15 @@
+discussion and conclusion
+
+
+
+the research question that was investigated was what factors impact the period of a pendulum?
+
+the three experiments performed helped address the research question because they all acted in different ways when discovering their impact on the period of a pendulum. it was slightly difficult to recognize a noticeable difference, but when looking at the data there was difference when looking at the theoretical mathematical model.  in the instance of angle and weight, these two factors did not influence the period of a pendulum. the length did have a positive, upward slope effect on the pendulum’s period. as the pendulum’s period increases, so does the length.
+
+the theoretical mathematic model for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. with this mathematical model, the data fits this because when looking at the r2 values in the graphs, the graphs for angle and mass had linear values that were the highest. when looking at the length’s power curve, the power value was higher than the rest. this is because both mass and angle do not affect a pendulum’s period while length does affect period.
+
+some systematic errors that were present were errors in counting and measuring the period of the pendulum by hand. it was difficult to start and stop the watch at the same time, and the error kept happening in the same way over the course of the experiment. also, another error was measuring the length of the string with the weight. for example, the string was measured above the weight and should have been measured at the weight. this would be a difference of about 8 cm that is a systematic error. a random error that was present was a period measured far away from other period measurements. this goes back to the systematic error approach in measuring the period, except there is a larger error and it is a random outlier. some implementations to decrease errors could be to add an apparatus (like a photo gate) to accurately measure periods. also, analyzing equipment to make sure that it is stable and in working condition.
+
+some constraints in the experiment that may limit the generalizability of the results could have been a time constraint and several trials performed. if more tests were performed, there would be less constraints as there would be more data to back up the results. additionally, there could have been more variety or more extreme numbers, for example have the angle steeper and determine if increasing the angle by a substantial amount would change anything.
+
+

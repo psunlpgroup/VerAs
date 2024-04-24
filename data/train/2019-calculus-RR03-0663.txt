@@ -1,0 +1,87 @@
+discussion and conclusion:
+
+the research question being investigated here is what factors affect the time period of a pendulum for small swings. the factors investigated are the angle of release, the mass of the pendulum and the length of the pendulum.
+
+
+
+lab 1 is 
+
+in lab 1, we performed three experiments to find the relation between the time period and three factors, which are mainly angle of release, mass of pendulum and the length of the pendulum. in these experiments, we use very crude techniques to give us an idea of the relation between these factors.
+
+
+
+in experiment 1, we test the angle of release when angle is less than 30 degrees. from the graph labelled 1.1, we see that angle of release has no effect on the period of the pendulum since the plot shows no correlation between the two variables.
+
+
+
+in experiment 2, we test the mass of the pendulum and determine its effect on the period. from the graph 1.2, we see that mass also has no effect on the period of the pendulum as the plots show no correlation.
+
+
+
+in experiment 3, we test the length of the pendulum and investigate its effect on the period of the pendulum. we find that length and period have a positive relation between them as seen from the graph 1.3 it seems like the relation is almost linear.
+
+
+
+lab 2 is 
+
+in this lab, we find the range of error for our observations in the previous lab. the method used to find the uncertainty is given above. the standard deviation is 0.0639 and the range of uncertainty is twice of that, which is 0.1278.
+
+this range was added in the graphs later and we can notice it in graphs 1.1, 1.2, 1.3.
+
+
+
+in graph 1.1, we see that the although there seems to be no correlation, the range of error makes us doubt our conclusion. but since the error is not too large, it is still safe to say that time period is not affected by the angle of release as long as it is under 30 degrees.
+
+
+
+similarly, in graph 1.2 we see that the time period is unaffected by the mass of the pendulum. but we cannot be completely sure due the error range. since the range is not too bug, it is still reasonable to assume that mass and period are unrelated.
+
+
+
+in graph 1.3, we see that the error range of first two points interfere with each other but that is not the case with the second and the third point. hence, we see that there is a positive correlation between them although we still need to determine the exact nature of this relation.
+
+
+
+
+
+
+
+
+
+lab 3 is 
+
+in this lab, we use a photogate to decrease the range of error. the only variable tested in this lab is the length of the pendulum. the error is reduced to 0.001s using this technique. as we see in graph 2.1, the error bars are so small that they are not visible. also, from the points, we see that the correlation is not linear. it is more of a power relation, that is, the dv is related such that it is the iv raise to some constant. this is only valid when the angle of release is small, that is, less than 30 degrees.
+
+
+
+the theoretical mathematical model for the time period of a pendulum is  is 
+
+
+
+to compare it to our model, we first break it down to constants. the three constants in it are 2, pi and . this will compute to about 2.007. hence, the formula is now .
+
+we compare this to the equation we got 
+
+$y=0.93987 x$
+
+in this equation, y is t and x is l. the constants are fairly similar and since 0.45 is almost 0.5, which in turn is the square root, we come to the conclusion that our mathematical model is closely related to the theoretical mathematical model.
+
+the factors that were tested but not included in the formula are angle of release and the mass. the period is completely independent to the mass of the pendulum. as for angle of release, the time period is independent of it if the angle is less than 30 degrees.
+
+one factor that the period is dependent on but not tested is the acceleration due to gravity. this was not tested since it is caused mainly by the mass of the earth and there is not much, we can do to control that.
+
+
+
+one systemic error that causes our model to be a little off is air resistance that slows the pendulum down. if given a chance, we would do the experiment in vacuum to prevent any air resistance. we will also make sure that the photogate is placed correctly so that it picks up accurate readings.
+
+also, our pendulum would not always move in one plane. since the equation is built on the assumption that the motion is in one plane, our readings were a little off causing a systemic error. to solve this, we can build a mechanism around the point of contact to make it move in one plane only and not glide around causing a near elliptical path.
+
+one random error that was present was noting the time using a stop clock since it can never be exact. this was overcome by using a photogate.
+
+the three main constraints of this experiment are
+
+the acceleration due to gravity is always constant on earth so there is no practical way we can test the effect of it on the period of the pendulum.
+
+the angle of release must be small, that is, less than 30 degrees for it to have no effect on the period.
+
+the final constraint is the air resistance that the pendulum faces which we can only avoid in vacuum.

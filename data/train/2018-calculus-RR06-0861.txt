@@ -1,0 +1,35 @@
+discussed are as shown:
+
+			theoretical:	
+
+			calculated:	
+
+to determine if our calculated model is consistent with the theoretical model, it is necessary to reevaluate the experimental conditions using the theoretical model. table 3 below compares the outputs of each model for all six trials.
+
+as shown by table 3 (specifically the “difference in acceleration” column), our calculated model consistently outputted values that were less than the those determined by the theoretical model. this makes sense because the basic theory used does not incorporate any forces other than the applied force of the hanging mass. in reality, forces such as friction and air resistance would oppose motion, resulting in an acceleration lower than expected; therefore, a claim can be made that – while outside factors prevent an exact parallel – our model is relatively consistent with newton’s basic 2nd law equation.
+
+	to account for the restrictive forces mentioned above, a more complex version of newton’s 2nd law can be applied to this scenario. the enhanced model is as follows is 
+
+			
+
+as with the simplistic model, the first term is calculated by dividing the hanging force by the mass of the system (in this case 178.80g). however, the second term is added on to compensate for the differences in table 3. funknown can refer to friction, drag, air resistance, or any other force not included in the hanging mass. the three examples listed oppose motion, so in this scenario funknown would be negative. after dividing by the mass of the system, the second term serves as the acceleration due to outside forces; in the calculated model derived from our experimentation, this acceleration would be -0.0045. from here, the sum of unknown forces for this model can be approximated is 
+
+			
+
+to prove the effectiveness of this, one can use the y-intercept from our calculated equation to approximate the sum of all restrictive forces acting on the system. since -0.0045 is the acceleration of unknown forces, the unknown force would simply be the product of it and the mass of the system – or about -8.046x10-4 n. obviously these values are small enough to be considered negligible, but they still provide closer approximations to the true values associated with this lab.
+
+	claiming that acceleration of the block/mass system is constant assumes that the string being used is massless. were this not the case, the system would accelerate at a non-uniform rate; this is because – as more of the string passes over the pulley and becomes a part of the hanging mass – the heavier the hanging section of the system becomes. this also means the part of the system being pulled on a track is losing mass to the hanging section, both of which occurrences indicate that acceleration will increase downward over time. with such a lightweight string this can be considered negligible, but real-world applications will often require calculations to account for this phenomenon.
+
+	even in careful experimentation, some random and systematic errors may be inevitable. as far as systematic errors, it is possible that the scale was not zeroed properly, or the motion sensor was not calibrated; by recording a value larger than the actual mass or acceleration, our calculated model could have been shifted upwards in comparison to theoretical data. random errors are much more sporadic and create variation among data points. some examples of random error include misreading the scale, bumping the track or sled, and miscalculating the slope on the computer software. while this does not work for systematic errors, increasing the number of trials will decrease the effect of random errors on variation.
+
+	a few constraints prevent the data collected in this lab to be generalized is 
+
+friction, air resistance, drag, and other restrictive forces are present in real-world scenarios, but they cannot be properly measured in a lab of this caliber.
+
+time did not allow our team to collect enough trials for the data to be considered credible, as the test could only be run 6 times during the time in class.
+
+the “frictionless” track, while not entirely frictionless, does not accurately reflect a typical surface upon which objects move in everyday life.
+
+this data worked well for this specific system, but there is no reasonable justification to prove that it holds true for heavier or lighter systems.
+
+because of these constraints, it is impossible to form definite conclusions that can be generalized for all newton’s 2nd law scenarios; however, the data collected provides all team members with a more wholistic understanding of the overall concept.

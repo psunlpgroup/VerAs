@@ -1,0 +1,15 @@
+conclusion:
+
+after determining what impacts the period of a pendulum we were able to see that the length of the string affected the time it takes for the pendulum to complete one swing. we saw that as the string length increased, so did the time it took for the pendulum to complete a swing. along with the length, the angle at which the pendulum is released also affected the time it takes for the pendulum to complete one swing. as the angle increased, so did the time it takes for the pendulum to complete one full swing. after testing the change in mass versus the time it takes for the pendulum to complete one swing, we saw that there was no correlation, making us accept the null hypothesis which was that the mass of the pendulum was not related to the time it takes the pendulum to complete one swing. the uncertainty that was given for time was +/- .001, for the angle it was +/- .25, and for the length it was +/- .0005. considering that all of the error bars were so small, this shows that there is very little uncertainty in our results. 
+
+
+
+the theoretical equations we found were is 
+
+angle vs time model is  $t=0.0068 a + 1.1127$       r2 is .329
+
+ length vs time model is      $t=0.0273 l + 0.932$         r2 is .9875
+
+
+
+some random errors that we encountered was possibly different measurement errors. if we had more accurate measuring tools, it would have taken away some error that occurred within the experiment. some constraints that happened within the experiment include the time that was given to perform the experiment. if we were given more time, we would have done more trials to decrease our uncertainty.

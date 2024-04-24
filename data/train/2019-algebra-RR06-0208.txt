@@ -1,0 +1,23 @@
+discussion and conclusion
+
+	the purpose in lab 05 was to experiment and determine how a hanging mass would affect the acceleration of a cart on a frictionless track. from this we were able to develop a mathematical model of the system. then in lab 06 we were trying to find how adding friction to the system would affect the acceleration, as well as find the meaning of the numerical values we obtained in our mathematical models from lab 05. 
+
+	we got all our mathematical models from the data we collected. the first model is acceleration x force of the hanging bob, and the power in the model is a negative force, friction. as for the second mathematical model we got that from acceleration x mass. again, there was a negative power, friction, in the model. seeing these models does help me understand the models themselves and where the individual values are coming from. using the models, you can plug in values and then know the location of it on the graph. 
+
+
+
+
+
+this picture shows group #2/s work. they did the same experiment as us, using friction as their independent variable. their data was slightly different than ours, but for the most part it was extremely similar. both of our groups had also come to the same conclusions. this showed us that we both were on the same page and had pretty much the same understanding of the lab and its concepts. 
+
+
+
+
+
+i unfortunately am not sure what group this is, as their group number is not written on their board. this group tested a different independent variable than we did, they tested tilt. despite having a different independent variable, we both still had very similar models. their claim is that as the tilt increases, so does acceleration. this better helps us understand tilt and makes complete sense as well. with both of us having similar models one could conclude that out variables have similar affects. seeing this i would venture to say that friction and the decrease in tilt have similar affects on a systems acceleration. 
+
+	there could have been some error present. when testing the acceleration, if we did not stop the program son enough that could throw off our values. this would be random error. systematic error could have been present as well. if the photogate was slightly off it could consistently give us values that are above or consistently below the actual acceleration. there is also a chance that the bobbers were damaged or not the same in size, which would throw off the value for the weight of one bobber we used in the experiment. as always better equipment would lead to better results. also being more precise in the stopping of the data studios program would help make our results more accurate as well. 
+
+	there were a couple restraints on this experiment. first off, we were limited with weight. we only had so many bobbers, so we only had a certain range to test. another constraint was our variable of friction. we were only given four magnets, thus limiting our range of how much friction we were able to test. 
+
+	our models are consistent with newtons 2nd law, like they should be. newtons 2nd law is $f=ma$. both of our models include values for force, mass, and acceleration. in the models they may be rearranged a little differently depending on what were attempting to find, but both models involve values for all of the terms present in newton/s 2nd law.

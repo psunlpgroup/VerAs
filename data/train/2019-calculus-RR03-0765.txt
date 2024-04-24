@@ -1,0 +1,18 @@
+discussion and conclusion:
+
+the research question of the labs was: what impacts the period of a pendulum? this question was answered by performing a series of experiments to determine the variables of the pendulum. 
+during the experiment, we tested to see if the mass had any effect on the period of the pendulum. see graph below is 
+
+based on the graph, it is clear to see that there is no relation between the mass and the period. the reason for this is because the points are no where close to the best-fit line of the graph. this means that the points do not relate to one another. additionally, the error bars on this graph are somewhat large. while this is due to minor mismeasurements, the mass would still have no relation to the period of the pendulum. if there was a relation, the points would form a linear line close to the best-fit line.
+during our testing, we determined that the length of the string has a major relation to the period of the pendulum. in fact, it is the main cause in change of the period. the shorter the length the short the period and vise versa. see graph below.
+
+based on the graph, you can clearly see the close relation of the length of the string to the period of the pendulum. the points are almost exactly on the best-fit line. the data is very precise because the error bars are too small to include in the graph. there are indeed error bars. since they are so small, we can determine that there is very little mismeasurement in the data from our experiments.
+during the testing, we determined as well, that the angle has no effect on the period of the pendulum. see graph below.
+
+based on the graph, you can see that there is no relation between the angle and the period of the pendulum. this is clear because the points recorded are no close to the best-fit line. since they’re not, there is no relation. additionally, you can see very large error bars. this was due to the error of approximating the same angle of each test. however, even with these large error bars, the angle still has no relation to the period. 
+
+the theoretical equation for the period of a pendulum is $t=\frac{2 \pi l}{g}$ ^1/2. by using this equation, we were able to plug in our data to find the period of the pendulum. in the end, we get a value of 1.56 seconds and the theoretical value turned out to be 1.42. this proves that the equation is true. it is not exactly on point because of the error in our data.
+
+the random errors of the experiments are the measurements taken because the values will not always be read the same be each person. another random error is how each experiment was conducted. no matter how it is done, there is always a better way to conduct an experiment to receive more accurate data. the systematic error of the experiments was the equipment used. this could vary from the stand not being straight, the timers being off, or the photogate not being properly calibrated. all these errors will influence the results.
+
+the first constraint is that we had to eyeball the angle was the same each time because we were only given a protractor. another constraint was the resources we were given for the experiments. if given the freedom to use any resource we wanted, we would be able to find more accurate data. 

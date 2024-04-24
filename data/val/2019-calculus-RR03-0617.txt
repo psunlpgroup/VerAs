@@ -1,0 +1,217 @@
+discussion & conclusions:
+
+the goal was to find the factors that affect the period of a pendulum. 
+
+1)  our hypothesis stated that a longer period would come from a higher release angle, a longer string and a smaller mass. however, after looking at the data, the graphs clearly show that length of the string is the only piece that changes the period of a pendulum. the graphs of release angle and mass $b=50 g$th are fairly linear, which shows that as the independent variable changes and the other factors held constant, the tome didn’t change. this was not the case with the length of the string graph, which showed a positive slope. the longer the string, the longer the period. 
+
+2) there was random error in the timing and in the release angle. error in the timing was due to human eye being the only thing that determined when the period was over. this was managed by having two people take times, and the data recorded was the average of the two. the release angle was helped by having the same person do it, so as to keep their methods. there was systematic error in the weight, where, after measured by a scale, was found to be 49.75g instead of 50. there was also possible systematic error in the length of the string, as there was no way to verify the markings on the tape measure. 
+
+3) constraints included were the stopwatches given, and the time limit of which to conduct the experiments (as more trials would have helped eliminate any random error. the tape measures given were also not of the best quality and not the most precise. 
+
+
+
+lab 2 is  introduction to error analysis
+
+
+
+there goal here was to find the error a human brings to a trials and be able to show that in data. 
+
+there were no dependent or independent variables, as the same trial was done over and over for the purpose of showing deviation in human timing. 
+
+
+
+lab2 was tested on jan31, 9am to 11am with jacob eaton, joseph metzger, and becca monnette
+
+
+
+
+
+
+
+setup is  
+
+
+
+
+
+
+
+
+
+
+
+procedure is 
+
+conduct 10 trials
+
+
+
+hang a 50 gram mass from a 39 centimeter length of string from the given structure in the lab
+
+lift the mass up at full tension at 45 degrees measured from the vertical
+
+release the mass, having two people start a stopwatch at release. the stopwatches are stopped when the pendulum has returned to the starting position. for a more accurate time, the average of the two stopwatches are taken and that is the data recorded.
+
+
+
+
+
+
+
+the standard deviation computed means that 95% if the measurements will result in ± 2 standard deviation (0.066 seconds) from the true mean.
+
+the mean is estimated to be 1.21
+
+
+
+
+
+data adjusted for standard deviation with error bars is 
+
+
+
+(error bars are ± 2 sigma)
+
+
+
+
+
+
+
+the claims from lab 1 are validated, as with error bars the data shows a clear trend. the time vs angle of release shows a small positive slope, but this is a slope of .004. given more time and more data points, this random error could be taken care of. same can be said for time vs mass. 
+
+with error bars, the average time vs length agrees that there is a trend that longer length means longer period.
+
+
+
+
+
+
+
+lab 3 is  creating mathematical models
+
+
+
+the goal for this lab was to eliminate error by using new knowledge and more precise tools. 
+
+	the only independent variable was length of string. 
+
+	the dependent variables include mass and angle of release. 
+
+
+
+lab3 was tested on feb 7, 9am to 11am with jacob eaton, joseph metzger, and becca monnette. 
+
+
+
+setup is  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+experimental design - reducing uncertainty
+
+research question
+
+does the length of the string affect the period of the pendulum?
+
+dependent variable (dv) is 
+
+the period of the pendulum.
+
+independent variable (iv) is 
+
+length of the string that the pendulum is hung from.
+
+control variables (cv) is 
+
+mass of the $b=50$.
+
+testable hypothesis is 
+
+the period of the pendulum is affected by the length of the string that the pendulum is hung from.
+
+prediction
+
+a longer string will result in a longer period.
+
+
+
+procedure is  
+
+conduct 14 total trials
+
+
+
+hang a 50 gram mass from a length of string.
+
+lift the mass at full tension to an angle of 45 degrees below the horizontal.
+
+release the mass and allow the string to complete more than one period. the photogate will display the time between each period.
+
+record the period and the length of string.
+
+repeat for different lengths of string, testing each length of string twice, until 14 total trials have been conducted.
+
+using excel, create a graph of the period versus the length of the string.
+
+using a scale error of the photogate of 0.001 seconds, insert error bars on to the graph.
+
+use the trendline tool to fit a curve or a line to the plotted points, making sure to display the equation and the r^2 value.
+
+using a white$b=50 g$ard, clearly state which variables were tested that do not affect the period of the pendulum and write the mathematical model on the white$b=50 g$ard to share with the class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+discussions and conclusions is 
+
+1)  the angle of release of the weight and the mass of the weight do not affect the period of the pendulum. the length of the string has a power relationship with the period of the pendulum. the conditions that this claim holds under is with a weight of constant mass, indoors, using the provided string with a stand deviation in time of .001s and standard deviation in length of .05cm
+
+2) error was more so eliminated with the use of a photogate. systematic error could still exist in the mass. 
+
+3) our equation was .2919x^.4307, where the theoretical equation is $t=2 \pi \left(\frac{l}{g}\right)^{0.5}$. our data came close given the tools and the experience of the lab techs. constraints once again included the measuring tape and the time given, as more trials would have continued to help eliminate random errors.

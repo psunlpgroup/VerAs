@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+	the purpose of lab 5 was to create a mathematical model based on the acceleration of an object and the mass of that object. the goal of lab 6 was to discover how other factors might affect the acceleration of the cart and alter the mathematical model. 
+
+	i our first model for lab 5, we found that our model took the form of $y=b + mx$. the y, in this case, was the acceleration of the cart. our m was mass-1. newton’s second law states that $f=m a$, which can be rewritten as  $a=\frac{f}{m}$. that means that x was the force that was acting on the system. b was determined to be the systematic error, since the acceleration when x is 0 should also be 0. in our second model took the same linear form. in this case, y was acceleration, and b was the acceleration. x was the height. m was essentially 0, meaning that there was no correlation between the starting height of the hanging masses and the acceleration. in the experiment for lab 6, we found that the model was once again linear. in this experiment, y was still the acceleration. since we graphed the mass of the cart and the acceleration, the x value was the mass. newton’s second law doesn’t apply in this case, since mass is our x value, so m is the relation. if we had calculated the force and graphed it with the acceleration, our variables would have had the same meaning as they had in the first experiment of lab 5.
+
+			
+
+	    this is the data that from a group that performed the same experiment as our group. they graphed the average acceleration of 4 different trials, where as we graphed the trials and compared the data without graphing it. despite the different style of graphing, they got similar results. our data did differ slightly, though this may have been due to the differences in the masses of our bobbers, our carts, and our magnets, as well as our mistake of graphing the mass instead of force.			
+
+this is the data from a group that did the other experiment. their data was obviously not the same as ours, however it does show how other factors can affect acceleration in a laboratory setting.	 in their case, the x value was the height that one end of the track was raised to and y was the acceleration of the cart.
+
+there were likely many sources of error in our experiments. we could have run more tests and taken an average of the results which would have our data more accurate. using a digital scale may have also increased the accuracy of our mass measurements, and therefore made our calculations more accurate.	 any human error was likely minimal, since most of the recordings were done with sensors and there was not much in the way of human input when the experiments were being conducted.
+
+we were limited by number and strength of magnets that we were able to use. though our data shows a clear trend, it would have been more clear had we been able to use more magnets or stronger magnets.
+
+our first experiment in lab 5 was consistent with newton’s second law because it showed a direct, positive relationship between force and acceleration. the second experiment showed no correlation between starting height of the hanging mass	and acceleration, which is consistent with newton’s laws as well, since height is not a part of $f=m a$.

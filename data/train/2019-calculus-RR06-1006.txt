@@ -1,0 +1,43 @@
+discussed during lab*
+
+the mathematical equation for this was:
+
+$a=3.0488 f - 0.0397$
+
+
+
+the mathematical equation is is 
+
+$a=0.8979 - 0.0021 m$
+
+
+
+the purpose of this lab was to find mathematical models of a real system to figure out the behavior of it, and to test each variable in a system to see how each variable affected the system.
+
+in lab 05, i saw that as the amount of force goes up in a system, the acceleration goes up as well. the relationship between these two factors is linear and positive as shown in the graph. as for the affect of weight on a system, the more weight added to the rider on the track decreases the acceleration. in other words, the graph of weight vs. acceleration displays the acceleration decreases at a linear rate due to more weight being added on. in lab 6, my group tested the affect of friction on the system. since the system was on a frictionless surface, the amount of friction did not change the acceleration of the system. as shown in the graphs, the amount of friction doesn’t affect the acceleration, and the relationship between net force and acceleration is still linear and positive.
+
+
+
+this group’s number was not listed so i will refer to them as group 6
+
+
+
+this was group 5’s data on tilt
+
+
+
+group 6’s and group 5’s data on tilt showed that the more tilt there is, the faster the acceleration is. group 6 shows many different trials on the same graph showing approximately the same relationship between each trial. they showed as the tilt goes up, the acceleration goes up as well. in the equation, you can see that it is a linear, positive relationship. group 5’s data supports group 6’s data the same way. you can see a positive linear relationship between tilt and acceleration in group 5’s graphs.
+
+some systematic errors were that our device that read the acceleration of our system was not being consistent with the collection of data. the acceleration for a larger weight on the hanging mass showed a smaller acceleration when it should have been larger. the rest of the data collected was consistent and accurate while that one point was off. we were told not to include that outlier in the graph. a random error could be how we let go of the system. we let the system go by hand which could be off at times due to unnoticed changes in the releasing of the system. the way that this could be diffused would be to use a mechanism to release the system so that it was precise every time we measured it. the systematic error could be diffused through setting up a new system and recalibrating the system so that it could read every point accurately.
+
+the constraints in this experiment were that every group used the same system to find the mathematical equations in lab 05. another constraint was that every group used excel to calculate data and create graphs. one more constraint was that there were at least two groups measuring one factor of the system in the experiment.
+
+the theoretical equation is is 
+
+
+
+our two mathematical equation supports the theoretical equation accurately. as shown in lab 05, the two graphs show that as the amount of force goes up while the mass is held constant, the acceleration also increase in a linear, positive relation. the second graph in lab 05 shows that while the force is held constant, and the mass is increase, the acceleration decreases in a linear, negative relation.
+
+
+
+*the rubric, on lab 6’s lab directions, was followed, i noticed there is another rubric on blackboard to follow, but didn’t know which rubric to follow, so i chose the lab 6 rubric. i noticed that there were similarities between both rubrics, so i assumed that as i followed the lab 6 rubric, i was also following the rubric on blackboard. *

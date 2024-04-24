@@ -1,0 +1,17 @@
+conclusion: 
+
+the purpose of lab 5 was to test how force and mass affected how acceleration and understanding how the equations are related to the data we created. the purpose of lab 6 was to test other variables and how they relate to the previous equation in lab 5.  
+
+in lab 5 we tested for the two different iv and dv, we tested for how force affects acceleration which was a linear path as shown on the graph. the other experiment which was mass vs acceleration which affected the graph in a power graph as it became faster in an exponential path. in lab 6 we tested how the other cv from the last and how they factor in our previous mathematical models and which constant they are.
+
+the errors for our experiments will be different for lab 5 and lab 6. in lab 5, we had the error of not knowing the amount of friction that was on the cart and another error was that the mass could have been slightly off. we also could have air resistance in the room but that would have only affected it slightly. in lab 6, it would have been exactly the same but we were able to control the friction in this so the results were for accurate. 
+
+i do not have any pictures of the other whiteboards but i do know they obtained similar mathematical models to ours and this shows that these tests are fairly accurate when tested with the same variables. other teams also tested other variables which helped us understand what our variables meant.
+
+the experiments were very constraining as we could not use different weights and we could not change the lengths of how far we would go.
+
+   
+
+c1 is the same as f1 in the equation because if both were plotted onto a graph they would have similar if not exact looking graphs which would mean the they mean the same in the mathematical model. 
+
+c2 is the same as f2 in the equation because if graphed the models would have the same values. this would equal acceleration of the whole system. i am getting these by my equation from this lab 6 and lab 5

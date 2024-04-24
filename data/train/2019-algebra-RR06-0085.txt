@@ -1,0 +1,17 @@
+discussion & conclusion: 
+
+the purpose of this lab was to determine how the acceleration of a system is impacted when the mass is manipulated and be able to develop mathematical models that describe the behavior of a real system. based off of the obtained results from lab 05 experiment 1, it is safe to say that as the force of the hanging bob increases, the acceleration decreases. experiment 2 shows that as the force of the cart increases, the acceleration decreases. this means that mass does have an effect on the acceleration of a system. lab 06 allowed us to test if there are other outside variables that can affect the acceleration of a system and to be able to determine how the variables and numerical value of our models relate to the research question.
+
+the numerical mathematical model value for experiment 1 led our first factor to have a linear relationship. this was because as the force of hanging increased, the acceleration would also increase due to more mass being able to pull the car quicker, and this can be seen in graph 1. in experiment 2, the numerical mathematical model value is greater than the value for experiment 1. this shows that it is a power relationship on graph 2 because as the force of the cart increased, the acceleration decreased due to less mass being on the hanging bob. experiment 3 shows that as the hanging force increases, the acceleration decreases. however, the increased acceleration was not as high as in experiment 1, because the cart has to work against gravity. the mass and acceleration have a direct relationship whereas acceleration and tilt does not. the tilt of a system is independent of the force of mass, but when the two are together they affect acceleration.
+
+ 
+
+
+
+group 3 (picture on left) ran the same experiments as we did and concluded the same findings. they also stated as their hypothesis that as the backward tilt of a system increases, acceleration decreases. they also had an r^2 value close to one meaning their data is reliable. this means that this supports our thoughts on the numerical values. group 5 (picture on right) ran a different experiment investigating friction and they stated that friction is an outside force that can add or take away from the acceleration of a cart. they concluded that as friction increases, acceleration decreases. this is identical to our conclusion from our experiments. our r^2 values for the three trials in experiment 3 are all close to one, supporting the accuracy of our data.
+
+ i believe systematic error is the only error that could’ve affected our data this experiment because we tried to be very precise during every step of experiment. even though error is always present, i think that the random error present was very minimal. systematic error could have affected our data if the uncertainties were very large. however, our obtained data was very accurate and we had r^2 values very close to 1 so our data is very accurate.
+
+constraints that could’ve affected the generalizability of our results is air resitance. it’s very hard to control air resistance in our lab setting so this could be a possible constraint.
+
+our two experimental mathematical models are consistent with newton’s second law because this law states that the acceleration of an object is inversely proportional to the mass of the object. this can be seen with the tables and graphs from all experiments.

@@ -1,0 +1,19 @@
+discussion:
+
+is the period of a pendulum affected by the mass of the weight on that pendulum?
+
+no, the mass of the weight on the pendulum will not have any effect on the period length for that pendulum. this relationship is shown clearly in figure 1, as there is a significant overlap between the error bars of each data plot. the aforementioned hypothesis, therefore, is incorrect. it was originally predicted that the greater the mass on the pendulum, the longer the period length. 
+is the period of a pendulum affected by the angle release of the pendulum?
+no, the period of the pendulum will remain the same, regardless of the angle at which that pendulum is released. although our graph in figure 2 demonstrates a positive increase with an angle increase, the significant overlap of the error bars show that there should be no relationship between the two variables. again, the original hypothesis was proven to be incorrect, as it was originally predicted that the greater the angle of release, the longer the pendulum’s period. 
+is the period of a pendulum affected by the length of the string on the pendulum?
+yes, there is a significant, positive correlation between the length of the string on the pendulum and the pendulum’s period length. figure 3, however, shows that there should be no relationship between the two variables as there is an overlap in the error bars, and the data is mostly horizontally-oriented. this inconsistency is plausibly due to sources of error, which are mentioned below. based on the graph, the original hypothesis is proven to be correct, however, with further experimentation in week 3 (shown in figure 5), we know now that the longer the length of the pendulum’s string, the longer the pendulum’s period length will be. 
+the theoretical model equation is shown as is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+the mathematical model calculated based on figure 5 equates to $y=0.9321 e^{0.0888}x$.
+using the theoretical model equation listed above to solve for the length of a period with a 
+string length of .5m, the period length was found to be 1.419s. when using the mathematical 
+model created by our data, the period length for a string length of .5m was found to be 6.8593s, 
+
+which is not consistent with the theoretical mathematical model. therefore, we could not create a 
+model that fits the theoretical mathematical model. this could be due to sources of human error 
+
+such as angle consistency. for example, the ideal constant release angle was 10 degrees, however since there was no system to ensure the same angle 100% of the time, this leaves room  mentioned above in the theoretical mathematical discussion, one possible 

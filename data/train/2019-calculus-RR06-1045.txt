@@ -1,0 +1,17 @@
+conclusion:
+
+ the purpose of the lab was to develop a mathematic model that accurately represented the behavior of a real system as well as gain a better understanding of how each variable and numerical value affects the mathematical model.
+
+ if we look at each mathematical model individually starting at figure 1, using excel i looked at each mathematical model (linear, power, etc.) to see which had the highest r-squared value and the linear model had the highest with a r-squared of .9997. from the mathematical model, force applied is linearly related to acceleration with the slope telling at the rate which force applied is related to acceleration along with the y-intercept being a constant acceleration. looking at figure 2, the mathematical model was found the same way, but instead we used a exponential model and it had an r-squared value of .9981. looking at the mathematical model each value represents the relationship between mass and acceleration, from the trend we can tell that there is an inverse relationship between mass and acceleration. looking at figure 3-5, the models were linear and had r-squared values of .99. all the mathematical models show a relationship between the force applied and acceleration, with the slope showing the rate force changes and the y-intercept is just a constant acceleration.
+
+
+this group had a similar conclusion and mathematical model as our group with it being that the slope affects the acceleration, so it helps justify our understanding of all the values within the mathematical model. 
+
+
+
+although this groups result was different than ours. they still considered the constant (y-intercept) affects the slope and i agree with that statement.
+
+ random errors can attribute to either pushing or pulling the cart on release, to reduce this error, we used a ruler to stop the cart in place, and when we turned on the machine, we pulled the ruler out of the way, so we didn’t’ have to worry about pushing or pulling the cart. systematic errors can be attributed to faulty measurement tools, to reduce these errors we would use better tools with lower increments to measure data more accurately.
+ some constraints in this experiment would be friction. if friction was negligible then it would help generalize our results better.
+
+ our mathematical model is consistent with newton’s second law because if we look at the trends, they are a linear, and newton’s second law states that acceleration is directly proportional to the magnitude of the force.

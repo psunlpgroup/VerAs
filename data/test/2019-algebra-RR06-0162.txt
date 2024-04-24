@@ -1,0 +1,26 @@
+conclusion:
+Our group found that the acceleration of an object was influenced by mass of M1.  As the mass of m1 increases, the acceleration of M2 will decrease because of Newton’s 2nd law, $F=MA$.  If the force remains the same and mass increases, then acceleration must decrease to keep the equation balanced.  
+In the same way, if M1 and M2 are not changed equally the acceleration will increase to balance the equation.  
+
+ We are very confident in our numbers because our sigma values are all well under one hundredth, indicating that the best fit line fits our data very well.
+ We plotted each data set in Excel.  Using Excel’s features, we found the R^2 value and equation for the best fit line for both sets.
+ We are confident in both models created by Excel because the R^2 values were very high at 0.9794 and 0.9908.  Both of these values are very close to one, meaning the data is accurate and precise.
+ Group 6’s and 3’s data was similar to ours.  All of our data was in a linear curve for the first model and a power curve for the second.  All of our R values were very close to one.
+
+
+ Each of our models support Newton’s 2nd law because for force to remain the same, and either mass or acceleration increases or decreases, the other must do the opposite.  For force to increase, either mass or acceleration must increase to balance the equation.
+  There was no apparent deviation from Newton’s second law and all of our data supports it.
+
+ The main factor that was not tested for was friction because we assumed that friction was negligible for our test.  A new research question would be how friction affects Newton’s second law by changing the surface and keeping other variables the same to see how they affect the other variables.
+
+ If given the opportunity to redo the test, it may be beneficial to have several trials for resting each factor several times to try to reduce the amount of error in the results.
+
+  There is a positive correlation between increasing acceleration and force.  If mass is constant, force will increase as acceleration is increased.  This is a positive correlation because as one factor increases or decreases, the other will do the same.
+Both groups 1 and 3 had similar conclusions in that the first experiment yielded a linear relationship between the constant mass and varied force applied, and that in the second experiment, not keeping mass constant but keeping force applied constant yielded a non-linear relationship. 
+     In summary, we found that as the incline increases so that the side with the pulley was higher than the other end, the acceleration of the hanging weights decreases.  The opposite is also true; as the decline increases, the acceleration increases.
+
+ We were confident in our data, as our R^2 values were all within one hundredth of one, indicating that our data fit our best fit line very closely. Our data very clearly showed a positive correlation throughout our three tests.
+ In our model, C1 represents the slope of the line which was the rate of acceleration, we feel that the determined C1 value and the C1 value that was in our model were very close, considering our setup.
+ Our C2 represented the effect that the angle had on the acceleration of the hanging mass.  For example, when the sled was on an incline pointing up, the value was negative, indicating that the angle worked against the acceleration of the hanging mass, while having the pulley tilting downwards aided acceleration.  We found that as the value of C2 increased, the faster the acceleration of the hanging mass.
+  Other factors that may have impacted our results are that there was friction that was not accounted for, as well as there may have been a systematic error with the set up. All things considered, our data is most likely accurate as it supports and is backed up by Newton’s Second Law.
+ To improve the quality of our evidence, we should have had several trials for each test to reduce the effect that random error has on our data.  Also, we assumed that the system was frictionless, although there had to be friction present that was not accounted for.  

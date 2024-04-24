@@ -1,0 +1,23 @@
+discussion and conclusion:
+
+the purpose of this lab was to investigate if the slope of an air track will affect the acceleration of a cart and pully system. 
+
+in the first experiment we tested to see if acceleration of a system changed when the hanging weight is increased. in this test the independent variable was the hanging weight, and the dependent variable was the acceleration of the system. we tested eight different hanging weights and recorded the acceleration for each. after we plotted the data on a graph. the graph had a positive slope, between the error bars. this concluded that adding mass to the hanging weight increased the acceleration of the system.  
+
+	comparing the data with the rest of the class showed that we all collectively could concluded that the accelerations of the system was increasing. this is because everyone’s equation had a positive slope. this concluded that everyone’s data supported everyone’s data. the only thing was everyone’s equations where slightly different, when the should be the same. this led us to believe that some groups track as including are own, may have not been level, implementing a different slope for each group. 
+
+comparing the data of a second group with rest of the class showed that they could concluded that the accelerations of the system was increasing. this is because everyone’s equation had a positive slope. this concluded that their data supported everyone’s data. the only thing was everyone’s equations where slightly different, when the should be the same. this led us to believe that some groups track as including are own, may have not been level, implementing a different slope for each group. 
+
+	the mathematical model we abstained from excel for only one force acting on the system was given as is  $y=2.9582 x - 0.012$ which relates closely to the theoretical equation being is  $a=\frac{f}{m_{sys}}$, and when calculated arrives at the number of 3.0263 which is very close to 2.9582 from the mathematical model. this supports the theoretical model, because it was so close to the same as it. meaning without error it would arrive at the theoretical calculation. 
+
+	the mathematical model we abstained from excel for multiple force acting on the system was given as is  $a=2.901 f + 0.0863$. and the enhance theoretical equation for this set up was give as is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$, and when calculated arrives at the answer a is 3.004 which is very close to the mathematical model, giving a is 2.901 which is off by decimal points. this backs up and supports that theoretical equation is correct, because without error, the mathematical model would arrive at just about that answer. 
+
+if a heavier string where replaced with the lighter string nothing would happen, mass of the system would be the same, and the tension would still be the same throughout the string.
+
+	throughout this experiment there was plenty of room for error. for example, the track not being on a level ground, could have implemented a systematic error in are results. also, various measurements, including weighing masses wrong could have been involved in any of the error. if given more time, and more precise measuring devices, they level of the ramp could have been protected, and the measurements could have been also perfected, given us even closer results to the theoretical equation. 
+
+	throughout the experiment we had numerous constraints. for example, we were constrained to finish the labs within a period of two hours, measure weights with balance, and had a limited amount of weight to use. with these constraints the generalizability of the results was affected. the balance only allowed us to measure weight with a certain amount of accuracy. also, if we had more time we could have taken more trials, including if we had more weights. this would allowed us to get an equation closer to the theoretical equation. 
+
+
+
+

@@ -1,0 +1,9 @@
+discussion:
+
+	the purpose of this lab was to derive an equation representing the relationship between the ratio of hanging mass versus cart mass and also adding cart mass to a near frictionless cart on a track.
+
+	hanging weight is  we determined that there exists a positive causation between hanging mass ratio to cart mass. our table and graph reflect these results, and show that the higher the hanging mass, the higher the acceleration of the cart assuming some variables remain constant. we had conversed with other groups who also found a similar result. the final conclusive equation came to $y=0.0472 x + 0.0021$. this equation matches the theoretical model of . c2 in this case is the unaccounted outside forces that are measured later. in this model, we assumed a massless string, but in the case that a heavy string is used, one will find likely the same result.
+
+conclusion is 
+
+	our concluding model of the system is  which supports the theoretical model along with other group’s models and takes into account the unknown forces that act the system. error measured in this lab is likely systematic due to the shoddy string being used, it had several knots along its length which likely affected the string’s travel through the measurement device.

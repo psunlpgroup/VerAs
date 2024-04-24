@@ -1,0 +1,19 @@
+conclusion:
+We, as group number three, started the two labs at 10:10 am Tuesday (Sep 25th and Oct 2nd) and finished at 12 is 10 pm. We definitely achieved all the objectives in time and found out that the IV is force on gravity acting on the system, DV is the acceleration of the system, and CV is mass of the entire system (186.3 g). 
+Our production was that the more force, the more acceleration we get, and the graph was linear. Therefore, the hypothesis is that the acceleration of the system is affected by the force is of gravity. 
+m/s /s. Whilst when the acceleration was graphically given through an excel
+graph, we got it 
+to be 5.066 m/s/s
+
+
+The research question we had to answer is how does the acceleration of a system change when the applied force changes? The more force the more acceleration.
+We had to do several trials (to avoid any random errors) and add weight/balls on the cart in each one of them to see/test the relationship between force and acceleration. We also did make sure that we have no friction, so we found out that as we add more balls, the cart accelerates faster.
+
+ The heavy string vs. hanging weight addresses the prediction. As I mentioned before, more weight means more acceleration means greater force. 
+The values of the force are increasing (0.048, 0.096, 0.146, 0.192, 0.239, 0.288, 0.337) as the acceleration increases (0.210, 0.455, 0.705, 0.944, 1.18, 1.41, 1.68), says group 2, physics1501L 002. Therefore, that agrees with what we have and agrees with the hypotheses. 
+
+
+ In order to decrease the systematic error, you need to find it first. Therefore, in the experiment, we found that the machine makes the surface frictionless, may not work properly. However, we reduced that by making sure that it works properly and under the TA’s attention. 
+In order to decrease the random errors, we had to do more trails and average them all.
+
+The most thing that held us back or was hard in this experiment is that if the groups couldn’t have a positive relationship between their results and the use of the theoretical equation to get to the point that the force and acceleration have a positive relationship. 

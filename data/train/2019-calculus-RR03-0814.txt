@@ -1,0 +1,15 @@
+conclusion:
+Research Question:
+“What impacts the period of a pendulum?”
+
+In this experiment the effect of the mass on the period of a pendulum was tested. This was tested by keeping the length of the string and the angle of release constant, 52.7 cm and 15 degrees, respectively. The mass was varied for every trial and the averages were taken and graphed. In the graph for period vs mass, the error bars overlap every time. When error bars overlap, this mean that there is no change in the dependent variable when the independent variable changes. This shows that there is no correlation between the mass and the period of a pendulum.
+
+
+
+In this experiment the effect of the length of string on the period of a pendulum was tested. This was tested by keeping the mass and the angle of release constant, 215 g and 15 degrees, respectively. The length of string was varied for every trial and the averages were taken and graphed.  In the graph for the period vs length of string graph, it can be seen that the error bars do not overlap for each dot. This means that the dependent variable is changing while the independent changes. This shows that there is a direct relationship between the length of the string and the period of the pendulum, which is as the length increases, the period also increases.
+
+In this experiment the effect of the angle of release on the period of a pendulum was tested. This was tested by keeping the mass and the length of the string constant, 100 g and 90 cm, respectively. The angle of release was varied for every trial and the averages were taken and graphed. In the graph for period vs angle of release, the error bars overlap every time. When error bars overlap, this mean that there is no change in the dependent variable when the independent variable changes. This shows that there is also no correlation between the angle of release and the period of a pendulum.
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+This mathematical model supports the conclusion drawn from the lab because the only other variable in he equation besides gravity is length of string. So even if mass and angle of release changed, it would not affect the equation or outcome. the theoretical model is complete and accurate. 
+Random errors in this experiment could be human error in hitting the stopwatch button or dropping in time, air resistance, human force on the pendulum, and spinning of the weight. To reduce the timing error, a photogate was used in Data Set 4.

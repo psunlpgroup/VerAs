@@ -1,0 +1,35 @@
+discussion and conclusions
+
+the most important conclusion drawn from this lab is that the length of string is the only variable which has a measurable impact on period. (the other factors cannot have conclusive results drawn with respect to their effect on period because the data does not support a consistent relationship)
+
+the data of mass shows a scattered and unrelated collection of data points. all data bars overlap and they do not trend in any one direction.
+
+the data of angle of release is not as spiritic as that of mass, but it is still inconclusive because of the overlapping error bars towards the 40-60 degree range. it also trends upward until it comes to 50 degrees, then begins downward which shows a lack of correlations between angle and period.
+
+the data of length shows a consistent relationship between length and the dependent variable, period. the error bars do not overlap and the data trends consistently. 
+
+the relationship between length and period
+
+the group later observed that the length/ period relationship is, in fact, exponential in nature. 
+
+this relationship holds true. the mathematical representation of this relationship is $y=0.2 x^{0.5}$
+
+the relationship      $y=0.2 x^{0.5}$      is validated by the known model of the pendulum whose equation is      $t=2 \pi \sqrt{\frac{l}{g}}$          (when this equation is evaluated using pi is 3.14 and g is 9.8, it comes out to the original equation,    $y=0.2$x^5)
+
+the theoretical model and the experimental model of the pendulum are the same and therefore are mutually verified. 
+
+random error proved to be an issue in this experiment. the lab group employed two major strategies in order to prevent it
+
+having the same person do the same part of an experiment so that they could replicate their technique 
+
+taking more trials than necessary and averaging them out to get closer to the true value
+
+in order to prevent systematic error, the group employed many different tools in order to find more accurate and reliable tools. still, there is error which cannot be prevented.
+
+the constraints of systematic error make the data less reliable, but that is why we use error bars to show exactly how far off our data could be and plan for it. 
+
+the data can still be generalized because of the experimental strategies taken by the group to consider error. 
+
+so, what does affect a pendulum’s swing?
+
+length is the only variable tested which has a measurable effect on period.

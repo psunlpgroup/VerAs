@@ -1,0 +1,16 @@
+discussion and conclusion:
+
+the research question in this experiment is:
+
+what changes the time it takes for the pendulum to complete a single period?
+
+after creating the three experiments that are shown above, which are to see if the period of the pendulum is based on the mass attached to it, or the length of the string that is used, or the angle at which the pendulum is released, we conclude that the only thing that affects the period of a pendulum is the length of the string that is used on it. changing the mass on the pendulum or changing the angle did nothing to affect the period. on the other hand, lengthening the string gave us a longer period after each trial. 
+
+the theoretical mathematical equation for the pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$, with t as the period, l the length of the pendulum, and g as the gravitational acceleration. this equation agrees with my group’s experiment because it shows that the period (t) is found based on the length of the string (l) used in the pendulum. and since in the first and second experiment the length is kept constant, the period of the pendulum is the same for all of them. 
+
+
+the first error that we could have had was our reaction time. since nobody has a perfect reaction time, we tried our best to lessen the error in the reaction time by making only one team mate take the period time. 
+
+another error could have been that the pendulum was moving the pole that it was swinging from, disturbing the inertia of the rope swinging. to stop that from happening, we tried to hold it as still as we can.
+
+a constraint that can be in this experiment is having something hold the pendulum that is high enough to have a long pendulum swinging from it. if the place is tight or the pendulum can’t be high enough, the change might be so slight that it would be unnoticeable.

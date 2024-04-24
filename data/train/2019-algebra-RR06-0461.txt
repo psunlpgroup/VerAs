@@ -1,0 +1,14 @@
+conclusion:
+we concluded from both labs that the hanging mass, which was the independent variable because it is combined with gravity, directly relates the amount of acceleration the mass of the cart has. we also concluded that with tampering with the angle at which the system is placed at the bigger the angle the bigger the acceleration is. the claim can be made that as the hanging mass increases as the mass of the cart decreases the acceleration will increase. we were able to conclude this because our error bars were minimal to an extent that we could say with confidence that our findings were true. other than error on our part the error by the photo gate was given to us which was .001 uncertainty.
+
+our group findings were similar to the other groups findings with slight variation because of individual error. in the picture below describes another group’s findings compared to our own which were the same. in regard to our conclusion which was that the mass of the hanging object affects the acceleration of the system. 
+
+
+
+another group test how the friction would affect the acceleration of the cart. they believed that it would affect the acceleration of the cart. the acceleration still increased as the mass of the hanging mass increased. however, it increased at a slower rate.
+
+some constraints that were evident in the experiment were air resistance on the cart, friction in the pulley between the hanging mass and the cart. these would have caused the acceleration to increase at a slower rate in our calculations. the weight of the string could have played a part in it as well.
+
+random errors were able to be reduced in both labs by taking multiple measurements of the same circumstances then averaging them out to reduce the amount of random error either on the user or the equipment.
+
+if there was a heavy string connected to both the hanging mass and the mass of the cart then the acceleration would alter. the acceleration of the cart would increase in an exponential curve because of the amount of string being transferred from the x direction into the y direction, the hanging mass.

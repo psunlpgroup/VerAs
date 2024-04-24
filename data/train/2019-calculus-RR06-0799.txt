@@ -1,0 +1,37 @@
+discussion and conclusion
+
+	the purpose of this lab was to develop mathematical models that describe the behavior of a real system and to develop an understanding for each variable and numerical value included in the model. 
+
+	we addressed the research question in the first experiment of lab 05 by setting up a system where a falling mass pulls a nearly frictionless cart along a path. the force can be calculated from the falling mass and gravitational acceleration and the acceleration of the system is measured. then the variables are graphed, and a model can be made that can answer the research question. for the second experiment in lab 5, the same system is set up as in experiment 1 but the weight is only added to the cart for each trial. the mass of the cart and the acceleration of the cart are measured, graphed, and a model is made just like in experiment 1. for the lab 06 experiment, we performed experiment one in lab 05 3 times, once without any tilt, once tilting the front of the track up, and once tilting the back up. the models for each are found and then tilt for each experiment and the values from each model can be compared. 
+
+	the slope of the graph for lab 5 experiment 1(figure 1) represents accerlation/force which when the units are reduced gets us 1/mass. the variable x represents the force and the y represents the acceleration. the y-intercept then is the acceleration needed to get the system moving. for experiment 2 in lab 5 (figure 2) y is the acceleration and x is the mass. for the lab 6 experiment, the y intercept represents the force/slope with no tilt and the slope represents the change in y-intercept/slope with respect to the tilt. 
+
+our equations are
+
+$a=2.863  f - 0.0053$
+
+$a = 2.863 f - 0.0632$
+
+
+$a=2.862 f - 0.0358$
+
+$a = 2.8717 f - 0.0255$
+
+$a=2.831 f + 0.1101$
+
+$a = 2.899 f  -  0.1228$
+
+other group's equations are
+
+$a=0.426 f - 0.1479$
+$a=0.359 f -0.0218$
+$a=0.308 f -0.025$
+$a=2.2236 f - 0.081$
+
+the other groups found similar results to ours. the y-intercept gets larger as the tilt increases. the other group found that adding magnets decreases the slope of the graph. 
+
+	some systematic errors could be the way the program collects data about velocity and a consistent discrepancy in the balance. some random error could be in the way the car is released (due to human error) and any discrepancy when measuring a distance and measuring the mass of the bobs. analytical balances, more accurate distance measuring tools, and a mechanism for consistently releasing the car from a distance would help in reducing random error in our data. 
+
+	the weights tested for this experiment were limited, with a range of only only 300ish grams. many more weights can be tested. also the length the car travels was only about a meter. we would more accurately be able to test friction if the length traveled was longer. 
+
+	one of our models is   using $f=m a$ and solving for a, we get $a =\frac{f}{m}$. our equation is consistent with newtons second law because we still have an inverse relationship between acceleration and mass. the other of our models is $a = 2.8678 f+0.0903$. once again we solve for a in the theoretical equation and get $a = \frac{f}{m}$. this is consistent with newton’s second law because there is still a direct relationship between acceleration and force.

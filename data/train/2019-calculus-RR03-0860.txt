@@ -1,0 +1,18 @@
+conclusion
+
+“how does the string length affect the period of a pendulum?”
+
+we conclude that there is a very strong, positive, power law relationship between string length and period of a pendulum. we modeled this relationship with the function is   , where length is in meters and p in seconds. the r-squared value is .9994, indicating that this model fits our experimental data very well. we tested these conditions with a constant mass of 50g and angle of release under 20 degrees. the range of values tested was a string length of .1855m to 3.352m. 
+our experimental model of  is very similar to the theoretical model. the slight differences can be accounted for in random error.
+
+“how does mass affect the period of a pendulum?”
+
+we conclude that mass does not affect the period of the pendulum. the period did not increase beyond the range of uncertainty of .040s for each measurement. we tested these conditions with a constant string length of 50cm and angle of release of 45 degrees. the range of values tested were from a mass of 50g to a mass of 210g. 
+
+“how does angle of release affect the period of a pendulum?”
+
+we conclude that there is a slight positive relationship between the angle of release and the period of a pendulum for an angle of release greater than 20 degrees. the period of the pendulum increased beyond the range of uncertainty of .144s, from 1.47±.07s to 1.65±.07s. the line of best fit is consistent with this relationship since it passes through the range of error for each measurement. we tested these conditions with a constant string length of 50cm and mass of 50g. the range of values tested was from an angle of release of 15 degrees to 76 degrees. 
+
+random error was introduced in our result through the variability in measuring the string length, angle of release, and period. systematic error could also have been present in the measuring instruments, so we compared our results with other lab groups. in lab 01, we reduced random error in measuring the period by recording the period after three cycles and averaging the results. in lab 03, we reduced human-introduced error by using a photogate to measure the period. also, all the masses used were premeasured weights that were manufacture to a great degree of precision.
+
+a constraint of this experiment was that we conducted these experiments within a limited range of values. because of this, our conclusion is limited to the range of values tested. also, we used string, while some pendulums could be constructed of a rigid rod.

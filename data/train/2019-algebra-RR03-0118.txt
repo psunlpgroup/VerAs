@@ -1,0 +1,29 @@
+discussion and conclusion
+
+	
+
+	a.) what affects the period of a pendulum?
+
+	
+
+	b.1) for the first graph, our group measured the relationship between the mass of the pendulum and the time it takes to complete one full period of a pendulum. we found that the mass of the pendulum and the period of the pendulum had no direct correlation meaning it did not affect the time it takes to complete one full swing. in our initial thesis, we assumed that the mass would have an effect on the period of the pendulum but after testing it we discovered that they in fact have no correlation. 
+
+	
+
+	b.2) for the second graph, our group measured the relationship between the length of the string and the period of a pendulum swing. in our initial thesis, we assumed that the length of the string would indeed affect the period of a pendulum swing and with further testing, we found that it did have a direct correlation and that the longer the string, the more time it took to complete a period. 
+
+	
+
+	b.3) for our third and final graph, we measured the relationship between the angle we dropped the pendulum and the period of the pendulum. in our initial thesis, we assumed that if we increased the angle of the drop, the period would take a longer amount of time. with further testing, we proved that they do indeed have a direct correlation and that the higher the angle, the longer the period. 
+
+	
+
+	c.) the theoretical mathematical model for the period of a pendulum is $t=1.99 l^{0.5}$. our data fits pretty well with this equation because when plugging in the numbers we found that it creates almost an identical graph to the graphs we made with the data we collected. in our initial research, we stated that both the angle and the length of the string affected the period of a pendulum but after using the equation, we discovered that only the length of the string has a direct effect on the time it takes to complete one full swing due to the only two variables in the equation being time and string length. 
+
+	
+
+	d.) in labs 1-3, our group concluded that random errors were present in the gathering of our data due to the lack of human perfection. a lot of these errors came with imprecise measurements such as timing the period by hand, eyeballing the angle at which we dropped the pendulum, and imperfect measurements of string length. in order to minimize error, we tried to become more precise. in lab 3, we were able to use the photogate to limit the human error of timing. we also tried to keep our other measurements of the string length and drop angle as constant and as perfect as humanly possible. 
+
+	
+
+	e.) some constraints that may limit the generalizability of our results could be that we only really measured in a fairly small scale and that if we widened the parameters at which we collected data, our results would be much more widely spread out, giving us a better representation of what the effects on the pendulum could have been.

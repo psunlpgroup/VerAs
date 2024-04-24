@@ -1,0 +1,15 @@
+discussion and conclusion  
+
+the purpose of these experiments was to figure out what factors affect the period of a pendulum. experiments were run to collect data and the data was recorded and graphed, making it easier to visualize the relationship each variable has on the period.
+
+
+
+for the angle of release, our prediction was the smaller the angle, the shorter the period. our results seemed to contradict our prediction, as in figure 1, the error bars clearly seem to overlap.
+
+next, we predicted that an increase in length of the string attached to the pendulum will result in a longer period. this was proven by our results, as there is a clear upward trend in our results in figure 2.
+
+finally, we predicted that a greater mass would result in a greater period. the results proved this wrong, as there is no clear trend in figure 3.
+
+
+
+due to random and systematic errors, we were not able to perfectly match the theoretical mathematical results. we could have had random errors in the measurement with the stopwatch, measuring the string length, and measuring the release angle. in order to reduce these errors, we could use a photogate and computer to record the results and make the length and angle measurements at eye level. systematic errors could have been made due to air resistance and due to the string getting longer with each swing. these systematic errors, however, will affect each test equally, and should not affect the precision of the results.

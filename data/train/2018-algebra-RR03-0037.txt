@@ -1,0 +1,11 @@
+Discussion and Conclusion
+
+What impacts the period of a pendulum for small swings. 
+Referring to the Weight versus period graph the weight has no effect on the period of the swing. 
+Looking at the Length versus period graph the length of the sting increasing results in the swing lasting longer each time. 
+Finally, looking at the angle versus period graph the angle that it was released does change how long the swing lasts. 
+Exponential is the trend line with the closest R^2 value to 1.0 of .9932, therefore it is the best mathematical model. 
+People bumping the table while the pendulum was in motion is one error. 
+Having only one person take the time of the swing is another. 
+Not dropping at the exact angle. Length of string not being exactly correct.
+Having a few people check the time, measure the string and check the angle can reduce the amount of error in the experiments. 

@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the research question being asked in this experiment was what factors in a pendulum effect the period of a pendulum, and which do not. 
+
+each of the three experiments addressed the research question because we tested a different variable in each experiment against the period of the pendulum. the first one compares the mass to the period, the second compares the release angle to the pendulum, and the third compares the length in the string to the period. we made claims that mass and period are not directly related, but length and period, as well as angle and period are directly related. angle and period were related as there was a pretty strong correlation between the two as the angle was increased by 10 degrees each time. mass and period were not related because on the graph, there was little to zero correlation between the two factors. length and period were related as there was a decent correlation, but not as strong as the correlation between angle and period. 
+
+mass did not affect the period of the pendulum and should not be included in the mathematical model.  length and angle of release did affect the period, and both experienced a direct correlation with period over the entire tested range. 
+
+our data fits with this model as there are correlations between length and period, as well as angle and period. looking at the graphs for these two relationships, all of the data points were decently close to being on the same straight line if a line of best fit were to be drawn on those graphs. this is not the same for the mass and period graph as those data points are all over the place and there is no relationship. the timer not starting and stopping the stopwatch at the exact time of start and stop is a factor that effects the period of the pendulum. 
+
+errors present in this experiment were human error with drop angle, as well as start and stop with the stopwatch. a systematic error that could’ve been present were the masses. although each mass has a number listed for how much that mass is, it could be off by the smallest of margins. to fix the drop angle, we could tape the protractor down so that each drop point is the same. also, the masses could be weighed with a scale to ensure that the numbers on each mass are correct and not inaccurate. 
+
+can’t think of any constraints that would affect these results.

@@ -1,0 +1,35 @@
+discussion & conclusion:
+
+
+
+in these two labs, the question of whether applied force affects the acceleration of a system was investigated. the independent variable in this lab was the applied force due to the mass at the end of the string and the dependent variable was the acceleration of the system. these variables helped to address the research questions because they adequately demonstrated the way in which the hanging weight affects acceleration. in figure 1, it can be seen that as the force (due to mass) increases, the acceleration of the system also increases. the standard error for this experiment was so small that they could not be seen on the graph (but they are stated in table 2). since the error was so small, it can be concluded that there truly is a difference between each of these data points, and the acceleration truly is affected by the force due to mass.
+
+
+
+in lab 06, a mathematic model was derived from the theoretical model as shown in the graph in figure 1. our mathematical model comes out to be ($y = 5.0372 x - 0.0374$). the results from my group are found in figure 2. our results included is  c1 is 5.0372, c2 is 0.0374, fexternal is 0.0074 n. our calculated value of $c1 =\frac{1}{m_{sys}}$  which is 5.296 kg-1.
+
+
+
+data from other groups are seen in figure 3 and figure 4. when analyzing results from group #1 in figure 3, it is seen that their mathematical model comes out to be ($y = 5.3 x - 0.006$).
+
+their value for c1 is 5.3 kg-1, c2 is 0.006, and their fexternal is 0.0011 n. by comparing their c1 and fexternal values, it can be concluded that their results support the results of my group due to the proximity of the values of the results.
+
+when analyzing results from group #2 in figure 4, it is seen that their mathematical model comes out to be ($y = 4.6961 x - 0.0841$). their value for c1 is 4.6961, c2 is 0.0841, and their fexternal is 0.0179 n. along with group #1, group #2 also supports the results of my group’s results due to the very similar results for these two experimental values when comparing it to the theoretical values.
+
+
+
+the theoretical equation for acceleration of a system by a single force is given by $f=m_{sys} a$. the experimental mathematical model $a=c1 x + c2$ is supported by the theoretical equation. $c1 = \frac{1}{m_{sys}}$ so it makes sense that these two equations support each other and are related to each other. as seen in figure 1, there is a linear correlation between force and acceleration. this is supported by the theoretical model because this model shows that, for a given mass, acceleration is directly proportional to the applied force, which is seen in the graph.
+
+the theoretical equation for the acceleration of a system by more than one force is given by $a=\frac{f}{m_{sys}} +\frac{f_{est}}{m_{sys}}$. the experimental mathematical model $a=c1 x + c2$ is supported by the theoretical equation. 
+
+
+
+in the scenario of a heavy string connecting the hanging weight with the cart, a prediction was made that “the more mass at the end of the string, the faster the acceleration.” this prediction was supported by the data and the graph. as the force due to mass increases, the acceleration also increases due to newton’s 2nd law ($f = m a$).
+
+
+
+possible systematic errors include is  the scale used may not be correctly calibrated which may yield inaccurate measurements. another systematic error could be that the data studio is not calibrated and may not yield accurate results for acceleration. this error could be reduced by taking time to calibrate all measurement tools. some random error associated with this experiment could be that we used a different person for different aspects of measuring results. this error could be reduced by using the same person for each measurement in order to be consistent.
+
+
+
+some constraints within this experiment is time allotted which means that multiple trials cannot be conducted. this generalizes the results. another constraint is the length of the track and the length of the string. this limits the tests that can be run to test different scenarios.

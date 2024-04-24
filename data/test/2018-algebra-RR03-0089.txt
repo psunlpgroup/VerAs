@@ -1,0 +1,19 @@
+discussion: 
+
+
+
+	in the first experiment, it was determined that the only significant variable that had an affect on the period value was the string length. the mass and angle had no direct or indirect correlation that led us to believe that they were a cause of any differentiating values in the period length. the relationship between the period length and the string length is positively correlated meaning that as one increases, so does the other. this is represented both in the chart from the first set of trials and the graph from the second evaluation. 
+
+	
+
+conclusion is 
+
+
+
+	from these observations we can conclude that we can deny the null hypothesis that there is no significant relationship between the string length and period length. there is clearly a positive correlation between the two in a power manner shown graphically in the second set of trials. the r^2 value of .99 indicates a very strong relationship allowing these conclusions to be drawn. 
+
+	the error bars can also help in determining which variable is of most importance in relation to period length. in the first sets of data the error bars are smaller in the string length chart, showing that there is a greater chance of there being a significant relationship affecting the period length unlike the mass and angle charts’ error bars. 
+
+
+
+	for there to be less systematic and random error in the experiment, the photogate was used in the second set of data which allowed us to eliminate any human error with the timing of each period. random error can greatly skew the results of an experiment which could be seen in the first sets of data of the angle and mass charts. these are not supposed to have any direct relationship that affects the period value but the data is varied. this is due to human error which was the focus on eliminating in the second set of string length data.

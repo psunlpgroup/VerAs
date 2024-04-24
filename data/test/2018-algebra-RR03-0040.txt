@@ -1,0 +1,9 @@
+discussion
+
+	although there were some errors experienced within these three experiments, we can assume that the only one that influences the amount of time it takes to complete one full swing is the length of the string the pendulum is tied to. we can see this in the graph for experiment two because you can not draw one straight line through each of the error bars. however, this does not prove that this is the case, because there are large error bars we can only assume this to be true. we knew that most of our error came from the reaction time and errors with the stop watch. to account for this, we set up another experiment with an electronic counter that measures the period of the pendulum for us which eliminates a lot of error. 
+
+
+
+conclusion
+
+from the final experiment conducted we can conclude that the length of the pendulum is the only thing that effects the time it takes to complete one full swing. the error bars on the graph above are insanely small because there is very little error with the counter we used. this proves our prediction about the connection between the length of the period and

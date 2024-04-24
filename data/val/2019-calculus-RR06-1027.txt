@@ -1,0 +1,21 @@
+discussion
+
+systematic 
+
+the measuring device could have potentially skewed our data one way of the other without us really knowing. it is not likely, but a possibility. one way we could fix this is to use another measuring device and system, but like i mentioned above we would have no way of really telling if our measurements were slightly greater or less than they were supposed to be.
+
+random
+
+one random error that could take place is collecting the data from the graph. the data was collected and displayed on the screen for us to collect, but we had to highlight a certain section each time in order to record the data’s slope. each time, a different portion of the slope was highlighted than the previous one. different distance of the slopes was highlighted as well. this is one of the reasons we took multiple trials of each measurement. this seemed to help in case we did not get the correct slope for one of the readings. to really make sure this is an irrelevant error, you could take more data points, or use the slope of the whole line to be consistent each time. i believe this would help negate this error.
+
+the other random error that was present in the data was the reliability of the string attached to the wheel. sometimes, the string would fall off which would lead to undesirable data and data we couldn’t use. it just got me thinking how much the string moves back and forth in the wheel, which could alter the readings of the measuring device. if you had a heavier string, this might be able to solve this random error. maybe if the string was made of a different material as well, it would slide on the wheel more efficiently.
+
+constraints
+
+	one constraint was that the track could not be 100% frictionless. in the lab setting it was as good as you would be able to get it, but there would still be friction in some places like on the string and the wheel. this would affect the true value of the acceleration, because it was said to be frictionless.
+
+	another constraint is the masses used. they were hanging off of the sides of the cart and may not have been directly contributing to the mass of the cart. they were also not able to be measured exactly because of the uncertainty in the measurement. this would throw off the data gathered when the masses changed and not lead to an accurate measure of acceleration.
+
+	a third constraint was the measuring device used. i believe it was accurate, but not as accurate as possible. when the graphs of the acceleration were printed out onto the screen, there were lots of spots where the graphs would dip or not be read correctly, which would skew the data. this constraint could lead to inaccurate force measurements which would give an inaccurate representation of the acceleration. 
+
+	the last constraint that i am going to mention is the other forces acting on the cart. this could include air resistance and human forces acting on the cart while it was moving. the cart still had to be released by someone which could have affected the acceleration of the cart. the experiment was also not in an environment without air, so air resistance could have slightly decreased the acceleration of the cart.

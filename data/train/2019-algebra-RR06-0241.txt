@@ -1,0 +1,21 @@
+conclusion
+
+the purpose of this lab was to look into the mathematical models that describe the system of two masses, one of which is hanging and one that is on a frictionless surface and what affects the acceleration of the system. we discovered this in lab 005. in lab 006 we looked into what exactly the numbers mean and where they come from and looked into three things we thought that caused error during lab 005. during lab 006 we developed an understanding for each variable and numerical value included in the model.
+
+when looking at the three experiments, lets take closer look at the numbers that excel sets up for us. on graph 1 it gives us $y=28.424 x - 0.03$ where y is the acceleration, x is the weight of the hanging mass and 28.424 is the force over the mass of the system and .0304 is something affected the acceleration outside of gravity whether it was friction, or slope of the frictionless track. because there is some number at the end it shows us that there was something very small affecting the acceleration so in lab 006 we investigated it. 
+
+now on graph 3 on day 2 on graph 1 it gives us $y=0.3403 x$ where y is the acceleration, x is the weight of the hanging mass and .3403x is the force over the mass of the system in kg and .004 is something affected the acceleration outside of gravity whether it was friction, or slope of the frictionless track. now because we were investigating what happens when we slope the track so that it is sloping down, increasing the acceleration we can assume that the .004 is due to gravity pulling it down the track aside of the hanging weight. 
+
+
+
+these are two other groups that experimented with other variables to see if they affected the acceleration of the system. the picture on the left, group 1 ran the exact same experiment that we did, and we would agree with our data. they state that the increase in slope downwards makes the system accelerate faster. group 5’s picture on the right, in black investigated to see if increase of friction makes the object accelerate slower. they came up with the conclusion that yes, increase of friction makes the acceleration decrease.
+
+as stated earlier, the number at the end of the mathematical model shows what the factor did to affect the acceleration. now after these experiments, we can assume to find positive numbers at the end of the mathematical models, implying that either friction or slope does affect acceleration and it will show up in a mathematical model. 
+
+the systematic error in this experiment could have been the scale when we measured the weight of the mass of the system. another could have been the photogate machine used to tell us the acceleration at the end of the track. random errors in this experiment could have been when we started timing the object in motion when we clicked on the computer to start timing. in the future we could all use the same scale or an electronic scale that we could zero to ensure precise results. 
+
+the only constraint i could think of for this experiment would be if we didn’t test enough. as we take more tests, we would have more data to average and thus allowing for more data to take into account. 
+
+these mathematical models show a great example of newtons second law. we can see that the number in front of x in the equations is in fact the force over the mass. as we double check on our own with calculators we can confirm that in fact everything checks out and that it is accurate.
+
+2019 university of cincinnatilab 06 – force and motion part ii     page 7

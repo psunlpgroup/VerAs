@@ -1,0 +1,15 @@
+conclusion:
+
+question: what affects the period of a pendulum’s swing?
+
+	mass vs time: graphing the data for mass vs time has shown a general graph of no correlation.  in adding a trendline to this graph we also see that it is almost completely horizontal (look at picture of white board for details). this shows that no matter what the mass is added to the pendulum, it will swing in the same amount of time. this also makes the original claim that mass affects the period is wrong.
+
+	length vs time is  graphing the data for length vs time showed a strong positive correlation between the data points and at looking at the trendline shows a very good fit between the points with a positive slope. this shows that the longer the string, the longer the pendulum takes to go through one period. this also shows that the original claim that length affects the period is right.
+
+	angle vs time is  the graph for angle vs time showed a (slight but still present) negative correlation between the data points and looking at the trendlines shows another very good fit between the data points; however, this time a negative slope is shown. this shows that the larger the angle (closer to 90 than 0) the less time it takes for the pendulum to swing a full period. this also shows that the original claim that angle affects the period is right.
+
+	mathematical model is  it is widely accepted that the equation for pendulum motion is
+
+$t=2 \pi \sqrt{\frac{l}{g}}$. as mentioned above, we found that the length and angle have an effect, but the mass doesn’t. in this equation the length, l is directly in the equation, and angle, which is used to calculate g, is also used. the mass is not used which further helps our claims.
+
+	constraints is  the lab was mostly constrained by time and measuring tools. in order to get a full, complete measurement, we would need a more accurate way measuring angle and time; however, we were still able to see general trends with what we had. if we were given more time, we would have been able to run more trial to completely solidify our findings.

@@ -1,0 +1,17 @@
+discussion and conclusion
+
+	the research question that was being investigated in this lab was how the applied force changes the acceleration of a system. the experiment that was performed addresses the research question because the applied force was changed to observe the acceleration of the system. when the applied force was increased the acceleration of the system increased with a linear relationship.  the mathematical model found in figure 1 was $y=5.1095 x - 0.029$. this mathematical models shows that when x, the applied force, is increased y, the acceleration of the system, increases as well. the findings were consistent with all groups except for one group. here is the whiteboard from group 1 section 17 fall 2018 is 
+
+
+
+this graph illustrates a linear relationship between applied force and the acceleration of the system which is the same thing that our graph shows. the groups data that disagreed was from group 3 section 17 fall 2018. here is their data is 
+
+
+
+	this group’s data disputes the data collected by my group. my data showed a linear relationship between the applied force and the acceleration of the system whereas group 3’s data shows a power relationship. this power relationship contradicts the findings of all other groups in lab. this relationship may be a result of an error in equipment or method. 
+
+	the theoretical mathematical model is $a = m x +c$ and the experimental model is is     $y=5.1095 x - 0.029$. the experimental model is very closely related to the theoretical model. the most significant force acting on the system is the force applied by the mass of the bobbers hanging off the cart, but there are other forces acting on the system. these forces include air resistance and friction. these forces are extremely small, but have a slight impact on the equation. they are accounted for in the experimental model by subtracting 0.029 and in the theoretical model by the constant, c. the theoretical model can be rewritten as                         $a =m x +c$. the mass of the system is 0.1863 kg and  it is 5.368 which is very close in value to 5.1095 in the experimental model. if a non-massless string were used it would need to be accounted for in the total mass of the system. increasing the mass of the system would slow down the acceleration. 
+
+	there could have been random error present in this experiment. to help reduce the random error 3 trials were ran for each applied force and the average was taken. there may have been systematic errors present which would have skewed the data one way. a systematic error could have been caused by the balance being uncalibrated or the velocity reader being damaged from prior use. another source of error could result from an inconsistent air flow on the track. systematic errors could be reduced by using a different balance, velocity reader, and track. one constraint that could limit the generalizability of these results is the air track. the air track that we used had a specific air flow and another track may not have the same rate of air flow which could yield slightly different results. another constraint is the applied force. the applied force is dependent on gravity which limits the generalizability of the results. 
+
+

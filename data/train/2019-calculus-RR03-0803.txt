@@ -1,0 +1,13 @@
+conclusion:
+
+in this experiment, we as the question “what impacts the period of a pendulum?” from the information we get from the graphs, we can see that only length impacts the period of a pendulum. the graph has no overlap in error bars while also having a noticeable difference in time as the length increases or decreases. 
+
+both mass and angle of release have an overlap in error bars while also not having a big change in time with the change of independent variables. this means that there is no correlation with the period. 
+
+by using photogate, we accurately measured each period with different string lengths to plot our graph. from the graph, we can see that the line of best fit is an exponential curve. since the closer the r2 value is the 1, the more accurate the line is, our data would be extremely accurate. our equation of the line is is  , which comes from the equation is  . 
+
+some random errors from our experiment would be with the human stopwatch. the reaction time differs from person to person. this could shift our graphs either up or down. another random error would be measuring from the top to the center of mass of the pendulum. measurement of angle of release might be another error because of inaccurate measurements. systematic errors include stopwatches no being calibrated accurately. the masses of the weights might also be off, and the protractor may not be marked accurately. all these errors shift all results in one direction. 
+
+to reduce random errors, you may take multiple trials of the same test and average out the results. to reduce systematic errors, you can use new equipment or use a machine such as photogate to measure the time for you. 
+
+some constraints of this experiment were that we did not use angles big enough to affect the period of the pendulum. another constraint might be the material of the string. different kinds of string might change the time to complete an oscillation. for the next experiment, we could test different materials for the string and bigger angles to see if there is a correlation.

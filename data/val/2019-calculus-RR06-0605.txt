@@ -1,0 +1,32 @@
+conclusion:
+
+how does the acceleration of the cart change when other factors are changed?
+
+
+
+the experiments ended up leading to the mathematical models we got based on their negative correlation with the acceleration of our cart, as seen in figures 8,10 and 12. our team had determined that, as the mathematical model was in the form of $y = m x + b$, then the y represented the acceleration that the cart had. the m would be the slope of our line. the x would be the mass that had not been hanging off of the string. the b would be the acceleration once all of the additional mass is hanging off of the string.
+
+
+
+
+
+
+
+	      the data shown is from another group in the lab who tested the same experiment that our group did. although it differs slightly, they received similar results. the differences could have been because of the difference masses that each group had for equipment such as bobbers, carts, and magnets.						
+
+
+
+
+
+
+this group’s data obviously differed from our results, though it is able to show the way other factors may affect the cart’s acceleration within our lab setting.	
+
+random errors may have happened when weighing masses, as multiple people were reading out the different weights, using a digital scale, or consistently having the same person measure could prevent this. increasing the amount of data collected can also reduce it.
+
+
+
+there were constraints in the equipment available, such as amount of weights and length of track. a larger lab setting may acquire more succinct results.
+
+
+
+considering newton’s second law, 1/m is the value of our c1. in our first test in the experiment, the c1 had been equal to 0.0238. it had a calculated value that was 0.0158. in our second test conducted, the c1 had been equal to 0.0238. it had a calculated value that was 0.0118. in our third test conducted, the c1 had been equal to 0.0222. it had a calculated value that was 0.0093. altogether the values we reached in this experiment may not appear to be reasonably close, however it is possible that masses could have been calculated incorrectly as multiple people were measuring the masses. the c2 in the system is the acceleration of the cart if all of the system’s mass was on the cart because that would make the system reach a point where its mass would be equal to 0.

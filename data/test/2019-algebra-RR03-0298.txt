@@ -1,0 +1,5 @@
+discussion and conclusion
+
+	  during this experiment we were testing the question: “does the length of the string affect the pendulum?”. we can see that the length of the string does, in fact, affect the period of the pendulum. looking at figure 01, we can see a positive relationship between the length of the string and the period of the pendulum is  as length increases so did the period of the pendulum. our r2 value, 0.9938, shows that it is almost but not quite a linear increase. the error bars are unable to be seen since they are so small, this shows that our data is very accurate and reliable. our theoretical equation is , this shows us what amount the period will increase as we change the length of the string. 
+
+	one error our group made was using an angle that could potentially affect the data. we used 45 degrees for each trial, rather than using and angle <25 degrees. an angle less <25 degrees will not affect the data at all. if preformed again we would use an angle <25 degrees to reduce any chance of that affecting our data.

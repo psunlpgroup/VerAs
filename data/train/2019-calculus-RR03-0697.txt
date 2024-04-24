@@ -1,0 +1,11 @@
+conclusion
+
+
+
+the only factor that determines the period of its pendulum is the length of its string. weight and angle of release are not related to the period. 
+
+the data in the charts supports the claim because the only factor that correlated to the period is length of the string. 
+
+other possible factors include inaccurate data due to not being able to tell the exact completion of a period. releasing the pendulum at the wrong angle due to a protractor being a questionable tool for this experiment could also be a factor. 
+
+improvements could include using a better tool to measure degrees and using the white board to help measure the period.

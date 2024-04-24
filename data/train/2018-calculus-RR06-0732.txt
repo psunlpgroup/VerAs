@@ -1,0 +1,10 @@
+conclusion:
+The question in this experiment is whether the acceleration changes with weight and the answer to that is yes it does as the mass of the suspended weight increases so does the acceleration. The R-squared is 0.9959 which is really close to 1 which says that it’s a really close fit. There is error in this experiment as shown by the super tiny error bars, but it’s just a really small error. The error we came up with is the systematic error of the scale and weighing the hanging mass, the friction against the rail, and the uneven air flow in the rail. 
+
+
+	The picture above shows the data collected from the group NOG. The hypothesis of the applied force of the suspended mass system is related to the acceleration of the cart system is similar to our group’s hypothesis of as the mass of the suspended changes so will the acceleration. Their group has the same linear trendline as our group. We also had some of the same factors of why there was error like friction and uneven air flow. 
+
+
+
+The other group’s data we compared to was the group, KAR. This group also had a very similar hypothesis to our group’s. Their trendline is the same although the equation differs because that varies with error. Although their coefficients are different they have the same way of getting the mathematical model. 
+	In this experiment we get an equation for force which is our theoretical model, $F_{total} = F_{hanging} + F_{unknown}$ , and we use this when we get our equation from our graph. When we get our equation of  $y=0.0413 x+0.0209$ we can use the theoretical model to get our mathematical model. In the equation x is our Force of hanging and if you factor out 0.0413 that is the 1/mass of the system. So when we get the force unknown which is equal to 0.0209 divided by 0.0413 or the mass of the system we get the force of the unknown. Our new equation for acceleration becomes $a=\frac{F_{system}}{m_{system}}+\frac{F_{unknown}}{m_{sysytem}}$. In conclusion our prediction is correct that as mass of the suspended weight increases so does the acceleration.

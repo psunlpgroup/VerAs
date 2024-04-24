@@ -1,0 +1,20 @@
+
+discussion and conclusion:
+
+research question: does the acceleration of the cart system change when we change the angle and/or the hanging mass? is the magnitude greater for the angle change or mass change?
+
+to test these questions, experiments were set up to isolate the independent variables and later combine them to make sense of data. the first set of experiments, from the first day, simply changed the hanging mass and then tested the difference between changing the hanging mass and the weight of the car on the track. since the change of accelerations from changing the hanging mass was the only significant experiment moving forward. the second set of experiments included changing the mass incrementally and changing the angle every set of increments. the data that was formed included consistent acceleration data for 3 different angles on each side. this produced 6 graphs. 3 for the positive angles, and 3 for the negative angles.
+
+this data showed a linear relationship between acceleration and manipulation of the hanging mass.
+
+group 6 had the same relationships as the instructor indicated, and their relationships between the positive vs. negative angles were the same as ours. the data was significantly similar. below, pictures of our team and team 6’s whiteboards compared is 
+
+
+
+in simpler terms, the experiment to understand the effect of hanging mass on acceleration proved the hypothesis. this means that the hanging mass made the acceleration of the system increase as it increased. 
+
+in the first lab report, the relationship is a linear. this means that there will be a y-intercept mostly due to error in some form. the errors can be found in is  release point, data collection(translating the slope from the graph), and the overall friction on the track.
+
+it is interesting to note that the relationship between the acceleration vs mass of cart on track is 1/x. it is not a linear, and this can be demonstrated with $f=ma$. solving for a, we get  $a =\frac{f}{m}$. since force is constant(the hanging weight), the m will go to a larger and larger number, essentially creating a 1/x relationship, which goes to 0 over increasing time. it is not a linear relationship, so it cannot be explained with the same terminology as the other tests. 
+
+constraints – when changing the angle, the slabs that were put under the legs of the track were constant. this means that the angle could only be changed 3 times for a combination of only 3 different angles. other constraints include is  the number of masses added to the hook(40 grams, or 8 bobbers), amount the angle was changed, distance the mass moved before it was rejected back from the farthest point down the track, and the mass of the car on the track.

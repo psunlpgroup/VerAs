@@ -1,0 +1,21 @@
+conclusion:
+
+	at first glance after data collection, it appeared that mass and release angle had no impact on the period of the pendulum, while length had a linear relationship with the period of the pendulum. however, when all the class data was combined, different results were found for the tests. 
+
+	for mass, it was shown that there was no correlation to the period of the pendulum. while the line of best fit for our mass versus period data had a negative slope, the correlation of the data was horrible, with a best fit r^2 value of around 0.5. a good correlation value would be around 0.99. because of this correlation and because the slope of the best fit line was very close to zero, the group concluded that mass had no correlation to the period of the pendulum. when all of the class data was combined, this was proven, as all other groups found that mass had no measurable impact on the period of the pendulum’s swing.
+
+	for release angle, the group concluded that there was no correlation between release angle and the period of the pendulum. the graph of the data that was collected by the group had a very weak correlation, and also a slope very close to zero, therefore the group concluded that there was no correlation. however, when the entire lab class data was reviewed, it was shown that there was in fact a relationship between release angle and pendulum period. the release angle does impact the period if the release angle is above 30 degrees. the reason our group did not arrive to this conclusion is because release angles up to 30 degrees were tested, however nothing over that angle was tested for the group. release angle has no measurable impact on period when it is below 30 degrees, however above 30 degrees there is a positive linear relationship between release angle and period.
+
+	when the data for length vs period was graphed, it was shown, at first, that there was a linear relationship with a good correlation between length and period. this was also shown when the entire lab class shared their data, it was with great certainty that a relationship between string length and period was found.
+
+	through further testing with the photogate system, it was shown that this relationship was in fact non-linear, the data instead fit a square root profile. the equation for the line of the lab group data was as follows.
+
+$t=0.222 l^{0.4823}$
+
+	this equation was very close to the theoretical equation for pendulum length. the theoretical equation is as follows. 
+
+$t=0.2 l^{0.5}$
+
+	there are a few reasons that out line of best fit is not the same as the theoretical. this is due to the measurement of the string length not being perfectly accurate, due to the need to measure the length from one end to the center of mass of the pendulum which is very difficult to do. in addition, the other data is skewed due to human reaction time with the stopwatch. there is around a 0.2 second error with the stopwatches, and even with using multiple stopwatches and trials, error is still present. this error could be reduced by always using the photogate, and having all group members measure the length of the pendulum and average the data recorded to get a more accurate length measurement.
+
+	in conclusion, the group hypothesis was partially correct. only release angle and length were proven to have a relationship with the period of the pendulum, while mass had no relationship to the period of the swing.

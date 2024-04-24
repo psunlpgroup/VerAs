@@ -1,0 +1,15 @@
+discussion and conclusion
+
+the question of if the mass of the accelerating force impacts the acceleration of the system was answered by performing the previous experiment. 
+
+the experiment shows that as the mass of the accelerating force increased, the acceleration of the system increased linearly alongside it. this can be proven by the included data table, but also by looking at the graph of acceleration vs. applied force. from this graph it can be clearly seen that as force increases, acceleration also increases. the mathematical model taken from the graph can be seen as $a=0.0053 f - 0.0306$. 
+
+the mathematical model our group found can be compared to others group’s models as well. for example, group 3 and group 5. in both groups the experiment they performed was identical or near identical to ours, with only slight differences such as more controlled variables with group 5. group 3 came to the conclusion of a mathematical model of $a=0.005 f - 0.033$ and group 5 came to the model of $a=0.0045 f - 0.0699$ both of which are extremely similar to our model and the theoretical model, which we came to find as $a =\frac{f}{m}$. both other groups also had a small opposing force, represented by the small subtraction, which we stated was due to friction on the track. 
+
+with further investigation into the theoretical model, $a =\frac{f}{m}$, the slope of our graph should have been 1/m or .0058; however, our slope was .0053 which we believe was caused by slight errors in weighing masses on the balance and the uncertainty of acceleration given by the program datastudio. our model also includes a slight opposing force of friction which does not appear in the theoretical model. 
+
+if the experiment was performed with a string that had significant weight it would have to be accounted for in the mass of the system. this being said, the experiment would be performed the same and the same model would arise as the string would just increase the mass of the system slightly. 
+
+possible errors that can be accounted for can be seen as the systematic errors of the balance and the datastudio program, both of which were discussed under the data table and graph previously. possible random errors that could happen that were reduced using the same bobs to keep the mass of the system the same instead of using different bobs each time and by releasing the cart at a similar distance along the track each time. this we hoped would keep friction similar instead of varying and would also help to control the experiment. 
+
+possible constraint within the experiment were only being able to add about 8 bobbers to the system, which reduced the amount of trials that could take place, and the length of the track used. the lowered amount of trials may impact the model that was calculated and the length of the track may make a difference, however, we could not test this due to only having a small area in which to run our experiment.

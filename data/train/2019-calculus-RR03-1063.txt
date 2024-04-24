@@ -1,0 +1,23 @@
+discussion and conclusion
+
+in this experiment, several factors were tested to see what variables most greatly affect the period of a pendulum.
+
+
+
+each of the three experiments addressed the research question in a different way. the first experiment simply set up the experiment and the order at which tasks should be carried out. in the first experiment the general claim about which factors affected the pendulum and how were made. the string length and angle of release both had a direct relationship with the period while the mass had no affect at all. the claims shown to be true with all other factors held constant.
+
+in the second experiment, the ranges of uncertainty were observed, and the accuracy of our measurements were brought into question. ultimately, our claim held valid. after the addition of our ranges of uncertainty, it was shown that the data still held up with no significant errors made that would affect our claim. for the length and angle tests, no ranges between different iv values overlapped each-other, and for the mass, every value had an intersection as there was no correlation at all and the values should have been all the same.
+
+in the final experiment, the mathematical model of the data was addressed. the length of the string was chosen to be the main variable that the model would be created for. with the creation of the model, our values still held up as the line of best fit of the points resulted in a power equation. this equation is the appropriate one for such situations.
+
+
+
+the mathematical model created from our data was . this came from the line of best fit of our plotted data where there is a power relationship between x and y. as x (the length of the string) increased, y (the period) also increased but by a significantly less, though proportional, amount. this relationship resulted in the power model shown. the time of the period increases with the increase of string length because the length acts as the radius of the arc that the pendulum sweeps out when it swings. additionally, if we consider the following equation , we can see that the length directly affects the time. if it were a smaller value, the time would also become less as well. by observing this equation, it can be seen that other factors such as mass and height would not affect the period of the pendulum.
+
+
+
+errors that were present consist of only random errors due to human imperfection. the main random error that was prevalent was due to the imperfect timing of pressing the stop button on the stopwatch. in the initial trials, outliers could be seen where the time was off for one trial greater than another. this was eliminated by the photogate in the third experiment. other minute errors may be not holding the pendulum to a complete 90 degrees when releasing it. however, a difference of a decimal of a degree may not affect the values too drastically.
+
+
+
+the experiment being done in a controlled environment affects generalizability to some extent. in other situations, not all factors could be held as constant as in this lab. for example, in other environments, there may be wind that would push the pendulum in certain directions, this would act to speed up or slow down the period at some level. there are many other environmental factors that could not be simulated within the lab room.

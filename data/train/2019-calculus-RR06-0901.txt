@@ -1,0 +1,19 @@
+discussion and conclusion.
+
+	a. our objective for lab 5 and 6 was to discover the distinctive relationships that exist between quickening, mass and changing powers in the framework. we endeavored to discover variable mass could influence the quickening of the framework that as the mass expanded the speeding up diminished with time. in addition, in another circumstance where we continued changing the power, we found that a similar relationship for example increasing speed diminished with diminishing power. additionally, in lab 6 we found that magnets had no effect on the framework. 
+
+	
+
+	b. the logical model that we got for lab 5 was power as opposed to expanding speed is $y=4.6491 x - 0.01$ and our r^2 regard which was 0.9998. the preliminary showcase supports newton's second law since it displayed how the mass was the fundamental factor in the power associated that changed the expanding rate of the structure. c1 addresses the power, c1 is 2… . the characteristics are close to the given parameters of the lab. (our c1 regards are around 0.6 in light of the way that we always kept a 50-gram weight on the pulley) m/s. c2 is whatever iv you were having a go at, skimming tilting c2 was dependent on how much tilt, and positive or negative if the pulley was at the lower end or the higher end independently. for our examination c2 was in close contact.
+
+	
+
+	d. we found that the biggest mistake was 0.008. different mistakes that could be conceivable can be orderly blunders because of the magnets in lab 6, since we found that the truck followed when we brought the magnets underneath. this occurred with all the 8 unique preliminaries, accordingly reasoning that it was a methodical blunder. these mistakes could be improved by utilized well constructed bar magnets as our bar magnets were a tad tilt. a variable that could be changed is the length in which the truck needs to quicken. this would be practiced by expanding the string length and enabling the truck to quicken over a more drawn out separation. 
+
+	
+
+	e. there were sure requirements like the frictional opposition on the pillar and the air drag. we had no power over these components and could just make the best outcomes by directing the analyses two or multiple times. 
+
+	
+
+	f. the two trial show are genuinely predictable with the newton law $f= m a$ as we found the immediate relationship between's the three quantitates in our investigations. as the law recommends, mass is contrarily relative to the increasing speed of the body, we found the equivalent in our test for example as we expanded the mass the quickening diminished. on the opposite side, as the law says that the power is specifically relative to the quickening, we found that as we expanded the power the speeding up expanded.

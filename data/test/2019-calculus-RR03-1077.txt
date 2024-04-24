@@ -1,0 +1,261 @@
+discussion.)
+
+
+
+
+
+
+table 5. data for investigating effects of mass on string length
+
+
+
+
+
+pendulum mass (g)
+
+
+
+
+
+50
+
+90
+
+110
+
+time of period (seconds)
+
+trial 1
+
+1.25
+
+1.25
+
+1.35
+
+
+
+trial 2
+
+1.16
+
+1.25
+
+1.25
+
+
+
+trial 3
+
+1.34
+
+1.33
+
+1.32
+
+
+
+
+
+figure 2. graph of mass vs time-length of pendulum period
+
+
+
+(see bottom of data/graphs section for measurement uncertainty discussion.)
+
+
+
+
+table 6. data for investigating the effects of release angle on period length of pendulum
+
+
+
+
+
+release point angle (degrees)
+
+
+
+
+
+20
+
+40
+
+60
+
+time of period (seconds)
+
+trial 1
+
+1.39
+
+1.5
+
+1.76
+
+
+
+trial 2
+
+1.37
+
+1.53
+
+1.63
+
+
+
+trial 3
+
+1.27
+
+1.52
+
+1.77
+
+
+
+
+
+figure 3. graph of release angle vs time- length of pendulum
+
+
+
+(see bottom of data/graphs section for measurement uncertainty discussion.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+figure 4. mathematical model of period length (string length)
+
+
+
+
+
+figure 5. mathematical model of period length (release angle)
+
+
+
+
+
+
+table.7 data for investigating ranges of uncertainty in the pendulum lab (left)
+
+figure. 6 graph of trail number vs time of period (right)
+
+
+
+
+
+time of period (seconds)
+
+1
+
+1.5
+
+2
+
+1.52
+
+3
+
+1.51
+
+4
+
+1.58
+
+5
+
+1.53
+
+6
+
+1.5
+
+7
+
+1.45
+
+8
+
+1.64
+
+9
+
+1.58
+
+10
+
+1.51
+
+
+
+
+
+standard deviation
+
+0.053913511
+
+
+
+
+
+average
+
+1.532
+
+
+
+uncertainty discussion is 
+
+	the independent variables for the experimentation included mass, length of string, and the release angle for a pendulum. since the only dependent variable for this experimentation was the time of the period, time was the only measurement that needed an uncertainty evaluation of the recorded values. the length of time was recorded using standard stop watches. since these stopwatches measured to one hundredth of a second (0.01), the measurement of uncertainty for the time data was calculated to be 0.005 seconds. using this range of uncertainty and comparing our data collected, it can be concluded that the conclusions made from the lab are still accurate, as they still fall within range of having significant differences to provide evidence that the length of the string and release angle of the pendulum effect the period length.
+
+
+
+
+the goal of this experimentation was to answer the research question, “what impacts the period of a pendulum?”. the three possible factors that contribute to the period of a pendulum that were explored were the length of the string, the mass, and the release angle from the vertical of the pendulum. 
+
+the exploration of the length of string as an independent variable and its potential impacts on period length stemmed from the fact that the length of the string partially determines the length of the path the pendulum follows during its period. therefore, the first initial claim made to the factor string length has in the period of a pendulum was as follows is 
+
+the string of the pendulum directly affects its period.
+
+
+
+from this claim we predicted that the longer the string length was, the longer the period would be, since the path of the pendulum would be longer and therefore would take more time to travel. after experimentation with string lengths of 30 cm, 40 cm, and 50 cm, we found this claim to be true in our test cases. as seen in table 4 the average of the first run with 30 cm was 1.10 seconds, while the average for the last run with 50 cm was 1.63 seconds. this significance is to be noted, since considering the uncertainty values found in figure 6, the time of 1.0105 seconds to 1.625 is still a significant difference. this claim is additionally supported by the graph of the string length vs time of the pendulum seen in figure 1. since there is a consistent positive slope for the line of best fit, this supports our original claim that as the string length gets longer, the period also gets longer.
+
+the exploration of mass and its potential impact on period length stemmed from the fact that the mass of a pendulum is a major factor in the overall size and shape of the system, and the idea that the gravitational force is subsequent to the mass of the object under gravitational pull was addressed. therefore, the second initial claim made to the factor mass has in the period of a pendulum was as follows is 
+
+the mass of the pendulum directly affects its period. 
+
+
+
+from this claim we predicted that the heavier the mass of the pendulum, the shorter the period would be. after experimentation with 50 g, 90g, and 110g masses however, we found this claim to be false. as seen in table 5, there is not a significant difference in between the three different masses, which can be seen by trials 1 – 3 for masses 50 grams and 90 grams, the averages were 1.25 seconds and 1.27 seconds respectfully. regarding the level of uncertainties for both being 0.005 seconds, shown in figure 4, the potential value of 1.25 seconds equaling 1.255 and 1.27 seconds equaling 1.265 is a possibility, where the measurements would only be off by 0.01 of a second, which is too small of an amount to conclude that the time period changes when mass increases regarding the uncertainty. this conclusion that our claim is false is also supported by the values plotted of the length versus time of the pendulum swings in figure 2, where the slopes of the graphs along with their positions falling in an almost horizontal fit, which shows that there is not a significant change in the time of the period since there is a lack of consistent increasing in the time interval of each equation. the graphs of the data also intersect, as seen in figure 6, supporting the earlier stated possibility that the true values of the time of the period did not change.
+
+the exploration of release angle as an independent variable and its potential impact on period length stemmed from the fact that the degree of the release angle would play a role in the length of the path followed by the pendulum. therefore, the third initial claim made to the factor release angle has in the period of a pendulum was as follows is 
+
+the release angle of the pendulum directly affects its period.
+
+
+
+from this claim we predicted that the larger the release angle from the vertical axis of the pendulum, the longer the period would be, since the path of the pendulum would be increased. after experimentation with release angles of 20, 40, and 60 degrees from the vertical, we found this claim to be true for our data. as seen in table 6, the length of the period increases with an average of 0.45 seconds between the trials of 20 and 60 degrees. assessing the level of uncertainty for the time measurement, as pictured in figure 6, we can conclude that even considering the possible true values of measurement, there is still a significant change seen in the time of the period. this conclusion is further supported in the graph of release angle vs the length of the period in figure 3, as the slopes of the lines of best fit for each trial are positive, indicating that the length of the time period increases as the angle of release increases.
+
+the mathematical model was generated by our experimentation for the length of the period of a pendulum with the addition of the photogate, which allowed for us to eliminate some of the discrepancies in accuracy. the theoretical model for the period of a pendulum is   . the experimental model developed through excel is linear, whereas the theoretical model is a quadratic function due to the square root of length over gravity.  however, both the theoretical and derived mathematical model share a constant before their independent values. the coefficient of the string length experimental model is 0.0148, and the coefficient of the release angle experimental model is 0.0012, as shown in figure 4 and figure 5.  however, the theoretical model has a coefficient of 6.283.  the vast difference between these values could be a result of the different function formats used to mathematically represent the period length.  another explanation is the units used on each graph.  the string length graph uses centimeters rather than meters, and the release angle graph uses degrees rather than radians.  this would result in a completely different set of equations for determining period length. although the theoretical equation and the mathematical equation we derived were not the same, the data for string length and for release angle still model the direct relationship between the two and the period, shown in figure 2 and figure 3. since there is still a positive increase, the models created in the lab are still supportive of the theoretical equation.
+
+one type of error that was consistently seen throughout the lab process was the random error of time measurement when the period was being measured by a stopwatch and the person timing it determines when the period got back to the stop. since this way of measuring the time values is dependent on not only the person timing the stop watch, but their reaction time and judgement of when the pendulum is back at the top must be considered. since these errors are random and could provide data that is both higher and lower than the theoretical value, there are random errors found throughout the data that can be attributed to this. one way to decrease the amount of random error in the time measurement is to eliminate the factor of human reaction time, which was done in our testing for the mathematical equation using a photogate. the photogate eliminates the error due to reaction time and therefore provides more consistent results. the photogate is not completely free of error though, as systematic error is still possible. another error that was consistent throughout our experimentation was the fact that the string length was measured from the top of the pendulum bar, not the middle of the mass itself. this led to our data being systematically less than what the true values were, since there was added length to the string that was not accounted for. a way to reduce this error is to understand the mechanics of the pendulum and to try to measure to the closest of the middle of the mass as possible.
+
+some constraints that play a factor in limiting our results are the lack of space and materials available for the experimentation. the lab setup was confined to only having a max string length of 90 cm, and the limitation of space caused for the angle of release to not be able to greater than 60 degrees. another main factor would be the issue of most of the time measurements having random error due to human input with a stopwatch. another factor would be the limit in pendulum materials that could be used, since we only had a single shape of pendulum and only one type of string, providing the possibility for there to be many variations of the same experiment if different materials were used. all of these contribute to limiting the generalizability of our results.
+
+page | 2

@@ -1,0 +1,61 @@
+discussion:
+the research question that we were evaluating was what impacts the period of the pendulum for small swings.  we chose to evaluate three variables is  mass of the bob, angle of release, and length of the string. in each experiment, we chose one of the variables to be our independent variable (iv) while our dependent variable (dv) was what we were evaluating for, time (s).  the control variables were all the other variables.  
+
+starting with mass of the bob vs. time, we created an experimental design which can be found in table 1. we completed our experiment and were able to put our data into table 6. and graph that data in figure2.  when we evaluate the data for figure 2. we see that the points are scattered and that the error bars of the data points overlap signifying that the data points are not significant. the error bar values are determined by the standard deviation of the data in table 8. this is the value of the uncertainty of our measuring technique for time and represents the range of values that each data points actual value lies within. if they overlap, then we cannot know that the actual values of each data point don’t overlap.  we are unable to form a line of best fit for this graph because of the scattered data points.  this leads us to the conclusion that there is no correlation between the mass of the bob and the period of the pendulum swing.  to see correlation, the data points would need to follow a trendline and the error bars cannot overlap signifying that the data points are significantly different from one another, which they weren’t. this addresses the research question by stating that mass of the bob does not impact the period of the pendulum swing.
+
+ the next variable that we chose as our independent variable (iv), was angle of release vs. time.  we created an experimental design (table 2.) and conducted the experiment, representing our data in table 5. and the graph of the data in figure 1.  we can evaluate the graph for correlation by viewing the trendline and seeing if it runs through the error bars of the points on the graph, which it does.  the error bars are determined by evaluating the level of uncertainty of our measurement, which is the standard deviation of the data in table 8.  the trendline correlating to the data points means that the data represents a positive correlation between angle of release and the period of the pendulum.  we know from previous knowledge that very small angles of release(<1°) shouldn’t show a positive correlation between angle and time but ours does.  there could be a few different reasons as to why our data could be significant starting with the angles that we used.  we chose angles of 10, 15 and 20 degrees.  these angles could have been large enough that it did make a difference in our data seeing that when they are referencing “small angles,” they are typically referring to angle smaller than 1degree. this is nearly impossible to execute in our lab given the preciseness of our measuring devices, so we need to use larger angles.  another reason that our data could have been significant could be that we only had three data points.  if we were to repeat this experiment and use more data points, we might see a different correlation between the independent and dependent variables.  repeating this lab using smaller angles and more data points could have changed our outcome, but our experimental data addresses the research question by stating that the angle of release of the string does impact the period of the pendulum swing.  
+
+the last variable that we tested was the length of the string vs. the period of the pendulum.  we created an experimental design that can be found in table 3. and collected data that can be found in table 7. and the graph of that data in figure 3.  when evaluating figure 3., we see that there is a trendline that correlates to the data points.  these data points are also significant because the error bars are too small to be seen and none of those error bars overlap.  this proves that each data point is significantly different from one another.  the error bar values are determined by the standard deviation of the data in table 8. this is the value of the uncertainty of our measuring technique for time and represents the range of values that each data points actual value lies within.  the trendline of figure 3. allows us to show a positive correlation between the length of the string and the time of the period of the pendulum because there is a significant change between the independent variable and dependent variable values for each data point and they follow a trend.  because we found a positive correlation, we did further experimentation with a larger change in length of the string and with a much more accurate timing device, and that data can be found in table 9. and figure 4. when we evaluate the data, we see that the data points follow the same trendline as before (power), but that the value of uncertainty is much smaller.  this is because we used a photogate, a computerized timing device.  lowering our level of error allows us to better agree with our earlier conclusion of the positive correlation between length of the string and the period of our pendulum.  this addresses our research question by stating that the length of the string does impact the period of the pendulum.  
+
+theoretical mathematical model for the period of a pendulum is 
+
+
+this shows that the experimental c1 value of 0.285 is somewhat close to the literature value of .2006.  the experimental c2 value of .4319 is also somewhat close to the literature value of .5. theses similarities in /values can support the theoretical math model. 
+
+
+
+this shows that the experimental c1 value of .2589 is relatively similar to that of the theoretical equation of .2006.  our experimental value of c2 is .4527 which is relatively like that of the theoretical equation value of .5.  this shows that our data has a relatively close experimental mathematical dependence to the theoretical mathematical model and can support the theoretical math model.  we can also see that these values for length vs. time are closer to the literature values and that can likely be tied to the higher precision in timing devices allowing for less uncertainty.
+
+we can also look at an example problem to demonstrate a better understanding on how to use and manipulate the theoretical mathematical model.  if we were given a length of the sting, ex. 0.50m, we can plug that value into the theoretical math model to find the theoretical time that it will take to complete the period of the pendulum. 
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+
+so t is 1.419s 
+
+this tells us that it should theoretically take 1.419s to complete on period of a pendulum and you can compare that literature value to your experimental value to find the accuracy within your data.
+
+mass is not a part of the theoretical equation, so it does not matter when looking that the timing of pendulum oscillations. 
+
+our data also shows that the mass vs time relationship is not significant. 
+
+angle is not a part of the theoretical equation, so it does not matter when looking that the timing of pendulum oscillations. 
+
+our data does have a relationship between angle vs time, but there are many things that could have caused this like lack of repetition (extra data to make data more accurate and precise).
+
+
+not looking head on when measuring the length of string and angle of release.
+
+these can be reduced by using more caution and looking straight on when measuring allowing for the most accurate reading
+
+delay starting and stopping the stopwatch when the string is released
+
+this error can be reduced by doing many trials and averaging the results will lead to the most accurate reading.
+
+person measuring the length of the string may have over/under estimated the actual length by assuming one digit further than can be read on tape measure
+
+estimating the value to the nearest 100th and adding +-.05 depending on the measuring device. 
+
+tape measure potentially being stretched from years of use.
+
+using newer measuring devices can lead to more accurate data readings, or accounting for the difference in length of the actual value of the data and factoring that into your data results.  
+
+uncalibrated scale to measure weight
+
+recalibrating and zeroing the scale will allow for more accurate measurements.
+
+constraints in this experiment that may limit the generalizability of your results is  
+
+the angles in which we were able to sample in our experiment needed to be significantly different enough for us to be able to test using the measuring tool available (protractor), meaning that we could not measure out angles <1degree because our measuring tool was not precise enough to be able to accurately measure out those angles for analysis. using a more precise measuring tool would allow us to measure smaller angles and see if it effected the outcome of our results.
+
+when testing length, the longest length that we could test was about 190 cm because the string went all the way to the floor and we could not raise the stand any further.  this limits the range of data points that we were able to test.  setting up the apparatus in a way that would allow for a larger range of data points would allow us to have more accurate results because our testing range would be larger.

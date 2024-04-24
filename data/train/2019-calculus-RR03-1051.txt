@@ -1,0 +1,29 @@
+discussion and conclusion- 
+
+	what variables affected the period of a pendulum?
+
+ the first tested variable was the weight at the end of the pendulum.  it was tested first due to the group hypothesis that having more mass at the end would cause the force due to gravity to be greater, thus increase the momentum of the pendulum.  however, when tested there was no visual effect on the period of the pendulum.  it can be seen from the graph that each recorded value was different than the last.  this is due to the error bars recorded as well as the line of best fit given from excel.  the line of best fit was linear which indicates weak correlation. we determined that the weight at the end of the pendulum had no sure effect on the pendulums period. 
+
+	the release angle of the pendulum was tested next.  this experiment resulted in showing a slight correlation between the release and the period of the pendulum.  the angle of release was tested due to the thought that by giving the pendulum more time to fall and swing, it would increase the speed gained and decrease period time.  the claim was made that as the angle increased then the period will decrease.  based on the graphs there is a slight correlation between these two factors but based on the error bars it can be stated that angle of release does not have a sure effect on the pendulums period.  
+
+	the length of the pendulum was tested last.  the group hypothesis for this part of the experiment was, if the length of the pendulum increases then the period of the pendulum will increase.  this claim was made on the thought that if given more length, then the end of the pendulum will spend longer time in between swings.  the tests our group did validate this claim.  it can be seen from the data that as the length of the pendulum increases, the period of the pendulum also increases.  this claim is also upheld by the graphs calculated from the photogate and the excel spread sheet.  on the graph, none of the error bars overlap within the given two standard deviations.  this supports that each value recorded was truly different than the last value.  with all this data gathered in the experiment and analyzed with excel, our group concluded that the length of the pendulum does affect the period of the pendulum.
+
+here is our data that we concluded on and shared with the other teams in our lab. 
+
+
+
+shown below is data from other groups doing the same experiments in our physics lab section. 
+
+
+
+
+
+from all the data taken by our group and three other groups the common result found was that the length of the pendulum is the only variable that affects the period of the pendulum.  all of our equations for the period were different but that can be blamed on both random and systematic error.
+	there was multiple systematic error that could have been present within the experiment.  the tape measure used to set the length of the pendulum could have been off which would flaw the data we collected. another systematic error could have come from the scale used to weight the mass put at the end of the pendulum. if the balance was off, then it would skew our data and give inaccurate data.  the timing system could have a calibration error that could mess with the data. all of these errors could have affected our data. 
+
+
+
+	random error within the experiment could be traced back to multiple sources.  when we first timed the pendulum, we had one person holding the end and one person was timing. this led to our times being all over the place. the human error of timing affected our first round of testing. after that we started using a reference point, this greatly reduced the difference between the data. random error could have come from human error while using the protractor to measure the drop angle. 
+
+
+	there were multiple constraints that were present within the experiment.  these include the pendulum length, the maximum angle of release, and the presence of air resistance.  the max pendulum length would not allow for the creation of any size string and test it. we couldn’t use lengths that were less than 20cm apart. the next constraint is the maximum release angle.  with the maximum testable angle of release being 90 degrees from the vertical it could not be tested as to how the pendulum would work if the angle could be made higher. also angles below 20 degrees could not be tested.  finally, the presence of air resistance cannot be removed within the lab setting.  therefore, the factors air resistance played within the lab cannot be accounted for and must be assumed to be negligible.

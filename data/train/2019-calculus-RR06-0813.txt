@@ -1,0 +1,16 @@
+discussion and conclusions:
+
+the purpose of the first part of the lab was to determine the mathematical models present in the experiments and why they differ from the theoretical models. the purpose of the second experiment was to determine the significance of the numerical values in the mathematical models.
+
+the mathematical model from the first experiment was $a=2.7613 f + 0.003$ and was determined by concluding that the force resulting was the independent variable and acceleration was the dependent variable, so x should be replaced with mass and y should be replaced by acceleration. the same logic was used in determining the model of $a=8.5816 m^{0.5}$ for the second set of tests. each of the mathematical models for the tests for the second part of the experiment were determined using the same logic as the first experiment as well. the constant factor in the first and last experiments in front of the force variable was determined to be the mass of the system since it remains the same for each of the third experiment’s trials. the numerical constant that is the y intercept represents the friction of the system. this was determined by increasing the friction of the system with magnets and seeing that a decrease in the y intercept was a result of a higher magnetic attraction between the surface and the mass on the surface.
+
+
+this group’s data is the opposite of our data. this group’s data seems to indicate that the more friction there is, the more positive the y intercept is.
+
+this group’s data seems to support our data. as the motion is opposed and the friction increases, the y intercept gets more negative.
+
+the factors that could cause systematic errors in the experiments are friction between m1 and the surface and in the pulley system. additionally, inaccurate measurements of the masses could cause random or systematic error. for the errors due to friction, an air track was used, and a relatively smooth string and pulley were used. the mass measurements were done using a triple beam balance. not much could be done to improve on these errors except to make friction even more negligible or make each mass more accurately measured with something like a digital balance.
+
+the range of masses that could be measured, the amount the friction could be increased with magnets, and the time of the experiment are all constraints that limited the data that could be obtained.
+
+the first model is consistent with newton’s second law because the law shows that there is direct relationship between force and acceleration, which the positive slop of the data indicates. the second model generally mirrors the second law because the law demonstrates an inverse relationship between mass and acceleration, while the second model has acceleration decreasing while mass increases.

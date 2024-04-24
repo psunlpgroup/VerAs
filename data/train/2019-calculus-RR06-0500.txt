@@ -1,0 +1,8 @@
+conclusion:
+
+
+	our first model is somewhat irrelevant because of the fact that the systems overall mass was not kept constant.  all we can really get out of it is that acceleration is generally a power curve.
+
+	our second model is  $2.7992 w + 9.346 = a$, where w is weight and a is acceleration, shows what we know to be true, that weight and acceleration due to gravity are directly proportional.  that is, as one increases, the other must also.  we know this to be true based on newton’s second law, $f=m a$.  if m is constant and a increases, the value of f will increase.
+
+	our third model represents what happens when multiple forces are present is  $a= 2.3516 f - 0.0088$, $a = 2.2563 f - 0.0238$, and $a = 2.0029 f - 0.0447$.  the slope decreases here as the magnitude of the friction force increases.  a general version of these, based on newton’s second law, would be is  $w - f = m a$, in other words, the sum of all forces in the system is equal to the mass times the acceleration of the system.  here, we see though that friction doesn’t really affect the overall model from our second experiment.  that is, for a given friction value, all we’ve changed is the range of weight that will affect acceleration.

@@ -1,0 +1,61 @@
+discussion and conclusion: 
+
+
+
+in the experiment a variety of masses were used to derive an equation to which an average applied force necessary could be calculated in order to obtain a desired acceleration. throughout the trials the experimental equation determined was is  
+
+$y=4.1855 x + 0.015$
+
+this equation was considered acceptable based on the parameters for the theoretical equation. the theoretical equation for acceleration was as follows is  
+
+			
+
+
+
+in this equation the mass hanging symbolizes the mass of the bobbers hanging over the pulling that applies force to the cart. the mass of the cart was measured as the mass of the cart plus all additional weight of the bobbers added directly on the cart. the coefficient of friction was calculated by the .015 from the experimental equation. this is derived because in a completely frictionless track any amount of applied force (even very small) would cause the cart to move forward. but since the track only experiences reduced friction there is a small amount of force (static frictional force) that is needed to be applied for the cart to simply overcome the frictional force. after the initial force is overcame any additional force will cause the cart to accelerate. in the equation derived from plotting the data in graph 1 we see that the force needed to overcome frictional force is .015 (or the y-intercept) therefore the frictional force needed must be .015n. the mass of the system is measured by the mass of the cart plus the mass of all bobbers including the bobbers on the cart and the bobbers hanging. by comparing the experimental equation (the one presented on graph 1) that was derived from the data throughout trials one through eight (table 1) we see that it coincides very closely with the theoretical equation. this is shown by plugging in the mass of the system, mass hanging, and the frictional force for the experiment and conducting an equation very similar to the experimental. 
+
+
+
+the goal for part two of the experiment was to determine what mass of the hanging bobbers was needed in order to allow the carts acceleration to be 0.5 m/s^2. in order to accomplish this the experimental equation was set equal to 0.5 m/s^2. then all knowns for the equation were plugged in including, mass of cart, gravity, frictional force, mass of system, and mass of hanging was unknown and what was needed solved for. for part two of the experiment a larger cart was used. this was accounted for by taking a new mass weight of the larger cart and applying that into the mass of the cart and mass of the system variables. 
+
+
+
+
+
+
+
+after the calculations were conducted the mass hanging was estimated to be .019 kg or 19 kg. the larger cart also had a surface area that was twice that of the smaller cart. the values in pink indicate the standard error for the mass. this was also accounted for in the equation by multiplying the frictional force by two since the cart would now have twice as big of a frictional force. since the average mass of the bobbers was 20 g four bobbers were hung from the system in order to obtain the average acceleration of 0.5 m/s^2. four bobbers were then hung and the cart was allowed to run. after releasing the weight the data studio allowed the average acceleration of the cart to be 0.053 m/s^2. this acceleration was within our estimation so the theoretical equation was deemed correct.
+
+
+
+random errors in the experiment would have been the slight fluctuation for the mass difference of the bobbers. this was accounted for by taking the mass of all the bobbers in the experiment and keeping the mass of the system the same. another random error could have been done with the data studio. the data studio presents a linear graph for each trial for which the acceleration is the slope. the part of the line that is most steep is the average acceleration. the slope (average acceleration) could have had a random error by fluctuations in where the graph slope was conducted at on the line. this was reduced by having one individual decide where to extract the slope for the line. a systematic error in the experiment could have been drag on the cart. when keeping the mass of the system the same, eight bobbers were either hung to engage in the applied force, or they were attached to the cart. in order to eliminate drag the bobbers were checked to make sure they were not touching the track before each run. if the bobbers had been touching the track they would have increased the frictional force and slowed down the acceleration of the cart. 
+
+
+
+an obvious constraint in the experiment lies in the frictional component. although the track used reduced friction, it is very close to impossible to eliminate friction altogether. that being said finding a direct value for mass in order to obtain a desired acceleration is very difficult. fluctuation in frictions for differing experiments would cause different equations to be obtained. 
+
+
+
+for other groups in the lab the conducted the same experiment some equations were comparable, and others very different from the one derived. group 1 had an experimental equation of is 
+
+		$y=4.8048 x + 0.0536$
+
+
+
+this equation as a slightly higher slope that the one conducted by our group, but the frictional coefficient was also smaller for group 1’s track. this makes since due to smaller frictional force allowing the cart to accelerate faster with the same amount of applied force. 
+
+
+
+for group 2 the experimental equation was is 
+
+		
+
+		$y=5.36 x - 0.0436$
+
+
+
+this equation differed from the one conducted incredibly. after looking at the values the group obtained for the differing weights in picture 2, it is seen where their error lies. since in the theoretical equation the frictional force is subtracted and the frictional force is also a negative value (due to it opposing motion in the forward direction) the frictional force should be added to the equation but group 1 subtracted it. according to the group 1 equation the frictional force is positive. by having a positive frictional force they are suggesting that it would take less force to obtain an average acceleration of 0.05 m/s^2 which suggests why their slope is so large. 
+
+
+
+by comparing the findings between groups that conducted the same experiment it can be concluded that the experimental equation is correct. also by investigating alternative equations and finding mathematical errors this further proves the experimental equation derived from the data in table 1 and graph 1.

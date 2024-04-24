@@ -1,0 +1,13 @@
+discussion and conclusion:
+
+the purpose of these labs was to develop mathematical models that will describe the behavior of a real system (lab 05) and to develop an understanding for each variable and numerical value included in the model (lab 06).  
+
+mathematical models is 
+
+group whiteboards is   
+
+ 
+
+in these labs there was room for both random and systematic error. these errors could have occurred due to the limitations of our measuring equipment (such as the scale) or human errors in stopping the cart at the end of the track and stopping the program from running at the correct moment. these errors were reduced by rerunning trials that seemed like they could have been “off.” 
+
+with all experiments there are limitations so this one is no different. limitations of these labs could include that the surface of our track was not a frictionless surface, the time constraint prevented us from running numerous trials, and the limitations of the measuring equipment (the scale).

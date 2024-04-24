@@ -1,0 +1,28 @@
+discussion and conclusion:
+
+purpose of lab: the purpose of this lab was to develop mathematical models to describe the behavior of a real system and to understand how each variable/constant in these equations come from.
+
+the experiment from lab 05 part i led to the above model (graph 1) by collecting the data of keeping the total system mass the same but changing the force applied to the cart. we then graphed the data of the force applied vs. the acceleration of the cart. in this model the value of 0.0232 represent the 
+
+while the constant at the end represents the outside work being done over the mass of the system.
+
+
+
+the experiment from lab 05 part ii (graph 2) was conducted in a similar way to part i. in this lab we keep the force applied to the cart the same while changing the mass of the cart. we then graphed the mass of the cart vs. the acceleration of the cart.  in this model the coefficient, though dimensional analysis, has units of newtons. it can thereby be interpreted as the sum of forces acting on the cart, including friction since the coefficient value is less than the hanging value. the power in this model can be interpreted as just slightly off from 1 which would have given the equation  exactly. one reason this value could have been due to the track not being level or other error during the experiment. 
+
+
+
+the experiment for lab 06 (graphs 3-5) were all conducted in the same manor but had different outline slopes. during these experiments the force applied to the system along with the mass of the cart were keep constant, the added height was changed, and the acceleration of the cart was recorded.  the models for these graphs follow the same format as the mode from graph 1. between all three of these models the coefficient is held relatively constant while the constant increases as the added heights also increase. this shows that as the incline increase so does the external forces acting on the system, in this case friction. 
+
+
+another group in our class investigated the effect of tilting the track towards the pully, a tilt that assisted the moment of the system.  group 6’s models are below in figure 1. as seen in this picture their constant gets larger as their slope increase. this shows that instead of other forces in the system slowing the acceleration down, like in our experiment, they are increasing the acceleration. this result increases the confidence that our data for the opposite tile is correct and that the force the constant is representing is friction because the larger the incline the more friction will change (as seen in both figure 1 and the above data).
+
+
+another group in the class looked at the effect retarding forces have on the system. group 1 models are below. they did this by looking at the effects magnets had on the system, with a constant mass. the results show that the coefficient and constant decreased as the retarding force increased. this models shows that there are forces working against eh movement of the system and the constant at the end of the model is not just due to experimental error. 
+
+one random error that have been found in all the above experiments is if the hanging mass was swinging before the experiment was conduct. this could have affected our results by changing the direction the hanging mass was pulling relative to the pully. to prevent this effect the data, the hanging mass stilled before each new trial was conducted. during this experiment there were also a few systematic errors.  they were the uncertainty in the balance, motion sensor, and the measuring device on the track. the measuring device on the track would not have changed the data as much as given incorrect information about the distance the cart was starting from the pully. the error in the balance and sensor, could have affected the acceleration values along with the applied force values. to reduce error in the balance, it was calibrated before taking any measurements. there were no steps taken to reduce the error in the motion sensor but the range of uncertainty in the sensor was very small 0.001   that the data was not affect in any significant way. 
+
+
+one possible constraint to prevent an overall generalization is the sample size of these experiments are relatively small. another constraint is many of the tracks these experiments were conducted on were not completely flat and had a slight incline even when no incline was accounted for in the models. the final constrain is that air resistance was not considered so, if the shape or size of the cart would change significantly than the models would be off. 
+
+ for the above experiments and models the coefficients and constants were being interpreted as forces acting on the system with the independent variable often being mass.  most of the above models are in the fore of . the extra constant at the end of the models, compared to the law, is due to not all forces being accounted for in the models.

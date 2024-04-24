@@ -1,0 +1,16 @@
+conclusion:
+The purpose of this lab was to determine how the acceleration of a system will change when different amounts of forces are applied. 
+ The mathematical relationship between acceleration and applied force would be linear. This makes sense because they both have a dependent relationship on each other. If one increases, the other will, and if one decreases, then the other one will as well.
+       
+
+The equations compare to one another because the mass of the weight on the cart and the mass of the hanging weight correspond to the acceleration. When putting the equation into experimental trials it is proven that the more weight added, the faster the acceleration.  
+
+
+ A force other than the hanging weight may be present in the experimental context would be gravitational force on the hanging mass that needs to be considered in the theoretical model. Also, a friction force which is considered in the experimental model when comparing the theoretical and mathematical model when solving for the acceleration. 
+
+ The mass of the system shows up in the experimental model from is  C1/m and $C2=\frac{F_{unknown}}{m}$ and $F_{hanging}= m_{balls}  f_{grav}$
+
+  The weight of the string would remain constant through all of the trials therefore the non-massless string connecting the hanging mass would not affect the uniform acceleration of the cart. 
+
+   Some possible random errors could be miss calculation of the mass of the balls as the number of balls increased. Also, another possible error could come from the box getting stuck (or having a harder time sliding) on the acceleration system. These errors can be prevented in the future by having a precise measurement tool to weigh the mass of the balls. Another prevention could be to make sure the ramp the block is sliding on is frictionless. 
+ A constraint in this experiment that may limit the generalizability of my results would be the maximum numbers of weights on the cart. This would limit knowing the acceleration of the cart with a weight past the seven balls. 

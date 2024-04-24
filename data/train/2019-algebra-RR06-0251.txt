@@ -1,0 +1,25 @@
+conclusion:
+ How does the acceleration change when the mass of the system is moved from hanging to on the cart? 
+
+The independent variable is the hanging mass.  In the research question it talks about M2 and that is the hanging mass.  As the acceleration increases the force of the system increases. The error bars are to small to see. 
+
+ The other groups model clearly supports our findings. For lab 5, as the acceleration increases so does the force. Lab 6, as the acceleration decreases the friction increases.  
+
+  
+
+
+
+The second groups data also follows the same model as our group. Lab 5, as the acceleration increases the force increases. Lab 6, as the acceleration decreases the friction increases. 
+
+ 
+
+ The theoretical equation for lab 5 is $f=m a$. The experimental math model ($a = C1 w+C2$) supports the theoretical model because they are solving for the same thing.  In the experimental model the C values represent the mass of the system.  Which is how the theoretical model solves for the acceleration. The curves prove this because it is the correct representation of the model. 
+
+ The theoretical equation for lab 6 is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$.  The experimental math model supports the theoretical model because in order for the data to be correct you need to add an extra force from the magnets divided by the mass makes it so the model works.  
+
+
+ If a heavier string was used to connect the hanging mass and the cart, then the hanging mass should help create more acceleration. 
+
+ The error could have been reduced by making sure there was no interruptions while the cart is being pulled down the track.  Also, we could have made sure we started the program at the correct time. 
+
+ The constraints of the experiments are the length of the string and track.  If the track was longer then we could show the cart acceleration reaching the highest, it could be.  That would ensure that the data we were getting accurate. 

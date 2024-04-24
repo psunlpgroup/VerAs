@@ -1,0 +1,11 @@
+discussion and conclusion
+
+the research question being investigated for this lab was what factors effect the period of a pendulum?
+
+the first experiment was testing how the string length effects the period length and we saw that it effected it directly. we saw that as the length of the string increased, the period got longer. we can visually see this in graph a and b under roman numeral i. due to the upward linear slope. in the second experiment we tested if the mass at the bottom of the pendulum had an effect on the period in which we saw that it didn’t.  this is reflected in the moderately flat graphs of c and d under roman numeral ii. in  the last experiment, we tested the starting angle of the pendulum, thinking that a higher starting angle would result in a longer period. we found, as shown in graphs e and f, it has very little if any at all. 
+
+the theoretical mathematical model for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$  .this equation fits with our data because we found that only the length of the string effects the time of the period and in this equation it shows that it effects it directly as shown in the upward liner slopes of the graph. as for the other variables we tested such as angle and mass, these are not shown in the equation, therefore have no effect to the period time. 
+
+one random error that shows throughout all three experiments was the human error or timing all of the times of the period. we originally tried to limit this human error by having the same people take the time measurements, but it is almost impossible to get similar readings between each trial even with the same person and device unless it is a calibrated machine. 
+
+in this experiment some constraints could be the variability we had in our resources. we only had a certain string length and only up to a certain mass we could add to the pendulum. if there was a wider range of these two variables we would be able to gather more data points, also data points that show a larger range so we could compare points that show a major difference in order to see if it greatly effects it or not.

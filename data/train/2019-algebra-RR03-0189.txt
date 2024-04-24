@@ -1,0 +1,27 @@
+discussion and conclusion.
+
+restate for the reader the research question being investigated in this lab. 
+
+what impacts the period of a pendulum for small swings?
+
+discuss how each of the three experiments addressed the research question, what claims were made, and the conditions under which the claims are valid. refer to each graph in your discussion. 
+
+answer to b      in the first experiment we found that the weight has no affect on the period, and the length and angle both have an affect on the period of the pendulum. in the second experiment we determined that we may have systematic and random errors, systematic is variance in the string length while random error mass uncertainty and reaction times. in this last experiment we concluded that the period may be affected by the mass swinging left to right when the mass is heavier.  
+
+state the theoretical mathematical model for the period of a pendulum and discuss how your data fits with this model.  be sure to refer to the data tables or graphs in this discussion.  even those factors that did not impact the period of the pendulum should be discussed here and compared to what is included in the theoretical model.
+
+mathematical model is
+
+$y=0.0797 x + 1.6968$
+
+rsquared is .9848
+
+
+
+discuss which errors (random and/or systematic) were present and what was done to reduce them (or could be done in the future to reduce them).
+
+some errors could have been avoided under the conditions in the lab, while others required more advanced techniques to correct. the largest source of error came from the stop watches, which has some ways of correcting. for example, having two or more stopwatches keeping track of the test’s times, we then could’ve averaged out the times to make them more accurate. also, the string length could’ve been lengthened with the added weight, this could be fixed by re-checking the length after each test and making necessary adjustments. further, the bar holding the string would oscillate up and down while the heavier pendulums swung back and forth, this could ultimately lead to an unprecise reading by affecting the period. it could be fixed by having another support bar attached to the other side and then clamped to the table, or by over tightening the bar. another source was found in the deviation in the angle of release, not releasing the pendulum at the same angle each test, some movement could’ve occurred while the protractor was taken away and the time started to release the pendulum. however, the other sources of error would have to require more strenuous solutions outside the typical conditions of the lab, limiting the air resistance would require this test to be conducted in a vacuum chamber. to correct the uncertainty measured in the weights, a more precise scale with a smaller deviation would be needed to be used.
+
+discuss any constraints in this experiment that may limit the generalizability of your results. 
+
+by not being able to test all of these in the same day the strings could have been worn down by other groups, and the photogate may have also been moved or at angle which may add time to each period.

@@ -1,0 +1,39 @@
+discussion and conclusion:
+
+
+
+the purpose of lab 05 was to develop mathematical models that describe the behavior of a system.  along with developing the mathematical models, the lab was used to gain knowledge of what the equations of the mathematical models represented about the system.  the purpose of lab 06 was to further explore the resulting models of the previous lab by examining how the physical lab setting affects each model.
+
+
+
+the three experiments conducted over the period of lab 05 and 06 led to the mathematical models, shown above, by taking precise measurements of the dependent variable as the independent variable changed.  by doing this, we were able to compile an accurate set of data points to plot on a graph in excel.  we then chose the best model that fit our data, which was a linear relationship for all of them except for in figure 2 the mathematical model was a power relationship.  the linear trendlines in each figure above show the positive correlation between the independent and dependent variables.  the data that was compiled fits each of their corresponding mathematical models very well because the r-squared values for each trial was at least 0.966.  the experiments helped me to interpret the physical meanings of each variable and numerical value in the mathematical models by allowing me to see how the independent variable affected the dependent variable in real life.  for example, i was able to see how the acceleration was being decreased when more mass was continually added to the track in experiment 2.  this can be seen visually in figure 2 from the trendline of the mathematical model and by analyzing the numerical values in table 2 above.  the line shows how as the mass is increased, the acceleration decreases with a power relationship.  also, by analyzing the graphs and the equations of the trendlines produced from lab 06, i can gain a better understanding of what the variables and numeric values actually mean.  the value of the slope of each line in the mathematical models represents the inverse of mass.  it shows how much the dependent variable changes with each increment of 1 unit of the independent variable.  for example, in figure 9, the value for slope is 2.2236, which means that the acceleration increases by 2.2263 (m/s^2) for each newton of force.    i can see that the y-intercepts of each of the three trials done in lab 06 were increasing gradually as magnets were added, and this makes good sense because the y-intercepts from the equation represent any external force acting on the system.  it is only right that the values should be increasing because an increasing external friction force is acting on the system each trial.  
+
+
+
+below is a graph of the tilt versus external force, where the external force is the y-intercept from the equations of the mathematical models created group 1 in lab 06.  the graph shows how the external force on the system increases linearly as the tilt also increases.  this reenforces what i learned the experiment i did with friction because likewise with this experiment the y-intercept value in the mathematical model equations increases as more and more external force gets added to the system.
+
+
+
+
+
+
+
+analyzing group 3’s data, yields very similar results to group 1.  group 3 also found the external force on the system to be directly proportional with the tilt of the track.  another graph of tilt versus external force is shown below, and it provides the same conclusions as the first graph.  it shows how as the tilt of the system increases, the external force or y-intercept increases as well.  one difference between group 1 and group 3 is that group 3 decided to do three tests with one of them having a front-end tilt and the other two a back-end tilt.  this shows how the external forces can either be added or subtracted from the system.
+
+
+
+
+
+
+
+
+
+for the experiments conducted in lab 05 and 06 where bobbers were taken off the hanging mass and added to the track, a random error that could have occurred is that the masses were not placed on the track in the exact same positions each trial.  this could have thrown off the weight distribution of the track and affected how the system accelerated.  a systematic error that could have occurred for all experiments conducted is if the pulley system was not completely frictionless, or somehow was caught up on something (needed some grease).  to reduce errors in the experiment, we made sure to take the bobbers off in the same order each time to keep the ratio of mass hanging to mass on the track the same each trial.  in the future, we could use more accurate measuring tools to determine our measured values to reduce error.  we could also make sure that the bobbers are placed in the same positions each time when they are removed from the hanging mass and added to the track.
+
+
+
+for experiment 1 in lab 05, we never tested any masses greater than 0.333 kg, so we can not make any conclusions about the masses greater than this.  for experiment 2 in lab 05, we never tested any masses on the track that were greater than 0.45 kg, so we are limited to only make conclusions about these values.  the experiment in lab 06 was very constrained to only testing forces of friction between 0.048 to 0.382 newtons.  because of this, the generalizability of our results is very limited to only this range of values.
+
+
+
+the mathematical models are all consistent with newton’s second law because they consider all forces on the system.  newton’s second law states that the sum of all the forces in the system is equal to the acceleration of the system multiplied by its mass.  our mathematical models are set up to calculate the acceleration, but with some simple algebra we can transform our equation into newtons second law.  the equations for the mathematical models are set up like,   .  by simply multiplying each side of the equation by the mass, we get newton’s second law of  .  this shows that our mathematical models are exactly newton’s second law, besides they are rearranged in order to solve for the acceleration of the system.

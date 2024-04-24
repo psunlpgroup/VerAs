@@ -1,0 +1,18 @@
+conclusion- 
+
+tilting the airtrack forward positively affects the c2 of the equation. we can tell because as our tilt increased, the c2 value also increased. while our c1 value stayed relatively the same. as you can see from the equations above our c2 value increased as we increased the tilt for each experiment. we can tell that the tilt affects the c2 only because as we increased the tilt our c2 value increased while our c1 value stayed relatively the same.
+
+groups data and how they prove our theory-
+
+
+	air resistance- this idea doesn’t seen possible because normally air resistance is negligible and not affecting much in this lab. i am confident that there are no other factors that affect the model  because of the theoretical equation $a=\frac{f}{m}$.
+
+
+angle of track instead of height of the track
+
+try to decrease friction even more
+
+more constant mass and the placement of the masses 
+availability of materials and lab equipment
+there are some systematic errors involved in this lab the photogates having an error of 0.001. also, systematic error with the friction of the track not being absolutely zero. these can be reduced by calculating the offset. 
+ there where random errors in this lab. one of which being the placement of the bobs on the car and the starting spot of the cart. these issues can be solved by taking more trials and averaging those together.

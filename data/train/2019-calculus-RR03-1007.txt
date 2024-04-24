@@ -1,0 +1,11 @@
+discussion and conclusion
+
+how is time affected by the change in mass, angle and length on a pendulum?
+
+in each of the experiments the dependent variable was changed from either mass, angle, or string length.  this gave us different results and allowed us to determine which really affects the period of the pendulum.  as a team we came up with a hypothesis that the angle was going to be the only variable that affected the period, but we shortly realized that we were wrong the length was the only one that noticeably affects the period. 
+
+in the graph for table one we use a power function and in the other two we used linear.  this shows that the two graphs with the linear graphs did not affect the period because their data was consistent and in more of a straight line.  the power function was used to make the graph more linear which means it had a greater affect on the period of the pendulum.
+
+the systematic errors we ran into were the timing being off because a human operating a stopwatch will not always be 100% accurate and the release angle was also systematic because we were just eyeballing it with a protracted and there was no good way to assure that the angle was exactly right.  another systematic error was the mass given to us had the weight written on it, but we never actually measured it on a scale to verify it was correct.  we fixed the systematic by using an electronic time keeper that was more accurate than a stopwatch.  occasionally we had a random error with the timing, and this can be justified by not properly resetting the stop watch or not resetting the electric timer.  this was fixed by redoing the trial.
+
+a constraint int his experiment was that we were not able to get the measurements of very small lengths and masses or any length of mass greater than 1.7 meters and 250 grams.  this limited us to a smaller amount of data to work with throughout the experiment.

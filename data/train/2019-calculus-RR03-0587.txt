@@ -1,0 +1,9 @@
+discussion:
+
+a)question: what impacts the period of a pendulum?
+
+b) in the first experiment we tested to see what factors would affect the pendulum swing, which we predicted to be weight, angle and length and it in our first graphs it was the release angle and the length of the string that showed correlation. the second experiment helped us find the errors within our data and experiment to see how reasonable it is to make claims if one factor affected the pendulum swing or not. adding the error bars helped us see that for some of data it needed to be more precise to make the claims. so in our third experiment we used photogate to get more accurate readings of the time and it decreased our error a lot from the first experiment. 
+
+c) the theoretical model doesn’t match our experimental model. the theoretical model is 2*pi *(l/g)^1/2. according to the theoretical model, the only factors that influence period are gravity and length, not the angle which we said it did affect it (after the first experiment) because our graph showed a correlation. 
+
+d) there could be some random error when measuring the times in the first experiment, or when releasing the pendulum at an angle. a rigid line could have been used instead of a string then contained to move only on one axis. time could have been measured with a high quality camera and could go through each frame to get a

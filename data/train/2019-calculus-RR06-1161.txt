@@ -1,0 +1,13 @@
+discussion:
+
+this lab was performed in order to develop mathematical models that describe the behavior of a system of two weights attached by a string run through a pulley, one on a frictionless track, and the other hanging in midair, as well as to investigate variable and numeric values included within the model. 
+
+the acceleration of the cart is related to two factors. the force of m2, and the total weight of the system. the acceleration of the cart is directly proportional to the force, but inversely proportional to the weight of the system. these claims are supported by the r^2 values for both models being .998 and .983 respectively. we are very confident on our data, as the values have an error of only .001 m/s^2. the slant of the track relates to the acceleration of the system. this is shown in our experiment which demonstrated that the y intercept changes as the slant of the track changes. a different experiment tested that an increased negative slant showed data that demonstrates that the y intercept decreases with the negative slant, due to the force of gravity pulling the cart in the opposite direction. the magnetic strips experiment found that as more strips were added, the resistive forces increased, thereby decreasing the acceleration.
+
+
+
+these groups data help to validate our experiments by showing that the tilt affects nominally the y intercept of the model. this is shown by minimal change in slope of the line, with decent variability of the y intercept. 
+
+errors involved in the lab are likely to be limited to the random error of the acceleration gate we used, and the human error in reading the balance for the weights. something that could be done to reduce error would be to use digital scales, as their error is much lower, and they are more timely than physical balances. 
+
+both models are consistent with newton’s second law. this is because the first model shows that as force increases, so should acceleration. $f = m_{sys} a$. if the force increases, and the weight of the system stays constant, the acceleration must increase (and it does). if the force is kept constant, but the weight increased, the acceleration must decrease (and it did).

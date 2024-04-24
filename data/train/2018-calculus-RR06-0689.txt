@@ -1,0 +1,82 @@
+discussion and conclusion
+
+
+
+the purpose of this lab was to determine how applied forces impact the acceleration of a system. the experiment addressed this purpose through several means is 
+
+by keeping all variables except for applied force (mass of system, distance traveled) constant, the applied force could be isolated.
+
+by varying the force applied from trial to trial (changing the # of bobs hanging), a mathematical model could be derived for the relationship between force and acceleration.
+
+the experiment showed that a relationship between acceleration and force exists. as the force applied increased, the acceleration of the system increased. this is seen in table 1.
+
+the resulting mathematical model shows the relationship between force applied and acceleration to be linear. the model is presented in graph 1 as $y=4.8591 x - 0.0087$.
+
+
+shown above are the findings of other student groups within our class. pictures 1, 2, and 3 show how the findings of each group support the claim that acceleration increases as forces increases in a linear manner. our models are also similar to those found by other groups.
+
+
+
+differences between the findings of other groups and my own can be seen with the slope of the function and the constant. these are slight, however, and are likely due to extraneous factors in the experiment that could not be accounted for properly. this is discussed further below.
+
+
+the experimental model derived by our group was similar to the accepted theoretical model for relating force and acceleration. again, our model was is 
+
+
+
+
+
+y 	is 	acceleration (a)
+4.8591	 is	1/mass of system (1/m)
+x 	is	 applied force (f)
+.0087 is unknown/extra forces that were not accounted for (b)
+
+
+
+
+the only difference between our experimental model and the theoretical model is that “a” is being subtracted by” b”. this represents the extraneous forces that could not be accounted for is  air resistance, friction, tilt in the track.
+
+
+
+
+
+what if the string was not massless?
+
+if the string contained mass, then the acceleration of the system would not be uniform. instead, the acceleration of the system would increase as the cart moved. this is because more and more of the string would be on the other side of the pulley as the cart moved.
+
+on the other side of the pulley (the hanging side), the mass of the string adds more weight to the force applied. as established in this lab, increasing force increases acceleration.
+
+
+
+
+
+
+in this lab, several sources of error were identified as influencing the experiment is 
+
+each group came to agreement that this likely impacted force and thus acceleration.
+
+air resistance would push against and slow down the cart (decreasing acceleration). 
+
+however, it was pointed out that such a factor is very complicated to account for as it scales with the square of velocity and depends on the size and shape of the object. 
+
+this would be a systematic error since it would decrease the acceleration each trial but a random error in the exact degree it would decrease it.
+
+this complexity and the fact that the effects are small in this experiment show why it is assumed to be negligible.
+
+
+even though we assumed the air track would eliminate friction, it is not perfectly frictionless. thus, friction would have influenced the acceleration.
+
+friction would have reduced acceleration as friction works against gravity.
+
+our group assumed each bobber weighed the same which is not true. this means the calculation of force (m*a) would be off since force is a function of mass.
+
+some bobbers may have weighed more than the assumed 4.5 g while others weighed less. we assumed any differences would cancel.
+
+however, the weight we assumed for the bobbers could be less than or greater than all the other bobbers. in this case it would be a systematic error that would account for constant deviations in our results. 
+
+the sensor may have been mis-calibrated
+
+this would be a systematic error.
+
+one constraint was the assumption that extraneous forces like friction or air resistance were negligible. for the experiment, we assumed those forces could be ignored or didn’t exist. but as seen in our mathematical model, those forces likely did influence our results. this fact is represented by the constant (-.0087) in our model. if we could measure and account for those forces entirely, then we could derive an experimental model that could be generalized.
+

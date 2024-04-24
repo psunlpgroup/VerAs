@@ -1,0 +1,3 @@
+conclusion
+
+it can be seen in the three graphs that there is only a positive correlation between the length of string and the period of swing. the experiments testing the angle of release and the mass of pendulum are seen to have no correlation with the period of swing. random errors could occur throughout testing when taking measurements of length, time, and mass. these were offset by the inclusion of error bars as well as multiple trials being run. in order to improve this lab i would reduce error by having more trials and multiple people checking measurements, stop watches, and balances.  in the second experiment, which was testing the length of string, a mathematical model of the correlation was found,          $t=2.0171 l^{0.05019}$ which has a r^2 value of .9999.

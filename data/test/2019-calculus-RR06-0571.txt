@@ -1,0 +1,19 @@
+discussion/conclusion:
+
+the purpose of the labs 5 and 6 was to not only prove that acceleration is affected by weight distribution and incline, but to find mathematical models that accurately represent the data we collected, and the impact said factors have on the acceleration of the cart.
+
+in the experiments from lab 5, the data and models showed an inverse relationship between the cart’s acceleration and the mass of m1, and a direct between the cart’s acceleration and the mass of m2.  as m1 increased, the acceleration decreased, and vice-versa for m2.  in lab 6, we see that while the overall acceleration did decrease between experiments, the slope remained similar.
+
+we compared our findings mainly to group 5 and 2 they had similar findings is  that there was an inversely proportional relationship between the mass of the cart and its acceleration and a directly proportional relationship between the force applied (m2) and the acceleration.  with their findings being similar to ours, it helped strengthen our argument and data.
+
+
+
+group 5’s analysis.
+
+
+
+due to the extremely small error bars present in all three graphs, the only error possible could have been systematic.  this could have occurred with scanner that was not working very well and could have altered our data slightly.  this can be fixed with a recalibration of the scanner, or simply switching to a more accurate scanner should we come to the conclusion that our machine was resulting in systematic error.
+
+the only constraint we felt we had was time.  with more time, more experiments could be done to increase the accuracy of the results.
+
+the models are consistent with newton’s second law in that mass and acceleration are inversely proportional when affected by the same force.

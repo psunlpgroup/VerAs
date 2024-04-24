@@ -1,0 +1,19 @@
+discussion
+
+
+
+the goal of this experiment was to determine what factors affect the period of a pendulum. the dependent variable, time of period, was examined in relation to three different independent variables is  mass, angle of release, and string length. this information was used to create a mathematical model for the period of a pendulum. the results made may be limited by the presence of different types of error.  
+
+
+
+the effect of mass on the period was investigated by using different weights to record if different masses correlated with a change in the time of the period (table 5). the data collected was then analyzed using a graph (figure 2). there was a substantial range of uncertainty, which can be seen in the large error bars. this means that there was no correlation between the mass and the period. the mass had no significant effect on the period of a pendulum. 
+
+
+
+the angle of release was examined by recording the time of one period when the pendulum was released at a variety of angles (table 6). at first, the data seemed to indicate that there was a correlation between the angle and the period. however, the information from the graph (figure 3) showed overlapping error bars which discredited this idea. due to the uncertainty, it was determined that the angle of release had no significant effect on the period of a pendulum. 
+
+
+the pendulum’s string length was altered and the time for it to complete a period was recorded to determine if the length of the string used affected the period of a pendulum. the data collected (table 7) and the graph of this data (figure 4) indicated that there is a relationship between the length of the string and the period because there was very little uncertainty. there appears to be a positive correlation between the length and time which means as the length of the string increases, the time to complete a period also increases. it can be concluded that the length of a string has a significant effect on the period of a pendulum. 
+
+a mathematical model of the data was calculated using the length versus time (table 8). this information was graphed (figure 5) then analyzed. the format that best fit the graph in this experiment was linear. this does not align with the actual model for relationship between the period of a pendulum and the length (figure 6). 
+	the results of this experiment may have been affected by different types of error. the limitations of the stopwatch technology as well as the potential for the angle to shift when being held before release are both examples of random error that may have occurred. this type of error can be reduced by having the same person recording information every time. another type of error that could have occurred would be systematic. this would include the mass of weights not being exactly what they should be and when the recording of the pendulum period is not started after one swing but right away. systematic error can be reduced by using more accurate technology and retesting for more data points.

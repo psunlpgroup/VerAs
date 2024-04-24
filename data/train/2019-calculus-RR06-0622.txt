@@ -1,0 +1,3 @@
+discussed above.
+
+our two experiment mathematical models are consistent with newton’s second law because as we increased mass the acceleration also increased. the same is for the force applied were you would have $\frac{f}{m} = a$. if you did 1/(given mass), you would end up getting our mass number in our second mathematical model being, .0023kg. 

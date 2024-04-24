@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+
+
+the research question being investigated in this lab was what factors impact the period of a pendulum.
+
+
+
+this question was addressed by setting up experiments to determine if the mass, the length, or the angle of release affected the period. for each experiment, the factor in question was changed while the other two were kept constant. the period of the pendulum was then recorded using a stopwatch. these values were plotted (figures 1,3,5) against the factor in question to determine the relationship of each to the period. error bars were then added on these graphs using the standard deviation which was calculated using data of the period when all three factors were kept constant (table 8). the equivalency criterion for these graphs was twice the standard deviation. after adding error bars, it was determined that increasing the length caused the period of the pendulum (figure 6) to increase since the graph showed the data was trending upwards without overlap of the error bars. the graphs of the mass and angle (figures 2,4) had error bars that overlapped, so the claim was made that these factors did not affect the period.
+
+
+
+since the length was shown to affect the period, another experiment was conducted to form a mathematical model of the relationship between the period and the length. the pendulum was set up again, and the length was changed while other factors were kept constant. instead of using a stopwatch, a photogate was set up to more accurately determine the time of the period. only one trial was performed at each length and the data was plotted (figure 7). error bars were then added to the graph but were hardly visible since the uncertainty was very small. a curve was then fit to the data in the graph. the best fit for the data was a power curve with an equation of . when the x and y are replaced for time and length, the equation is . when compared to the theoretical model of , many similarities can be seen. the theoretical model confirms that length affects the period. since neither mass nor the angle are included in this model, it can be concluded that neither factors affect the period. the theoretical and mathematical models are also similar in that both models are power functions, but the mathematical model from the experiment did not test for different accelerations due to gravity. when 9.8 m/s2 is plugged into the theoretical model for gravity, the equation received is . this is very close to the mathematical model from the experiment. 
+
+
+
+error in this experiment could be caused by several things. for the experiments that used a stopwatch to test the different factors that could affect a period, the error was high. some random error may have been caused by releasing the pendulum at a slightly different angle (which shouldn’t have affected the period) or not measuring the length completely accurately. most of the error in these experiments was caused by human error in stopping the stopwatch at the right time. this caused the level of uncertainty in these values to be very high. this could be reduced by taking more trials. one way the error in using the stopwatch was reduced was by finding the period at different lengths using a photogate instead. this caused the data to be more accurate and reduced the level of uncertainty. one cause of systematic error throughout the experiment was that the length of the pendulum was measured by only measuring the length of the string instead of measuring to the center of mass. this could be avoided by fixing the error and measuring to the center of mass in future experiments.
+
+
+
+one constraint of this experiment was that limited time prevented more trials from being taken. this could have reduced random error and produced more accurate results. another constraint was the experiment could only be conducted with the acceleration of gravity on earth. this prevented the effect of the acceleration due to gravity on a period to be tested. as a result, the mathematical model found is only applicable when the acceleration due to gravity is 9.8 m/s2.

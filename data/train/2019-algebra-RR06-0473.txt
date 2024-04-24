@@ -1,0 +1,21 @@
+discussion and conclusion
+
+	the purpose of this lab was to develop mathematical models which describe the behavior of a real system and to develop an understanding for each variable. the mathematical models are a direct result of the graphs created from the data tables from the experiments. in the mathematical models a is the acceleration of the system in m/s^2 and f is the gravitational force on the bobber in newtons. the numbers in the model got smaller as the friction increased. 
+
+
+
+
+
+
+
+this group tested tilt as their independent variable. their data claims that as you increase the tilt of the system, the acceleration will increase. this does help our understanding and makes sense as well. their independent variable had a larger impact on their numerical values, but not by a lot. both of our values are fairly similar. 
+
+
+
+
+
+the group that tested the same variable as us had the same findings and conclusions as we did. their groups data varied from our findings slightly, but not large enough to challenge our conclusion. when our data is compared to the other groups both of our data is supported showing that our experiment produced the right values for c1 and c2, along with the equations.
+
+
+
+	random error in the experiment can be attributed to the the equipment used and could be corrected by using more accurate equipment. our experimental models were consistent with newton’s second law $f = m a$ because when our force went up and our system mass stayed the same the acceleration increased.

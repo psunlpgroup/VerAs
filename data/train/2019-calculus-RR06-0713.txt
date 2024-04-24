@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+the purpose of this lab was to find the relationship that forces have on acceleration. through lab 5 we were to find the type of relationship the force applied has with the acceleration and the relationship between the mass of the car has with acceleration. through lab 6 we were to find the relationship that the force of friction has with the acceleration as well as understand what the constants and variables represent in the mathematical models. 
+
+in the first experiment we found the mathematical model between the force applied to the car and the acceleration it experiences.  as we went through the experiment, we tested the acceleration with different hanging masses, which acted as the force applied. we then graphed the data and found the mathematical relationship, which turned out to be linear. in the second experiment we found the mathematical model for the impacted of the mass of the cart and the acceleration.  as we went through the experiment, we tested the acceleration of the cart at different masses of the cart, with a constant hanging mass. we then graphed the results and found the mathematical relationship, which turned out to be exponential. in lab 6, we placed magnets of the side of the cart, which attracted to the cart. this acted as a force of friction in the experiment. we tested three different setups, varying the number of magnets on the side, in this we varied the conceptual force of friction. each setup caused a linear relationship in the form of .  the only difference in each model were different values for  and . in this model, a represents the acceleration and f represents the force applied.  represents acceleration of the system while  represents the force of friction in the system.
+
+
+
+
+
+group 6 did the same experiment as my group, so our findings are very similar. although, the other group did a different experiment, their data still supports our findings as it shows how outside forces affect the acceleration.
+
+there only could have been random errors because the experimental setup free of any errors.
+
+the only major constraint on this experiment was that we couldn’t change the force of gravity on the system. 
+
+the two experimental mathematical models are consistent with newton’s second law because the acceleration has a linear relationship with the acceleration of the system, in the equation .

@@ -1,0 +1,15 @@
+conclusion:
+the purpose of this lab was to further explore the resulting models and how the physical lab setting impacts each model. 
+
+we found these models through the data that was collected from the experiments. in the first experiment we determined the model that shows the relationship between force and acceleration. in this model, c1 is equal to the multiplier of the force, and c2 is equal to the y- intercept. this means that if there was no force plugged into the equation, the cart would still have that amount of acceleration.
+
+in experiment two we found it the exact same way, except we replaced the iv, force, with a different one, mass of cart. the process was the same, but we ended up getting a power function instead of a linear, this meant that we had to raise our iv to a power to obtain the proper relationship. 
+
+ some systematic errors could have shown up in the experiment. for example, when we weighed the bobbers, we were using a three-armed balance. this could not have been calibrated correctly and produced skewed results. there was also random error in the experiment. in some of the trials, the cart moved so slowly that it would have been considered an outlier and skewed the data. these were removed by double checking the weight of the bobbers were precise and we re-did the experiments where the cart caused error. 
+
+ some constraints are that people might not have access to the same materials we used in our experiments. this would limit them from being able to reproduce our results. 
+
+ the first graph shows that when mass is kept constant and the force is increased, the acceleration must increase just as much to validate the model. 
+
+
+

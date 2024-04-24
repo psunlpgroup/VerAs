@@ -1,0 +1,15 @@
+conclusion: 
+
+	our main question is what affects the acceleration of a system. the main things we looked at for this experiment was the mass of the string and the angle of the track. we briefly experimented with the mass of the glider. to see if that changed the acceleration it ended up lowering the acceleration of the system while both the mass of string and angle increased the acceleration. 
+
+	the reason the hanging weight was the independent variable was because it pulls the object using gravity meaning we knew it would change the acceleration. we were right because the trend was upward with very few errors. 
+
+	what we ended up finding out was our hypothesis for hanging weight, mass of the sled, and the angle were all correct. we learned that all of these affect the acceleration of the experiment. how ever from the other groups as seen below we would agree with both the groups group’s because they both deal with acceleration changing. 
+
+
+
+
+
+the equation we found is $f = m a$ meaning we were right about everything except for angle meaning when we tested for angle and mass we were wrong the angle doesn’t affect it at all. the equation for more than one force is $f=m a$ meaning the sum of the forces added together equal this. when we look at the experiment when we looked at the forces the angle didn’t change it too much, but we could calculate the force difference between that and weight. 
+
+when we look at the hanging weight we see that it adds acceleration. the random errors mostly came from the hanging weight if it was moving slightly before the experiment started. it could be reduced if we waited for the weight to settle longer. also, when getting the slope if you scan the right part it would affect your data. the main constraints are the time for the lab because of this we had to move quickly leaving room for error and being in a controlled environment to conduct the experiment.

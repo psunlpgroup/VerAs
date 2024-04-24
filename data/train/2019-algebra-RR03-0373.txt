@@ -1,0 +1,15 @@
+discussion and conclusion:
+
+
+
+what impacts the period of a pendulum?
+
+ 
+
+each of the graphs addressed the research question by testing out the following variables that could affect the period of the pendulum which was is  mass, angle of release, and length of the string. the claims for table 1 was the dv and iv have no obvious pattern. therefore, this graph shows no correlation. the claim for table 2 was there is no correlation between dv and iv because gravity is constant. and the claim for table 3 was the dv and iv have a significant pattern. the dv and iv increase together. therefore, this graph shows a positive correlation between the length of string used for the pendulum and the time it takes to complete a period. 
+
+the theoretical mathematical equation for the period of a pendulum is the length of the string. our data does not fit with this model because according to our graph above a pendulum with a length of 0.30 m would have an estimated period of 1.23 seconds. according to our graph the period should be a little longer compared to the theoretical equation. the two iv’s that can be eliminated from the mathematical model, as they do not impact the period of a pendulum, are mass and angle of release.
+
+some systematic errors were present, in order to reduce them we would test our data multiple times, between 10-15 times to assure a consistent average and outcome. 
+
+there were no constraints in the experiment. we were able to run as many trials to eliminate errors. we were also able to pick our intervals when collecting data. this did not affect any results we concluded.

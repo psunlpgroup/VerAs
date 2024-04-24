@@ -1,0 +1,15 @@
+discussion and conclusion
+
+	the purpose of the lab was to determine whether the acceleration of a system changes when applied force changes. the experiment and resulting mathematical model addresses the research question because the mathematical model was found by adding c1f hanging + c2. this concludes that the force and acceleration have a direct relationship. the graph of force and acceleration visually explains this relationship. 
+
+			
+
+
+
+these pictures show the findings of two other groups. the results of these groups supports our own groups claim because they all show that force and acceleration have a direct relationship. the total masses of the system was all around the same art 189 grams. the lengths of the string was also the same, which was around 1m. 
+
+the other forces that may be present in the experimental context other than hanging weight includes a gravitational force on the hanging mass that needs to be considered in the theoretical model and also a friction force that should remain constant. the mass of the system shows up on the experimental model in the balls at the end of the string and the gravitational force. 
+
+a non-massless string connecting the hanging mass to the cart might affect uniform acceleration of the cart by causing the acceleration of the system to decrease. this is because the total mass of the string would be equal to the hanging mass plus the mass of the string. 
+
+	some errors that were present during this lab could be the miss calculation of the mass of the balls as the number of balls increased. another possible error could come from the box getting stuck (or having a harder time sliding) on the acceleration system. these are examples of systematic error. properly weighing the mass of the balls, for example weighing more than one time can reduce the errors in this lab. the constraints that limited the generalizability in this lab include the friction even though it is supposed to be on a frictionless track.

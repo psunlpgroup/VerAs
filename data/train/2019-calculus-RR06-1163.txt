@@ -1,0 +1,20 @@
+
+
+Discussion and Conclusion:
+The purpose of the first lab, lab 05, was to create mathematical models from experiments to show the behavior of a system when applied force and mass were changed. The purpose for the second lab, Lab 06, was to learn and understand each variable and constant in our experimental models found. 
+The first experiment in Lab 05 was done to see how the applied force changed the acceleration of a system. In table 1, we made a prediction that as the applied force increases, the acceleration will do the same. When conducting this experiment, we kept the starting distance, the angle, and the mass of the system constant to ensure clear results. In table 2 we recorded our data for each value of applied force on the system. Our results were then graphed in graph 1 and a line of best fit was chosen. The variable, Fa refers to the applied force on the pulley and a refers to the acceleration. 
+The second experiment in Lab 05 was testing how mass changes the acceleration. In table 3, we predicted that as the mass of the system increased, the acceleration would slow down, they would be inversely proportional. When following through with the experiment we kept starting distance, applied force, and the angle constant so our results would be steady. In table 4 we kept record of the acceleration as we changed the mass of the system by adding weights to the cart. Our data was graphed into graph 2 and we chose a power trendline because it fit the line the best. In our model, m is mass and a is acceleration. 
+The constants in both models could be due to friction or the angle of the system.
+In Lab 06, we conducted our third experiment to test how the angle of the system changes our constants. Our prediction in table 5 was as the angle changed, the acceleration would change as well. When we conducted the experiment, we tested three angles at different applied forces, as seen in table 6, to see if the lines they produced were different in any way. In graph 3 we noticed that as the angle increased, the line was shifted higher than the previous. 
+
+This groups data was different from ours because they tested how friction would change the acceleration and the constants of the equations.
+These results are from group 5
+
+
+This groups data was the same as ours, but their experiment was done in the opposite direction as ours and we came to the same conclusion. 
+These results are from group 2
+
+
+During our experiments, we could not change the friction on the track, the pulley, from the string and our measurements had error as well. Being able to change these or make more accurate measurements could help us get more clear values and models. One way we could get more accurate measurements is to have an electronic scale to measure everything because it lessens the human error. 
+Some constraints that could limit the generalizability of our results in this experiment could include the track friction and the pulley friction. Since everyone in the class is using different sets of equipment, our models could differ due to the different constants of friction between the cart and track or the pulley and the string. 
+Our two experimental models,$a=0.0029 f$   and 195.19 m^{-0.907}  are consistent with Newton’s second law, $f=m a$  because our equations are variations of it.

@@ -1,0 +1,35 @@
+discussion and conclusion 
+
+
+
+what impacts the period of a pendulum swing? after reviewing the data, i’ve came to the conclusion that length of string is the only variable that has a significant effect on the period of a pendulum swing. for length vs period, my group initially made a linear graph (figure 2) but then switched to a power graph (figure 1). this is because in lab 1 we determined length vs. period to be linear but later found that the power curve best fits the data. it is obvious in figure 3, that the mass of the weight does not affect the period of a pendulum swing because the data is too sporadic and has no relationship. the angle vs period (figure 4) seemed to be more linear than the mass but the data is not significant enough to show a relationship. lab 2 helped us identify errors, calculate standard deviation, calculate uncertainties and determine trends that we cleaned up in lab 3. 
+
+
+
+for figure 1, error bars are present but too small to see. the uncertainty estimate of the string length was +/- .05 cm for the measuring tape. this was determined because the tape measures to the nearest .1 cm. the uncertainty of the period is +/- .0001 seconds because the photogate measures to the nearest .001 seconds. for figure 2, the uncertainty estimate of the string length was +/- .05 cm for the measuring tape. this was determined because the tape measures to the nearest .1 cm. the uncertainty of the period is +/- .001 seconds because the stopwatch measures to the nearest .01 seconds. the standard deviation bars overlapped meaning the numbers may be the same where the bars overlap. the true value is within range and follows the trend. for figure 3, error bars are present but too small to see. the uncertainty estimate of the mass was +/- .05 g for the weight. this was determined because the weight is measured to the .1 g. the uncertainty of the period is +/- .001 seconds because the stopwatch measures to the nearest .01 seconds. the standard deviation bars overlap meaning it is still not consistent and does not affect the period of a pendulum. for figure 4, the uncertainty estimate of the angle was +/- .05 degree for the protractor. this was determined because the protractor to the nearest .1 degree. the uncertainty of the period is +/- .001 seconds because the stopwatch measures to the nearest .01 seconds. the standard deviation bars overlap meaning it is consistent with previous patterns, there is a relationship but not significant.
+
+
+
+the theoretical mathematical model is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. we weren’t able to come up with the full model with this lab because the experimental model was based on only five data points which increases the likelihood of random error. additionally, we did not account for other concepts that may have affected the period such as gravity. 
+
+
+
+when plugging in .50m to the theoretical model and to our experimental model we found the answers to be very similar. these answers can be seen below. the theoretical and experimental values were close but not exactly the same, the experimental value was higher. this could be due to the very small number of trials performed to get the mathematical model. 
+
+theoretical value t is 1.419 seconds
+
+
+
+experimental value is
+
+$t = 0.5404 l^{0.2909}$
+
+t is 1.686 seconds
+
+
+
+the random errors that we had in lab 1 were that the tape measure wasn’t always lined up to the end of the string and the timer wasn’t stopped at the exact time it should’ve. a systematic error we had in lab 1 was the stopwatch delayed when pressing start. it was concluded that our systematic errors could be reduced in lab 3 by making sure the lab equipment was functioning properly and calibrated. it was concluded that our random errors could be reduced in lab 3 by repeating the measurement and taking an average or executing the methods of the experiment more carefully.
+
+
+
+restraints for this lab would be time. time limits the amount of trials and data we are to obtain. with more data we could provide more precise results. a more advanced pendulum would help for more accurate results.

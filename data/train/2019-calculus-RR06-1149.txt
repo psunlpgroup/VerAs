@@ -1,0 +1,15 @@
+discussion: 
+
+the question on whether mass affected a systems acceleration was tested by applying weight to the counterweight and then directly to the cart. both experiments showed a relationship between mass and acceleration. the last experiment tested the angle of the track specifically and showed that the angle does not affect the acceleration but does affect the y-intercept values.
+
+
+
+all of our graphs had very little errors and were very close to what a theoretical graph would look like.
+
+
+
+there were small systematic errors due to human errors. we had to measure the release point and that could have affected our data. besides these small errors, we used software to take all of our graphs data and was shown to be very accurate.
+
+
+
+the experiment was constrained to these three variables and our data matched up pretty well with what the theoretical graphs would look like. the experiment was tightly constrained just to observe the effect of mass and the track angle on a system.

@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+
+
+what impacts the length of a period in a pendulum swing?
+
+in the experiments, we tested angle of string, the length of string, and the mass of the pendulum. from our tested hypothesis, we can conclude that the length of the string was the only variable that effected the period length in 10 swings. one can tell from the mass and angle graphs that there was no relationship between these variables and the average period length. in the length of string graph, you can infer that this variable and average period length has a relationship. it shows a defined positive slop, inferring a relationship. 
+
+the mathematical model for the period is is  $t=2$
+
+in this equation  is length, g is gravity, and t is time or period. as stated before, length was the only variable that did not have a relationship with average period length. this mathematical model shows as the length of string changes that is holding the pendulum, so does the time/period. during our experiment, we shortened the length of string each trial, as we did this our time period would also decrease. one can infer that the is a relationship between length of string and time period. the mathematical model shows this relation. also, in this mathematical model mass and angle are not represented. this shows that mass and angle do not have a relationship with time period. 
+
+during our experiment one of the random errors we experienced were the stopwatches not correctly working. due to this error, we had to average our times out during one of trials, because the stopwatch did not reset. we experienced more systemic errors than random errors. some of the systemic errors we experienced was the angle of the string was not exact, the length the string may not have been exact due to it being measured by hand, and not exact position of dropping the pendulum during each trial. many of errors could have been prevented with some sort of technology. the angle of the string could have been measured with a digital protractor to give a more precise angle. we could have given an exact coordinate to bring the pendulum back during each trial instead of an estimate starting point. 
+
+many constraints during this experiment were due to human error. many times, we were estimating because we were not given the right tools to find exact results. our data compared to another groups data will be different due to constraints in human error. a major error we experienced was during trial one when we tested the length of string. our group accidentally measured the length of string in inches instead of the instructed centimeters. this human error limits the generalizability of the results. our data might have a slight deviation from the overall data, due to the fact we would have to change inches to centimeters. 
+
+
+
+

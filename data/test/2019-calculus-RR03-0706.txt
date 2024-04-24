@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+	the whole point of labs 1-3 was to answer one question; what factors affect the period of a pendulum? when the mass of the bob was changed, the results of our test give convincing evidence that the mass of a bob does not have an effect on the period of a pendulum. our graph clearly shows that when the mass was varied, the length of time of the period remained generally the same within plus or minus 0.03 seconds. these tiny time differences can be accounted for by human error, i.e. reaction time. w the angle of release was changed, we failed to see a significant correlation between angle of release and period. even though our graph does show a slight positive slope, this is due to the fact that there will always be human error in experiments ran by humans without accurate measuring devices. lastly, when we altered the length of the string, we noticed a significant correlation between string length and the time period. because our graph shows a positive trend that cannot be accounted for by our measure of uncertainty, we can accurately proclaim that the length of the string does in fact affect the time period of a pendulum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+in the figure above, we see that our r^2 value is almost exactly one. a high r-squared value means that there is a very strong correlation between the two variables. given the theoretical equation of period of a pendulum, $t=2 \pi \sqrt{\frac{l}{g}}$ , we determine that length does indeed affect the period of the pendulum. the model above supports our theoretical model that the length of the string does affect the period. we know this because of our high r squared value which was talked about previously. random error that occurred was in using a stopwatch to measure the time period. because the reaction time will be different every time, the true period could be longer or shorter than our measured value. another random error could be from using a protractor to eyeball the angle of release. each time the pendulum was releases, even a small hand movement could increase or decrease the angle from the desired angle. the systematic errors that occurred could be from the weights used for the bob not being exactly the weight they say, as well as our measuring tape being inaccurate to some degree. also, the heavier bob weights would pull the string more taught thus increasing the length of the string marginally. to reduce random errors, the team would take many more measurements and much more data. this would in turn give us a more normalized distribution of our data and lessen the effect of random error. to combat systematic error, we would verify that the weights are in fact the correct weight using precise scales, that the string length be 100% constant, and that our measuring device for length was in fact precise and accurate. the major constraints faced in these labs was time. given more time, we would have taken done many more trials and gotten much more data. this would have helped us to reduce random error and would increase the accuracy of our findings. another constraint faced was accuracy of measuring devices. because we were only allowed to use the materials given, we can not be 100% accurate in our results due to inferior measuring tools.

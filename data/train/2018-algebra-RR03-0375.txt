@@ -1,0 +1,11 @@
+discussion and conclusion:
+
+for this lab our research question was: what (mass, length of string, or angle of release) impacts the period of the pendulum for small swings? 
+
+after performing the experiments, it can be seen that neither the mass or the angle has a significant effect on the time it takes the pendulum to complete one period. the length of string however does have an effect on the period length in that as the string length increases, the period length increases. we know that the mass and angle have no effect because when the error bars are placed on the graph the bars overlap. this means that the data points are too similar for there to be a correlation between those variables and pendulum length. this is not true of the string length graph, so we know there is some correlation. adding the line of best fit for the points allows us to see that there is a positive logarithmic correlation between string length and pendulum period. this line of best fit equation gives us $y=2.0081 x^{0.5012}$ with an r^(2) value of 0.9999 showing that the relationship is definitely logarithmic. we were able to come up with this mathematical model because when we used the equation for the length of a period and moved a couple variables around, the equation became is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ . the simplified theoretical equation was 2.006 * l^(0.5) , and our experimental equation was $y=2.0081 x^{0.5012}$ which is almost exactly the same.
+
+
+
+
+
+during the second lab we discussed possible random or systematic errors that could be affecting our results and how we could resolve some of them. random errors that we identified included the stopwatch only going to hundredths of a second and not being able to measure the angle perfectly using a protractor. systematic errors included not measuring the length to the exact same point every time and having differing reaction times when using the stopwatches. we decided that the random errors could have been reduced by using more precise equipment such as a balance and stopwatch that measured further in decimals. systematic errors could be reduced by using more automated equipment which is why we used a photogate to measure the time per period instead of stopwatches for the second trial.

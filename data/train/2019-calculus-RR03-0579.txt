@@ -1,0 +1,4 @@
+conclusion:
+
+
+what changes the swing of the pendulum. in each of the experiments the change in the pendulum swing was the dependent variable. $y=0.0134 x + 0.868$ is the model for the time and length graph because the other variables did not affect the pendulum. there are many possible errors that could take place in an experiment of this kind for one the air resistance can affect the pendulum so keeping this experiment in a air controlled environment would be very useful. we can only preform this in a certain range of heights if we had better equipment we could test it further.

@@ -1,0 +1,3 @@
+discussion and conclusion:
+
+in the cases where force of the system is compared to the acceleration was can see a linear fit being used to describe our function. the only case where the line of best fit was not linear was the acceleration vs the force. this proved that as we increased our mass and/or our force the acceleration was increased in a linear fashion. each experiment tested different independent and dependent variables. our data showed the relationship between force and acceleration. a conclusion can be made that as we increase the force the acceleration will increase at a proportional rate. this conclusion can also be made with a force of friction added. the rate will only be less but still be moving at a linear rate.

@@ -1,0 +1,25 @@
+discussion and conclusion
+
+the purpose of this lab was to determine what impacts the acceleration of an object. by conducting these experiments, we were able to develop real world, mathematical models and an understanding for each numerical value shown in said models. 
+
+first in lab 5, we used the provided software to record the distance vs. time squared. then we used the slope of that as our acceleration (m/s^2) for the next part. then we created our own graphs by setting the axes as acceleration vs. the mentioned independent variable and found these two mathematical models is  
+$a= 0.0481 m - 0.1767$
+
+this model was retrieved from graph 1 which has a remarkable correlation or r^2 value of 0.9813. the variables x and y were changed earlier to their real-world meanings.
+$a = 0.3781 m^{-0.993}$
+
+this model was retrieved from graph 2 which also has an impeccable correlation of or r^2 value of 0.9998. the variables x and y were changed earlier to their real-world meanings.
+last for lab 6, we used the program exactly the same, but we played around with the angle between the air track and horizonal. this resulted us with the data stored in data tables 3, which were then used to populate graph 3 and the models shown below is 
+ $a = 21.64 m_{hanging}  - 0.0019$ 
+ $a = 21.513 m_{hanging} - 0.0461$
+$a= 21.841 m_{hanging} - 0.0897$
+these models were retrieved from graph 3 and all consisted of amazing r^2 values averaging as 0.9987. the variables x and y were changed earlier to their real-world meanings.
+the whiteboards shared from the other groups tested different hypotheses, but are logically connected to the conclusions our group discovered. these results contributed to my understanding by explaining that the friction force will decrease the acceleration (group #2). 
+
+
+most of the error that could have happened would have been systematic. this is simply just because we did not really record any measurements by hand. most, if not all of the data was retrieved by the desktop computer and its programs. if this error did exist it would either be too high or too low, but not both. in the future in order to reduce error we could run way more trials. we could also take data from multiple air tracks because theoretically they should all produce the same result. 
+
+this experiment doesn’t have very many constraints, however when testing this experiment is important to keep the force of gravity consistent. this means that this lab can be conducted on the moon, but the force would not quite match up with the results produced on earth. 
+
+
+it is not surprising at all that this aligns so well with the models we made. if we took this equation and solved for acceleration, we would find that $a=\frac{f}{m}$. when comparing this to our models one would notice that the model from graph 2 had the object’s mass to approximately -1th power which is equivalent to 1/object’s mass. multiply that by the force and then the acceleration was computed just like that, identical to newton’s 2nd law of motion.

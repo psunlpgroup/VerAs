@@ -1,0 +1,19 @@
+conclusion:
+
+this experiment focused on finding what impacts the period of a pendulum.
+
+
+
+in the first part of the experiment we spent time considering and testing possible factors that could impact the period of a pendulum. in figures 1 and 2 the weight of the pendulum was tested. the conclusion we reached with this experiment was that weight was not related, as there was no clear trend found. in figures 3 and 4 the length of the string the pendulum was suspended from was tested. looking at the data you can see a positive correlation. we concluded that our prediction that pendulum will swing faster at a greater length was true. in figures 5 and 6 the starting angle of the pendulum was tested. in this data there is also a positive trend showing. we concluded that this also supported the claim we made that the pendulum will swing faster at a greater angled start. in the next part of the experiment, figures 7 and 8 were used to calculate and show the standard deviations of our previous tests. the deviation found was 0.079, which told us our measure of uncertainty. it helped us to conclude that our data did not need revising. for the last stage of the experiment we introduced a photogate. this tool allowed us to more accurately record data. in figure 9 we retested length versus the period of a pendulum. the experimental design can be found in table 4. once recorded we found our standard deviation once again in figure 10. it was noticeably smaller at + or – 0.007. this final test showed us once again that our claim was proven true.
+
+
+
+we were able to get a mathematical model from the data the photogate gave which is $y=0.0112 x + 0.991$. we are able to be confident in this data since we had an r-value or 0.9946. as the value is near one, we can conclude there is a linear relationship.
+
+
+
+in figure 1 and 2, a trend cannot be discerned. this may have been due to a random error that could be reduced with more collection of data. as this part of the experiment was also collected through multiple people manually, there is also a chance for user error throughout. this was later improved upon with the use of a photogate. due to the small amount of deviation found in figure 7, that part of the experiment shows little room for error. as for all else, random error is always a possibility, even though we did take out some of the users errors later on it would be best to increase all data collection.
+
+
+
+the experiment was limited by the amount of data collected. greater amounts of data would have helped to work out any inconsistencies or problems we encountered with the small array of data we used. we were also constrained to the materials provided to us.

@@ -1,0 +1,9 @@
+discussions and conclusion
+
+	the overall research question was “what impacts the period of a pendulum’s swing?”. as a group we answered this question by controlling the variables of mass, length of the pendulum, and the starting angle. we hypothesized that each variable would result in some sort of correlation between the variable and time; however, only the length of the string resulted in a positive correlation with time. the graph for length vs time showed a positive correlation by having a definitive positive slope. the other two graphs either had no slope or very slight which was negligible. this means that mass and angle have no effect on the time of a pendulum’s period.
+
+	the theoretical model for a pendulum’s period is , this equation is equal to the equation . our final power equation after using the photogate to gather better data was . our equation is very close to what is should be. this claim is backed up by the fact that our r value from our data was 0.9999.
+
+	some errors that we noticed with the first set of data was human error when clocking the starting and toping times of the period. also, there was some error from the pendulum not being in a resistance free environment. our human error was corrected on the third day in lab when we were able to use the photogate to take time measurements.
+
+	there were constraints that hindered our results. the pendulum setup itself had a couple restraints like it having a string that could possess a slight elasticity. also, the way the string connected to its pivot point could harm our data with unnecessary friction. these constraints could have been the reason our angle versus time data showed a slight correlation instead of no correlation.

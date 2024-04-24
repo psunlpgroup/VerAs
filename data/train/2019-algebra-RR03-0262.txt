@@ -1,0 +1,19 @@
+discussion & conclusion:
+
+the research question to be investigated was, “what factors affect the period of a pendulum?”
+
+
+
+our experiment allowed us to investigate the 3 factors that could affect the period of a pendulum. in our first we investigated string length and as you can tell by the graph it has a linear relationship shown by a power curve best fit line. this data concludes that string length has a significant affect on the period of a pendulum. the two other factors we investigated did not show that they had a significant effect on the period of a pendulum. those were the angle release and the mass of the pendulum. this is shown in their graphs where during certain sections of the graph the change in the period is little to none in terms of the changes in the respective independent variable. 
+
+
+
+the theoretical model for the period of the pendulum is $t=\frac{2 \pi}{\sqrt{g}}$ *l. this is the time it takes for a pendulum to complete one swing equals two times pi divided by the square root of gravity times string length. our data fits the theoretical model exactly, this is shown in our graph with the r^2 value. the other two factors, mass and release angle, do not match this due to them being a non factor in the period of a pendulum. 
+
+the possible random errors include not always being accurate in the release angle and the pendulum hitting something causing it to go off course. 
+
+systematic- possible systematic errors include incorrect time measurement when not using the photogate. 
+
+to reduce these possible errors, we marked a spot on the protractor to always make sure we had the correct release angle and we used the photogate to eliminate systematic error in time measurement. 
+
+factors that affect the generality of this experiment is the constraints of the angle we were allowed to go to and the string length. given wider ranges for these two factors, we could have done more testing to get a more definitive conclusion.

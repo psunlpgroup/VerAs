@@ -1,0 +1,5 @@
+discussion and conclusion
+
+
+
+	the research question for the lab was “what impacts the period of a pendulum for small swings?”. the three labs helped address this question by allowing variables to be ruled out. the theoretical mathematical model for the period of the pendulum is 1.419 seconds. the data found in our experiment was 1.404 seconds. for the graphs we used a power fit line because the period of the pendulum was a power function. our data was relatively close to the theoretical mathematical model. to reduce systematic errors, we made sure that the length was measured from the base of the weight to the top of the string. also, the stopwatch wasn’t started until the pendulum swung for half a period. to reduce random errors, five varying lengths and five angles around ten degrees were done. there were 3 trials of each. restraints of the experiment could be not being able to do a small or big enough angle. also not having access to a photogate or a long enough string.

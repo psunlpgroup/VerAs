@@ -1,0 +1,3 @@
+discussion
+
+the purpose of this experiment is to figure out what impacts the period of swings of a weight on a string. this was discovered by running three experiments. the period vs. string length was shown to not affect the period. this can be proved by looking at how charts 1 has some relationship to time but point 5 is an outlier. graph 3 seems to have no relationship with time. the 2nd experiment graph is the only one that continues to increase from the first run to the fifth.

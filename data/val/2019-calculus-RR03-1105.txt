@@ -1,0 +1,41 @@
+discussion and conclusion
+
+these series of experiments were designed to answer the research question is  ‘what is the factor that affects the period of a swinging pendulum?’. 
+
+
+
+experiment 1 investigated the relation between mass and the period. from figure 1, the following claim can be made is  the change in mass of pendulum does not affect the period of a swinging pendulum.
+
+
+
+experiment 2 investigated the relation between the starting angle of the pendulum and the period. from figure 2, the following claim can be made is  the larger the starting angle, the longer the period. this claim is only valid when the starting angle greater than 25°. for the situation which has smaller angle, the change in period can be neglected. because when larger starting angle applied, the component of gravity force of pendulum at the tangent direction of the curve orbit which the pendulum moving changes a lot during its motion. this component of gravity force has effects on the velocity of pendulum, hence the period.
+
+
+
+experiment 3 investigated the relation between the length of string and the period. from figure 3, the following claim can be made is  the longer length of string, the longer period time for a pendulum. the best-fitted mathematical model for the relation of length and period is a power function, $t=0.12456451 l$. as the value of l increases, the time increases as well. the power function model also gives a r2 value (0.999) which is closest to 1 compared to other models.
+
+
+
+there were several errors being identified as the experiments going on.
+
+random errors is  
+
+	the timer was not perfectly clicked
+
+	the starting angles were not perfectly measured
+
+	hard to determining one whole period
+
+	the pendulum was doing a 3d motion other than expected motion in 2d plane. 
+
+systematic errors is 
+
+	the length of the pendulum was not perfectly measured
+
+	the stopwatch cannot count the time accurately.
+
+the pendulum is not a point of mass, the volume as well as its friction changes when the mass is changed.
+
+
+
+to improve the precision of the data collected, instruments, for example ‘photogate’, can be applied to determine the period of pendulum, length, and the starting angle more accurately. having each person time multiple trials and average all of these together to help negate reaction time error.

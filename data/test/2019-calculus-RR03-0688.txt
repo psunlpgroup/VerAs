@@ -1,0 +1,28 @@
+conclusion:
+
+
+the question for this entire experiment is; what variable determines the period of the pendulum? the results above show the relationships that determine what variables effect the period of the pendulum and which variables do not. in the first experiment, whose data is shown in table 1 and the table 1 graph, the length of the string was isolated as the independent to determine whether or not the length of the string impacted the time it took for the pendulum to go through on period. in order to isolate these variables, the control variables of mass and the release angle were kept constant and the period was tested at three different lengths of the string. the graph (table 1 graph) revealed that there was a strong correlation between the length of the string and the average period. this conclusion makes sense because the large the distance the object must travel, the longer it will take to get there.
+
+	in table 2 and table 2 graph, the mass was isolated as the independent variable to determine if changing the mass would effect the period of the pendulum. setting the control variables of length of the string and angle of release and testing at three different masses, the table 2 graph shows that there is little to no correlation between the mass of the object and the period of the pendulum. 
+
+	finally, in table 3 and the table 3 graph, the angle of release was chosen to be the independent variable and the control variables of length of the string and the mass of the object remained constant. the data from table 3 graph shows a nearly perfect negative correlation between the angle of release and the average period of the pendulum.
+
+
+
+ 
+
+
+
+
+
+the determined mathematical equation related to our findings (shown above) confirms the findings from specifically the table 3 graph which showed that the mass and the angle less than 30 degrees does not effect the period of the pendulum, while the length of the string does impact the period. this mathematical model is further backed up by two other groups findings (shown below team 3 and team 4 equations).
+
+
+
+ 
+
+
+
+there were both systematic and random errors present in the experiments performed; some of the errors such as the changes in the table 2 graph could be due to systematic errors of not using an ideal length of string to perform the experiment or this could be due to the fact that the masses themselves were slightly inaccurate. or these errors could be random in the sense that the time keeping system was flawed or that the period was not accurately measured. these errors could have been reduced by using an ideal length of string and to use a photogate to catch the pendulum at exactly the point when the period starts and ends.
+
+	the constraints that may limit the ability to generalize these results are is  the limited amount of time allowed to be spent in the lab performing the experiments, the limited knowledge that comes with performing these experiments for the first time, and the limited amount of trials performed to be able to make a more accurate conclusion of the research question.

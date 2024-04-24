@@ -1,0 +1,18 @@
+discussion and conclusion:
+
+the two points of research were: affect applied force has on acceleration and the affect mass has on acceleration.
+
+the hanging weight is considered to be the force of gravity acting upon the cart, for when there are more bobbers on the string, the force increases due to the lack of normal force acting upon the mass. the graph and data also show this, due to the fact that force is directly proportional with acceleration and when there were more bobbers on the string, the force of gravity propelled the cart to move faster. and the slope of the graph has a positive slope, showing that there is a positive correlation between force (number of bobbers on a string) and acceleration. the error bars also do not change this, since they do not overlap, proving the positive correlation.
+
+this group directly agrees with our graph, showing a positive correlation between force and acceleration. the only difference is that their slope is a little bit smaller than ours. other than that, they are very similar.
+this group had a similar concept to ours when it came to the mass vs the acceleration to where the acceleration decreased as the mass increased. we both had rather small slopes, however, the error bars do not overlap, therefore, there is a negative correlation just like what our group has between mass and acceleration.
+
+	the theoretical equation for this is $a=\frac{f}{m_{sys}}$. and the equations i have define the force very well, for when looking at the equation, force and acceleration are directly proportional and that means that there is a positive correlation between the two and when looking at the graph, the error bars do not overlap and the graph goes up with a positive slope, proving the equation a graph to be correct.
+
+	the theoretical equation ($a=\frac{f}{m_{sys}}$) can also be proven in the first graph, for according to the equation, the mass and acceleration are inversely proportional. in the graph, the error bars do now overlap and there is a negative slope. this shows that the mass slowed down the total acceleration. 
+
+	the reason why we used bobbers attached to a string actually made the force applied grow, since there is no normal force on the bobbers anymore when moved down, there is only the force of gravity acting on the bobbers, pulling them down. 
+
+	some random error we could have had was the distance i lined up the cart at and the mass of the cart i measured. these can be reduced by more accurate and time-filled measuring.
+
+	some of the constraints in this lab were time (with more time, we would have been able to do more trials and get a more precise answer) and the equipment we were given. we could have been given more precise equipment that could have been easier to use. this would have helped with getting better answers and a faster way to do the lab.

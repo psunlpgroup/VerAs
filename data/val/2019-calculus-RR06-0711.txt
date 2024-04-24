@@ -1,0 +1,30 @@
+discussion and conclusion
+
+	during the two-week long lab, there were certain purposes to complete each of the labs. the goals were to create an experiment in an environment that was controlled and then create a model from the data that we as a group had recorded. in these periods, we used a sled on a frictionless track which was used to show how the acceleration can be affected with the use of different independent variables. the equation $f=m a$ was used to confirm if the independent variables, which included applied force, change in system mass and change in slope of the track, would affect the dependent variable, which was the acceleration.
+
+
+
+	the results for our applied force vs acceleration was found by adding multiple weights on the other side of the rope. after a lot of trials, figure 2 was developed with a positive linear fit. it shows that as the applied force decreases so does the acceleration. the group is confident with our answers because there are very low error bars and a very, very high r^2 values. 
+
+the results for our total mass vs acceleration was found by changing the total weight of the sled. after a good amount of trials, figure 4 was developed creating a power fit. the graph shows us that when the applied force increases, the acceleration decreases. our group is very confident because there were low error bars and a very high r^2 values. 
+
+the results for change in force vs acceleration was found when we had changed the friction of the track multiple times. after all the trials were run, our graphs (figure 8-10) had been developed creating a positive linear fit graph. it shows that as the friction increases then the acceleration decreases. we are confident because there are low error bars and high r^2 values.
+
+the other group that had done the magnets had around the same hypothesis as our group did. in the end, both of our hypothesis’s were correct in that the more magnets that we had added, the greater the “friction” would be and the slower the cart would accelerate. if both of our groups had used the same magnets on the same sled, then there wouldn’t have been much of a difference in our slopes, even though there isn’t much difference in them right now. 
+
+
+
+the groups that conducted the angle tests are shown in figures 12 and 13. the equations that result from the testing are larger than the groups that conducted the slope test. this is probably because of the greater angle that the cart was released from which helped it accelerate at a quicker rate than the carts with the friction included. the groups hypothesis that they had created were both correct after they had tested it. the groups got different answers in the pictures because they had different tilts.
+
+ 
+
+
+
+	a random error that might have been conducted is when measuring the starting distance. we had not started at the same position when we released the cart. while it may have been close to the starting point, it could have not been exact. this could lead to us getting a random error 
+
+
+one systematic error that could have been was the track could have sat on an uneven table, causing a very small initial slope, so there was no true flat area for the sled to sit on the track. to fix this problem a leaver should be left on the table to make sure that the table was level. also, there could have been air resistance or wind from the room that could have impacted the system in a small way. this systematic error could have led to an increase or a decrease in the acceleration of the system. this could have led to the data being skewed. to fix this the experiments should be conducted in a vacuum. 
+
+one constraint in this experiment is that the program could have been running into errors and had read the data wrong. also, the program could have failed at some points, which would result in the retesting of our data. finally, the results of the data for slope measurements were limited because only short blocks were used. by only using a short block one could not see the effect of the magnets.
+
+the models are very consistent with newton’s 2nd law. the fits had happened because they were a linear model and power model. for this model, the calculated equation was $y=4.2024 x+0.0008$. our y-value was decelerating because of the way we had done the model for the model of acceleration vs system mass, the calculated equation was 0.574x^0.888 model this is derived from $f_{applied}=m a$. the x in this equation is the reciprocal of the mass and it equivalent to the power equation. developing these two equations for the different labs create environments that can test different variables in systems without friction and without a slope.

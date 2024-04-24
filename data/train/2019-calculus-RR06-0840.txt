@@ -1,0 +1,98 @@
+discussion and conclusion
+
+the purpose of lab 05 was to develop experimental mathematical models to describe the behavior (acceleration) of a system in a real lab setting.
+
+ the purpose of lab 06 was to further explore how the actual lab setting contributed to the mathematical model, $a = c1 f+c2$, that was developed in lab 05. this model describes the acceleration of a system under the influence of a force. this model also includes two numerical values, c1 and c2, and the purpose of this lab investigation was to further explore the physical meaning of each.
+
+for lab 05 the first mathematical model ($a =\frac{f}{m} -c$) was calculated by substituting the x
+
+and y values in and then using dimensional analysis to make the one constant
+
+equal to force. the second mathematical model ($a =\frac{f}{m}$) was calculated in the
+
+same manner and once again showing that force must be the constant.
+
+the mathematical model presented by excel is confident due to the trendlines
+
+correlating to the data points. the first graph showed a linear relationship and
+
+had an r2 value of .9998. the second graph was a power relationship and
+
+showed an r2 value of .9517. the error being 0.001 with every data point having a standard deviation less than 0.002. also, the graphs both have r2 values near 1 (0.9998 and 0.9517) proving the data points to be closely related with outliers. the factors that were found to impact acceleration within this lab are the force applied
+
+and mass. these results were concluded from the equation found. force affects
+
+acceleration directly, when mass is held constant, and therefore shows a positive
+
+causation. mass is shown to be indirectly proportional to acceleration when force
+
+applied is held constant. 
+
+for lab 06 the factors found that may contribute to the numerical values are the mass of
+
+the system, tension force, and friction force. the mass will impact the model by
+
+changing the c1 value. this can be modeled by taking and showing that
+
+the larger the mass, the lower the c1 value. next, the c2 value is represented by
+
+external forces which are assumed to be friction forces. this is assumed through
+
+the c2 value shrinking when the cart is going downhill and having less friction to
+
+deal with. this is represented through the r values of each graph and the conceptual thinking behind the data. the r values of the graphs represent how close the data points are to a perfectly linear fit, with 1 being perfect. in our data, the r values are .9994, .9998, and .9992. these linear fit trendlines are all very close to the perfect r value and therefore can be interpreted as being highly correct. also, the data regarding the uphill moving cart gained acceleration slower than those moving downhill, showing credibility in our data.
+
+
+
+	this groups data shows that the friction force is expected to be
+
+the c2 value and changes upon the angle as previously stated.
+
+also, their model is represented in the same format as our
+
+calculated models. the only difference is their large c2 values,
+
+		which can be from error in converting units. from group #6.
+this group conducted their experiment based upon changing
+
+magnets and force applied rather than changing the angle of
+
+inclination or declination with force applied. they came up with a
+
+linear fit also and similar negative c2 values. this backs up the
+
+claims of our data and the c2 values changing with the friction. form group #2.
+
+from our resulted data, we can conclude a model with the terms
+
+of $a = c1 f + c2$. the 𝐶1 in our generated model is represent by
+
+the value of 1/mass. the 𝐶1 value that we get from our original calculated model resulted in being 2.98. the calculated true value found by 1/mass is 3.06. the two parameters are found to be 2.61% different ant therefore within the labs 10% error range.
+
+the random or systematic errors and constraints that could have affected our data could be the tension in the string used along with the location of the bobs on the cart. the string can have a different tension depending on what it is made of and therefore an experiment can be conducted using different types of strings with the same system mass to conclude the claim. next, the bob placement was shown to give false acceleration values if the mass was placed on
+
+the front of the cart rather than the back. therefore, an experiment can be
+
+tested with the bob placement being the iv to determine the difference in      	   accelerations.
+
+the experimental models found support newton’s second law because of the
+
+direct relationship between the variables. newton’s second law ($f = m a$) shows
+
+that when solving for acceleration, $a =\frac{f}{m}$  . if mass is held constant, the
+
+acceleration and force have a casual causation and direct relationship, which our
+
+findings support. now, if force is held constant, the mass and acceleration show
+
+an indirect relationship, which is also discovered in our experiments.
+
+the difference between our findings and newton’s second law is that we found
+
+a constant value within our first experiment. this constant can represent an
+
+external factor. this would be true because the constant effects the acceleration
+
+and is unitless. therefore, the constant can be a factor to decrease acceleration
+
+		due to a surface or factor in a system.

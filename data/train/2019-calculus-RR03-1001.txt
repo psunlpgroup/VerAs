@@ -1,0 +1,9 @@
+discussion
+
+one of the main flaws in this experiment was how the human error when collecting measurements affected our data. string length for example was too imprecise to be fully taken advantage of to prove the mathematical model. in the future, string length should be cut to exact measurement (with some leeway to attach it.)
+
+
+
+constraints 
+
+the main constraint was the means of collecting data. using the stopwatch for timing a period is not as accurate as one would hope due to human error.

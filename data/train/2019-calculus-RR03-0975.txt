@@ -1,0 +1,21 @@
+discussion and conclusion
+
+after completing the study on the effect weight, length, and angle of release had on the period of a pendulum. the experiment in which the weight was changed related to the researched question because weight was one of the independent variables that we had to test and change. after experimenting with the weight, it was claimed that the weight of the pendulum had minimal to no effect on the time of the period. the claim that the weight does not influence the period is valid under the data we collected and displayed in our graph. the experiment in which the angle was changed related to the researched question because the angle was one of the independent variables that we had to test and change. after experimenting with the angle, it was claimed that the angle of release of the pendulum had minimal to no effect on the time of the period. the claim that the angle does not influence the period of the pendulum is valid under the data we collected and displayed in our graph. the experiment in which the length was changed related to the researched question because the length was one of the independent variables that we had to test and change. after experimenting with the length, it was claimed that the length of the pendulum had a large effect on the time of the period. the claim that the length does influence the period of the pendulum is valid under the data we collected and displayed in our graph.
+
+mathematical model vs theoretical model
+
+the mathematical model is  $p=2 \pi \sqrt{\frac{l}{g}}$
+
+the theoretical model is  
+
+my data is supported by the mathematical and theoretical data because when you graph the data it and make and equation from the plotted data it is the same as the equation given.
+
+random error is 
+
+          	the random error within the experiment can be tracked back to some sources.  this could include the timing error from the timers not reacting fast enough or ending the stop watch at the correct time.  this could also be a problem with the stopwatch itself as it could have taken a few milliseconds for the actual stopwatch to stop. human error could have also come from measuring the pendulum length incorrectly, a small change in length could throw off the data.  also, the weight on the end of the pendulum could have also been slightly less or more than the actual weighted values.  the error could be reduced by running more tests to get a more accurate answer.  the weight could have been taken on multiple scales multiple times between each test to guarantee that the actual weight is accurate and precise.
+
+systematic error is 
+
+a source of systematic error could be the measuring tape is be miss labeled. another source of error could have been the scale being off. as we added weight to the bottom of the pendulum it could have stretched the string out and changes the length altering the results. the vertical support bar not being stable and moving as the weight swings can alter the data and is a source of error. in the future we could purchase more precise timing and measurement equipment for the lab.
+
+2019 university of cincinnatilab 03 - creating mathematical models - page 7

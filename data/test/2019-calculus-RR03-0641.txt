@@ -1,0 +1,66 @@
+discussion and conclusion
+
+
+
+what variables (weight, string length, and angle of release) will affect the period of a pendulum swing?
+
+each experiment tested one of these variables
+
+experiment one changed the length of the cord while keeping other variables the same. it was predicted that longer strings would increase the period. the result showed that the longer length of cord, the longer the period of each swing. this is shown clearly in figure 1.
+
+experiment two changed the angle of release of the pendulum while keeping other variables the same (angle of release from the horizontal). it was predicted that the larger angles would shorten the period as it would have less starting distance to travel. the result showed this prediction to be true; as demonstrated in figure 2, the larger the starting angle from the horizontal, the smaller the period length.
+
+experiment three changed the weight of the object at the bottom of the pendulum while keeping other variables the same. it was predicted that weight would have no effect on the period of the pendulum swing. the result showed the weight indeed had no effect on the period of the swing as shown in figure 3.
+
+theoretical mathematical models
+
+*note is  our original model only took in the general relation between the variables without any particular constants defining them.
+
+period is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+equation of period vs. length trendline graph is  $y=0.0111 x + 0.8194$
+
+equation of period vs. angle of release graph is  $y=1.5631 - 0.004 x$
+
+equation of period vs. weight graph is   $y = -2e^{-0.5}x + 1.4415$
+
+length is  centimeters    $l= 2g/4 * \pi^2$ 
+
+looking at these equations purely mathematically, they make sense as the different measurements (centimeters vs. m/s^2 vs. degrees) all cancel each other out when solving these equations leaving what variable is desired to be solved.
+
+the trendline equations on the graphs do agree with the general conclusion of the effect of their respective variables’ relationships. the period vs. weight trendline has such a small number that it might as well be zero for the curve (meaning no change between different weights). whereas the period vs. length and period vs. angle of release both have positive and negative slopes respectively. 
+
+
+one systematic error we uncovered was that we were measuring the length of the string to the bottom of the weight, rather than the center of mass. we redid all testing after discovering this issue.
+
+all error was found to be within a standard deviation 0.2 u of suspected values.
+
+the stopwatch being either too slow or too fast may also have caused some errors in measurement. 
+
+in the original figure 2, there was some inconsistencies between measurements after a certain point. this is most likely due to positions being changed and all data after that point being measured differently. this possible error could have been avoided if there was a software to ensure our initial measurements we correct.
+
+
+some tests may have been dropped incorrectly, leading to an initial velocity other than zero or a drop angle other than intended.
+
+human error when using stopwatches was accounted for with multiple people using stopwatches to ensure that times were more accurate. the average of the two times were used for each measurement unless they appeared to be too far apart, in which case the test was redone.
+
+another random error could be caused by wind/inconsistent air resistance, which could be corrected for with some sort of solid encasing to lesser wind or even doing experiments in a vacuum.
+
+
+due to the scientifically imprecise un relatively poor-quality testing tools, it can be assumed that our results are not accurate enough for more serious scientific or engineering applications. though, they do show the general trend of these basic physics properties.
+
+this being said, most of our constant variables or constraints stayed the same throughout the experiment. they changed for each experiment and include is 
+
+the constant downwards acceleration caused by gravity
+
+string length, angle of release, and weight changed for their respective experiments, but remained constant in the others
+
+air pressure likely did not fluctuate enough to be considered
+
+the initial velocity remained 0 for all experiments (unless error discussed above was involved)
+
+measurements we done in the same system for each variable and were accounted for
+
+the pendulum was generalized to one of relatively small size (not exceeding 190 cm in length)
+
+due to the small size of this experiment, outside forces caused more of an effect than they would have otherwise.

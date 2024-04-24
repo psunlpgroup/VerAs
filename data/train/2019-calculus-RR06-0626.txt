@@ -1,0 +1,19 @@
+discussion and conclusion
+
+the purpose of the lab was to develop mathematical models which describe the behavior of real system and to understand for each variable and numerical value included in the model.
+
+in lab 5 the two experiments created the two mathematical models found in figure 1 and 2. for the hanging mass mathematical model as you increase the hanging mass the acceleration of the car will increase. for the mathematical model for the mass of the car, when you increase the mass of the car the slower your car will become. in lab 6 the mathematical model can be found from figure 3, that is when the force coming from the hanging mass increases the acceleration of the car will increase as well.
+
+
+
+ 
+
+
+
+these two groups contribute to my understanding of what the numerical values in the  mathematical model because when they increased the height  of the retardation will also  increase which would cause the a decrease in acceleration. that goes along with our findings, because we increase the force a friction through magnets and the decrease the accleration of our car.
+
+the errors that could’ve have been present would by systematic from the acceleration recorder from the lab.  so, a way we tried to prevent that from effecting our data was to make sure that all trials were tested the same way so that one data wouldn’t vary out.
+
+the constraints we experienced during the lab was we weren’t able to test each magnetic strip with many trials, we only had 8 trials which our data could have had systematic error and effect our overall data.
+
+our mathematical models does go along with newtons law because the when we take the force and divided by the mass we would get around the acceleration for every trial.

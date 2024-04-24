@@ -1,0 +1,17 @@
+conclusion:
+
+
+
+the purpose of the two labs were to identify different dvs and ivs affected the acceleration of a system; namely applied force and angle. in these experiments, the system’s acceleration was tested and the recorded by hanging mass from a string to accelerate the system, the mass was changed between each trial, however, the net force stayed the same. by doing this, applied force’s impact on acceleration was determined, due to system only changing by where the force was applied.
+
+
+
+our mathematical model is taken from figure 1 where $a=3.3014 f - 9.5135$ where a represents acceleration and f represents applied force. the slope 3.3014 represents 1/m, or the reciprocal of the mass and -9.5135 would represent any unaccounted excess force. throughout all models, we have a positive trendline, confirming our hypothesis. in figure 3, the three trendlines also confirm our hypothesis on how incline would affect acceleration. all other groups data confirms the same. 
+
+
+
+the mathematic theoretical model is $a =\frac{f_{applied} + f_{friction}}{m_{system}}$, which is similar experimentally to $a=3.3014 f-9.5135$. the first portion of the equation turns out to be very comparable to the model. the second would include the friction in the spinning pully, the mass of the rope, air resistance, and the friction of the cart. the mass of the system is the reciprocal of mass multiplied by the force applied and the reciprocal of the mass of the system multiplied by the force of friction save the environmental factors. the string connecting the cart to the mass can affect the uniform acceleration of the cart because it could apply unintentional applied forces which would add to the acceleration, creating an increase over time. 
+
+
+
+by not incorporating the mass of the string, there is a possible systematic error, since the string does have mass and tension during the acceleration. however, due to the near massless-ness of the string, it should not change the results. this claim is based on the size of the system relative to the string and the accuracy of the computer assisted recording. despite frictionless surfaces being extremely unlikely, friction and other factors were not calculated. therefore, we cannot prove it was a not frictionless track.

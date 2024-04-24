@@ -1,0 +1,6 @@
+discussion/conclusion:
+
+the research question being tested in this lab is how the acceleration of a system changes when the applied force changes. we address this question with the test show above. in figure 1 and 2 you can see the test itself and the results that where taken. our results are concurrent with other groups results. there data is shown below.
+
+
+as you can see these groups data is almost exactly the replica of what my group found. some minor changes in each groups control variables but the trend is there. the theoretical model didn’t consider the environmental factors. some of which include friction, disrupted air flow of the track, or possible deviation of correct mass at the end of the string. we considered the small possibility of friction that may have occurred on the track. also using a digital scale may improve the readings of mass that we used. in conclusion our hypothesis was proven wrong. we stated that more mass would lower the acceleration but in fact did the opposite. therefore, with our data and the data of our fellow groups we can state that more mass will increase an objects acceleration.

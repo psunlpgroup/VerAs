@@ -1,0 +1,20 @@
+conclusion.  
+
+	
+
+	the theoretical mathematical model for the period of a pendulum in order to measure the period of oscillation was     $t=2 \pi \sqrt{\frac{l}{g}}$       the theoretical value for c was 0.2007 and the theoretical value for x representing the power of l was .5. 
+
+
+
+	the experimental mathematical model in order to measure the period of oscillation was $y=0.12898923$
+
+	
+	the results from this showed that the results of the experiment were close to the theoretical values. the theoretical value for c was 0.2007 but the experimental value was .3153. the error in the experimental value could be due to the variation in the swings of pendulum slightly from side to side and not in an exact straight line, especially at longer string lengths. also, there is systematic error with the photogate, which was stated as .001s. 
+
+	
+
+	the period of a pendulum with a string length of .5 m, according to the theoretical model, would be 1.419s. using our mathematical model, the period would take 1.562s. our value varies from the theoretical value by 0.143s, which can be explained by the possible errors stated above. 
+
+	
+
+	if a pendulum were to be constructed with a desired period of 5 seconds, using the theoretical model, the length of the pendulum should be 6.2059m. the mass of the bob would not affect the pendulum and therefor can be any value and the period will still be 5 seconds.

@@ -1,0 +1,35 @@
+discussion and conclusion
+
+what factors impact the acceleration of an object? 
+
+figure 1gives a linear equation of the line of $y=0.0287 x + 0.0265$.  in this equation, the y value is acceleration as given in our graphs. the mass value is x which is also given in our graphs. however, it is important that the mass input is in grams, not kilograms. in order to cancel out the x-value’s units in grams, the constant slope 0.0287 should have the unit acceleration per grams, which is logical with slope being y / x. the y-intercept must be in units of acceleration as well for the conceptual side of the model to work out and talk to each other. it is likely that this constant is the natural acceleration of the object when it is “stationary” on the airtrack, and this movement is likely caused by external forces.
+
+	in order to adjust the y-intercept of the system, a change of slope of the plane is necessary. inclining the plane will cause a negative y intercept due to the objects tendency to slide down a slope. when the plane is declined, the c2 value is positive due to the objects tendency to slide down the slope in the positive direction.
+
+	the data collected in this report came from three simple experiments. in the first experiment the object was a glider that fit onto an airtrack system that minimized the affect of friction. the glider was attached to the mass using a string and a simple pulley system that used gravity to pull the mass, and the glider in the positive direction. mass was connected to the string progressively during the trials and a sensor rigged on the track recorded the acceleration of the glider. 
+
+	the second experiment had an identical apparatus as the first, but instead of adding mass to the string, mass was added on top of the glider using circular shaped masses that slid on the glider. once again, trials were recorded as the mass was incrementally added on top of the glider. 
+
+	the third experiment once again had a very similar apparatus to the previous two experiments. however, the mass of the glider was kept constant while small blocks were slid underneath either the front or the back of the track to change the incline. the block could be stacked to three times its height and a trial was done not only once for each angle, but eight times for each mass added to the string as well. this experiment had 48 trials total, making it the lengthiest experiment. 
+
+	using the results from figure 1, 3, and 4 and table 4, 6, and 7, it can be determined that increasing the mass hanging on the string has a causal positive relationship with the acceleration of an object. conceptually, adding mass to the object increases the force of gravity acting upon it and therefore increases the tensional force pulling on the object. in our model multiplying the constant c1 (acceleration / mass) by x (mass) gives out force over mass which is equal to acceleration according to newton’s second law and increasing the mass in this model increases the force when applying simple multiplication.
+
+	figure 2 and table 5 present a different relationship from the relationship concluded by the other graphs and tables. as the mass of the object increases, the acceleration decreases exponentially. conceptually, due to the airtrack being near frictionless, the mass on the string should always be able to pull the object no matter its mass. the only external force acting on the object on the horizontal plane is tension, and without any resistance force the object should move along with the pulling force unconditionally. the acceleration does slow down as mass is added on, but it will never touch 0 m/s2 on the graph. 
+
+ 
+
+	the photo above was the conclusion of group 2 which conducted a similar experiment as our team. a conclusion has been agreed between us that the angle of the incline affects the y-intercept, or “stationary” acceleration of the object. conversely, their conclusion also states that the x value in the model is force. conceptually this wouldn’t work because then the slope would have to be 1 / mass which is contradictory to the true meaning of the slope, acceleration per gram.
+
+
+
+
+
+
+
+
+
+	group 5 conducted a different test than our group by using magnetic force to test how it affects the acceleration of an object. they concluded that magnets do have a negative correlation with the acceleration of an object with the slope decreasing as magnets are added. perhaps magnetic force acts as a resistance force that goes against the positive acceleration due to tension force of an object.
+
+	this experiment likely had minor systematic error with both software and equipment. the software used had a very minimal error, but an error nonetheless. this error was so minimal, however, its affects on the data would never significantly affect the conclusion of the data. the masses used in the experiment were weighted using a scale and any error using the scale, i.e. too low, would have been equally wrong with every trial. this means that the data could easily be manipulated to move up or down depending on the error of the scale. 
+
+	newton’s second law states that force is equal to mass times acceleration. if i were to rearrange the equation, acceleration would be equal to force over mass. the model our experiments proved is evidence to support newton’s second law. our model states that acceleration is equal to acceleration times mass (force) divided by mass plus the initial acceleration.

@@ -1,0 +1,25 @@
+discussion and conclusion:
+
+the purpose of this lab is to develop a mathematical model for the change in acceleration as the force is adjusted and then to understand the equation of newtons second law, $f=a m$ and how each variable effects the other.
+
+ the mathematical model for the first experiment given by excel is.
+
+$y = 2.5527 x + 0.0409$, r^2 is 0.9934.
+
+this test was solving for the change in acceleration when the force applied is increased or decreased. this is shown by the equation above; the x value being the force applied and the y is obviously the acceleration of the car, the distance is shown by some error in the equation. 
+
+the mathematical model for the second experiment given by excel is. 
+
+$y = 2.3381 e^{-0.003x}$, r^2 is 0.9474
+
+this test was testing for the change in acceleration when the mass is increased or decreased. this is shown by the equation above; the x is the input value for mass and the y is the output of the acceleration, some of the error is shown in the equation by the distance and the force.
+
+the mathematical model for the experiment in lab 6 is shown in the graph above (graph 3/4) and it shows how the force of friction causes the car to slow down, but when the force applied increases the acceleration will still increase.
+
+these are the examples of two other groups that completed similar tests to ours. the image on the left came from a group that completed the exact same experiment and as you can see this from the hypothesis and the equation for the experiment. the second group (on the right) had an experiment where the frictionless track was angled causing the car to accelerate. this is explained in the conclusion and evidence.
+
+the error of this experiment would be best described as human error or systematic error. the only error seen in these experiments are the measured scaling of the mass of the car or the error from not measuring the exact distance the car will travel from start to meet the stopper.
+
+the main constraints on this lab was the mass of both the applied force and the car, as well as the distance traveled. this only allowed us to see a specific range of values for this experiment while reducing the amount of error.
+
+the mathematical model from lab 5/6 represent the physical feature of the force applied. the numerical value of the car’s acceleration increases when the force applied or the mass of the car increases and the numerical values for acceleration decrease when mass or force applied decreases you can see this in the 4 graphs above, produced from this experiment showing how mass and applied force or forces effect the car’s acceleration.

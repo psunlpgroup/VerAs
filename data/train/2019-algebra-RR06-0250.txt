@@ -1,0 +1,10 @@
+conclusion:
+to develop mathematical models which describe the behavior of a real system. 
+ develop an understanding for each variable and numerical value included in the model.
+
+ the correct graph and table are believed to be the table where the angle stays the same and the applied force changes. the correct graph from lab 06 and the linear graph of lab 05 are similar with a few key differences. the graph from lab 06 doesn’t have as steep of a slope, this is since the force applied is now split into a x and y direction instead of only a x direction as in lab 05. when comparing the graphs from lab 05 one can clearly see how the function $a =\frac{f}{m}$ as the force increases, and the mass stays the same, the acceleration increases as well. as the mass increases and the force stays the same acceleration becomes smaller.
+in the first picture it shows a linear equation, this shows that force is a linear entity, in the second picture it shows an exponential function, this shows that friction increases exponentially.
+some systematic errors could be due to the measuring tool on the air sled, while the measurement used was 90 cm the measuring tool could be incorrect. a second systematic error could be caused by the apparatus used to measure acceleration, if the tool was off at all it would cause systematic error. as for random error any miscalculation in measuring weight of the bobbers or weights themselves could cause error in the final mathematical models. this could be lessened by using multiple scales and double measuring bobbers and weights.
+
+one constraint could be how the experiment was not able to be tested multiple times due to time constrains. second could be the fact a frictionless surface was not truly used, while the air track did get close to frictionless when a large amount if weight was put on the sled the sled would contact the track from time to time. along with the friction of the air around it.
+ the two experiments relate to newtons second law $f=m a$ because when you rearrange the equation you get $a=\frac{f}{m}$ which is the equation primary using in these two experiments.

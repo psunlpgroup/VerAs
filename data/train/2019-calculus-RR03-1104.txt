@@ -1,0 +1,34 @@
+discussion and conclusion
+
+what impacts the period of a pendulum?
+
+application to research question
+
+we originally predicted that the length would not affect the pendulum.
+
+this claim was false because the graph for the length vs. time was the only graph that showed time changing.
+we originally predicted that the weight would change the time which is false.
+
+when looking at the graph for weight vs. time there is no change in time with the differing weights.
+we originally predicted that the angle would not change the time which is true.
+
+when looking at the graph there is no indication of a change in time.
+
+this was the only factor that changed the time of the period. the power function is seeing the graph and the data that was found resembles this equation since the r^2 value was 0.9998
+the change in weight did not affect the time. this can be seen in the graphs since the line is straight and has a slope that is almost horizontal.
+
+
+the change in angle did not affect the time. this can be seen in the graphs since the line is straight and has a slope that is almost horizontal.
+
+there can be a machine that automatically starts and stops the pendulum.
+
+the weight can be weighed on a scale and the string can be precut to specific lengths.
+
+the testing can be done in an isolated room with as little outside influence as possible. 
+
+the stopwatch not stopping exactly on the press of the button
+
+using a sensor that can instantaneously detect the position of the pendulum and stop correctly.
+the use of a tape measure can be improved with a sturdier ruler and more precise measuring increments. 
+
+a sturdier hanger for the string would make sure that the string and pendulum are the only objects moving in the system.

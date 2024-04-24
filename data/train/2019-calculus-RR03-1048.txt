@@ -1,0 +1,17 @@
+conclusion:
+	 
+
+	what impacts the period of a pendulum?
+
+	 with each of the three experiments, an independent variable was tested to determine if it alone had an affect on the time period of a pendulum while the other two variables were set as controls. for the experiment testing length, we claimed that time and length had a positive correlation. this claim is valid under all circumstances. for the experiment testing angle, we claimed that the time and angle of release also have a positive correlation. this claim is valid only for small angles. for the experiment testing mass, we concluded that time and mass have no relation, the mass of the pendulum does not affect its period. this claim is valid under all circumstances.   
+
+	 the theoretical model for the period of a pendulum is represented by the following equation is  
+	the first test of length vs. time (without the photogate) somewhat follows the theoretical model, however the second length test (with photogate) followed the theoretical model almost perfectly. the angle vs. time test and the mass vs. time test do not follow the theoretical model because neither angle nor mass exist in the theoretical model.
+
+	 
+
+	 systematic errors within the experiment include the scale and the stopwatches. these errors could be solved by calibrating both the scale and stopwatches before conducting the experiment. random errors within the experiment include timing, angle measurement, and length measurement. all of which could be attributed to human error. the random errors could be reduced by using more precise measuring tools. the timing error was fixed by implementing photogate to time the period of the pendulum, rather than relying on a stopwatch and the human eye to estimate the period. 
+
+	
+
+	one constraint that was present was the amount of time we had to complete the experiment. with more time, more trials could have been conducted and more accurate data would have been taken. another constraint was the range of tested variables. there was a limit with the length of string we could test with the given equipment, same for the mass and angle of release.

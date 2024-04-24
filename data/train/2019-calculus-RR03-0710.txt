@@ -1,0 +1,17 @@
+discussion and conclusion
+
+a. research question being investigated: what factors will affect the period of a pendulum?
+
+b. in experiment 1, we found three possible factors that could attribute to the time of the period of a pendulum, mass, angle of release, or length of the pendulum. in the experiment, we set up a rig to hold a pendulum. we did multiple trials for each variable to solidify our findings and conclusion. these trials helped us to construct a graph of the data to show our findings. 
+
+in experiment 2, we determined if there were any random or systematic errors. these were hidden factors that could have affected the period of the pendulum. these errors were represented by the error bars we added to our graphs. these help to show how the random or systematic errors affected our data. 
+
+in experiment 3, we determined whether there was a relationship between any of the independent variables and the dependent variable. in doing in this, we solidified our conclusion. by determining if there was any kind of relationship, we found which of the variables affected the period of the pendulum. in the three graphs, there is a trendline. if this line has a slope of zero, or very close to zero, we know that there is little to no relationship. if the slope of that line is bigger than zero, we know there is a relationship and the dependent is being affected by the independent. 
+
+in our experiments, we found that the only factor that affected the period was the length. this claim was made after conducting many trials and varied experiments. we also saw on our, “length vs. time” graph that the r^2 value was 0.9889. this tells us that there is a very strong relationship between the two variables. 
+
+c. theoretical model of the pendulum is  perio$d=2 \pi \sqrt{\frac{l}{g}}$. when our data points are plugged into this model, you get a number that almost mirrors the number that would be produced from our mathematical model. there is a small difference in these numbers, but this difference can be attributed to random error. another way to tell that our data and conclusion fits with this model is that the only factor that is asked for is length. in our experiments we determined that length was the only factor that affected the period. 
+
+d. in our experiment, the most common error to occur was random error. not releasing the pendulum from the exact same angle every time, not stopping the stopwatch at the point of one full period, were just a couple of random errors that occurred in our experiment. these errors could be reduced by being more diligent and focused on the task at hand. they could also be reduced by having the same person do the same job every single time. 
+
+e. a constraint would be the lack of knowledge we had about this topic prior to conducting the experiments. this would hinder us since we would not be able to separate anything that is relevant from what is irrelevant.

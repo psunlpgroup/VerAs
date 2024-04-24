@@ -1,0 +1,25 @@
+discussion and conclusion
+
+
+
+the purpose of this lab was to determine what impacts the change of velocity and acceleration of a moving object. the tests were performed on a frictionless track so friction would not be a factor. in this lab, we observed what factors change the velocity and acceleration of a cart on a frictionless track. 
+
+
+
+ 
+
+
+
+
+
+
+
+our data was similar to that of these groups. this demonstrates the validity of our data and equations. the r values were similar between the sets of data which helps conclude that the equations were similar between groups and all values demonstrated that the equations were accurate.
+
+
+
+
+
+
+
+errors in this lab include releasing the cart at different times, so the data collected was incorrect. this would be considered as a random error. we also ran into computer issues regarding measuring our data. this would be considered a systematic error. to improve the experiment, we could have performed more trials to strengthen the evidence, or we could perform the experiment in a vacuum to get rid of air resistance.

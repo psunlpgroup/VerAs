@@ -1,0 +1,9 @@
+discussion and conclusion: 
+
+
+
+for this experiment, our research question was how does the acceleration change when the applied force changes? our prediction was that as one increased so would the other, thereby exhibiting a positive correlation between the two factors. our experiment supported our hypothesis by resulting in a graph that showed just that (see above). 
+
+even before the graph was created, a trend was easily seen in the values obtained for the applied force and the resulting acceleration – both values increased simultaneously. we can be assured that these values and consequently the graph as well, are accurate, since the uncertainties were relatively low (see table 1). when making the graph, the error bars were too small to be seen, indicating that the values obtained were highly accurate and minimal error was involved in the data collection. potential sources of error however, could be the force of friction, and calculative error. friction is a force that can be very difficult to remove and often it is not possible to remove all friction. faulty machinery or miscalculations could’ve resulted in numerical error. 
+
+	according the two women group, they tested the effects of the change in weight on acceleration. what they found was that as the weight of the hanging mass increased, so did the acceleration. this is in agreement with our data, which used different weights of hanging mass and also so an increase in the acceleration with increased weight of the hanging mass.  one of their sources of potential error was also the small amount of friction, which was also a factor in our experiment. as mentioned above, this friction is unavoidable, and will most likely be prevalent unless different equipment that prevents such friction force was used. miscalculation is something that can be eliminated with more trials and repetitions to be certain that the values calculated are correct.

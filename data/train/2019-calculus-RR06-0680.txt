@@ -1,0 +1,15 @@
+discussion and conclusion:
+
+the purpose of this lab was to determine the effects on acceleration that different variables had. these variables all altered the force applied to the system and include is  the change in mass of the system, the change in friction of the system, and the angle of the track. through this lab, mathematical models were developed to represent these relationships and numerical values were also developed to represent these relationships. 
+
+as stated previously, the mathematical model for figure 1.0 w$a=2.9637 f$ - 0.0768 and the mathematical model for figure 2.0 was $a=0.0072 f$494.
+
+this data represents the experiment in which the track was tilted at different amounts towards the front. the effects of tilting caused the force applied to the system to increase. as demonstrated in graph 4.0, as the force applied increase, the acceleration also increased proportionally. this data coincides with the other data presented in this lab in that as the force applied is directly related to the acceleration of the system. 
+
+this graph also demonstrates newton’s second law. as the force applied increases, the acceleration also increase. 
+
+random errors of this lab include errors involving specific measurements of data, such as masses and acceleration. to limit or reduce these errors, more trials can be conducted to create an average that better represents the data as a whole. random errors include minor variances in variables that were intended to be constant and controlled. systematic errors found in this lab include errors in the specific systems, such as the calibration of the computer program that measured the acceleration of the cart or the scale used to measure masses. in contrast to random errors, systematic errors would not be reduced through additional trials, instead they would be increased. 
+
+constraints in the lab that limit generalizability include lack of proper equipment, such as the track of the system and computer program that calculates the acceleration. because there may be minor variances between equipment used, it may effect the generalizability of the lab. 
+
+this experiment is consistent with newton’s second law, . rewritten, acceleration can be found by . this means that as the force applied increases, the acceleration also increases as they are directly proportional. as force applied decreases, acceleration will also decrease. in the mathematical representations from figure 1.0 and figure 2.0 support this claim. as demonstrated in figure 1.0, as the force applied increased, the acceleration also increased positively and proportionally. the mathematical representation calculated by figure 2.0 represents the other spectrum of this statement; as the force applied decreased, the acceleration also decreased.

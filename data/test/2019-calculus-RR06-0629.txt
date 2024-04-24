@@ -1,0 +1,33 @@
+conclusion
+
+from the experiment, we can conclude that as we increase the number of magnetic strips on the cart, the numerical value in our model decrease.
+
+discussion and conclusion
+
+in the two labs, we have explored how to model a real system into mathematical functions and further our understanding of those models by experimentation.
+
+using the experimental setup in figure 1, we have done experiments to develop mathematical models for the system. the data collected for each trial is shown through graph 1, graph 2, graph 3, graph 4, and graph 5. from finding the trendline for each of the graphs, we can then calculate the acceleration of the system which gives us table 3, and the resulting graph 6. using graph 6, we then find the trendline and obtain our first mathematical model to calculate acceleration using mass of m2. through a similar sequence, we did the same for mass of m1. this time, with the new knowledge of finding trendline using the provided software, we obtained the results more quickly. the results are shown in table 4, which is then turned into graph 7. from graph 7, we then find the trendline and obtain or second mathematical model which gives us the acceleration of the system using mass of m1. in lab 6, we have collected data through numerous trials with differing numbers of magnetic strips. these strips increase the friction between the cart and the track. the data collected is from table 5 to table 10. we summarized the data into table 11 and then graphed it into graph 8. from graph 8, we can see that as the number of strips increases, the acceleration for the specific mass decrease. this in turn decrease the y-intercept numerical value in the mathematical model. from this observation, we can conclude that as we increase the friction between the cart and the track, the numerical value in the y-intercept position will decrease. from these findings, we can say that the numerical value of the y-intercept represents the force of friction, or resistance that the system experiences during motion.
+
+in figure 3, which presents group 1’s findings, they also confirmed our findings on the effect of friction on the numerical value in the y-intercept position in the model. 
+
+in figure 2, which is group 5’s results, they provided a different lab features that will affect the same numerical value. from their conclusion, we further understand that the incline of the track will affect the y-intercept numerical value. this also means that the numerical y-intercept value not only represents the force of resistance, or friction, it might also represents the force of gravity that affects the system.
+
+at first, we did the experiment quickly by just letting the cart run for about 20 seconds when it keeps bouncing back and forth. we did know that the cart’s acceleration fluctuates slightly but didn’t think it would have that much effect for 4-5 times. but after being shown the large effect it could have, we only took the slope of the first run and then repeat it multiple times.
+
+there were also a few systematic errors which is the mass of m1 and m2. these masses might not be absolutely correct according to the mass but might be larger or smaller. this can only be improved by having better equipment.
+
+there were some random errors when finding the best fit line for the graph. the data being selected might have been only a part of the slope and not most of the slope, which will give us an incorrect value for acceleration. this would be fixed by selecting most of the slope, only leaving out the start and the end.
+
+another random error is the fact that someone is doing the releasing of the cart. they might have subconsciously applied a bit of force which will make the results deviate.
+the experiments had a few constraints in that the track was only assumed to be frictionless and cannot be frictionless.
+
+the wire connecting the cart and the hanging mass also has a bit of mass.
+
+the friction cannot be measure accurately. 
+
+the amount of mass that can be measured in a college lab setting is not every possible mass.
+
+all these factors will add into the system and make it more complicated, not being to be generalizable.
+our first mathematical model is consistent with the equation for newton’s second law. as our msystem is being kept constant, and we increase our hanging mass, which is the force applied to the system, our acceleration will increase.
+
+our second mathematical model is also consistent with the equation for newton’s second law. while keeping the force applied constant, which is the hanging mass, we increase the mass of our system, msystem. so, to keep the force constant, the acceleration will have to decrease, showing us a negative correlation. this is similar to what we have for our second mathematical model, which is mass of m1 raised to a negative power. this means there is a negative correlation between mass of m1 and acceleration.

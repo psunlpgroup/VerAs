@@ -1,0 +1,9 @@
+discussion
+
+the purpose of this experiment was to determine the relationship between the acceleration of a system and where the mass was located within the system. in one of our experiments we shifted the mass on to the hanging mass (iv) and observed the acceleration of the pulled mass (dv). from this we concluded that as the hanging mass increased the acceleration increased linearly (with very little error). however, in our tests of the acceleration of the pulled mass we found that it was almost logarithmic, which conflicts with our previous findings, so no conclusion can be drawn. two other groups in our class found linear relationships between mass and acceleration, so from that we can conclude that our hypothesis holds up and something was wrong with our second test.
+
+
+
+conclusion
+
+from our results we can begin to try to create a theoretical equation for the acceleration of a system by a single force. we know that $f=ma$ so to find the acceleration of the system we can take the force of gravity acting on the hanging mass minus the inertial force of the pulled mass. from this we get that $a=\frac{2 g}{3}$ where m1 + m2 always equals a constant. when simplified we can see that this is a linear relationship, which supports our original hypothesis and our results. if the string were to be heavier then the total mass would increase, and the acceleration would decrease. one source of error in this experiment could have been incorrectly shifting the masses, which would have skewed our data if we hadn’t realized the mass was incorrect. we corrected for this by always double checking the masses were in the correct positions and keeping track of the order they needed to be shifted. a constraint of this experiment is air resistance, which would have decreased the measured acceleration from its theoretical value, however since this was always constant it sis still possible to generalize our results.

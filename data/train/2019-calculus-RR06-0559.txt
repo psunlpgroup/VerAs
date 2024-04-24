@@ -1,0 +1,21 @@
+discussion and conclusion
+
+
+
+the purpose of lab 05 was to investigate and find two mathematical models that describe the relationship between mass and acceleration of a system. the purpose of lab 06 was the deepen the understandings of lab 05 by testing different variables and how you can change the lab setting to change the mathematical models we found.
+
+the 3 experiments led to the resulting mathematical models by using a computer system to measure the impact when the system hit the system to calculate the acceleration of the system. the first mathematical model for lab 05 was $y=216.31 x^{0.929}$ a power curve. the second mathematical model for lab 05 was $y=0.0254 x - 0.027$ a linear curve. the negative constant shows that there is an acceleration drag. from lab 05, the constant is 1/mass times force. changing hanging mass means changing the force. the mass is the mass of the entire system, which was 1/34.27 which was our constant 0.029, and ours was 0.0254.the mathematical model for lab 06 had 3 different linear models; $y=18.729 x-0.0221$,  $y=18.202 x-0.0264$, and $y=18.146 x-0.0334$. all of the second constant values are negative. this value was from 1/mass of the system and force, which in this experiment, is friction. the total force should be the gravity of the bobs and the friction, which was negative. friction increased as the magnetic force increased. 
+
+
+
+as seen in the photo from group 2, they also used magnets in lab 06. however, their x value was the number of bobs pulling the cart, and our x value represented mass of the system. this caused for a difference in our interpretation of data. however, it can be noted that their prediction stated that the acceleration of the cart will decreases when the force of magnets increase. our prediction was the opposite, that is magnets increase, so will acceleration. group 2 was correct with their prediction because after the experiment, the acceleration of the cart did increase as the force of magnets increased. 
+
+
+
+group 3 tested the acceleration of a system when there is an incline. the constants multiplied by x (fa) where all around 2.9. the constants subtracted from the equation got more and more negative as the added height increased. this is different from our data because as we increased our feature (magnets), the second constant values got more and more positive, but were still negative (because of friction). their independent variable of changing the height of the track seemed to drastically change their first constant. our first constant did not change very drastically with the addition of magnets. 
+
+error that may have been present in the experiment was a slant in the track. withour any strings of hanging bobs or magnets attached to the system, it moved forward while the air was on. this indicates error in the track positioning. to fix this error, using a newer track or finding a different track without this error would solve this problem. 
+
+constraints in this experiment that may limit the generalizability of our results are that the string connecting the system and the bobs is completely tight. there is no extra slack in the string at any point during the experiment. this tells us that the magnitudes of the mass of the system and the mass of the bobs are equal for acceleration.
+
+newton’s law is supported in lab 05 and lab 06 since it shows the correlation in the equation in $f = m a$ since our data proves that when mass is held constant, the acceleration will change the new force. since acceleration and the net force are directly proportional, then, if mass is constant, the force must increase if the acceleration increases.

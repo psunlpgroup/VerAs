@@ -1,0 +1,14 @@
+discussion and conclusion:
+
+the question that is being investigated in this lab is what are some variables that have an affect on the period of the pendulum. the variables that our lab group tested included the angle of release, the mass, and the length of the string
+
+in each of the three experiments the research question was addressed a little differently depending on which variable that we were testing. in the angle of release vs. period of the pendulum we addressed the question of, “how will the angle of release affect the period of each pendulum?” this was able to test the two variables of angle of release and the period against each other. in our graph you can notice that there is not much of a difference when the angle of release is changed in small increments. the next variable that we tested was the mass vs. period of pendulum. in this experiment we asked, “how will the mass affect the period of each pendulum?” again, we can see that the mass had somewhat more of an affect, but not very much like that of the angle of release. in our graph there is a small difference made between each mass used, like that of the angle of release. in our final experiment we were testing the length of the string and how it affected the period of each pendulum. we asked, “how will the length of the string affect the period of each pendulum?” we determined that the length of the string had the most affect of the period of the pendulum. from our graph you can see that the longer the string got the longer the period of each pendulum was.
+
+
+
+
+from the theoretical mathematical model for the period of a pendulum you can see that the data from the theoretical is very close to the actual. using the factor that affected the period of the pendulum the most, length. the theoretical model is very similar to are actual therefore making a very high r-value, or correlation of the data. with the other two variables that we tested, (angle of release / mass), the correlation is lower, because these variables have little to no affect of the period of the pendulum.
+
+there was a lot of random error throughout lab 1, this was do to the inability of the experimenters to stop the stop-watch for the same total period each time. also, the angle of release may have been off by a little bit for each release. as we found in our data though, the angle of release did not have much of an effect on the period of the pendulum therefore should not have affected the result too much.
+
+some of the constraints that we had were with the length of the string, since we had to use the photogate and the floor eventually got in the way. this limit the length of the string that we could test. since length is what affected the period the most this is what you can say should have the most variations, as far as how spread out your shortest to the longest length should be.

@@ -1,0 +1,37 @@
+discussion and conclusion:
+
+research question: 
+
+how is period affected by the length of the pendulum, the mass of the pendulum, and the angle the pendulum is dropped from?
+
+
+a claim can be made that mass does not affect the period of the pendulum. this claim can be made because the slope of the graph of the data is near-zero, so there is no relationship between mass and the period of the pendulum. the error bars also overlap, so it is reasonable to assume the true value lies in between their overlap, leading to the same conclusion.
+
+
+a claim can be made that length and period are related. we concluded that they are related by the equation is 
+
+$d=0.204 l^{0.498}$
+
+this was concluded through the best fit power function in excel that used the data we collected. we concluded it was sufficiently accurate by comparing it to the theoretical function. we found the error bars to be extremely small based on the values given by photogate for length vs. period.
+
+
+a claim can be made that the angle of release is not related to period between our angles of choice. this can be claimed because our data from the second lab found our error bars were overlapping, suggesting the true value probably lays somewhere between them. our data also showed that the slope was near zero, continuing to support that the angle of release is not related to the period.
+
+
+the theoretical equation is is 
+
+	$d=2$ pi * sqrt(length / g )
+
+our mathematical model found the equation is 
+
+	$d=0.204 l^{0.498}$
+
+after converting the units in the theoretical equation to be in cm and dividing the coefficient by the square root of g, a very similar coefficient of 0.201 and a similar power (comparing 0.5 with 0.498) is found, confirming that our equation supports the theoretical model.
+
+some random errors could have been the timer’s reaction time, the tautness of the string before release, how the pendulum is held before release, inaccurate measurements made for each trial, and the accuracy of the measurement tools such as protractors, photogate, and measuring tape. some possible systematic errors could have been the mounting set up not accurately portraying a pendulum, inaccurate initial measurements, and if the timer’s reaction time is consistently wrong in the same way.
+
+ways we reduced the effect of error were using more accurate measuring tools like photogate and more accurate techniques like averaging multiple periods of the period at once. ways we could reduce the effect of errors were through repeating the experiment more times and doing more trials.
+
+constraints within the experiment were the amount of time we had to conduct experiments, if we had more time, we could get a more precise result. other constraints were the equipment we had at our disposal. at some points we had to rely on hand measurements that are prone to human error. other constraints were that we could only test up to a certain length for a pendulum and so generalizability can only be claimed up to our constraints for length, angle, and mass.
+
+

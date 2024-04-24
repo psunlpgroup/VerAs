@@ -1,0 +1,25 @@
+discussion:
+
+
+
+	the purpose of this lab was to find out what factors impact the period of a pendulum. the first experiment tested whether the angle of the pendulum had any effect on its period. after conducting the experiment, we came to the conclusion that the angle of release has no effect on the period of a pendulum. the graph of the data appears to be a straight line with a light slope, implying that the change in angle did affect the period. however, the error in this experiment is large enough that all of the values greatly overlap, and thus it is very likely that any measured change in the period was caused by error in our measurements.
+
+
+
+	the second experiment tested whether the mass of the pendulum had any effect on its period. after conducting the experiment, we came to the conclusion that the mass has no effect on the period of the pendulum. the graph of the data appears to be a straight line with no slope, showing that the change in mass has no effect on the period of the pendulum. the error in this experiment also provides a large overlap in the data points. this means that the values are likely unchanging and were instead measured inaccurately.
+
+
+
+	the third experiment tested whether the length of the pendulum had an effect on its period. after conducting the experiment, we came to the conclusion that increasing the length of the pendulum increased its period and decreasing the length of the pendulum decreased its period. the graph of the data appears to be a straight line slopping upwards showing a strong connection between the increasing length and the increasing period of the pendulum. thanks to the photogate used for measurements, the error in this experiment is miniscule. none of the error bars on the graph overlap, so we can confidently say the data was changing as we changed the length of the pendulum.  
+
+
+
+	theoretically, the period of a pendulum is modeled by the equation . as the theoretical model shows, as the length of the pendulum (l) increases, the period (t) also increases, since l is in the numerator. this agrees with what we found in our experiments. however, while we found a linear relationship between the length and period of the pendulum, the theoretical model suggests a polynomial relationship since t is related to the square root of l. the theoretical model also doesn’t have any variables to account for mass and angle of the pendulum, showing that they have no effect on the period. this agrees with what we found from our experiments.
+
+
+
+	the errors in these experiments were mostly random errors from our own measurements. one way we reduced error was to allow the pendulum to complete multiple oscillations and then to take the average period. this reduced the influence of error in starting and stopping the stopwatch to take measurements. we also reduced error in our measurements by measuring multiple trials for each value we were testing. this reduced the chance that an error in the measurement would lead to a strange outlier in the data. there could have been some systematic error in the balance used to measure the masses used for the pendulum, but since the error would be constant, it wouldn’t have an effect on the rate at which the period would change, even though the mass was found to have no effect on it.
+
+
+
+	the results of these experiments only remain true as long as the other factors remain unchanged. if the mass of the pendulum is changed along with the length of the pendulum, then the period is going to change, even though the change in mass has no effect on it. likewise, if the acceleration due to gravity is changed while testing the length of the string, then the period of the pendulum won’t increase of decrease consistently and will produce invalid results.

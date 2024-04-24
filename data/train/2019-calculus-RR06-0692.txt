@@ -1,0 +1,26 @@
+conclusion: 
+
+	the research question being asked here is : what factors affect the acceleration of a system under the influence of the force of gravity? 
+
+	there are also research questions being asked for each experiment, 
+how does the change in the angle of the track, or more generally, the change in friction, affect the acceleration of the system? 
+
+
+
+in experiment 1, the data supports our claims that the increase of force will increase the acceleration of the system, even with the error bars considered, especially considering they are barely visible within our graph, due to the small size of error relative to the scale of the graph,  one can still see that as the force increases, the acceleration increases as well. our graph shows that this relationship is linear, the acceleration increases proportionally as the force increases, which is what produces the linear graph. 
+
+in experiment 2, the data also corresponds to our claims, as the overall mass of the system increases, and the hanging mass, or force, remains the same, the acceleration of the system decreases in proportion to the mass. 
+
+in experiment 3, the equations of the graphs appear to not change very much, however this is within the margin of error, as one can see over the different parts of the three graphs, the error increases as the force increases. so the error bars show that the change in angle we had, had a minimal impact on the acceleration of the system, however it should also be noted that there were no major steps taken to reduce random error, seeing that only one iteration of each experiment was taken. 
+for the first experiment our constant for the equation of force vs acceleration was 2.86, these two groups have 2.63, and 2.77. which when one takes error into account, this validates our data, seeing that the constants for all our graphs are so close together. 
+
+for experiment two, our constant was 0.463, with m vs. a; the other groups were 0.193, and 0.327. while these are a bit farther off from each other they still validate each other given error, as well as our error was greater for experiment 2 than experiment 1. 
+
+	as one can see our different values for the three trials of the experiment are similar to those of the other groups, validating our data, the differences van be attributed to random error primarily, because everyone did only one iteration of each run, meaning that no averages were taken to minimize the random error within the experiment. 
+
+    for all of the experiments we developed a mathematical model for our data, which is supposed to support the theoretical model $a =\frac{f}{m_{sys}}$. as seen above our models are similar to the theoretical model, however there are additional forces at work within our experiments, in this case it was taking into account the friction of the system. 
+for each experiment we correctly predicted the outcome, with a slight exception to the third experiment. for the first experiment we predicted that as the gravitational force increased, the acceleration would increase, this can be explained simply by the theoretical model $a =\frac{f}{m}$, which shows that as the force increases, the acceleration would increase as well. likewise, with experiment 2, using the same mathematical model, $a =\frac{f}{m}$  as the mass increases the acceleration would decrease. in experiment three we predicted that increasing the angle would reduce the friction and would as a result increase the acceleration of the system, which is true but our data was not accurate enough to definitively show it.
+
+the primary errors that may have been involved were fluctuations in the friction throughout the air track, which is random error, as well as systematic error that came from assuming the friction of the pulley was negligible, as well as assuming that the string had no mass either, nor elasticity. all of these could be mitigated, by either taking them into account or taking multiple iterations and averaging them. 
+
+the constraints on this also effect the generalization of the conclusions, as mentioned before the pulley was assumed to have no friction, as well as the air track was assumed to be uniform, as well as the string was assumed to have equal tension throughout it, without any elasticity, as well as that it had negligible mass. these assumptions constrain the results of this experiment to being relevant only in this kind of ideal environment or assumed environment.

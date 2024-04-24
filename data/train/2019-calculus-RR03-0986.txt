@@ -1,0 +1,11 @@
+discussion and conclusion
+
+does the length of a pendulum impact the time it takes for one period?
+
+in each experiment we changed which variables were the independent and constants. this allowed us to verify which variable affects the time of the pendulum swing. with these 3 experiments, we concluded that only length affects the time of a pendulum. graph 1 tells us that the length directly impacts the time, graph 2 tells us that the angle does not affect the time and graph 3 tells us that that mass does not affect the time.
+
+graph 1 we used the power mathematical function to show how the data fits the table. graph 2 and 3 we used a linear model to represent the data as the data does not change outside of the uncertainty bars.
+
+the systematic errors we encountered were the timing being off as people are not accurate with time keeping and pressing a button exactly at the right instant, the release angle was systematically wrong as we put the protractor above the point of motion and not on it, another systematic error was that we had just accepted the value of the mass and not actually weighed it for ourselves. we fixed these errors by using an electronic time keeper for our later experiments with length and fixed the error with the angle by redoing the experiments with the protractor placed in the correct place, and we kept the mass the same as it did not affect the time in any way. a random error we encountered was occasionally we had a time that was way out of line, and this could be explained by not properly resetting the stopwatch. this random error was fixed by redoing that trial under the same circumstances to verify if it was an error or not. if it was an error that value was discarded as not representative of the measurement.
+
+the constraints of this experiment is not being able to get measurements of very small length and masses or any length or mass greater than 1.7 meters and 250 grams. there could be a point in these ranges that invalidates our current conclusions.

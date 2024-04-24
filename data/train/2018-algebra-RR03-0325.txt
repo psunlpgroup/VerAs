@@ -1,0 +1,15 @@
+discussion and conclusion
+
+     the purpose of this experiment was to determine what impacts the period of a pendulum for small swings. 
+
+     through data collection and analysis, it has been determined that the mass does not affect the period of a pendulum for small swings. the graph for the mass trials (graph 1) shows that there is no relationship between the mass and the period. all three masses (50 g, 70 g, and 90 g) produced the roughly the same time in trial 2 and trial 3. the error bars (0.077093 s) show the standard deviation. the equivalency criterion (+/- 2 times the standard deviation) doubles the lengths of these error bars. this would make the error bars touch, which would allow us to say that the true value for the period could be greater or less than it is. this means that we cannot claim that there is a relationship between the mass and the period. 
+
+     through data collection and analysis, it has been determined that the angle of release does not affect the period of a pendulum for small swings. the graph for the angle trials (graph 2) shows that there is no relationship between the angle and the period. angles 10˚ and 20˚ in trial 2 produced roughly the same period. the error bars (0.077093 s) show the standard deviation. the equivalency criterion doubles these error bars, resulting in intersection of error bars. this means that we cannot claim that there is a relationship between the angle of release and the period.
+
+     through data collection and analysis, it has been determined that the length of the string does affect the period of a pendulum for small swings. the revised experiment 3 graph (graph 4) shows that the relationship between length of the string. the error bars (0.001 s) represent the scale error of the photogate system used to measure the period. when the equivalency criterion is applied, the error bars still do not intersect. this means that we can determine that there is a relationship between the length of the string and the period. 
+
+in this equation, t is the period, l is the length of the pendulum, and g is the acceleration due to gravity. the mathematical model produced in lab supports this equation. our graph is non-linear, and the best fit for the curve is       $y=\sqrt{x}$           this coincides with the theoretical equation for the period of a pendulum. 
+     a systematic error was the stopwatch malfunction. it had an error of 0.04 sec/hour accuracy. 
+random errors that could have affected the results are that the stopwatch was started and stopped too early or late, the string was not pulled to the exact angle of release, and the string was not fully extended. these could have been reduced by double-checking the angle of the release and the string extension. timing errors could be reduced if the person controlling the stopwatch directed the pendulum-releaser on when to drop it. 
+
+     a constraint of this experiment was the time in which we were able to complete it. in lab 1, there was not enough time to do the experiment, so we were rushed, and it may have led to error. this would affect the generalizability of the results because they may not be accurate. 

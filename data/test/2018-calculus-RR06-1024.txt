@@ -1,0 +1,23 @@
+discussion and conclusion
+
+the purpose of the lab was to determine if the acceleration of the system changes when the applied force changes.
+
+mathematical model is  4.7047x + 0.0133
+
+our mathematical model addressed the research question since we were looking for a relationship between applied force and acceleration. from our mathematical one we found that there is in fact a relationship. this relationship is one of positive linear correlation. this is better seen on our graph, where the line of best fit shows a straight line representing the correlation. what this means is that as applied force increases, the acceleration will also increase and vice versa. answering the research question of if the acceleration changes if the applied force changes. so from this we can conclude since the mass of the system isn’t changing when moving the bobbers to the end of the string. the more mass at the end of the string is increasing the applied force, increasing the acceleration of the kart. our findings are also supported by the small error bars, therefore showing we have very few random errors and standard deviation. making our data and findings more credible.
+
+
+
+group three found a very similar mathematical model and graph. our models were only off by the hundredths place in the slope and y-intercept compared to theirs. therefore, their data supports ours, since from their model and graph they determined if applied force increases, so does acceleration. 
+
+
+
+similarly, this group found a very similar mathematical model, however this group didn’t have a graph. our models were only off by the hundredths place in the slope and y-intercept compared to theirs.  from their model however, we could see that they also found a positive linear relationship between applied force and acceleration. 
+
+theoretical model is  $f=m_{sys} a$
+
+enhanced theoretical model is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$
+
+our mathematical model and the theoretical model compare and show that both find a positive relationship. by creating a curved fitting to find line of best fit, the results show that the exponent for x is so close to one that it can be described as linear. however, the model varies by 4.47(m/s^2) from the theoretical one. this difference could be from unknown forces acting on the system such as friction and air resistance. these could come from the track not being completely frictionless, the string creating friction, or air resistance on the cart. these would be examples of systematic error since they would have affected all our data making it invisible and impossible to find. these show up in our mathematical model by removing energy from the system by creating thermal energy we can not monitor. therefore, decreasing the acceleration of our model. the mass appears in the experimental model, by creating the downward force of gravity and determining the inertia of the cart. this comes into the data by increasing the applied force increasing the acceleration. looking at our mathematical model, it is the variable that determines the acceleration. the non-massless could have affected the acceleration by creating friction with the wheel, creating thermal energy that would not be accounted for in the system. also, by having mass, it could off set the inertia of the cart making it slightly harder to accelerate. this would be an example of a systematic error however, since the offset of mass would be constant and be invisible in our data since all our data would be off. other possible errors in our data could’ve been the scale which we used to measure the mass of the system could’ve been offset making all our masses off. this would be a systematic error. another systematic error could’ve been the device measuring velocity could’ve malfunctioned, resulting in offset data. a random error that could’ve occurred is the mistiming of letting go of the kart and starting the software to measure the velocity. another random error could be not being exact where the kart is let go, resulting in different distances for the velocity. some restraints that could’ve affected the generalizability of our results could be that gravity is exactly 9.8(m/s^2) and that air resistance and friction aren’t zero. 
+
+

@@ -1,0 +1,21 @@
+discussion:
+
+
+
+the purpose of this experiment was to see how force of the hanging mass impacted the acceleration of a cart. changing the hanging mass (independent value) was able to show us how the acceleration of the cart changed the more mass that was added. the uncertainty value that was found for acceleration (y-direction) was 0.003002, this uncertainty value was found by determining the slope of the velocity vs. time graph, which the data studio program gave us an error value, and then the average was taken from the five trials that we conducted. the uncertainty value for force was determined by using the mass of the hanging bobs. we used a balance to measure the mass of the bobs, where the smallest tick mark on the balance is 0.1 grams, so the uncertainty value was  0.005 kg. 
+
+
+
+in our experimental design plan, we had predicted that the relationship of the acceleration of the system and the force of the hanging mass would be linear. the theoretical equation for the acceleration of a system by a single force is . looking at our experimental model found in graph 1, which was $y=5.36 x - 0.043$ is very close to the theoretical model equation from above. our constant of 5.36, which is the slope of the graph is equivalent to 1/mass of the system and is why i believe that our experimental model does support the theoretical model. the enhanced theoretical model is   for the acceleration of a system by more than one force is also supported by our experimental data.  
+
+
+
+in table 3 we have a data table and graph that was from a different group that conducted the same experiment. their hypothesis was that if the mass of the system was greater, this would cause the acceleration of the system to be greater. looking at their data table and graph we can see that their results also produced a linear relationship between the acceleration of the system and the force of the hanging mass, even if their acceleration of the system and the force of the hanging mass were not the same as the data that we collected. 
+
+
+
+when looking at a scenario of a heavy string being attached to the cart we predicted that the acceleration of the cart would not be constant because the force of the hanging mass would not be constant like it was in the experiment that we conduced. a possible systematic error that could have impacted the results in our experimental data could have been rounding when taking the mass of the bobs which would have caused uncertainty in our measurements. how we managed to reduce this error was to wait for the balance to stop moving before we decided to record the mass of the bobs, we measured the mass using the closest tick mark. a random error that could have been caused by the photogate not accurately sensing the movement of the cart. how we managed to reduce this error was by checking to make sure that the photogate was accurately working before we conducted any trials. 
+
+
+
+one constraint within the experiment was that there were still other forces acting on the system like friction, even if we used the track to eliminate friction the most that we could. friction in the system could have caused our acceleration of the cart to be more than if we had been able to eliminate it completely. another constraint within the experiment is that we were unable to eliminate air resistance, even if it might not have impacted our results by too much, it would have caused the cart to travel a little slower. if these constraints would have been removed completely, then our experimental model would be closer to the theoretical model.

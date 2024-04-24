@@ -1,0 +1,21 @@
+discussion and conclusion.
+
+the question we investigated in the lab was if the mass of bob, length of the pendulum, or angle of release affected the period of a pendulum.
+
+          
+
+              to investigate whether the mass of the bob affected the period of the pendulum, we changed the mass of the bob while keeping release angle at 20° and length at .28 m and recorded the period of the pendulum. by plotting our results in a graph of mass vs time (see graph 1.0), we were not able to find a relationship between mass and time. every result was contained within one error bar of each other, so we were unable to conclude that changing the mass had an effect on the period of the pendulum. to investigate whether the angle of release affected the period of the pendulum, we varied the angle of release from 10° to 50 ° while keeping the mass of the bob at .13 kg and length at .28 m and recorded the period of the pendulum. by plotting our results in a graph of angle vs time (see graph 2.0), we were not able to find a relationship between angle and time.  to investigate whether the length of the pendulum affected the period, we varied the length of the pendulum from .1 m to 3.35 m while keeping angle at 20 ° and mass at 18 m and found there to be a strong power relationship between length and period (graph 3.0). therefore, we were able to make the claim that increasing the length of the pendulum increases its period. overall, our claims are valid under the conditions that the angle of release is small. we did not verify our claims from the mass vs. time and length vs. time experiments with angles over 20°. with the release angle vs. time experiment, we only tested a maximum angle of 50°.
+
+
+
+the length of pendulum vs period matched the power model with an equation of . the data from the length vs time experiment (graph 3.0) matches the theoretical mathematical model almost perfectly with an  value of .9966. for comparing the relationships between mass and time and angle and time, linear models fit the data better than a power model, indicating that neither angle nor mass had the same relationship to time than length did. for mass vs. time, there seemed to be a great amount of random error between trials, so a line model only provided an  value of .0477 (see graph 1.0). for the release angle vs. time experiment, a line model fitted the data best with an  value of .9959 (graph 2.0). 
+
+the greatest random error came from using the stopwatch to time the period of one complete swing, which is dependent on the reaction speed and judgement of the one timing. we eliminated this random error by using a photogate with a measurement error of +/- .001 seconds in lab 3 to test the relationship between length and period. another source for random error came from measuring the length of string. we tried to reduce this random error by having multiple people confirm the length of the string while measuring.
+
+a source for systematic error could be the accuracy of the tape measure we used during the lab. we are not certain that the readings on the tape measurement are accurate, so by comparing it to another measuring standard which we know is accurate, we would be able to account for the systematic error.
+
+discuss any constraints in this experiment that may limit the generalizability of your results. 
+
+first, all trials were conducted with a small angle of release. if release angle is greater than 20 degrees, then we are unable to make a claim on the relationship between any of the tested factors and period. also, we did not experiment with very heavy or very light bobs, all our trials were conducted with a mass between .05kg and .13 kg, which is not much variation. finally, we were unable to account for the factor of air resistance. air resistance was present in all of our trials so we have no way of knowing how it could have affected the apparent relationships between the tested factors and period. air resistance could be a possible cofounding factor.
+
+

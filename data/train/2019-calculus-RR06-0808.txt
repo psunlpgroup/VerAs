@@ -1,0 +1,14 @@
+conclusion:
+
+the purpose of these labs was to see the effects that the hanging weight and the slope of the rail had on the acceleration on a system rigged to a pulley and floating on an air rail. in the first lab we developed an understanding of each of these variables and in the second lab we came up with mathematical models to predict the acceleration in a similar scenario for any given hanging weight.
+
+ after we had conducted these experiments, we made data tables with all of the data we had. we then made graphs for each of these data tables and added a trendline onto the graph. these mathematical models were based off the then trendline equation, just replacing the y-variable with acceleration and replacing the x-variable with the hanging weight. based off the mathematical models, both an increase in hanging weight and an increase in the downward slope of the rail will increase the acceleration of the system.
+
+
+group number 7 on the right came to the same conclusion that we did and so did group number 5 on the right. all of our groups concluded that the acceleration is increased by the hanging mass and the slope of the ramp.
+
+ some errors in this experiment could’ve been a slight error in the measurement of the masses. in the lab, we had a balance to measure the mass of everything. to reduce this error, we could’ve used a digital scale that is more accurate. we also have to assume that the pulley is 100% efficient and that there is no friction between the rail and the system.
+
+ the constraints we had were the rail length. the rail was only about one meter long so we could not spread the data out very far across the length of the rail.
+
+ our two equations are comparable with newton’s second law because $f=ma$. as the acceleration increases, the force increases because it is in the numerator and the mass stays constant.

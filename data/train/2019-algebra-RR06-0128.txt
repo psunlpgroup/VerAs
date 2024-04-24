@@ -1,0 +1,11 @@
+discussion and conclusion
+
+how does the acceleration of a system change when the hanging mass is changed?
+
+before this experiment was conducted, it was predicted that the more hanging mass there was, the larger the acceleration would be. this prediction was later found to be correct. figure 1 shows the positive correlation between hanging mass and acceleration. even when friction was added, the hanging mass still affected the acceleration in the same way. this is shown in figure 3, figure 4, and figure 5. the error bars in these figures were very small so that means that the data that was recorded should be very accurate. the trendline also passes through every point which makes me even more confident in the data we obtained. the theoretical r^2 values on the figures should be 1, and all the graphs obtained had an r^2 value that was extremely close to 1. we also tested if friction would change the results we obtained. adding friction to the system via magnets slowed down the acceleration the cart, although it still increased as the hanging mass increased.
+
+	other lab groups tested other variables that could affect the acceleration vs mass relationship such as tilting the track on which the cart was riding on. by looking at figures 6-8 you can conclude that the steeper you make the track, the larger the acceleration will be. also, the trend continues where as the hanging mass increases, the acceleration also increases. you can see that changing the control variables doesn’t affect the relationship of the hanging force on the acceleration.
+
+	the theoretical equation of this system is $a=\frac{f}{m_{sy}}$ and our equations ($a=c1 w+c2$) support this model because the f is going to be w and c2, and c1 is 1/m. this supports the model because all the variables are accounted for.
+
+	there aren’t very many errors that could happen during this experiment, but some errors could include the track not being 100% frictionless or there could be human error in the weighing of the system. some constraints on the system are that the hanging mass is limited to a small amount. also, the number of magnets available were a constraint on how much friction could be applied. these could affect the generalizability because the wider range of values you can obtain, the more accurate the results can be.

@@ -1,0 +1,13 @@
+discussion and conclusion:
+
+the purpose of lab 05 was to analyze the behavior of a system and to try to obtain mathematical models for the relationships between mass, force, and acceleration. the purpose of lab 06 was to gain a better understanding of these mathematical relationships as well as test another variable to even better understand our numerical values.
+
+in lab 05 we assessed force applied vs. acceleration as well as mass vs. acceleration. our mathematical models were $a=2.9897 f - 0.027$ and $a = 0.1804 m^{-0.994}$, respectively. in lab 06 we retested the force applied experiment, but we also changed the tilt of the track. in this experiment we had a mathematical model of $a=2.91595 f - 0.126$. based on the results from these three experiments, we concluded that the c2 value (-0.126) represented the tilt of the track.
+
+we compared our findings with two other groups, and their results strengthened our confidence in our own. the first group tested the same hypothesis as us and had very similar results. the second group tested for friction, and they determined that it didn’t play a role in this experiment. this conclusion gives us more confidence in the accuracy of our results.
+
+one source of error could be from the scale we used. all of our results followed some type of trend very closely, so if there was any error it would be systematic error. we weighed all of our masses at least twice to ensure they were precise. in the future we could use an electric scale so we wouldn’t have to estimate.
+
+i think this experiment was run pretty well, and we were able to receive accurate results. 
+
+our mathematical models are consistent with newton’s second law $f = m a$ because they each show the formula $a = \frac{f}{m}$.

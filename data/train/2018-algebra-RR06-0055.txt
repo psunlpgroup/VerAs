@@ -1,0 +1,11 @@
+discussion and conclusion *lab 06
+
+in this lab, the same experiment was conducted as in lab 05. the mathematical model derived from lab 05 was used to determine what force is needed to make the acceleration of the system 0.5m/s2. after conducting the experiment, we achieved the challenge activity because both results produced an acceleration within 0.1 m/s2 of our goal of 0.5 m/s2. we calculated a force that was needed to hit the target of 0.5 m/s2 which was 0.16835 n. the two trials gave an acceleration of 0.495 and 0.492 which was within the range of our goal acceleration. 
+
+comparing our findings to other groups, i didn’t seem to find any discrepancies due to the fact that each group was using the same experimental design for each lab. some of the few differences was the uncertainty in their results. some groups seemed to have troubles in measuring their results and therefore got bigger error bars or uncertainty than our group. 
+
+one force that was not accounted for would be the friction between the string and the wheel. another could be friction between the air track and the car if the air track is not a truly frictionless system. air resistance is another force that could affect the experimental model when compared to the theoretical model.
+
+possible systematic errors that may impact our results occur in both the measurement of the mass, and the velocity. if the balance was improperly reading too high or too low, this would introduce systematic error as our system mass would have been and pulling force would have been recorded consistently too high or too low. another source of systematic error could be the readings from the wheel on the error track. this measuring system could be improperly calibrated and therefore read too high or too low.
+
+if the string had an appreciable mass, the cart would still undergo uniform acceleration because the mass of the string is the same throughout the experiment and thus, does not impact the relationship between applied force and acceleration.

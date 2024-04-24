@@ -1,0 +1,29 @@
+discussion & conclusion
+
+
+
+during this lab, we were trying to determine whether the applied force on the cart would have an impact on the cart’s acceleration. our prediction states that as the applied force on the cart increased, the the acceleration of the cart would increase, too, which answers the research question stated in the experimental design. due to the data recorded on figure 1, as the applied force increased, so did the acceleration of the cart. the data points plotted had made a somewhat linear, positive slope. the errors bars were too small to be shown, providing evidence that the data isn’t overlapping. 
+
+
+
+according to group 1’s data (refer back to figure 2.), whose hypothesis stated, “varying the mass connected to the block will have an effect on the acceleration of the block,” their acceleration increased as the force of the hanging mass also increased, which is the same prediction that my group had. although our masses of the systems weren’t the exact same, their values were still similar. while the mathematical model for my group was $y=11.68 x + 0.4516$ and their mathematical model was $y=0.3123 x + 0.2789$ which are vastly different due to our group having technical difficulties on excel, our slopes will looked similar regardless.
+
+
+
+according to group 2’s data (refer back to figure 3.), whose hypothesis stated, “the acceleration of the system is directly affected by the applied force,” their acceleration as increased as the force of the hanging mass increased, which agrees with our groups data as well. although there was no graph shown on their whiteboards to prove that, you can tell by their written down values for the applied force and acceleration of the cart. their mathematical model was $y=4.7453 x + 0.0775$ which was also vastly different compared to our mathematical model due to having problems with excel. regardless of those values, our slopes were both still positive.
+
+
+
+the theoretical model for the acceleration of a system is $a_{cart}=\frac{f_{applie}}{m_{system}}$ the experimental mathematical model for the acceleration of a system is $y=11.68 x + 0.4516$. the experimental mathematical model $a=c1 w+c2$ supports the theoretical model because solving for the value of msystem gives you a value that is close enough to the exact value of the mass of the system. the enhanced theoretical model for the acceleration of a system is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ and the experimental mathematical model for the acceleration of a system is $y=11.68 x - 0.4516$. while the values are still the same, the operation is different due to friction being present, making the sign negative, which means the y-intercept is also negative. 
+
+
+
+if a heavy string is what was connecting the hanging weight to the cart, then the acceleration would not be constant. this is due to the string added more mass to the original hanging mass as it’s being pulled over the pulley. since the mass would gradually increase, then the acceleration would also increase due to the equation $f=m a$.
+
+
+
+a random error that could’ve occurred during this lab is not starting the cart at the same distance each time, which could potentially throw off the acceleration values. this could be prevented by performing more trials to get more accurate data. a systematic error that could’ve occurred is the triple beam balance not giving the correct mass values. another systematic error that could’ve occurred is the weight added to the cart after each run wasn’t constant, and therefore the mass of the cart as a whole is changed after each trial. this could’ve been prevented by measuring the mass of the cart after each trial.
+
+
+
+	one of the constraints within the lab experiment is that we could only add so much weight to the mass of the system due to number of bobs available, so our mathematical model is only generalizable to certain masses of systems. another constraint within the lab experiment is the fact the track the cart was being run on was frictionless, therefore the mathematical model is only generalizable to frictionless carts.

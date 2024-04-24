@@ -1,0 +1,13 @@
+discussion and conclusion
+
+
+
+what impacts the period of a pendulum for small swings?
+
+as seen in figure 1 there is no best fit line, this can be stated because the angle does not have an impact on the period. figure 2 does not show an active correlation between mass and period. figure 3 shows a best fit line between length and period but due to our low standard deviation, this is possibly due to a high systematic error. although having data for mass, angle, and length; as seen in data table 4 our standard deviation is 0.14 yielding that our data for lab 1 was not statistically significant. however, as seen in figure 4, you can tell the linear correlation of length versus the period is significant data. as well as our small error bars proves the accuracy of this data. 
+
+	the theoretical mathematical model being that t is period, l is length, g is acceleration due to gravity; the model would be $t=2 \pi \sqrt{\frac{l}{g}}$. this is true because in relation to experimental data, if the period were equal to 5 seconds, the length would be 620cm. mass and angle do not affect our period because it is not relative to our mathematical data and does not sensibly correlate.
+
+	during lab 1, a random error occurred when we did not have a known calibrated scale. a systematic error occurred during our first lab when we wrapped the string at the top of our apparatus to change length, causing an uneven swing. random error occurred when there was a delay between the person swinging the pendulum and the person timing, as well as the person swinging to hold the weight in the same place during every trail. to fix these errors, we should calibrate our scale to reduce error. the swing should always be tied at level to reduce sideways swinging. as well as making sure the timer person and swinging person are ready to record data before each trial at the same time to prevent random error. the swinging person should hold the weight at the same location during each trial too. 
+
+	 the constraints of this experiment include the number of trails for each factor, if time were not an issue more trials could be conducted in order to receive more statistically significant data graphically.

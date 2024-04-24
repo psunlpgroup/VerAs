@@ -1,0 +1,23 @@
+discussion and conclusion
+research question: what will impact the time period of the pendulum swings?
+
+
+	the first experiment we did was changing the mass on the weight at the end of the pendulum. this showed no correlation, positive or negative, with the time period of the swings on the graph. there is no pattern or correlation proven by figure 1 and table 4.
+
+the next experiment we did was change the length of the string. this did show a correlation and a pattern as we changed the length. as we made the length shorter, the time periods go shorting meaning there is a positive correlation between the two proven in table 5 and figure 2.
+
+the final experiment we did was change the angle of release to see if it affected the time period. as shown in figure 3 and table 6 there is no obvious pattern or correlation. it looked as if the period stayed the same every time we changed the angle, especially incorporating the error bars. 
+
+	the theoretical mathematical value for the period of the pendulum is $t=2.007 l^{0.5}$.
+
+the t is the variable for time period and l is the variable for length. what this equation is saying is taken a given length, in theory, you should be able to calculate the time period. we use length in the theoretical equation because it is the only factor that displayed any sort of correlation to the time period. 
+
+	in figure 2 it is shown that the r value is .9982 which is almost perfect. the closer your r value is to one the better the line of fit is. in figure two the line of best fit was the polynomial line. 
+systematic error in our experiment includes, not zeroing out the balance when weighing the weight, not measuring the length of the string exactly down to the center of mass. things that could be done to minimize these systematic errors is  zeroing out the balance before finding the mass and making sure you know where your center of mass is before measuring the length.
+
+random error in our experiment includes, not writing down the right value as the experiment showed. this could mean not hitting the timer at the right time, writing down the wrong length value or mass value.
+
+
+	while doing most experiments there are constraints that won’t be able to compare to every scenario in the world. since this experiment was done indoors a constraint for this experiment could be wind/air resistance. mass and the acceleration in the vertical direction will never change on earth so that is not a constraint. 
+
+	in conclusion to the generalizability, there are very little constraints in this experiment because the acceleration of any object in the -y direction will always be the same anywhere in the world.

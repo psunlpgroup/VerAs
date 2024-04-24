@@ -1,0 +1,37 @@
+discussion and conclusion
+
+the question that this lab introduced was what three factors can affect the period of a pendulum. the factors chosen were length of string, mass, and angle of release. after undergoing experiments for all three factors, the following claims and conclusions can be made.
+
+first, it was predicted that the length of string would directly affect the period of a pendulum; as the length of the string increases, the period of the pendulum increases. this prediction appears to be found true, based on the data. in lab 01, it was found that there was a positive correlation between the data, so it was tested again in lab 03 with a photogate to reduce the error and affirm this. in figure 1, it is clearly observed that there is a positive correlation between the data, as a horizontal line cannot be placed upon the data points. it is reasonable to accept this conclusion because the conclusion does not change if the data range varies within the error bars.
+
+next, it was predicted that the mass would not affect the period of a pendulum. based on the data, this prediction appears to be true. the data in table 5 and figure 2 reveal that the largest the data ranges is 0.07 seconds, which is smaller than the found uncertainty value of 0.11556 seconds. this divulges that the error bars overlap significantly, and it is rational to place a horizontal line across the points in figure 2, therefore confirming that mass has no effect on the period of a pendulum.
+
+finally, it was predicted that the angle of release would not affect the period of a pendulum. based on the data, this prediction appears to be true. the data in table 7 and figure 3 reveal that the largest the data ranges is 0.07 seconds, which is smaller than the found uncertainty value of 0.11556 seconds. once again, this shows that the error bars overlap significantly, and it is reasonable to place a horizontal line across the points in figure 3, therefore confirming that small angles of release have no effect on the period of a pendulum.
+
+the theoretical mathematical model for the period of a pendulum is is  
+
+the equation acquired from the data resembles this but differs in a few ways. the mathematical model determined from the data in figure 1 was $y=0.97557256 x$. the pi and acceleration of gravity are not included in this model because they were not measurable in this experiment. the mathematical model fits with the theoretical model because of the large r2 value (0.9966) in figure 1. furthermore, the mathematical model’s values are very similar, but differ a small amount, as the expected coefficient of x should be 2 and the exponent should be 0.5, but it was found to be 2.1718 and 0.4492 respectively. the reason for this difference will be discussed in the errors below.
+
+	error is present in almost any experiment, as it is nearly impossible to mimic physics concepts in real life. in this experiment, both random and systematic error were present. the random errors present include is 
+
+the protractor was not fixed to a certain point, it was held freely, so the angle measurements fluctuated based on point of view
+
+the person operating the stopwatch stopped the timer earlier/later due to human reaction not being constant
+
+external forces applied to the string from one trial to another, hindered the freedom of the swing, such as an accidental finger hitting the string after release
+
+to reduce these random errors, in lab 03 multiple trials were taken at each measurement and then the mean of the trials was computed to ensure the most precise data.
+
+the systematic error in the experiment was using a constant angle of release of 45 degrees. due to the previous data collected in the experiment, it was concluded that angle of release has no effect on the period of the pendulum, therefore, a constant angle of 45 degrees was deemed satisfactory to use for lab 03. however, the instructor notified the class afterward that angle of release does not influence the period of a pendulum only for angles smaller than 20 degrees. consequently, using an angle of 45 degrees can be attributed as systematic error and it is believed to the major reason of what caused the discrepancy between the found mathematical model and the theoretical model of the period of a pendulum. to reduce this error in the future, an angle of release less than 20 degrees could be used.
+
+	there are a few constraints in this experiment that could limit the generalizability of the results is 
+
+it was assumed that the string had insignificant mass, but it could have impacted the period
+
+because of the instruction to use angles of 20 degrees or less, it cannot be concluded that the results would be the same for larger angles
+
+air resistance was neglected in this experiment because of there being no way to measure it given the situation
+
+there was no friction included in this experiment, but oftentimes in real world situations friction plays a factor, so these results cannot be applied to these situations
+
+these constraints reveal that the results are unable to be applied to every type of pendulum motion, however they do help disclose the essentials of pendulum motion.

@@ -1,0 +1,33 @@
+discussion and conclusion:
+
+the research question for both of these labs is the same: how does changing the applied force affect the acceleration of the system?
+
+the experiment is directly related to the research question because we tested the independent variable referenced in the research question and observed the dependent variable referenced in the research question.
+
+the resulting mathematical model was is  $a=4.7047 f+0.0133$, as observed in graph 1
+
+this is directly related to the research question because the model expresses acceleration (dependent variable) as a direct result of the function of force applied (independent variable)
+
+theoretical equation is  $\frac{1}{0.1876}=5.33$
+
+our mathematical model is very similar to the theoretical equation
+
+in addition to us presenting our white boards to the other groups, they also presented their white boards to us and explained everything they had on theirs. here are 2 pictures of other groups’ whiteboards is 
+the results of the other groups are very similar to the results we observed from our experiment
+these show up in the mathematical model because of the addition (addition means we are adding an uncertainty to the function, and these forces are included as an uncertainty)
+
+the mass of the system is directly related to the coefficient of the force applied in the mathematical model
+
+if the string had mass (in this experiment we assumed it does not), there would be an effect on the acceleration of the system because of where the mass of the string is located 
+
+example is  if more of the string is located past the wheel (dangling with the hanging mass) there might be an increased acceleration of the system due to more mass being hanging)
+
+systematic errors are scale readings, we used the same scale in every measurement ,we could fix this by using some sort of newer/more exact scale which was not available to us
+
+track, we started from the same distance each time, we could have started the track from a closer point, reducing the amount of area and time it could have had an effect on 
+
+
+physically reading the scale is another error, we used the same scale each time, we could have taken multiple measurements and averaged them to get a more accurate measurement
+in this experiment, we used a system that is not commonly available to everyone who would like to conduct an experiment similar to this one 
+this experiment neglected friction as a whole, so that makes it harder to generalize our results considering that most cases similar to this one will have friction 
+

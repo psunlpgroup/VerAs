@@ -1,0 +1,94 @@
+discussion and conclusion:
+
+research question:
+
+the research question for this experiment was “which factors affect the period of a pendulum?”  the quantity observed, that is, the dependent variable (dv) was the period of the pendulum and it was tested against the independent variables (ivs) – mass, angle from vertical at release and the length of the string of the pendulum.
+
+analysis of experimental data and claim is 
+
+experiment for period (dv) of the pendulum vs. its mass (iv) is 
+
+the hypothesis for the testing of the effect of the mass of the bob on the period was that the period of the pendulum was directly related to its mass. the data (table 4) and its corresponding graph (figure 1) does not show a clear correlation between the mass of the bob and the period of the pendulum; the error bars overlap to a great extent which suggests that there is no correlation between the mass of the bob of a pendulum and its time period. this indicates that the change in the mass of the bob attached to the pendulum has almost no effect on the period of that pendulum. thus, the hypothesis was incorrect; the mass of the bob is not related to the period of the pendulum.  
+
+experiment for period (dv) of the pendulum vs. the angle of its release form the vertical (iv) is 
+
+the hypothesis for the testing of the effect of the angle of release from the vertical of the pendulum on the period was the period of the pendulum is directly related to the angle of release from its release. the data (table 5) and its corresponding graph (figure 2) does not show a clear correlation between the angle of release from the vertical of a pendulum and its period; error bars overlap to a great extent which suggests that there is no correlation between the two quantities. thus, it can be said that the change in the angle of release has a negligible effect on the period of our pendulum, at least under the given test conditions. therefore, the hypothesis was incorrect, the angle of release is not related to the period of the pendulum.
+experiment for period (dv) of the pendulum vs. the length of its string (iv) is 
+
+the hypothesis for the testing of the effect of the length of the string on the period of the pendulum was that the period is directly related to the length of its string. the data (table 6) and corresponding graph (figure 3) for length of string (m) of a pendulum vs. its period (s) suggests that the change in the length of the string has a significant effect on the period of the pendulum (test conditions were a constant mass of 150g and release angle from vertical of 15°).  there is almost no overlap of error bars which indicates that there is a correlation between the quantities under study. more specifically, it is a positive correlation; the period of the pendulum increases with increase in the length of the string. this relation is even more prominent in the data obtained using the photogate (table 8) where the uncertainty and margin of error are very low. all the data points are on the trendline and the r2 value, calculated is 0.9994 (almost equal to 1). therefore, the hypothesis was accurate, length of the string and the period are directly related.  
+the theoretical mathematical model was obtained from the textbook, physics for scientists and engineers, 10th edition, by serway/jewett. the relation is as under is 
+$t=2 \pi \sqrt{\frac{l}{g}}$
+where,
+
+ t is time period (s)
+
+l is length of the string of the pendulum (m)
+
+g is acceleration due to gravity (m/s2)
+
+this may be simplified to the following relations is 
+
+
+
+that is, the time period of a pendulum is directly related to the square root of its length.
+
+
+
+that is, the time period of a pendulum is inversely related to the square root of acceleration due to gravity at the place where the data was obtained.
+
+experimental mathematical model is 
+
+based on the experimental data obtained in table 8, 
+
+
+simplifying the theoretical mathematical model by plugging in the value of acceleration due to gravity, g is 9.8 m/s2, we get
+
+
+
+where 0<p<1.
+
+comparing the above two equations, we see that the constant term, c of the experimental model is greater than the theoretical value by 0.084 and the power value, p is smaller than that of the theoretical model by 0.0489.
+
+inaccurate measuring devices is  measuring devices such as the tape measure, the protractor, beam balance and the photogate can become inaccurate over time due to wear and tear. it is also possible that the marks were incorrectly positioned there were other manufacturing errors. 
+
+calibrating the beam balance is  data for tables 4, 5, 6 and 7 was taken without zeroing the scale of the beam balance. consequently, the mass readings obtained from the balance may have been off by a constant amount. 
+
+delay in the registration of pressing of the stop button of the stopwatch is  the stopwatch does not register the exact instant at which the button was stopped. there is a minor delay between the instance when the button was pressed and the instance when the stopwatch stops counting. this delay in the registration of the pressing the stop button may have skewed the data. 
+
+if the same person measures the quantities under study, that is the angle of release from the vertical and the length of the string, then the parallax error in measurements is same in each iteration of the experiment. this is because the same observer measures the variables for each iteration using the same techniques and equipment. 
+reaction time of the observer is  in this series of experiments, the reaction time of the observer causes a random error since the observer’s reaction time improves over time as the experiment progresses. in addition, as multiple people recorded the observations (each with a different reaction times and level of improvement in successive iterations of the experiment), it is likely that there was an error random introduced in the measured data.
+
+method of releasing the bob is  when the bob is released, resistance due to the hands of the person dropping the bob may introduce a random error in the recorded data. it is also possible that the person releasing the bob of the pendulum might have provided a visually undetectable initial velocity to the bob of the pendulum, in contrast to the assumed initial velocity of 0m/s. this initial velocity would be completely random and unknown to the observer.  
+
+inconsistency in determining the point of termination of period is  due to the improvement in reaction time of the observer and the difference in determining the end of the period, the point of termination between each iteration of the experiment is most likely different. 
+
+different observers would observe different amounts of parallax. the parallax in this case would not be systematic but random since recording of readings by different observers introduces non-uniform random error across the experiment. 
+
+friction between the air and the pendulum can impact the measurement of its period. depending on environmental factors, such as air drag, and the presence of wind, measurements  might vary between successive measurements leading to random error. 
+
+inaccurate measuring devices is  systematic errors introduced in the experimental data due to inaccurate measuring devices can be minimalized by using a second set of devices to obtain the same measurements. alternatively, the zero error can be computed and subtracted from the observed values to find the actual values. 
+
+calibrating the beam balance is  it is necessary to calibrate the beam balance before measuring the mass of the bob of the pendulum in order to obtain accurate measurements.  
+
+delay in registration of the pressing of the stop button in the stopwatch is  the stopwatch is not the most accurate device for measuring time intervals between two events due to factors such as a delay between the pressing the stop button and the time at which it stops counting. this error was reduced by a great measure by using a photogate in the last experiment.
+
+to avoid systematic error due to parallax, we made sure to observe the measurements such that our line of sight was vertical to the marking on the scale, when using the measuring devices provided in the lab. 
+reaction time of the observer is  random errors produced as a result of variation in the reaction time of the observer can be were reduced by using a more accurate device, namely, a photogate which automatically records the period of the pendulum and has negligible uncertainty. 
+
+process of releasing the bob is  instead of manually holding the bob at the initial point of release, a clasp mechanism that releases the bob on pressing a button could be constructed and positioned at the point of release. this would reduce the random error arising due to difference in the technique of dropping the bob.  
+
+inconsistency in determining the point of termination of period is  the human eye has limited capabilities and it may not register the exact moment at which the bobo of the pendulum reaches the extremes of the oscillation or the exact moment at which the oscillation is completed. to minimize this error more precise devices, such as a photogate, was used in the last experiment.   
+
+random parallax error arising due to data being recorded by multiple observers could be reduced by taking a large number of readings. as this is a random error, some of the readings would have a positive error while some would have a negative error. using the mean of these values would give a more accurate estimation of the actual value.  
+
+the presence of friction between the air and the different components of the pendulum could have affected the measurement of its period. to counter the effect of air drag, a heavier bob was used. alternatively, the random error arising due to air drag (and other environmental factors such as wind) could be eliminated by performing the experiment in a vacuum chamber. 
+the constraints that limit the generalizability for the results of this experiment are as under is 
+angle from vertical of release of the pendulum was always less than 30°. 
+effect of air drag, uncertainty in the measuring devices could not be reduced after a certain point.
+the mass of the bob of the pendulum was taken to be 150g when it was a control variable in the experiment. 
+the length of the string was greater than 80 cm.
+acceleration due to gravity, and its effect on the experiment could not be measured due to time constraints and limitation in resources. it was assumed to be 9.8m/s2 towards the center of the earth.
+
+all measurements used to estimate the mathematical model were performed with the same set of equipment. manufacturing defects in the equipment can hinder the generalizability for the results of this experiment are as under is 
+
+the number of readings (sample size) was quite small. as a result, the mathematical model obtained from this experimental data may not accurately represent the actual mathematical relation between the quantities.

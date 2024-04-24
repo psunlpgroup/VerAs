@@ -1,0 +1,21 @@
+discussion and conclusion
+
+how does the acceleration of a system change when the applied force changes?
+
+the relationship between the applied force and the acceleration was linear and direct. as the applied force increased, so did the acceleration of the system. the formula $f=m a$ makes sense algebraically. if the force of the system is increasing than so does the acceleration if the mass stays constant. the hanging weight would be the force applied in this system. the acceleration will be measured using the rotary motion detector and the data studio program. the data was recorded on a excel sheet which was used to make a plot graph of the data. a linear regression line was used to find the r2 value of the data points. the r2 value is .9943. our data is very accurate to the linear regression trendline. the error bars are non-visible due to our uncertainty being so low that the values were unable to be seen on the graph. the graphed data shows that as the force increases so does the acceleration, in a linear fashion.
+
+
+
+	to support this hypothesis several more groups conducted the same experiment. below is the data from group 3 in lab 1051l section 17.
+
+these data help support our original hypothesis because both data show that as the force increases so does the acceleration of the system. our data have a lot of similarities and sort of agree with the other groups data.
+there were two equations used in this lab. the theoretical equation and our experimental equation. 
+
+the theoretical equation was $f=m_{sys} a$, and the experimental equation was $a=cart1 w+cart2$ . the experimental equation is very similar to the theoretical data. essentially the experimental model supports the theoretical model because the mass of cart multiplied by the weight of the bobs plus the mass of the cart 2. the mass of the system is cart 1 plus the weight of the bobs is essentially the mass of the system. the force that was acted on the system was gravity of the mass of the bobs. 
+
+another enhanced equation is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ . there were extra forces acted upon this system that need to be accounted for such as force of tension, and force of gravity. adding these new parameters will give the data a more accurate and precise result. 
+
+our prediction was correct for the lab 06 challenge. using our energy equations. $m1 a=m2 (g-a)$. then by plugging in the acceleration that was given to us and the known values that we used from our data, we were able to determine that the m2 or the mass of the bobs acting on the system would have to be 18.29 g 0r .01829 kg. 
+
+overall the experiment went well. there were some systematic errors that could have skewed our data. some systematic errors may be issues with calibration of the scale, the air track’s pump may have had a faulty connection and not allow for the full velocity of the cart to be measured, and the sensor may have been damaged by repeated impacts of the cart and lead to inaccuracies in readings. to reduce these errors, we could recalibrate the scale and the sensor. we could also make sure that the pump is correctly attached to the air track. 
+some constraints that lead us to generalize this lab were the scale of the system. to be more accurate we could have used more accurate bobs, that would have fitted more properly on the cart. to reduce this error of constraint we weighed every bob individually and tried our best to not generalize the mass of the bobs.

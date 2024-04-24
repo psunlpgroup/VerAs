@@ -1,0 +1,23 @@
+discussion and conclusion
+
+the purpose of lab 5 and lab 6 was to observe the affects of different variables on the acceleration of a system in a frictionless environment. additionally, mathematical models were developed to describe the behavior of the systems and understand the numerical values and variables in the model. data was found in the three experiments and then placed into excel to create graphs that identify the various mathematical models. these models were derived from the slopes of the graphs after they were identified as either linear or exponential. we determined that figure 1 was exponential and in turn the mathematical equation would be represented as $a=0.0072 m^{2} - 0.0518 m$152, where a is acceleration, and the inputs are mass. in figure 2 the equation model was $a=\frac{190.6}{m^{0.9}}$ and determined to be exponential in nature. in this case a represented acceleration and m was the mass. figure 3 gave multiple equations as it tested how slope affected 3 different masses. all three equations were linear and similar in slope. the differences in slope were likely related to error and/or inaccuracy. 
+
+when our data was compared to other groups in lab 6 we found that our data was similar, however it was in the opposite direction due to the way that we plotted our data in excel. 
+
+
+
+(figure 4) is mass versus acceleration data collected by group 4.
+
+our find statements were the same and while our numbers do not match theirs exactly, the similar slopes show that our data is likely correct. a second set of data collected by group 1 displayed how magnets affected the acceleration of the trolley by mimicking friction.
+
+
+
+(figure 5) is  magnets versus acceleration data collected by group 1.
+
+their findings showed that the magnets had a measurable affect on the trolley’s acceleration and they concluded that as the number of magnets increased the acceleration decreased. 
+
+there was a considerable amount of systematic error while collecting the data for figure 1. this is due to the total system mass not being kept constant while the experiment was conducted. rather than moving mass from the trolley to the string and vice versa, the mass was removed from the system and then added for each iteration of the experiment. this greatly lowered our confidence on the possibility of the data in figure 1 being correct. 
+
+the possible constraint in the experiment that may limit the generalizability of the results is due to the lack of tests conducted in the figure 3 experiment. only 3 different iterations of bobbers were tested out of a possible 8. ideally at least 5 tests would have been conducted in order to maximize our generalizability. the mathematical models are consistent with newton’s second law because they are dictated by both mass and acceleration. the force aspect of the experimental models aren’t as clean looking as newton’s model because the equation uses the slope of a line to determine f.
+
+2019 university of cincinnatilab 06 – force and motion part ii 

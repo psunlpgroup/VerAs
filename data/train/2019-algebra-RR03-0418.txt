@@ -1,0 +1,21 @@
+discussion and conclusion
+
+
+
+our groups findings concluded that the period of a pendulum is affected by the length of the string and the angle of swing, however, weight does not have an contribute to the period of the pendulum. this occurs because no matter the weight of the pendulum, the force of gravity is constant, so changing the weight does not affect the period. as the length of the string increases the period increases because the larger the angle the smaller the distance the pendulum needs to travel and as the angle of the swing decreases the period decreases because the shorter the string the less distance and thus less time is needed to complete one swing. our results for the angle of swing produced a negative linear pattern that directly correlates the two variables our results for the length of string as seen in the graph above has a positive polynomial relationship. newton’s first law states that an object at motion will stay in motion unless an outside force acts upon it. thus the pendulum swings at a constant rate. however, because we only decreased the length of the string by 5cm intervals, it is difficult to properly show the relationship between length of string and time. we determined that the polynomial was the best mathematical model for this experiment. we checked each r^2 value presented by excel, and the polynomial was the closest r^2 value closest to 1 at 0.99 making it the most accurate. using the theoretical mathematical model for the period of a pendulum, we predicted that the period of the pendulum would increase in time due to the lower gravity if all the other variables stayed the same. our prediction is correct because g would be 1.6 instead of 9.8.
+
+
+
+
+
+
+
+error analysis
+
+
+
+some possible errors that could have occurred during the pendulum experiments are reaction time; students not starting/stopping the stopwatch at the exact time the pendulum is first swung and exactly after it completes one swing, angle of swing; rising the pendulum to a different angle each time, and direction of swing; swinging the pendulum in a straight line vs. swinging it diagonally or circular. all of these mistakes could produce errors in the amount of time it takes for the pendulum to complete one full swing, thus throwing off the entire experimental data. some examples of these errors in our experiment was one, the way our experiment was set up during lab 01 made it that if the pendulum wasn’t swung straight it would have hit the pole for the setup of our experiment and two, we had two different people controlling the stop-watch so the time it took the pendulum to complete one swing varied between the two different people. 
+
+
+
+in order to reduce any variation in the experiment due to random error, it would be beneficial would be to preform multiple trials of the experiment to see how closely related the data is, and then take the average of the data, thus reducing the chance of discrepancies. more way to reduce errors in the experiment could be; change the length every 10cm instead of every 5cm so we can better see the relationship between length and the period, using the same person each time to work the stopwatch, and come up with a way the person starting the stopwatch, and the person swinging the pendulum can start at the same time, using an angle ruler each time the pendulum is swung to ensure it is being swung at the exact angle each time, and taking the time to correctly swing the pendulum each time to get the most accurate results possible.

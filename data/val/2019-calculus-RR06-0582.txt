@@ -1,0 +1,14 @@
+conclusion:
+ Purpose: To develop mathematical models from an experiment to describe the behavior of a system and to understand each variable and numerical value included in the model.
+ The mathematical models were determined by testing different variables in an experiment and graphing the data in excel to produce an equation. In Lab 05, mass 2 was tested (Figures 1-4) and in Lab 06 (Figures 5-10), height was tested. Both variables were tested to see their affect on the acceleration of the glider. 
+       
+
+Group 1 has selected their independent variable to be the height of the track at a backward tilt. There slope is less than 1 which indicates that as the height and mass increase the acceleration decreases. This is opposite of my groups results because we had a forwards tilt rather than a backwards tilt. 
+
+
+
+Group 2 has selected to test friction as their independent variable. Their slope is less than 1 meaning that as the friction increases, the acceleration of the glider decreases. This makes sense because as more forces act against the motion of the glider, the acceleration decreases. Inversely, when forces work with the motion of the glider, the acceleration increases.
+Random errors that could have occurred include inconsistent or inaccurate readings of the height of the track as well as the length it traveled. Systematic errors could be from the sensor skewing the values higher or lower than the actual value, or the vacuum may not have the same air pressure every time it is turned on.
+ Constraints that could affect the generalizability of the results include the equipment used. The level of friction from the track may be different if the same one is not used. The shape of the glider also has a certain air resistance that could affect the acceleration if a glider prone to having more air resistance is used.
+ Newtons Second Law show a direct relationship between force and mass plus acceleration meaning when one side of the equation increase the other side does as well. This relationship is shown in my group’s data as well. For example, in Figure 2, the force of gravity increases as the mass of the system increases which also shows an increase in the acceleration. This relationship can be seen in multiple graphs produced throughout the lab.
+

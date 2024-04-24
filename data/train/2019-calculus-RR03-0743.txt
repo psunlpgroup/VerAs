@@ -1,0 +1,17 @@
+conclusion
+
+
+
+the main question being investigated is “what affects the period of a pendulum?” we decided to test the independent variables of mass, length of string, and angle dropped. in lab 1, we concluded pendulum period vs. string length had a positive correlation. as the string length increased, the period increased as well. period vs. angle and period vs. mass had no correlations. in lab 2, we concluded once again angle and mass had no effect on period since the error bars overlap one another. in lab 3 we found the mathematical model by determining which type of graph would best fit our data is  
+
+
+
+$t=0.00911 l + 1.12$
+
+
+
+with this model, the correlation is almost exactly 1. as discussed previously, mass and angle had no effect and does not apply to this formula. 
+
+
+
+some errors present include imperfect timing and the string loosening from the top of the pendulum. we reduced the first error in lab 3 by using the photogate. the second error was reduced by tightening the string as much as possible.

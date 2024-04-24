@@ -1,0 +1,3 @@
+conclusion
+
+possible constraints to this experiment as a whole would be a systematic error of the entire setup. they were reduced by being very cautious of the measurements and setting the entire apparatus up. there can also be a systematic error in the scale if it isn’t zeroed out at first, but this can also be reduced by following the right measures stated. all in all, this experiment was a great way to test newton’s 2nd law and find out that as the applied force increases, so does the acceleration!

@@ -1,0 +1,15 @@
+conclusion:
+
+
+
+the purpose of lab 05 was to be able to develop a mathematical model to describe how force, mass and acceleration are related to each other in a real-world application. the purpose of lab 06 was to be able to understand what each variable, as well as constants, in the mathematical model represents, and how they affect the system. the acceleration was the dependent variable in all experiments of lab 05 and 06. this means that the resulting equation had to represent force and mass, based on newton’s second law. the force was represented by the independent variable, or the x-axis of the graphs. the mass was the constant attached to force in each equation and was representative of 1/m or m^-1. this makes sense, because the mass of the system remained constant, therefore it is a constant in our equations. 
+the group on the right, group 2, that chose to use magnetic fields obtained data fairly similar to ours and would have gotten a similar mathematical model. the group on the left, group 3, shows how other factors can be implemented in an experiment to achieve the same mathematical model.
+errors in this experiment were systematic errors in the calculation of mass, which was done with an analog scale rather than a digital one, as well as random error in starting position, and inconsistency in the hanging mass. in the future we would use better masses instead of bobbers as well as a more precise digital scale.
+
+
+
+constraints in this experiment would be the scale to which we were able to perform the experiment as we were limited to the amount of mass we could use and the size of magnets.
+
+
+
+the experimental models that we got ( $a =\frac{f}{m}$) are consistent with newton’s second law, which if rearranged would be the same equation that we got.

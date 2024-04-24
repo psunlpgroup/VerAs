@@ -1,0 +1,15 @@
+conclusion:
+		the purpose of the two labs we performed was to determine the impact of three separate variables on the acceleration of a system, with (lab 05) focusing on determining the models for stating the behavior of the system. while for lab 06 we were to understand and finalize the variables that were stated in the models (lab 05). we developed the mathematical models for the behavior for a real system (lab 05) by showing that both mass and force affect the acceleration of a system. we tested this by affects the mass of the system, both hanging and object mass and keeping the force constant. according to the data the relation between mass and the acceleration of a system is a nearly linear negative relation (graph 2 & table 4). while changing the force and keeping the mass constant to determine the effect of force, which is shown by the positive linear relation between the two (graph 1 & table 3). for what the physical meaning of the variables are, for the force applied experiment the x is force, while for the mass experiment the x is mass. for the third experiment (lab 06) x is force and for each one y is acceleration. with force having a positive correlation and mass having a negative correlation. for lab (06), the variables are as follows is 
+
+	iv is force applied
+dv is acceleration
+cv is tilt (angle of the front end)
+
+		this can be seen by table 5 showing the variables that were affected by the alteration of our variables. the mathematical models are directly correlated to the data of lab 06, our model is, $f= m a = \frac{f_1}{m_{system}} + \frac{f_2}{m_{system} + …,$ which fits the equation, $a = c1 f + c2$.
+
+	
+
+
+	these two result tables illustrate that angle has an impact on the acceleration of the system even if the angle is positive or negative (group-004). while friction has no effect on the system (group-001) because each section of the equation is affected by the change in friction. these helped us understand what the values mean from our lab 06. $c1 = \frac{1}{m}$ and c2 is tilt of the track. our values for c2 were all negative because our track was tilted upwards. 
+
+	for our errors throughout the experiments, nothing came up. we have perfect r2 values and (graphs 3-6) have error bars that aren’t visible. there was nothing that could affect our values because they were or near perfect. for this lab there are a few constraints in effect that limit the generalizability of our results. for lab 05, our constraints were the amount of mass we could use and the maximum force that could be applied. while for lab 06, the constraints in place were height our ramp could go with the tools we had. both our mathematical models are consistent with newton’s second law, $f = m_{system} a$, because the acceleration in lab 05 (graphs 1 & 2) is affected by the change in mass and force. while for lab 06, the lab shows that altering an aspect of the system i.e. the angle. also affects the acceleration by altering the either the force or mass.

@@ -1,0 +1,7 @@
+discussions
+
+the purpose of this lab was to determine if there was a relationship between force and the acceleration of the system and a mathematical model to be produced if a relationship is revealed.  the experiment ascertained that a direct relation between force and acceleration is apparent.  above a graph is shown plotting mass vs acceleration (error bars are included, but too small to be seen) that shows a positive correlation between them. along with the graph is the computed formula.
+
+
+
+group 2 had surprising similar results as our group (group 1) confirming our results the force and acceleration are proportional while keeping mass constant. if mass remains constant, force and acceleration are directly proportional. the equation can be rearranged to be ‘$a=\frac{f}{m}$ showing that when mass is constant, an increase in force will result in an increase in acceleration, as well as a decrease in force will decrease acceleration.

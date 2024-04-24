@@ -1,0 +1,34 @@
+conclusion
+
+i began this experiment by asking, “what affects the period of a pendulum for small swings?”, and now that i have planned experiments, carried them out, and collected the data to be analyzed, it is time to conclude in regard to this question. in this experiment my lab partners and i examined the affects off three different independent variables upon the period length for a pendulum. each variable had a different effect on the period of the pendulum. some variables were not indicative of changes in period length, while others were directly related. 
+
+my initial hypothesis for the relationship between mass and period was that there is not a relationship between the two, and my prediction was that changing the mass of the pendulum would not alter the period length. we ran this experiment and the result show support for both my hypothesis and prediction. the correlation coefficient and graph, at first glance, appear to show a relationship between mass and period length. however, upon further inspection you will notice that the error bars for each data entry overlap and thereby show that we cannot draw a conclusion that there is in fact a relationship between these two variables. 
+
+the only variable that ended up having a different relationship with period than i hypothesized and predicted was that of angle of release. in my initial hypothesis i believed there would be a relationship between angle of releasee and period length. i also predicted that this relationship would include the period decreasing with the decreasing angle, in other words i thought they would show a direct relationship. contrary to my initial thoughts, our data supports the conclusion that angle od release and period are not related as stated above, or at all. similar to mass versus period graph, the angle versus period graph looks to show some correlation when you first view it, however, the error bars for each data point overlap. although it appears the data points follow a linear trend, they cannot be considered due to the error bar overlap. 
+
+	in my initial hypothesis for the relationship between string length and period length i stated that there is in fact a relationship between the two. after completing the above experiments, i confirm this hypothesis. there is a correlation value of 0.9993 between the independent and dependent variables in this case, according to the first experimental measurements.  we created a graph for this data that shows a positive nearly liner relationship between length and period. the data is not exactly straight, however. after seeing these results, my group and i decided to repeat this experiment and attempt to eliminate/minimize errors in hopes of obtaining a mathematical model for the relationship. in the first experiment we were experiencing random error due to the inconsistencies with manually running the stopwatch. the automatic timer in the second experiment helped to take nearly perfect measurements. the one random error we could not fix here was the angle from which the pendulum was released. although we tried very hard to release it from 20 degrees each time, i am sure there were some errors involved with either making the angle too large or too small. to fix this random error, we could create some sort of device that holds the string at the very same angle each drop, otherwise it is not possible to entirely eliminate this error. after the second experiment we were able to create a graph that has a correlation coefficient of 0.9999. this extremely strong, positive relationship between the two variables indicates that there is a strong relationship between them. my hypothesis is further confirmed, and my prediction that the period length will increase as the string length increases is supported. 
+
+the best fit line for this data set, however, is not a linear relationship as i initially suspected. the relationship causes the best fit line to be “power”. this supports that the best line for the data is $y=\frac{x}{2}$. we were not able to create a fully accurate mathematical model. this is because our data and equation do not consider the effect of gravity. it was impossible to know that gravity factors into the contestant. the equation we ended up with is          $y=0.1946$ * 0.5071         which is very close to the theoretical model, just not precisely equivalent. the theoretical mathematical model is          $t=2.007 \sqrt{l}$           .  
+
+random errors are those that fluctuate between too high and too low from the actual value. there is an equal chance that these errors may lie above or below the actual. they are a result of the tools and devices themselves or are results of the measuring technique. random errors that we encountered include;
+
+>reaction times using the stopwatch to manually measure period
+
+> inaccurate reading of the tape measure length
+
+>dash lines aren’t spaced equally on the tape measure or protractor
+
+> interpretation of the end of the period could be different for different timers
+
+> the angle from which we read the protractor could’ve varied between runs & trials
+
+	 >we could’ve been putting force on the pendulum when releasing it
+
+in order to reduce the above errors, we would need to be as consistent as possible when taking all measurements. this also includes refining our technique. we could also reduce random errors by completing more trials and averaging our results. by averaging our results, the measurements being high and low would begin to even out. we should also be sure not to estimate to the least significant figure of a measuring device as this can be grounds for error. using better and more accurate measuring tools can also work to reduce random errors caused by manual measurements (stopwatch to automatic device). systemic errors are those that favor a higher or lower value for all trials. the measured value is not the same as the actual/assumed value. we did not encounter many systemic errors. potential systemic errors include, stopwatch error, meaning that the stop watch was not calibrated properly and consistently gave us higher values than the actual, for example. another systemic error we might’ve encountered is that of the metal end piece in the measuring tape. the only way to fix these errors is to fix the tools, or to obtain a new and correctly calibrated tool. 
+
+	the major constraint we experienced during this experiment was during our initial test of variables we only ran one trial for three different quantities for each of the independent variables. this lead us to make the huge generalization of the relationship, or lack of, between each iv and period. to correct this constraint, caused by length of lab and available resources, more trials should be performed at a larger variety of quantities for each iv. by having a larger pool of data, the conclusions we draw will be more supported and less generalizations of a very small sample size. 
+
+	
+
+
+

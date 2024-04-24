@@ -1,0 +1,13 @@
+discussion
+
+the research question for this experiment was to determine how changing the applied force on a system changes the acceleration of the system. for example, if the force was increased would the acceleration of the system increase or decrease. in the experiment the hanging weight was changed in the first say of the experiment and as more weight was transferred to the hanging weight the acceleration of the system increased. as seen in the graph above, the acceleration of the system can be graphed with the equation $y=\frac{0.4105}{m^{1.006}}$. this answers the research question by stating that as the force applied on the system increases so does the acceleration.
+
+the equations from other group helps to prove that the equation found is in fact accurate. while the coefficients vary the exponents are close to the variable found.  the equation from group 6 was 2.2905x^-.1009 as seen in the figure above, this is very close to the value found by my group. 
+
+the theoretical equation for this experiments $a=\frac{f}{m_{sys}}$. the experimental mathematical model is $a=c1 w+c2 $. the experimental and theoretical models are not the same because the experiment wasn’t conducted in an environment that was perfectly controlled. the enhanced theoretical equation for the acceleration of a system $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$.
+
+if in the experiments the original string was replaced with a heavier string, there would only be very slight changes to the equation if there are any caused by increasing the total mass of the system. so, the equation would still be equal to the theoretical equation unless the string had other forces acting on the system such as random error. 
+
+there are sever potential sources for random error in this experiment. the first potential source of random error in this experiment is the balance could be incorrect or not calibrated. this was avoided by using the same balance through the whole experiment. a second source of potential error was the track that the cart rested on was not uniformly outputting air to create a frictionless track. this was avoided or reduced by performing multiple trials of the experiment. 
+
+factors that may have limited the generalizability of the experiments could be the addition of air resistance to the equations and the accuracy of the measuring equipment for both weight and velocity of the cart.

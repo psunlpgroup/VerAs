@@ -1,0 +1,17 @@
+discussion and conclusion
+
+the purpose of these labs was to discover mathematical models which explain the behavior of a system, and to understand each variable tested and how it relates to the models. the mathematical models are below is 
+
+ $a=c m - 1$   is  acceleration and mass
+
+$a = c2 f + c3$  is  acceleration and force
+
+c3 is only relevant when the track is being tilted. on the trials our group did regarding friction, we can ignore c3 because the track is not tilted at an angle. if it was tilted forward, c3 would be positive. if the track was tilted backwards, c3 would be negative. if force increases, acceleration increases. if force decreases, acceleration decreases. 
+
+in the data above, two other groups’ information is presented. one group, group number five, tested how the angle of the tilt forward affects the force and acceleration.  the second group, group number two, tested how the angle of the tilt backwards affects the force and acceleration. as seen above in graphs six through eleven, their information reflects our findings is  as force increases, acceleration increases. they have a positive correlation. 
+
+some possible random errors could be glitches in the software which would mess up data for only one or two data sets or a bobber falling off when hitting the floor. some systematic errors would include the incorrect measurements of the weights of the bobbers affecting the mass of the system, or the track being not completely flat, or at an inaccurate angle when the track is tilted. random errors could have been reduced by running more trials so there is more data and the effected data would stand out more. systematic errors could be fixed by measuring the weight of the bobbers more than once to find an average weight and measuring the angle of the track multiple times while running trials to ensure that the track’s angle is correct.  	
+
+some constraints of this experiment are that the track is not completely frictionless and that we could not test the extreme cases of a huge angle or an extremely heavy cart with a large coefficient of friction. since the track is not completely frictionless, the data is not one hundred percent accurate. also, the trials we conducted were just a small window of the possible. we did not run trials where the cart had a huge coefficient of friction, and we did not run trials where the track is tilted almost vertically.   
+
+the first mathematical model is  $a=c m - 1$ , is almost identical to newton’s second law. once it is reconfigured $a m= c1$, mass multiplied by acceleration is equal to force. as mentioned above, c3 is a constant which is only applicable if the track is tilted. if it is not, and the track is flat, the constant is not needed. c2 is the coefficient regarding friction. the more friction the greater c2 becomes.

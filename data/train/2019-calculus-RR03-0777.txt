@@ -1,0 +1,19 @@
+discussion and conclusion
+
+	the research question being investigated in labs 01, 02, and 03 is what impacts the period of a pendulum. lab 01 addressed the research question by narrowing down the possible factors that impact the period of a pendulum to angle of release, mass of bob, and length of string. these factors were tested individually and data was collected to determine whether they affected the period of the pendulum. from figures 1, 2, and 3, it was determined that only the length of the string had a significant impact on the period of the pendulum. this is because the error bars on figures 2 and 3 overlap for most of the values of the independent variable and error bars on figure 1 overlap for just one value of the independent variable which appears to be a low outlier. lab 02 address the research question by looking further into error in lab 01 and using error bars to determine which independent variable/s affect the period of a pendulum. as stated above, it was determined that only the length of the string affects the period of a pendulum from the error bars in figures 1, 2, and 3. lab 03 addresses the research question by testing the independent variable that affects the period of a pendulum and determining a mathematical model between the independent variable and the period of a pendulum. the independent variable was determined from lab 02 to be the length of the string.
+
+
+
+theoretical mathematical model
+
+	from the linear regression shown in figure 5, the theoretical mathematical model for the period of the pendulum was determined to be $t=1.1488 l + 0.807$ where t is the period in seconds and l is the length of the string in meters. the r2 value for this linear fit is 0.971 which means that the model accounts for 97.1% of the data. in addition, this mathematical model shows that the period of the pendulum is only dependent on the length of the string and not the mass of the bob or the angle of release because these other two factors are not included in the theoretical model.   
+
+
+
+error discussion
+
+	both random and systematic errors were present in the experiments. during lab 01, errors were largely attributed to random human error with measuring the angle of release, hand timing the period of the pendulum, and measuring the length of the string. the random errors with timing the period of the pendulum were reduced by instead timing three periods of the pendulum and using the time to calculate one period. during lab 03, random errors were attributed to measuring the length of the string by hand. random errors in the timing were reduced significantly in lab 03 by using a photogate instead of hand timing. systematic errors, however, were present in the photogate timing because it stopped the timer as soon as the mass was in front of it which was slightly before the center of mass passed the photogate. this could cause the measured periods for the pendulum to be slightly shorter than the actual periods. 
+
+	constraints in the experiments may limit the generalizability of the results. under ideal conditions, the string would be massless and would not stretch, air resistance would be negligible, and friction would be negligible. unfortunately, the experiments were done under unideal conditions which may affect the results. in addition, these conditions were not measured so it would be impossible to exactly replicate them. 
+
+2019 university of cincinnatilab 03 report - page 7

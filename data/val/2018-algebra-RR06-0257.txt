@@ -1,0 +1,15 @@
+discussion and conclusion:
+
+	over the past couple weeks, this lab has been answering the research question of “how does the acceleration of a system change when the applied force changes?”. the first lab concluded that there is a linear relationship between applied force and acceleration of a system. in this experiment, as the force of the air from the track was applied to the track, the acceleration of the cart increased when the hanging mass times the gravity increased. there was a direct positive linear relationship with the mathematical equation of the line of best fit on the graph being $y=0.0047 x + 0.0297$. this data makes sense compared to what was covered in lecture because force is equal to mass times acceleration, so as the mass of an applied force increases, the acceleration should also increase. the theoretical equation for this experiment is
+
+$a=\frac{m_{hang}}{m_{sys}} + \frac{f_f}{m_{sys}}$. this relates to the mathematical model developed by showing how acceleration is affected by mass x gravity over the total mass of the system and friction over the total mass of the system. the mathematical model takes into consideration the force of friction, but the exact force of friction is unknown so it is not shown in the model.
+
+	the second lab of this experiment showed the impact of friction on the data collected and compared it to the data collected by other groups. the data collected shows that our force of friction was higher compared to others. they still support our mathematical claim because it shows how the force of friction affects the data,
+
+ possible errors in this experiment include is 
+
+friction from the pulley system could affect the acceleration, but this would be a systematic error because it would have the same effect on the acceleration for each different weight tested.
+
+uneven track friction from the track could affect the acceleration, but this would be a systematic error because it would have the same effect on the acceleration for each different weight tested.
+
+air resistance could affect the acceleration, but this would be a systematic error because it would have the same effect on the acceleration for each different weight tested.

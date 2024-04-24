@@ -1,0 +1,13 @@
+discussion and conclusion:
+
+the purpose of lab 5 and 6 force and motion was to evaluate how the acceleration of a system is effected by a variety of independent variables, including the mass of m1, the mass of m2, and the slope of the beam. according to the mathematical models above the correlation between mass and acceleration have exponential decay.
+
+for lab 5 our mathematical model shows that . this assumes that for every mass, the value decays by -0.328. this can be interpreted as more weight is added, more friction is applied to the system resulting in a slower acceleration.
+
+the first picture(left) displayed below can help relate our results because we both did a similar experiment however they tilted their beam forward rather than backwards. this would show a growth in acceleration. the next picture(right) shows a team using magnets to increase or decrease the force of friction on the system. both of our results can relate due to fact that the magnets and the backwards slope can give a similar mathematical model to show a decrease in acceleration. 
+
+the possible errors during this experiment include starting the cart at the exact same location every time and the turning on the vacuum before the computer program started. these can both be categorized as random errors because they did not happen frequently throughout the experiment. we were able to eliminate these errors by catching them before they happened and making sure each test was exactly like the one before it to not put an error in our results. 
+
+there are a few constraints that could affect this experiment, these include the resources available and the lack of time to complete the experiment effectively. these can effect the results by not making sure the results are completely accurate and logical before documentation.
+
+the two mathematical models that are represented in both of our experiments help support that  because as our force (vacuum) stays constant and the mass increases then the acceleration will decrease. this is due to idea that mass and acceleration have a inverse relationship in regards to force.

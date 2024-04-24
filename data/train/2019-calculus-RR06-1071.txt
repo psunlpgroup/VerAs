@@ -1,0 +1,18 @@
+conclusion
+
+the purpose of this lab was to test how mass and force on a cart could have an effect and change the acceleration of the cart on a track. also we found out how individual variables of the lab effected the cart. 
+
+we found our mathematical models by using excel to plot the points and determining which function fit best. for the changes in mass, we determined that it was a power function that had a large change but after time it would have little to no change. we also determined that for the change in force and the change in friction, the graph that fit best was a linear graph, this was determined because it gave us a value of r that was closest to 1 which is considered perfect.
+
+
+
+this picture shows that as the track was tilted downwards, the acceleration increased because the force of gravity helped to pull the cart along the track at a faster pace. this helps to support our claim since it shows that an outside force does help to speed up the acceleration, it just happened to not be what we tested in friction.
+
+
+this shows that when the cart went up an incline. the acceleration slowed down but it did not have a huge change between the heights that the incline was raised to. this helps to support our claim of friction not having a huge effect because the numbers throughout friction all stayed relatively the same which also happened to this group even though they were testing another variable.
+
+there could have been many errors that occurred during our experiment. one error that comes to mind is how the acceleration was calculated. the acceleration could differ based on measuring tools and we found that sometimes the string would fall off and give a bad reading. another error that could occur would be the strength of the magnets we used in lab 06. this is since if they had different strengths, the friction would be greater and would cause a difference in the overall system.
+
+some constraints that we faced during this experiment is the number of times we were able to test it. if we tested more, our data would be more accurate. also another thing that would affect our data would be the errors that occurred during our lab because a simple error could have huge impact on the overall data.
+
+our mathematical models follow newton’s second law because they have the independent variable that we changed which had a direct relation to what we were testing for. for instance, as mass changes, and force is kept constant, the acceleration will decrease which is what occurred. also we determined that as the force is changed and mass is kept constant the acceleration increases which is what the law states if you set $f= m a$.

@@ -1,0 +1,11 @@
+discussion and conclusion
+
+	this lab was put in place to test what factor causes a pendulums period to change. 
+
+	all the labs allowed for us to test these different factors and check our theories. throughout this experiment we believed that the string length was going to be the only factor that changed the period, and with all these tests we believe we were correct. since we believed that only the length would affect the period, all of our claims were correct which means the period only changed when the length was the independent variable and the weight and angle were the controls. we can see in the graphs that the weight and angle look like they have a large difference but it’s actually in smaller scale than the length. 
+
+	our mathematical model is 0.9987, we solved this by look at graph 3.1 and found the r^2 value. we used this r^2 value from the length versus time plot because the length was the only factor that caused a substantial change in the period length. since both the angle and the weight did not change the period, we did not take these r^2 values into much consideration.
+
+	there were both random and systematic errors in all three of these labs. the random errors were in the measurements, these were because of the systematic errors which included the possibly not calibrated photogate, the human error in measuring the angle and string correctly, the possible miss measured weights, and the human reflex time of starting and stopping the stop watch. in order to reduce these errors, we had two people using the stop watches and then taking the average time. we had also let the pendulum swing for five rotations and then took the average. in the future, we could have possibly done more trials to have a more accurate average. 
+
+	the constraints involved with this experiment were some of the errors and the need for taking averages.

@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+the purpose of this lab is to develop mathematical models which describe the behavior of a real system as well as develop an understanding for each variable and numerical value included in the model. 
+
+the mathematical models for each of the experiments were determined by plotting the data collected on a graph and then finding the equation that gave the best fit for the graph trendline. these equations tell us that if you increase one of the variables that were tested, the acceleration of the system will increase as well. 
+
+
+
+
+
+
+
+the group we compared models with did find similar results as us. they have an extremely high hanging mass. also, their y-intercepts do not seem to move at the same rate as our models’ change throughout each tilt. the group that tested the friction of the air track had the numbers in the above picture for their mathematical models. they got similar hanging masses as us. their intercepts seem to increase with each change in friction but do not to the same extent that it changes for our model of the tilt. thus, the tilt of the track is more impactful that the level of friction. 
+
+one error that could have occurred was the amount of air coming out of the track and how it could have affected the friction between the car and the rail. to improve the data we collected, it is recommended to use masses that are of greater magnitude than the bobbers, that way the relationship is easier to see. we could have also taken a lot more data in each height of the tilt to see a better relationship. another error that occurred was our group used the wrong program for measuring the acceleration, so our numbers were much larger than they were supposed to be. we used the “rotation” program rather than the “newton’s law” program.
+
+a constraint in the experiment could have been the tools of measuring. instead of using the scale to measure the masses, we could have used a zero analytical balance which would have been more precise.
+
+our experimental model supports newton’s second law because the mass and acceleration have a positive correlation with the force applied.

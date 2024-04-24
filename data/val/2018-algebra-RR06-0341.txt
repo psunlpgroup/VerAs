@@ -1,0 +1,4 @@
+Conclusion: Our hypothesis was “the greater the hanging mass, the greater the acceleration of the cart”. Based on our date we gathered and calculated, I can conclude that is true. Referencing back to the first table, it can be seen that as the hanging mass increases, the acceleration also increase. Also, based on our graph there is almost a perfectly linear correlation between the hanging mass and acceleration.
+	There, of course, is error on our data and graph, but our error bars are so small they cannot be seen in our graph.
+
+	Comparing our results with other groups, their experimented C1 values were .0053, and .0054, which is still close to our value of .0051. Their C2 values were -.0022 and .0297. The first group had results very similar to ours, while the second group had a different C2 value than we obtained. But, overall their claim fits with ours because the slopes are almost the same which means the correlation between the mass and acceleration are close.

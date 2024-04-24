@@ -1,0 +1,44 @@
+conclusions:
+how does the acceleration of a system change when the mass hanging off of the track changes?
+
+to test this, we used the same system mass and then would remove bobbers from the cart and added them to the end and they hung off a pulley system. after we conducted our experiment the question’s conclusion became obvious. for the range of masses, we tested we got a change in acceleration of 3.0446 at a linear rate in a positive direction for the more mass we had hang. we were also able to estimate friction which would be 0.088 for our experiment. due to the error bars being extremely small and our r value being very high we concluded that our information is very precise, but off on the accuracy a little. this means that our data shows proper trends and trendlines but isn’t an exact model for the actual equation.
+
+how does the acceleration of the system change as the force of friction between the glider and the air track changes?
+
+to test this, we added magnets to the experiment and then proceeded to add different amounts of bobbers to the hanging side. we noticed that as we added more magnets to the cart facing the track the acceleration lowered. we concluded that this meant that as we added more friction to the cart that the acceleration then will get lower. this also makes sense intuitively because we are adding another for in the opposite direction therefore it should be harder for the system to move in the positive direction. due to the error bars beings so small and our r values being very high and, in some cases, exact we concluded that our information is precise and very close to being spot on with accuracy. this means that our data in some of the trials could be used as a decent model and all our data shows good trends and trendlines.
+our data for the linear model compared nicely to everyone else’s data because we all got similar numbers, but different forces of friction which based on the environment is okay. the air track wasn’t consistent with how it blew the air out throughout the track. also, the track could have collected particles in one area compared to another because cleaning the track prior to the experiment wasn’t in the procedure. the part i believed we lacked in was our power model. we had a lower r value for that and the trendline was not very nice on our graph. as well as comparing it to the other data our equation seemed very different in comparison.
+
+$y=29.837 x - 0.088$
+
+$y=1.7026 - 2.1598 x$
+their first equation compared very nice to ours because we shared the same degree of friction, but their equation was written in kg and not newtons like ours, so the coefficient is very different. their second equation is very wrong, however. the equation shouldn’t be a linear model it should be a power model, but our equation very off based on data, so its hard to tell what the numbers should be.
+
+another group’s trial one equation was 
+
+$y=2.9779 x - 0.0459$
+
+$y=\frac{0.3645}{x^{0.96}}$
+
+their first equation was slightly different to our first equation mainly in regard to friction which was about half of ours, but their acceleration increased at a slower rate which i wouldn’t have expected to happen considering the friction is lower, but friction is a constant not a compounding force. then their trial two equation was likely more accurate than ours because of our poor r value we were presented with.
+
+the theoretical equation for our data is $a =\frac{f}{m_{sys}}$
+our actual equation from our data is $a = c1  w + c2$
+
+c1 represents the mass of the system and w represents the force while c2 represents a constant force that we can assume is friction/external constants.
+
+our model does support the theoretical model because all the equations were different with their coefficient value which is expected because not all the masses were the same.
+the enhanced theoretical equation for our data is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$
+
+our mathematical model supports this because we have a coefficient value (1/msys being multiplied by the f or in our equation x) and a fext / msys (also known as c2) which is our external forces/friction constant.
+
+the information is accurate based on our r value and comparing it to other equations. 
+
+the fext could also be considered systematic error because it is a constant value that offsets our graph. 
+
+the primary impact a heavy string would make is that it would increase the msys value. this would mean that the cart would have a lesser slope in the $y=m x+b$ form of our mathematical model and a bigger msys in the theoretical model means the same thing.
+our fext could be considered our systematic error projected into the equation because the theoretical model doesn’t include a + c2 value. also, we didn’t include air resistance, but at that size of cart it is likely negligible. 
+other systematic errors include the track not blowing out of one hole properly which would decrease our slope and the timing of the computer which could go either positively or negatively towards our equation.
+our random errors include not letting the track “warm up” all the way which would have decreased our slope of our linear model. another random error is swaying in the bobber at the bottom which could have decreased or increased our linear model’s slope. another random error is that the bobbers weren’t all the same mass, but we assumed that they were.
+our first constraint was that we only tested our car from 2.5m to 0.5m or in a range of 2 meters. therefore, our equations only apply for that range.
+another constraint we had was that we were limited in the weights we could test, so our equation only reflects the range of hanging masses we were able to test.
+our final constraint was that we only tested a limited number of masses of the system, so our equation only applies to that value that was tested.

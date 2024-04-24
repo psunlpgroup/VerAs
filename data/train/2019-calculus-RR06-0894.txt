@@ -1,0 +1,16 @@
+discussion and conclusion
+
+
+
+	the purpose of labs 05 and 06 was to design an experiment and collect data using different independent variables to analyze relationships between the variables. lab 05 focused on developing mathematical models to describe the behavior of a system. lab 06 focused on developing an understanding of what each numerical value indicates in the mathematical models created in lab 05. 
+
+	lab 05 proved that there was a clear correlation between applied force and acceleration. the equation obtained from lab 05 (table and figure 1) was $y=2.868 x - 0.0146$. substituting for the variables, this translates to acceleration (m/s^2) is 2.868 * applied(n) - .0146. the last constant represents the force caused by unknown divided by mass. the independent variable, the applied force of the hanging weight, has a positive correlation to acceleration. in lab 06, more equations were calculated with purposeful varying force of unknowns. $y = 2.94 x - 0.0006$ was the equation for the least friction, $y = 2.4069 x - 0.0024$ was the equation for a medium amount of friction, and $y = 2.0997 x - 0.0092$ was the equation for the most friction. the value of the force unknown increased in all three, as expected.
+
+
+	other groups have consistent data to ours. as the frictional force / force caused by tilt increased, so did the constant of the unknown. with all these groups data combined, the mathematical model of force of unknown / mass can be replicated in the lab setting.
+
+	most factors were accounted for in this lab. the uncertainties were determined by the software, and different causes of the unknown force were explored. the friction and tilt of track were researched independently; however, they were tested assuming that the other was negligible. to eliminate all error, both unknown forces would need to be known. overall, the theoretical mathematical models were translated accurately to the experimental models. a couple other factors that were not accounted for was air resistance and the weight of the string.
+
+	although the data was accurate and repeatable, and clear conclusions can be made, this experiment has some constraints. one of the constraints was the imperfect track system. although the air track minimizes, friction, it is not perfect. another cause for constraint was the hardware used to collect data. it is assumed that the hardware provides accurate data, and there is no way to confirm this.
+
+	as discussed above, there is a positive correlation between the applied force caused by the mass of hanging bobs and acceleration. newtons law says that . this means that since the mass of the system is constant, and the force is increased, the acceleration must increase. this can be confirmed with the data collected in table 1 and presented in figure 1.

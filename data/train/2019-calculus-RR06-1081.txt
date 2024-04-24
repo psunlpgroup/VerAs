@@ -1,0 +1,14 @@
+discussion & conclusion:
+
+the experiment with the hanging weight as the independent variable (lab 5, experiment 1) addresses the research question because the weight on the string changes and it affects the acceleration of the system. the conclusion to draw is that more weight causes more acceleration (refer to graphs and data).
+
+the theoretical equation for the acceleration of a system by a single force is $y=2.6202 x - 0.0056$ (lab 5, experiment 1 graph) and the experimental mathematical model supports this.
+
+the theoretical equation for the acceleration of a system by multiple forces is 
+$y=0.0825 x^{-1.423}$ (lab 5, experiment 2 graph) and the experimental mathematical model supports this.
+
+a heavy string with a heavy hanging weight greatly increases the acceleration of the cart. more hanging weight off the cart causes greater pull, thus increasing acceleration.
+
+random errors were made while testing through inconsistent testing because of having to go fast. most random error would be a result of human error and inconsistency. error could be reduced with the use of more equipment.
+
+constraints of the experiment included not having a 100% frictionless track (although close), not air-vacuum, and inconsistency in testing. these can affect the data by making it more inaccurate.

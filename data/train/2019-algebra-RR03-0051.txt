@@ -1,0 +1,38 @@
+discussion
+the purpose of this lab was to tell which factor(s) affect the time it takes for a pendulum to swing back and forth to its original position. pendulums have been studied for a long time, dating back to galileo and his experiments. today, we plan to test which factors affect the period of a pendulum.
+
+in this lab we conducted three experiments. the first experiment tested length of the pendulum vs time, then the angle of release of the pendulum vs time, and the weight of the pendulum vs time. so for our first trial we varied the length and recorded the time it took to swing back and forth. we kept the angle, 30˚, and the length from the top of the pendulum to the center of mass at 20.5in. we decreased the weight in each of the 10 trials we did. then we investigated the angle of release for the pendulum vs time. we kept the weight the same at 248.5g, and still the same length as the first experiment. we then tried different angles for the release of the  pendulum and recorded the time it took to swing back and forth once. then we recorded the results. following this, we did our last experiment,  weight vs time, and varied the time and recorded the time for the pendulum to return to it’s starting position. in all of these experiments the dependent variable was time, and the independent variables changed, which they were the length, weight, and angle of the pendulum. when one was changed, the others variables remained constant. in the first of two batches of experiments, we first used a hand timer. then the last batch of experiments were recorded with a device that counts how many hundredths of seconds pass. 
+
+we believe that the weight of the pendulum would affect how long it would take to swing back and forth. 
+
+
+
+
+
+below are the pictures from the first trial we did (times are recorded by hand). we graphed the average point after ten trials for each independent variable.
+
+
+
+below are the graphs when the  was used to record the time. each point was an average of ten attempts is 
+
+
+
+so, what factors or factor affects the period and time of a pendulum? from our data, we can conclude that the length of the rope affects the period of it. this is because if we draw in a best fit line, it fits most of the values, unlike the weight vs time which shows no correlation and the angle vs time graph does not show much correlation due to the angle at 20˚. 
+
+	we tested three relationships. in the first relationship, weight vs time, there were not any correlations just by visually looking at the graph. the second relationship, angle vs time, had more of a correlation, but it was very weak with a r^2 of 0.32. the last relationship, length of the pendulum vs time, had a very strong correlation. the closer to 1 the r^2 value is, the more it mean that it correlates, whereas a value of 0 means there is no correlation. this means that a correlation of 0.98 is very close to being correlated. 
+
+	the constraints in this experiment are the location of experiment, and the angle of release in a way was a constraint. the first constraint is the location of the experiment. if this had been on a different planet with a different gravitational force, it might be harder to distinguish if the angle or length affects the period time of a pendulum. for example, a planet with a weaker gravitational force might be hard to test the angle, meaning there could be more correlation. additionally, the angle of release was a constraint because 
+
+	in our first batch of trials, we used a hand timer. there was a lot of random error as we may stop it for the predicted stopped heights, mis click the watches, too early or late, and many other factors. from this, we were able to at least remove one of the three experiments, which was weight vs time. in the graph, we saw it showed no correlation. additionally, we had a range of uncertainty of +/- 0.4. 
+
+	in the second batch of testing we did, we tested angle vs time and length vs time.  the range of uncertainty cannot be seen as it was very small, with a range of +/-0.001.
+
+	there was also potential systematic error in this experiment. if the table was not level, it could have impacted our angle from which the pendulum swung from. this could reduce the length of it when it went fully back as the string would be shortened just a little bit. 
+
+	the theoretical equation we found was is 
+
+
+
+	where t (s) is time, l, length of pendulum, and g, the force due to gravity. this equation supports the thesis that the length of the pendulum affects the time of a pendulum to swing back and forth. additionally, this experiment proves that this equation is true. 
+
+	so, what affects the period of a pendulum? we believed that it was weight. but, thesis was proven wrong. length, not weight, affects the period of a pendulum. through analzing the graphs, and the equation, we were able to prove that the time for a period of a pendulum is affected by the length of the pendulum.

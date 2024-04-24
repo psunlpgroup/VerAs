@@ -1,0 +1,18 @@
+discussion and conclusion 
+
+     the purpose of this experiment was to determine how the acceleration of a system changes when the applied force changes. 
+
+     the evidence shows that as the applied force, which is the hanging mass times the force of gravity (9.8 m/s2), increases, the acceleration of the system increases. the error bars on the graph cannot be seen. the uncertainty in the x-direction (applied force) was 0.05 grams. this was determined to be the scale error. the uncertainty in the y-direction (acceleration) was different for each trial. this was determined from the error in the acceleration stimulator. the error bars were so small that they did not have much of an effect on how the data was interpreted. the equivalency criterion (2+/- the standard deviation) would also not have much of an effect on how the data was interpreted since it is such a small value. 
+
+     the findings of two other groups were also considered. the first group had an experimental model of $y=5.1181 x - 0.0092$ a c1 value of 0.1954 kg, and a fext value of 0.001837 n. “the blue team” group had an experimental model of $y=5.1 x - 0.0063$ a c1 value of 5.4 kg, and a fext value of 0.0012 n. 
+
+     there were discrepancies between our data and both group’s data. our fext value was negative, and the other two groups was positive. however, the magnitude of this value was fairly consistent for each value. the direction of this magnitude is different because of the difference in sign. the c1 value between our data and the second group’s data was about the same. it only different by about 0.1 kg. the c1 value for group 1’s varied significantly in magnitude. the experimental model for our group’s data and the other group’s data were very similar. 
+
+     the mathematical relationship between force and acceleration is $f=m a$, so that $a=\frac{f}{m_{sys}}$. the experimental model for the graph is $y=c1 x + c2$. our experimental model is $y=5.2 x-0.0658$. c1 is equal to  . below is the enhanced theoretical equation. 
+our value for c1 is 5.301 kg. this value is close to the experimental value obtained, which is 5.2 kg. our fext value was determined to be -0.01265 n. curve-fitting showed that our model is linear. this means that as the system’s mass increases, the acceleration increases. 
+
+    random errors include incorrect usage of the scale. this could have impacted the c1 value because the overall mass of the system could have been incorrectly measured. this error could be reduced by double-checking measurement values. systematic errors include the scale error and the error in the acceleration stimulator. 
+
+     constraints of this experiment include the masses that were observed. these were very small, and the difference between one trial’s mass to the next trial’s mass was not that much of a difference. this means that the results may not be able to be generalized to much greater masses. 
+
+

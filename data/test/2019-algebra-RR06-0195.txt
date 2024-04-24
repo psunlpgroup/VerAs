@@ -1,0 +1,15 @@
+discussion and conclusion
+
+the purpose of lab 05 was to find how the acceleration of the system is impacted by changes in the hanging mass and the total mass of the system. the purpose of lab 06 was finding how the acceleration was impacted when the slope of the track was changed, and the masses were held constant
+
+the three experiments led to the resulting mathematical models due to the relationships found within the experiments that are supported by newton’s law which states mass and force are components of acceleration meaning they have a relationship tied to it. 
+
+the other groups data in lab 06 supported our claim that by increasing the incline of the track results in a change of acceleration. in their data the c1 is constant throughout the three experiments then the c2 changing similar to our experiment, however, their c2 incline wasn’t as large as results seen in our group which could represent possible calculation errors and actual change of incline between tests
+
+
+
+possible errors include miscalculation, uncalibrated scale and improper recording of data in system used to record acceleration of the total system. all of these above could have impacted the results used to determine the change in acceleration. reduction of possible errors is using accurate measurement tools and multiple sources checking calculations within the group not just one person.
+
+constraints that limit generalizability are the bobbers used as mass and the track used plus the system itself. the scale used can also limit due to the accuracy varying within the measuring tools used by the class.
+
+both mathematical models are consistent with newton’s second law that is $f=m a$ because it shows that there is a relationship between the acceleration of the system and the mass and force used to move it. mass of the system can affect how fast the system slides along the track which is consistent with newton’s second law.

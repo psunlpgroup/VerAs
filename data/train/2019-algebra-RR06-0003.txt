@@ -1,0 +1,16 @@
+discussion and conclusion
+
+	
+hanging mass vs acceleration
+
+	if we change the hanging mass of the system, then the acceleration will change.  according to the appropriate graph, we found a positive correlation between hanging mass and acceleration.  this graph has its error bars but are not visible.  this test agrees with our hypothesis because acceleration did change.
+
+	mass of system vs acceleration
+
+	if we change the mass of the system, then the acceleration will change.  according to the appropriate graph, we found a negative correlation between system mass and acceleration. this graph has its error bars but are not visible.  this test agrees with our hypothesis because acceleration did change.
+
+	position of weight vs acceleration
+
+	if we change the position of weight on the system, then the acceleration will change.  according to the appropriate graph, we found that position of weight did positively change acceleration. this graph has its error bars but are not visible.  this test agrees with our hypothesis because acceleration did change.
+
+	systematic errors were most likely not present during our experiment because our tools seemed to be calibrated properly.  randoms errors could have been present because during the procedure the measuring tools relied on coordination which could have resulted in random error.  this could have been reduced though better equipment.  this could have affected our data by producing data points that through of our equation.  our group was constrained using our measuring tools because some of them seemed very dated.  this could affect the generalizability of the results because this could have caused systematic error which.

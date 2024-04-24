@@ -1,0 +1,17 @@
+conclusion:
+	What impacts the time it takes a pendulum to swing one period?
+	There is no correlation between weight on the pendulum and the time it takes for the pendulum to swing one time. 
+	There is a correlation between the length of the string and the time it takes the pendulum to complete one full swing.
+There is no correlation between the angle of release and the time it takes the pendulum to complete one full swing.
+Occurs due to flaws with equipment and flaws with the execution of the experiment
+ Having a separate person time and drop the pendulum
+Measuring the length of the string from the top to the top of the hook for the weight
+ Reaction times when timing the period of the pendulum
+ Discrepancies with times from different people timing 
+Angle of release not being exact because of movement
+Having the same person that releases the pendulum time the period
+ Taking a video of the pendulum and using the timing from the video
+ Repeating the experiment more times would reduce the effects of error
+ More accurate equipment would also reduce error
+ The standard deviation tells how serious and what type of errors occurred most frequently.
+ This also allows us to add error bars to our graphs to account for the errors that did occur. 

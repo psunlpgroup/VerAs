@@ -1,0 +1,14 @@
+conclusion:
+ Create mathematical models (compared to the theoretical models) which show how the system behaves in a certain setting. Show an understanding for what each numerical value stands for and why it differs from the theoretical values.
+$A = (3.0518  F) + 0.0057$
+$A = (0.0747 m^{-1.171}$
+The first equation was determined by using the data from Data Table 1 and finding the line of best fit for the equation. The acceleration of the system is found by using the Force applied by the slope plus the y intercept. The y-intercept is found by dividing the unknown force by a resting mass, therefore giving us the linear equation of the line.
+The second equation was made using data table 2 and plotting the equation of a line with the line of best fit. After further evaluation, it was found to be an inverse relationship because using the $F=m a$ equation, $a =\frac{f}{m}$. Compared to our model, we found a similar relationship with a force constant (.0747) times the mass to the exponent of -1.171 (showing that mass will be in the denominator of the fraction.)
+When performing the tasks associated with Lab 06, we had the goal of seeing how outside factors could affect the system and impact the $F=m a$ equation. After performing our procedure (in experiments 3, 4, and 5), we showed how increasing the amount of friction in a system will lead to an overall decrease in the system’s acceleration.
+
+After observing the findings of Group 6 (who performed the same experiment as us), we found that they came to same conclusion as us that the slope will decrease as more friction is applied.
+
+Although Group 1 tested a different variable than us (height of incline), we were still able to see how an outside factor may affect the “ideal” system. With less of an incline for the mass to work against, the acceleration became larger.
+These experiments came to show us how the idea of a “non-perfect” system will lead to fluctuations in the numerical values of an equation even though the principle maybe right.
+ Some random errors have been not having the air track vacuum on the entire time for some trials, therefore letting an increase in friction before the trial was over. If we were not consistent with the order of bobbers that we put on the hanging mass or vice versa, it could lead to an inconsistent mass.
+Some systematic errors could be having the distance the track ran off by a fraction of a measurement, changing the acceleration. If we had the magnets placed in a way where it did not apply the max (or applied to much friction) it would lead to skewed results.

@@ -1,0 +1,17 @@
+discussion and conclusion
+
+
+
+	as stated previously, the goal for this lab was to determine what factors affect the period of small swings. 
+
+	the length of the string appears to play an obvious role for the period. as length increased, the period increased thus showing there is a positive correlation confirming the hypothesis. even with error bars taken into account, there still appears to be a correlation and the graph appears to be a power function. based on our data, this is only true for lengths of 26 cm up to 188.1 cm. also, we kept the angle under 20 degrees during all of these tests. thus, it is possible to have a different period with lengths and angles outside of these constraints. 
+
+	the mass does not appear to affect the period. as shown in the graph, there is no obvious correlation between mass and period and when the error bars are taken into account, the mass appears to have no affect on the overall period. thus, the hypothesis is incorrect. based on the data, this is only true for angles less than 20 degrees and mass between 109.7g and 190.1g.
+
+	the angle also does not appear to affect the period. as shown in the graph, there is no obvious correlation between angle and period and when the error bars are taken into account, the angle appears to have no affect on the overall period. thus, the hypothesis is incorrect. based on the data, this is only true for angles that are 30 degrees or less.
+
+the theoretical equation is $y=0.1020604 x$ based off of our data. the agreed upon equation for period of a pendulum is . when solving the equation with earth’s gravity set to 9.81 m/s2, our equation was almost perfect, our exponent was just 0.0054 away from the actual value of 0.2006.
+
+errors
+
+there were random error throughout the experiment. for the mass and angle measurements, one of the most common errors was human error since we were using stop watches. however, this was later fixed by using the photogate in order to minimize human error. air resistance was also a factor that we assumed to be negligible, however there was still some resistance. also there was some possible human error by giving the pendulum a little bit of and initial velocity instead of just dropping the weights. however, these were accounted for in our standard deviations.

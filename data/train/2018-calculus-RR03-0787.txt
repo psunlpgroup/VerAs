@@ -1,0 +1,13 @@
+conclusion:
+From the data it is apparent that the length of string is the only real variable that alters the period of a pendulum.
+The next step was to analyze the data collected. Error sources noted were human reaction time, angle of release, and masses not being exact mass listed (all random) and length of string bring stretched through use (systematic).
+These errors could be reduced through using photogates to have more accurate timing, using the same number of significant figures, and having more trials for each experiment. 
+Error bars were then added to each of the graphs above.
+It was figured out that the smaller the standard deviation is, the more accurate the data is, and the closer to the actual value we are. Additionally, a large standard deviation indicates random error, however a standard deviation cannot tell us anything about systematic error. A systematic error would move data/standard deviation left or right but would not change the spread of data. The error bars represent 2 standard deviation. Standard deviation was found by doing ten trials of finding the period and not altering any of the variables.
+
+The mass was 90g, the length was 60.7 cm, and the angle of release is 25 degrees. The time was measured using stopwatches.
+The standard deviation is 0.159 s. 
+The theoretical equation for period of a pendulum is is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+The experimental equation for period of a pendulum is $T=19.866 x^{0.5193}$
+When random numbers into both equations, it was found that we have an error of 2.1%.
+The research question was is  what affects the period of a pendulum with small swings? The only variable that affects the period of a pendulum is the length of a string. The first experiment helped identify what variables affect the period of a pendulum. The second experiment helped identify the error in the lab data from Lab 01. The third experiment helped determine a precise formula to calculate the period of a pendulum based off of the length of the pendulum. 

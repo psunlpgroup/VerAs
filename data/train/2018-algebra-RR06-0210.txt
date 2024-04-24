@@ -1,0 +1,26 @@
+discussion and conclusion
+
+the purpose of this lab was to establish a relationship between acceleration and applied force, and to determine the nature of that relationship. this experiment addresses this by resulting in an experimental equation that describes the relationship between acceleration and applied force. the mathematical model of this relationship is is 
+
+$a = \frac{f_{hang}}{m_{sys}} + \frac{f_{frict}}{m_{sys}}$
+
+graph 1 shows the experimental equation that fit the data collected during this experiment is 
+
+$y = 6.2851 x - 0.073$
+
+this makes sense because applied force and acceleration have a linear relationship, and $a = \frac{f_{app}}{m}$ , so the slope of the line of best fit should be approximately . the mass of the system was 0.1739 kg, and  since these numbers have a difference of less than 1, this equation was considered to be accurate. 
+
+other groups also had similar results. taylor riebel’s lab group got a slope of ~5, and their value for  was equal to 5.35 (figure 1). anita ney’s lab group got a slope of 4.2, and their value for  was equal to 5.3 (figure 2). these differences in data are largely due to experimental errors and not errors in calculations.
+
+
+	the other groups’ findings support our own findings regarding the relationship between the acceleration of an object and the applied force on said object. each group’s slope was off from their actual  value by some small amount that can be accounted for during error analysis. 
+
+	the experimental model and the theoretical model are quite similar, especially when comparing the slope of the experimental model with the  value that is in the theoretical model. there are different factors that can cause the experimental slope to be off in some way or another, including friction. friction is acting against the applied force, thus decreasing the acceleration in the positive direction. this would explain a shift in the slope value that is consistent across all trials.
+
+	the mass of the system shows up in the experimental model as the inverse of the slope. the value is the slope because acceleration equals the applied force divided by the mass, and since the applied force is the x variable, that makes  the slope. this means any sort of change in mass can affect the acceleration. for instance, if the string that attached the bobbers to the cart has mass, the value of  would decrease as the mass increases. however, since the string is a constant part of the system, the slope should be constant if the mass stays the same.
+
+	there are multiple sources of error that could have caused the results to stray from the theoretical model. some sources of random error may be not releasing the cart from exactly the same place on the track for each trial or the mass of the system not being consistent across all trials for various reasons (bobber fell off, switched carts, etc.). in table 1.2 and graph 1, the third data point is obviously not as formed to the line of best fit as the others. this trial was most likely affected by the distance that it had to travel, or a single bobber being replaced by a new one of a slightly different mass.
+
+however, the systematic sources of error are the ones that can significantly sway the results. these include not accounting for frictional forces (this was not done for this experiment), reading an incorrect mass of system which would make the “theoretical” value of  incorrect, or having the acceleration measured in an incorrect way by the computer program that was used. 
+
+	one constraint that may limit the generalizability of this experiment is the fact that friction was not accounted for. the means the net force on the system, in reality, should be smaller than it what was calculated. however, when comparing between the groups of this specific lab such as in figure 1 and figure 2, the results are fairly generalized.

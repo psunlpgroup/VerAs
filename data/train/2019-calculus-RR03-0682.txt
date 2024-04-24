@@ -1,0 +1,39 @@
+conclusions and discussions:
+
+the question that was the focus of our research was “what impacts the period of a pendulum?” our first hypothesis, where we claimed was that the length of a pendulums rope will influence the time it takes to complete one period, resulted in being true. our prediction was that the longer the string got, the longer it took to complete one swing. this turned out to be true and can be seen in the data and by the positive correlation in the graph. the reason is because the longer string allows for a higher amplitude which creates a longer period. we used the constants mentioned above for this experiment, so the results were as reliable as possible.
+
+the second hypothesis we made was “the angle of release will influence the time it takes to complete one period”, turned out to be false. our prediction was that the wider the angle of release, the longer it took to complete one swing.the data we collected did not demonstrate a strong enough correlation to detect that the weight’s mass impacts the period as the length does. the constants used in this experiment are previously listed. our third hypothesis we made was “the mass of the weight will influence the time it takes to complete one period”,and it turned out to be wrong. we predicted that increasing the weight would lead to an increase in time because it might help the amplitude be larger, but the correlation with the period was not strong enough to claim it had an influence like the length. just like in experiment two, changing the mass had no effect on the time it took to complete one swing. the constants we used can be found in the previous section.
+
+
+
+we used the model $t=0.4062 l^{0.4456}$  to determine the equation to find the model of the pendulum. the curve of the trendline on our graph from lab three accurately displays this model. this model can be used to predict what the period of the pendulum will be at a specific length. since the equation to find the period of a pendulum is two times pi times the square root of length over gravity acceleration. this equation only has the length of the string as an influence for the period, not the mass or angle. therefore, these results would coincide with our findings during the experiment.
+
+	the most probable cause of error in our data was most likely a miscalculation on the measurements of time using the stopwatch, which was done during the first and second lab. this would be a random error since it was because of human actions that won’t be the same every time. the positive correlation in this graph indicated that the longer the string of the pendulum was, the longer it took for the pendulum to complete one swing. compared to the other graphs, this graph is the only one that has any correlation. the other graphs show constant time over the changing independent variable. i don’t believe there were any systematic errors with this lab, since our tools were all correct and no values were too erroneous. this lab did not mention too many constraints in the majority of work included with the experiments. i believe the time limit of two hours would count as a constraint. for the weight, you could not use an excessively light weight or an excessively heavy weight that would not be able to take calculations for. your angle of release had to be large and significant to be able to measure the period correctly. you would not be able to use an excessively short string in the experiment, or an excessively long string where the weight of the string would have to be factored in. these constraints definitely mean that the data cannot be generalized in the radically small or large values. this signifies that the extremes of this experiment would definitely not be able to be generalized with the rest of this majority of the data for length, mass, and angle.
+
+
+
+
+
+lab 1 experiment 1 length v time
+
+
+
+lab 1 experiment 2 angle v time
+
+
+
+
+
+lab 1 experiment 3 mass v time
+
+
+
+
+
+lab 2 length v time
+
+
+
+
+
+lab 3 length v time

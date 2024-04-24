@@ -1,0 +1,28 @@
+discussion & conclusion:
+
+the purpose of this experiment was to determine how the acceleration of a system changes when the applied force changes. the process of how this experiment demonstrates that is through a system with different forces applied on it to see their effect on acceleration. the system included a cart, a string, & all 8 bobbers on an air track. the system weighed 0.1876 kg with an uncertainty of 0.00005 kg. eight trials were completed; the first trial had 1 bobber at the end of the string & by the 8th trial, all the bobbers were at the end of the string; each trial having a different applied force. the air track was then turned on and the newton’s law graphing tool was set up on the computer to measure acceleration. the system was released, traveled the 900 cm, and was caught at the end of the track. for each trial, a graph was generated with the newton’s law graphing tool with uncertainties; this data was compiled & and graphed as one, as shown in figure 1. on our graph, there is clearly positive & constant slope which proves that the acceleration is directly proportional to the applied force, just like our prediction says. it’s a linear relationship between applied force and acceleration. therefore, our mathematical model is is  
+
+$f= m a$
+
+when you solve for acceleration it is
+
+$a= \frac{m_{hang} g}{m_{sys}} + \frac{m_{friction} g}{m_{sys}}$
+
+our experiment results in this equation is 
+
+$a= 4.5 m_{hang} g + 0.028$
+
+the constant in our experiment should be equal to 1/mass of system, which is a value of 0.0053. our experimental value is a little lower which could be due to the uncertainty values.
+
+
+
+
+these groups’ results support ours because their mathematical model is the same as ours ($y=c1 x c2$; x is mass hanging*g).
+
+
+
+
+
+
+
+to compare the experimental and theoretical models, the constant from our experimental data was slightly lower than that of the theoretical value. (we got 0.0045 as our constant when we should’ve gotten 0.00533 which is obtaining using 1/187.6). this could be due to the air track’s uncertainty and/or the force of friction. the mass of the system in the experimental model is shown by the constant in front of the ‘x’; this constant is equal to 1/mass of system. if the string was non-massless and had an effect on acceleration, there would still be uniform acceleration because the mass of the system is still constant. a systematic error that could’ve occurred would be an incorrect initial reading of the mass of the system. to prevent this in the future, the mass should be properly measured, or another scale should be used. a constraint in this experiment that may limit the generalizability of our results could be wind resistance.

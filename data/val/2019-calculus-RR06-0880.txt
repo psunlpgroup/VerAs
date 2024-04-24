@@ -1,0 +1,25 @@
+discussion and conclusion.
+
+restate for the reader the purpose of the lab; that is, to develop mathematical models which describe the behavior of a real system (lab 05) as well as to develop an understanding for each variable and numerical value included in the model (lab 06).  
+
+the purpose of the lab 05 was to create a mathematical model to describe the motion of a system. lab 06 was about determine what affects the model found in lab 05. the first experiment in lab 05, the mass of the system was held constant and the force was varied by moving weights from the cart onto the string. this data was graphed (figure 1) and led to the model
+
+   
+
+the constant (2.83 in this case) is , this makes sense because the units are . the intercept is the acceleration if there were no force on the string, therefore it can’t represent any force that resists motion but is instead affected by the slope of the track as determined in lab 06.  in lab 06, the track was tilted forward in various increments, the further the rack was tilted forward the larger the y-intercept became (see figures 3, 4, and 5). in the second experiment in lab 05, the force was held constant and the mass of the system was changed by adding mass to the cart. the acceleration was found and graphed with the mass of the system (figure 2), this led to the model,
+
+ . 
+
+if newton’s second law was algebraically manipulated, it could be written as   this would make the constant equal to the force, which make sense because the force was held constant. 
+
+
+
+
+	group 1 tested the effect of friction on the mathematical model. they concluded that the intercept is not affected by friction but the scaler the force is multiplied by (c2) is affected by friction. however, while c2 did change when friction was added, it didn’t change very much with how much friction was added, but the intercept (c3) did change a lot every time. this does bring into question our conclusions because we concluded that only the slope of the track can change the c3. 
+
+
+group 6 performed the same experiment we did, while their c2 value stayed consistent, their c3 value did not increase consistently, and they were all negative while ours were positive. this brings our data into question because our c3 values were positive and increase rather consistently. 
+
+	the presence of friction, or rotational inertia of the pulley caused our c2 value to be artificially  low, this is a systematic error, this could be reduced by using a lighter pulley. 
+
+	these results only apply to systems with relatively low mass that are on earth. the results are consistent with newton’s laws, the models found in each experiment can be manipulated into $f=ma$. for experiment one in lab 05 the model was close to  and in experiment 2 the model was close to .

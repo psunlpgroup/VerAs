@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the purpose of the lab is to develop mathematical models which describe behavior of a real system as well as develop an understanding for each variable included in the model.
+
+our lab 05 data 1 and lab 06 data 1, 2, and 3 showed us that the acceleration increased proportionally with the hanging mass which gave us a linear mathematic model for lab 05 graph 2 and lab 06 graph 1, 2, and 3. the data we collected from lab 05 data 1 showed that the acceleration decreased at a decreasing rate as the mass of the cart increased. this gave us a decreasing power mathematical model as shown in lab 05 graph 1. 
+
+                                                    									 the group that did the same test as us in lab 06 found the same results as us. they said that as the height of the tilt increased, the acceleration decreased. the group that performed the other experiment dealing with friction found that as the friction of the system increased, the retardation value increased, and the acceleration decreased. the other groups’ results contribute to my understanding of the numerical values by showing that adding factors to the system that oppose or resist the motion of the cart, the slope of the graphs will decrease.
+
+one error that might have been present is a systematic error. when collecting our data, we let the cart go right as we turned on the air track instead of letting the air track reach its maximum power, then letting go of the cart. this might have caused a shift downwards in out data compared to what it should have been meaning our accelerations might be slightly lower than predicted.
+
+one constraint of the experiment is the objects used as masses (ex. the cart and the bobs used as the hanging mass). our data and equations are solely based on the masses used in the lab since other objects have different aerodynamics which could affect the acceleration. another constraint for the experiment we conducted was the lack of friction. although data with friction might look like the data collected in the lab, they won’t be the same meaning we can’t use the data collected to generalize about a setup with friction.
+
+our two experimental models are consistent with newton’s second law because when we changed the mass of the system (the cart) or the force (the hanging mass), the acceleration also changed. as shown in lab 05 graph 2 and lab 06, as the force was increased, the acceleration had to increase as well to compensate for the system mass staying the same. in lab 05 graph 1, the system mass was increased, which lead to the acceleration decreasing because the force was kept the same.

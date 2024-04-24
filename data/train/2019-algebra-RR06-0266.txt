@@ -1,0 +1,9 @@
+discussion:
+
+me and my group were confident with our result because our tested hypothesis and what we predicted is shown in the graphs above that the r2 number is closer to one which is accurate. also, group one has closer value to ours (group four).
+
+
+
+                                             conclusion is  
+
+	we are confident with our results as observed in the data and graphs because our r2 is 0.9995-0.9999 which makes our results accurate. also, factors that played a key role in our data is  mass of the car, hanging mass, length of string, friction on the table and friction on the pulley, in the first graph no friction, second graph half friction and third graph full friction. due to newton law $f=ma$ as we increased the mass on the cart friction has increased, and acceleration has decreased.

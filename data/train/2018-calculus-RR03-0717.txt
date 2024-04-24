@@ -1,0 +1,9 @@
+discussion
+
+in determining the research question, “what impacts the period for small swings”, we conducted three different experiments. we discovered that the angle of release point and the mass of the pendulum does not have an effect on the time of oscillation, or the time it takes the pendulum to complete one full swing. in lab one, our data had many random and systematic errors due to the imprecise lab equipment used. for example, random errors occurred due to the use of the stopwatch and protractor, and systematic errors surfaced as a result of the tape measure being a little worn down. in lab two, we observed standard deviation and uncertainty of our past data. both labs one and two helped us create a mathematical model and in the third lab, using better lab equipment, we acquired more accurate measurements. we were able to find that a pendulum swings with a fitted trend of power curve equation due to the photogate. the theoretical model for a period of a pendulum is 2(pi)(l/g)^1/2. based off of our r^2 value (0.9996) we can conclude that out answers are very accurate, 99.96%. one factor that did not play a role in the period of the pendulum, is the gravitational acceleration. this only allows us to create a theoretical model, because if we factored in acceleration, the data would be different. 
+
+
+
+conclusion
+
+in conclusion of our three different lab experiments, we determined that the length of the string of a pendulum has an impact on its oscillation time. it was clear that the mass and the angle of release did not affect the period of the pendulum for small swings. our initial hypotheses and predictions for mass and angle of release were proven wrong throughout the three labs. however, the hypothesis for the length of the string holds true, and we have the data to support it.

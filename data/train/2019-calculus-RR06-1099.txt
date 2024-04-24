@@ -1,0 +1,22 @@
+discussions and conclusion.
+
+a. the experiment conducted in lab five was to understand what variables affect the acceleration of the system and how they affect it. in lab five we found that the force of gravity was directly corelated to the acceleration of the system while the mass of the cart was inversely related to the acceleration of the system. with this data collected we could make a close mathematical model for the acceleration of a system. in lab six we conducted experiments with magnets to increase the friction of the system to see how friction would change the acceleration of the system. changing the friction in lab six showed up in our mathematical model by changing the y-intercept. we did not notice a substantial change in the slopes of the graphs.
+
+b. the three experiments conducted in labs five and six helped our group understand the variables that affect the acceleration of the system. the first experiment conducted proved that as the force of gravity increases so does the acceleration of the system as seen from the positive slope in figure 1. the positive slope shows a direct correlation between the force of gravity and the acceleration of the system. the second experiment proved that as the mass of the cart increases, the acceleration of the system decreases as seen from the negative slope in figure 2. the negative slope shows an inverse relationship between the two variables. the third experiment proved that as friction in the system increases, the acceleration of the system decreases as seen from the decreases in y-intercepts seen int figure 3’s legend. this decrease in the acceleration when the friction increases shows an inverse correlation between the two variables. 
+
+
+
+group three’s findings supported our data by confirming that increasing the friction in the system by adding magnets does decrease the acceleration of the system. in figure 4, group 3 has a data table showing as the number of magnets increase, the acceleration value decreases. there conclusion falls in line with our conclusion of “as the friction increases the acceleration decreases. with this information we can draw the conclusion that the more friction that is in an experiment then the larger the negative number in the mathematical model is. 
+
+
+
+
+
+
+group 4 gave our group a new insight to how a different variable than we tested affects the acceleration of the system. group 4 decided to test the tilt of the table as the variable. they found as the tilt of the table was increased, the acceleration of the system increased. there model changed drastically just by changing the tilt of the table as seen in figure 5. increasing the tilt increased their y-intercept.
+
+d. we may have had a few errors in our experiment which could have affected our mathematical models. we could have had a systematic error of accidentally measuring our masses wrong by not cleaning them before massing them or reading the triple beam balance incorrectly. this again would be a systematic error due to the mass always being read wrong and using that same value for the whole experiment which would affect the acceleration. if the mass was read higher than it actually was then the acceleration of the system would have been lower than expected. another error could have been selecting too few, too many, or just not the right data points on the computed to compute or slope for acceleration. this would have been a random error because the acceleration was taken for each data point and was not taken the exact same each time. 
+
+e. some constraints could have included the measuring device we had. it had a lot of data points but when our acceleration increased, there weren’t as many data points to pick from. the air track was precise but when the mass increased a lot on the cart, sometimes the cart would hit the air track and mess up the acceleration. 
+
+f. these mathematical models are consistent with newton’s second law. our mathematical models show that as the force increases, so does the acceleration. also our second experiment shows that as the mass increases, the acceleration decreases.

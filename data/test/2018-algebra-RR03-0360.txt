@@ -1,0 +1,19 @@
+discussion and conclusion
+
+
+
+	the question that is being investigated in this lab is what impacts the period of a pendulum for small swings? the first experiment that compared is the period time to the angle of release. you can tell that the period time was the same regardless of the angle that it was released. if you look at the graph, you can see that all of the data deviated by .1 at most. as we increased the angle of release from 5 to 20 degrees, the period time was between 1.89 and 1.90. it did not deviate any farther from that. this data concludes that the period time is not dependent on the angle that you released the pendulum. for experiment two where we compared the period time to the mass of the pendulum, we were able to say that the period time is also independent of the mass of the pendulum. this means that as we increased the mass of the pendulum, the period stayed the same. the mass of the pendulum started at 20 grams and was increased all the way up to 300 grams. within these mass ranges, the period was between 1.40 and 1.47 seconds. these data points do not deviate far enough from each other to say that the period is dependent on the mass of the pendulum. for experiment three, we were able to say with certain that the length of the string influences the pendulum time. if you observe the graph, you can see that as we increased the length of the string from 10 cm to 190 cm, the period time increased every time starting with .786 seconds to 2.825 seconds. keep in mind that all of the other variables for each experiment were held constant. 
+
+
+
+	the theoretical mathematical model for the period of a pendulum is $t=2 \pi \sqrt{\frac{l}{g}}$. our data fits with this model when it is portraying with us changing the length of the string. if you pick any point regarding the string length from our table and use this equation it will give you our time amount from our table. however, this model will not work when dealing with changing the mass of the pendulum or changing the angle of release. this is because there is no variable that deals with angle or mass in this equation and therefore must determine your data points experimentally. 
+
+
+
+	in this lab, there were random and systematic errors that could have influenced our data points from becoming inaccurate. a few systematic errors that could have happened were measuring the angle on the pendulum incorrectly, measuring the length of the string incorrectly, and adding the incorrect amount of weight to the pendulum. from these errors, the only error that would influence the period would be the length of the string. the other two errors would technically be wrong but would not influence the time of the period. however, all of these three errors can be fixed with paying more attention in the lab. one of the random errors that could be possible throughout this experiment were the movement of wind from someone walking by. this might cause the period time to be wrong since it might blow the pendulum side to side at an angle and not straight back. another random error that might occur is the moving chairs in the classroom. this movement might also affect the pendulum in the same way. these errors can be fixed by doing more data points and then taking the average. the more data points that you have, the less random errors that you may have. 
+
+
+
+it is also important to take into account the restraints that might be possible in this lab. the most important constraint is that we were only able to do this experiment on a smaller scale in a classroom setting. we were not able to make a pendulum on a massive scale and see if the same results are consistent on a larger scale. 
+
+

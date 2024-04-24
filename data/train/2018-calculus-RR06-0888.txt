@@ -1,0 +1,11 @@
+conclusion:
+The system is comprised of the hanging mass, the mass resting on the horizontal surface, the pulley, and the string.
+Six trials will be completed and after each trial is completed another weight will be added to the system.  This will give enough data points to determine if more force applied results in a greater acceleration.  Masses will also be transferred from the sled to the string to keep the mass constant.
+
+theoretical Model is   
+				Calculated Model is  
+The models are similar because 1/MassSystem is approximately 5.6, because the total mass was 178G.  Both models represent a linear relationship with a Y-intercept that is very small or none at all.  The R-squared value of the calculated model is .9937.  The calculated model is slightly smaller because of uncontrollable factors like friction in different components and air resistance of the mass and cart.
+ Other forces that apply to the calculated model are friction and air resistance.  Even though the experiment is on an air track, friction is still present and is also present on the string and pulley.  This test also wasn’t conducted in a vacuum and air resistance does have a small effect.  
+ The mass of the system appears as the slope of the line.
+Uncalibrated scale for the mass.  Scale error used to measure velocity vs time.  The pulley itself is not ideal.
+ Yes because the string connects the mass and cart.  The mass of the string is similar to having another mass to test and would have no effect on the linearity of the velocity.

@@ -1,0 +1,11 @@
+conclusion:
+
+the purpose of the lab was to develop mathematical models that described a real system and then isolate the factors that can change the values in the models. 
+
+the first two mathematical models were developed by the linear equation from the graphed data. the third experiment had three models developed that showed the effect of friction on the system.
+
+the errors in the first two experiments were due to adding too much mass to the cart and causing friction on the system. the third experiment had error due to the magnets repelling each other while moving. this caused an inaccuracy to the models, but they were still able to be read. 
+
+one constraint of the experiment was only being able to using small amount of weight. to have less error, only a small amount of weight could be used to experiment. if data could be collected with a wider variety of masses, the models would be more accurate. another constraint was the simulation of a frictionless surface with the air track. if a true frictionless surface could be used, the data would be much more accurate.
+
+the mathematical models are consistent with newton’s second law due to derivations of the equations.

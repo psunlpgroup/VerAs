@@ -1,0 +1,22 @@
+discussion and conclusion
+
+the purpose of the lab was to develop mathematical models which describe the behavior of an air sled along a track, as well develop an understanding for both the force of the system and the mass of the system versus acceleration, and how the models relate to newton’s second law.
+
+
+
+in lab 05, we conducted two experiments. in the first, the mass of the system was held constant, but the amount of force applied to m2, the counterweight pulling the sled, was changed. through testing, we came up with the mathematical model acceleration (m/s^2) is 2.9779 * (force applied on m2)(n) - 0.0459. this is a positively linear model, meaning that as the force on m2 increases, the acceleration of the sled increases. in the second experiment, the force on m2 was held constant, but the mass of the system, more specifically on m1, was changed. the mathematical model calculated through testing was 
+
+acceleration (m/s^2) is 0.3645(mass of system (kg))^-0.996. the curve of the data points was discovered to be a negative power function, meaning that as the mass of the system increased, the acceleration of the system decreased. both models are in line with newton’s second law, as mass, acceleration, and force were all directly correlated. 
+
+
+
+both groups’ models support our own conclusions. group 6’s front end incline was higher than ours, which explains why the slope of their model increased. based on those findings, it could be assumed that if we had increased the incline on the front end, the slope of our model would have also increased.
+
+friction was not included in the variables of the experiments, and it could have impacted the models in an unknown way. in a more complete experiment, friction would be taken int account while testing. the distribution of air along the track was also unknown and could have impacted the data collected. a more controlled track would lend itself to diminishing that possible source of error.
+
+
+
+the scale of the changes in independent variable wasn’t very large, so if there could be a more dramatic change in those, the relationship between the variable would become more apparent. a method of measuring the degree of the incline of the track would also lend itself to models and relationships that are easier to understand.
+
+
+both of our experimental models from lab 05 were consistent with newton’s second law, . in the first experiment, when the overall net force was increased and system mass was held constant, the acceleration increased. in the second experiment, the system mass was increased, but the net force was controlled, resulting in the acceleration decreasing as mass increased. both models keep in line with newton’s second law.

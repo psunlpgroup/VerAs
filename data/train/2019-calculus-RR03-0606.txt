@@ -1,0 +1,29 @@
+conclusion
+
+according to the measurement in the experiment, we observed that the weight (for any weight) and angle of release(up to 20°) had little influence on the period’s duration. however, we also observed that the string’s length does have influence on the period’s duration. (the longer the string is, the longer the period sustains.) we found this tendency during the process of adapting the length of string with keep the mass(250g) and the released angle(15 degrees) being sustained.
+
+evaluation of data and any observed patterns or trends
+
+the data we have collected turns to be accurate and support out hypnosis. the third group of data shows the mass in the original values. the standard deviation was 0.01348982241, which reflects that there is no relationship between mass and period. 
+
+for the angle of releasing, the collected data shows that it affects only the period with the released angle being more than 20 degrees. as mentioned before, the error bars overlap obviously. 
+
+for the length, collected data shows that it will affect the period in the whole range of value.when we insert our measured consequence into excel. the formula $y = 2.0852 x^{0.4474}$ can be seen while we are comparing the expected equation(due to the related theory) to our conclusion. (y is the time/s and x is length/m) this formula has proved our original hypothesis. if the length were increased, so will be our length.
+
+the excel model turns to be successful because our r2 value is very close to 1, which means the error rates went lowly here. this can also be reflected when comparing the theorical formula with our formula  is  $t = 2.007 l ^ {0.5)}$ , $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. when it goes to the situation that the formula is converted to equation with x & y, it would become $y = 2.0071 x^{0.5}$.
+
+my claim to theory/other scientific knowledge
+
+if the same experiment is done on the moon, we suppose that this period will be lengthened. 
+
+by considering with that directly, we have figured out that the less accerlation caused by gravity means that the object will drop more slowly.(even though they are attached to the string. ) the function of period can be ensured by evaluating that in the theory of mathematics. $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. therefore, if the value of g is big (just like it is on earth), t will be much smaller. and if the value of g is small, t will be much bigger.
+
+the theoretical formula is is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+that could be investigated is the shape of the weight itself.
+
+although we know that the mass of object would not influence the constant time of period and shape. thus the mass may influence the period according to some rules in aero dynamicity.
+
+in this experiment, we used the mass of the objects whose shape is a cylinder. however, if we use one whose shape were a block or a sphere, it may affect the period’s duration by itself. therefore, another issue which is worthy to be researched comes out is  “is there any relationship between the shape of objects and the period’s duration?” to research on this problem, the theory of aero dynamicity will occupy a different portion.
+
+some enhancive change will be developing a system of releasing which means the pendulum will be released from a point fixed reliably without putting any extra force on it. for example, we do not need to use a clamp or use the photogate for the data collection. because its range of error will be much smaller than stopwatches, it is more accurate.

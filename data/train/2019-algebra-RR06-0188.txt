@@ -1,0 +1,21 @@
+conclusion:
+ the purpose of this lab was to demonstrate how the force and acceleration of a system can be affected by multiple independent variables such as angle of plane, and mass of blocks.
+
+
+
+ the mathematical models for lab 05 explain the relationship of how the mass of m1, and m2 can affect the acceleration and force of m1. the first experiment in lab 05 shows that as the mass of m1 increases and m2 decreases, the acceleration and force of m1 will decrease. the second experiment in lab 05 shows that as the weight of m1 increases and m2 decreases, the force and acceleration will increase.
+
+
+during the lab, all of the groups except for one had the same independent variable as us, so the first whiteboard does not have to do with the lab that my group had conducted. the second whiteboard stated that as the group increases the tilt of their plane, that the error value will become larger, this is also a different variable than what my group tested, but again there were no other groups with a similar variable to test. these whiteboards do not provide evidence to back my groups data up.
+
+
+
+ a possible error in this lab is friction. the lab claims that the cart is on a frictionless surface, but in reality, there is no such thing as a frictionless surface, although the numerical values may be negligible, it is an error in this lab. also, the bobbers were not weighed electronically but on a triple beam balance, although the balance is pretty accurate, electronic measurements are more accurate.
+
+
+
+ this lab is very generalizable, the constraints on this lab are very minimal to the point where they are negligible.
+
+
+
+ both of the mathematical models that were calculated in the experiment proved newton’s second law. as mass and acceleration increased, so did the force of the system.

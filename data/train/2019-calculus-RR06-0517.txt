@@ -1,0 +1,3 @@
+conclusion
+
+with the information from the tables and graphs, one can infer that having an incline(0.69 degrees) or decline(-0.69 degrees) did not change that acceleration. it did change our constant. the incline and decline had almost the same slope. the zero incline also had an identical slope. the only difference between the different experiments was the the y intercepts. 

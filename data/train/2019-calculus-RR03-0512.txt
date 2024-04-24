@@ -1,0 +1,13 @@
+discussion and conclusion
+
+through the last three experiment we set some hypothesis to achieve the final results which is that what are the variables which are going to affect the period of pendulum so, we chose three variables which they are the mass on the end of the string, the angle that we are going to drop the pendulum from and the string’s length. then, we chose our first hypothesis is that the mass is going to affect the long of the period. the second hypothesis, the bigger angle that we are going to use, the long period that we are going to git. the third hypothesis, the long string’s length, the long period.
+
+ 
+
+from experiment 1, we can see the relationship between the period and string’s length. also, the graph shows us that the length is the most variable that determine the period. also, this hypothesis was true. the experiment 2, shows the relationship between the mass and the period. our hypothesis was false because we thought when we change the mass the period is going to change, but it did not and period still constant. experiment 3 show us the relation ship between the angle and the period. when we were changing the angle in the experinmt3, we increased the angle and the graph shows us that angle affect the long of the period. when we use bigger angle, we git longer period. the change in the wasn’t so big just around 0.02s. so, we conclude that that the length is most variable determine the long of the period and the change is around 0.3s.
+
+there were some random errors in the experiment for example we were measuring the string’s length to the top of the mass that in the bottom of the string. so, we didn’t get the correct data for the string. however, we fixed this problem in week three we did the experiment length vs period again to git accurate data. also, one the random error was when were stop watch to calculate the time. we calculated the average time that each team member got, but still there are some errors because we couldn’t stop in the very correct time. so, we fixed this error by using photogate sensor to get the accurate time of period.
+
+overall, there are two variables from the three that we chose affect the period of the pendulum which they are the string’s length and the angle. also, the string’s length determine the period more than the angle.
+
+ pg. 2

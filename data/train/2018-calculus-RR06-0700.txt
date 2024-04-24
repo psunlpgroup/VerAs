@@ -1,0 +1,18 @@
+conclusion.
+
+their values and equation also align similarly with ours. 
+
+our value for acceleration: $\frac{1}{n}= 5.33$ m/s^2
+
+theoretical model value for acceleration is  9.8 m/s^2
+
+difference is  4.47 m/s^2
+
+this difference is because of the unknown forces acting on the system, such as friction and air resistance.
+some of the forces that we were unable to measure or remove where friction on air track, air resistance, direction of airflow and string mass. nothing in the world is truly frictionless the tiny amount still present in the form of air friction would be a systematic error. also the weight of the string could have affected our values.
+
+the mass shows up as x/m in the experimental model (m is total mass).
+
+a massless string may not produce enough friction to move the wheel that was measuring the velocity of the cart.
+
+systematic errors could be unknown forces acting on the cart, some include is  the scale could be off slightly and the air flow from the tracks may not be might not be constant.

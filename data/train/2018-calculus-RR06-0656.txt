@@ -1,0 +1,33 @@
+conclusion:
+
+how does the acceleration of a system change as the force applied to the system changes?
+
+by using a frictionless pulley, the force applied to the system is equal to the force by gravity upon the hanging mass. therefore, the graph above is labeled “applied force” as applied force is a scalar of the hanging mass. during the experiment one bobber at a time was removed from the slide and attached to the hanging mass, keeping the mass of the system the same while allowing different forces to be tested. the changing forces progressed in a linear relationship with acceleration of the system, as shown by the graph above. the equation that most closely matched the data is $a = 5.1474 f - 0.0641$, a linear relationship. error was very small in this experiment, with only 0.0033m/s2 on acceleration values between ~0.2 and 1.9.
+
+two other groups data was also collected in lab. we selected the closest equation to the one our lab group found and the furthest equation. however, both groups still agreed that the relationship was linear, there was a small y-intercept and the coefficients were within 15% of our own. the equation of the group closest to ours was $a = 5.2076 f - 0.0922$. the coefficient of their equation was only 1.2% different than the coefficient of the equation we found in lab. this is a tiny difference, showing that this group’s data supports our conclusion that there is a linear coefficient close to $a =\frac{f}{m}$. 
+
+the furthest group in our class came up with the equation $a = 4.369 f – 0.0599$. the coefficient of this equation is 15.1% different than ours, but they still use the same format and agree that the relationship is linear. while this data is not as great of a support as the other group discussed, it still lends some support to the findings in our lab equation. 
+
+theoretical equation is
+
+$f = m a$ 
+
+$a = \frac{f}{m}$
+
+$a = \frac{f}{0.1881} $
+
+$a = 5.316 f$
+
+actual equation
+
+$a = 5.1474 f – 0.0641$
+
+this mathematical model makes sense. it is very close to our theoretical model, with only a slightly different m value and a very small y-intercept. it supports the theoretical model with both the fact that it is the same power and has a very similar coefficient. 
+
+if the string has some mass, then the cart would not undergo uniform acceleration because the mass of the system that is applying the force would change the further the slide moves down the track. the heavier the string used, the greater the string would affect the acceleration. as the string slid over the pulley and downwards, the appreciable value of the hanging mass would increase. this would increase the acceleration the further the slide moved towards the pulley. 
+
+the small discrepancy could be due to friction and resistance between the system and the pulley/track. there are two possible outside forces, friction and the force of the wing from the track. either of these could’ve affected the slope of the graph, creating a systematic error in one direction or another. there was also some force of negative 0.0641 m/s^2 when there should’ve been 0, meaning there was some force other than gravitational. the mass is the slope (m) of the $y = m x + b$. 
+
+the greatest source of error in this lab would be friction, between the pulley, track and air resistance. these would all be expected to lower the coefficient of the final equation, which would explain why the coefficient of our equation is slightly lower than the theoretical. doing the experiment in a vacuum with a truly frictionless pully and track would remove this systematic error. there is also a very small random error present in how accurate the measuring tools used were, both the timed pulley and the scale that found the mass of the system. 
+
+there are a few possible constraints on this lab, mostly due to the materials available. while the air track is one of the best ways to reduce friction, it is not frictionless. the air also can affect the motion of the slide, as the air may not blow out perfectly perpendicular to the track. the pulley used is likewise not frictionless. another small affect may be that the string is not massless, and even its small mass could affect the acceleration in an exponential fashion. none of these constraints have a very large impact, and still allowed us to find the equation wanted within a reasonable margin of error.

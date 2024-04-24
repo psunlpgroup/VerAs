@@ -1,0 +1,74 @@
+conclusions: -
+
+ the period of the pendulum’s swings increased, as the length increased based on the above data with a positive correlation respectively
+ even though the angle of release was changed respectively there was no change in the time period of the pendulum with no correlation.
+ even though the mass was increased and changed there was no effect on the time period
+
+precision of balance
+
+precision of stop watch
+
+precision of protractor
+
+precision of tape measure
+
+accuracy of release 
+
+reading of the tape measure
+
+stopping of the stop watch
+
+
+
+have a bar mark the proper angle of release to limit the inconsistent release depth
+
+ more timers would result in more timed data
+
+ motion sensor would help to limit random error of stopwatches respectively
+
+ more trials equal a more accurate and precise mean respectively
+
+by looking at the string length vs time graph, the more string length is added to the pendulum the more time it takes to complete a period. this is a positive correlation in the iv and dv
+
+observing the mass vs time graph, the more mass is added to the pendulum the same amount of time it takes to complete a period hence implying no correlation between the iv and dv.
+
+
+based on the angle of release vs time graph there was is no correlation between the iv and the dv
+
+
+1)a smaller standard deviation means that it is a smaller spread of data around the mean. this gives in a way confirmation that the value is actually around the margin of error. a larger standard deviation means that your data is not reliable because it is larger spread out hence making it not reliable.
+
+
+
+the string length was the only factor which affected the time period respectively. this conclusion i drawn from studying the data and the graphs.
+
+
+
+this observation is set up on the graph of string length vs time period which in fact shows positive relation. 
+
+
+there is a high confidence for all the values of mass vs time and string length, we have got by looking at the standard deviation respectively. 
+
+
+the claim holds up respectively because the standard deviation of the graph of string length is small hence the true value is within the standard deviation
+
+due to the small standard deviation in string length graph we are 95 % sure the value we have is within the standard deviation.
+
+
+
+we are confident that the trend line represents the relationship of the iv and dv because the correlation coefficient of the trend line is really close to 1of the string length vs time period graph. there were also 3 trials done of each dv and an average of each dv was taken to limit the random error present in the experiment respectively
+
+we agree with student 1 as it allows less errors to happen due to different reaction of the stop watches respectively. 
+
+
+we choose option b because the errors are happening in same difference. also they are happening in same range.
+
+when the mass was 210 g and the angle of release was 30 degrees it showed a positive correlation respectively with time to complete a period.
+
+the confidence in these measurements is higher than the experiment was conducted without the photogate as the human error involved in pressing the button was now done by sensor. also, our chi squared value is equal to .988 which is .99 percent confident.
+
+ the x increases the y increases meaning the length increases the time increases and hence proving our model
+
+other groups followed the same results 1.9886x^.5128 (in meters) and .986x^.386 (in cm)
+
+if a pendulum needed to have a period of 5 seconds then by our model the length will  be 620 cm

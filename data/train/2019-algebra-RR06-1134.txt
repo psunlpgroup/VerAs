@@ -1,0 +1,15 @@
+discussion and conclusion 
+
+
+
+the purpose of these labs were to determine the factors that may affect the acceleration of cart on an airtrack. then a mathematical model must be determined based on the results of the experiment.
+
+the mathematical models were based of the graphs of each variable and experiment. the x value on the graphs represent the slope, also known as the acceleration. 
+
+n/a
+
+some errors that may occur within these lab include an issue that occurs with the bobbers. at times, the bobbers swing at the end of the pulley causing a direction in the change of motion and force. to fix this, the string attached to the bobbers must be stabilized to prevent as little movement as possible. an issue with the second part of the lab was the magnets. they were very unstable and needed to be taped on. for the future, the magnets should have an optimal way to hold them down.
+
+an example of a constraint would be particles and dust that are collected within the airtrack which can cause friction.
+
+the acceleration is due to a net force which his created by the mass of an object.

@@ -1,0 +1,29 @@
+conclusion
+
+
+
+research question: what is the relationship between the acceleration of a system and the forces in that system?
+
+
+
+for all of our data, where more friction, or opposing force was added to the system, the acceleration decreases. this is seen in graphs 3 4 and 5. all values were well within the error bars, so the equivalency criterion is satisfied. for experiments 1 and 2, when mass was added, the acceleration decreased, as seen in graphs 1 and 2. these values also satisfy the equivalency criterion. all but one graph had error bars too small to be seen with the eye, and the one graph that did satisfied the equivalence criterion. 
+
+
+
+our results matched this groups result, as our data also showed that adding more magnets made the acceleration decrease. 
+
+
+
+our results matched with this group as well because our conclusion is the same. our equations have slightly different coefficients however, with our equations being 
+
+2.9x - .00006 is y for 0 magnets
+
+2.406x - .024 is y for 2 magnets
+
+2.099x - .009 is y for 4 magnets
+
+all of the coefficients are very close to one another, so our groups are in general agreement. 
+
+in a perfect system, the acceleration is equal to f/m, however our model included two coefficients of form $a = c1 w + c2$. the c1 in our equations is equal to the force that we tested, and the c2 is a product of all other forces we did not account for, divided by the mass of the system. the c2 is very small, because the forces we did not account for are small in magnitude. 
+
+this gives us the more practical equation, $a = \frac{f_{known}}{m} + \frac{f_{unknown}}{m}$. this is true for all systems in the universe. a way to reduce errors would be to make the track less frictionless, and have a better source of friction than the magnets. the equation $a = \frac{f_{known}}{m} + \frac{f_{unknown}}{m}$ is extremely general and can be applied anywhere. there will always be forces that we cannot account for.

@@ -1,0 +1,23 @@
+conclusion:
+
+research question: what impacts the period of a pendulum?
+
+
+
+our first experiment we tested how the period of a pendulum was affected by the length of a string. we originally claimed that if the length of the string would impact the period of the pendulum. after completing the experiment three times over the course of three labs we determined that our original claim was correct. this claim is supported by our first two labs in figures 1 and 5. by looking at the first two experiments a positive linear relationship can be seen. this trend is also confirmed by our lab 3 seen in figure which shows a positive correlation between the independent and dependent variables. since human timing error was removed. 
+
+
+
+our second experiment tested pendulum period vs release angle. our final claim was that the period of the pendulum is not affected by the angle of release. this claim is supported by figures 1 and 4. in both figures the data points are relatively close to one another with overlapping error bars. this shows that no correlation can be drawn between the period of a pendulum and the angle of release.
+
+
+
+our third experiment tested the pendulum period vs the mass of the pendulum. our final claim was that the period of the pendulum is not affected by the mass of the pendulum. this claim is supported in figures 3 and 6. the data points in these figures show no correlation to each other and appear random which allows us to state that there is no correlation between the independent and dependent variables.
+
+
+
+ $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ where t is time, l is length of string, and g is acceleration due to gravity. according to this equation, our prediction was correct. our model didn’t consider gravity, but one large similarity is the coefficients in each.  the coefficient of the theoretical model is 2 where as ours is 2.108. this along with the fact that our r^2 value is .995 shows us that our equation very closely represents the trend of our data.
+
+one systematic error was that the reaction of the timer to the beginning and end of the pendulum was delayed this was corrected by using a timing gate which eliminated this error. one random error was that the person doing the testing was different this was corrected in lab three by having one person that would release each time.
+
+one constraint that might make this difficult to generalize is the specific types of materials. and the setting if someone wanted to re create this in a different lab with a different stand, they might not attain the exact measurements that we did.

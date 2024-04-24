@@ -1,0 +1,3 @@
+discussion and conclusion
+
+	the research question that was being investigated in lab 05,06 was how does the acceleration change when the magnitude of applied force changes? as seen in the acceleration vs applied force graph, the acceleration changes at a constant rate as more force is applied.

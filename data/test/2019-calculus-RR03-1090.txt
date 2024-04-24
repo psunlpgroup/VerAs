@@ -1,0 +1,35 @@
+conclusion:
+
+	
+
+	question: what impacts the period of a pendulum?
+
+	
+
+	mass had no correlation with the period of a pendulum. in figure 1, it can be seen that the trend of the data is a straight line, showing that as mass increased, the period of the pendulum remained the same.
+
+	
+
+	length had a direct, positive correlation with the period of a pendulum. figure 2 demonstrates the relationship; as length increased, the period of the pendulum increased as well. it appears to increase not linearly, but as a power of length, specifically, about .5. figure 3 is the graph from the data taken in lab 03, showing a power relationship between length of string and period of the pendulum.
+
+	
+
+	angle of release had no effect on the period of a pendulum under about 20 degrees; however, above 20 degrees it seemed to have a slight effect on it, although it cannot be concluded to have a direct relationship with the period.
+
+	
+
+	
+
+	$t=2.0062 l^{0.497}$
+
+	
+
+	the above is the equation of the line from figure 3. our r^2 value was .9999, evidence that the mathematical model fits to our data collected very closely. in the equation, it is clear that the length of the string to the power (1/2) is directly related to the period of the pendulum. it is also clear that the angle of the release as well as the mass is absent from the equation, once more showing that they both have no effect on the period of a pendulum. 
+
+	
+
+	there were many errors that in the process of collecting data that would impede the search for the true values of the period; timing each period with a stopwatch was one type of random error for each variable tested. measuring the length of the string was a type of systematic error. for the former, the error could be reduced by increasing the number of trials. for systematic error, the error can only be eliminated by finding the source of the error in the experiment and fixing it; for the example used, the measurements would have to be consistently made to the center of mass of the pendulum. 
+
+	
+
+	the lab has some constraints; namely, the string can only get so long, as we have a finite amount of string and space in which to conduct the experiment. as such, values for much larger lengths l cannot be found, we can assume that it would follow an equation similar to our data, however we cannot be sure.

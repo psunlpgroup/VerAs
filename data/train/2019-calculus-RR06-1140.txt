@@ -1,0 +1,32 @@
+discussion and conclusion
+
+
+the purpose of this lab was to develop mathematical models which describe the behavior of a real system and to develop an understanding for each variable and value that were actually in the model.
+
+the first experiment of lab 5 led to the equation   with an . where the equation is solved for . this would mean that the coefficient 2.8058 would be equal to 1/mass and that the y intercept 0.0163 would equal any remaining forces divided by the mass. theoretically, there should not be a y intercept here, however due to the fact that the conditions of the experiment were not ideal, we can contribute the y intercept to friction and other such forces. in any case, due to our high r2 value, we are confident in this model.
+
+
+
+the second experiment of lab 5 yielded the equation   with an . again this equation was solved to put it into the form  in accordance with newton’s second law.the 0.3925 ought to have equalled force and m0.322 should have been 1 divided by mass or mass-1. we have little confidence in this model as our calculated exponent is so far from the expected exponent and our low r2 value.
+
+
+
+the experiments of lab 6 gave the equations of with an , with an , and  is  with an for the carts with no added mass, two additional magnets, and 4 additional magnets, respectively. it was determined that the coefficient of n in each case was 1 divided by the mass of the system and that the y intercept was always the remaining forces also divided by the mass. these forces were found to be friction forces due to the imperfectness of the system. 
+
+
+
+
+
+in lab 6, group 5 tested the same hypothesis as our group. similarities in the data show that as the mass of our systems increased, the coefficient and y intercept decreased.  differences include the different ranges for the coefficient and y intercept, and the initial positivity of our coefficients as compared to theirs. this was attributed to differences in the tested masses of the system of the two groups and differences in the frictional coefficients of the tracks and carts used. both groups did come to the conclusion that the y intercept was due to friction. overall this team’s findings support ours due to the findings on the y intercept and the similar trends of the equations. 
+
+
+
+
+in lab 5 group 2 tested how the angle of the track affected the y intercept. their data showed that when only the angle of the track is changed, the y intercept of the equation also changes. and, though this group did not make any claim as to what the y intercept was, their data supports our claim that the y intercept was friction divided by the mass due to the fact that altering the angle of the track changes the normal force on it which in turn affect the frictional force. 
+
+
+ some factors which could have caused error in our experiments include our measurement errors. all masses were measured using a manual triple-beam balance accurate to the 0.1 g. an improvement to the experiment would be using a  more specific electronic balance which would increase the accuracy of the mass measurements and decrease random error. furthermore, in order to make the conditions of the experiment ideal for newton’s second law, all friction ought to be eliminated, meaning the track ought to be made completely frictionless, the experiment should be conducted in a vacuum to eliminate air resistance, and a pulley which is 100% effective ought to be used in the measurement of velocity vs time. the presence of these friction forces being unaccounted for lowered some of our confidence in our equations, especially the second experiment of lab 5, and gave unideal conditions for finding .
+
+
+
+the constraints on this experiment included that we were unable to test for the effect of gravitational acceleration on the system. this is because there was no real way for us to dramatically change our altitude or the size of our planet. furthermore, only one data point was taken for each mass of the system and corresponding applied force mass, which decreased the generalizability of our results as in a proper experiment, many more data points would be taken.

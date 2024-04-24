@@ -1,0 +1,9 @@
+conclusion:
+ as a group, discuss and make a list of at least 3 factors which might affect the period of a pendulum?
+
+all 3 experiments addressed the research question because they all tested weather or not a factor affected the period of a pendulum. after the experiments were completed 2 of the claims were true and one of them was true most of the time. the claim that mass does not affect length of period is always valid as is the claim that length of string will affect the length of period. the claim that starting angle will affect the period is true, but only if the starting angle is greater than 20 degrees.
+
+  2pi/sqrt(g) *l^1/2 is the theoretical model, our data is in line with the theoretical model. the c1 value in the theoretical model i shown to be 2.006 our value was 2.018 which is extremely close and accurate. that is .21% experimental error which is extremely low. this shows that our data is accurate and fits the theoretical model.
+
+ an error that was present during the experiment was using the stopwatch. since our data was recorded using a stopwatch for most of the experiment that relied on a person starting and stopping the time which creates error because a person ill never be a 100 percent accurate. this is an example of random error.
+ some constraints on the experiment would have been equipment. we only go to use the photogate for one part of the experiment and that would have been the most accurate way to conduct the entire experiment and made the data most accurate.

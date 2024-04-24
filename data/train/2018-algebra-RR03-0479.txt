@@ -1,0 +1,4 @@
+conclusion:
+What impacts the period of a pendulum for small swings?The length of the string impacts the period of a pendulum. As the length of the string increases, the period of the pendulum increases. The trend in the graph above shows a change in the slope of the line on the graph.
+The period of the pendulum is not impacted by the mass or the bob. The graph above shows that there is no correlation between the mass of the bob and period of the pendulum. The horizontal line shows no change between each trial besides systemic and random error.
+There is no impact on the period of the pendulum due to the angle of release because the graph shows no change in each trial, and there is no slope.

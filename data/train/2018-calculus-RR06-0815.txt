@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the purpose of this experiment was to determine how the acceleration of a system will change when the applied force changes.
+
+$y=3.8893 x + 0.025$ the mathematical model, derived using graph 1, is the relationship between acceleration and the applied force, where y is equal to acceleration and x is equal to the applied force.
+
+it supports our claim because both groups have linear models, but both also reported error in their calculations.  one potential source of error (identified by group odo) could be the tracks are slanted.
+
+the theoretical model is $a=5.4259 f$ (the slope is 1/m).  the experimental error is 28.3%. 
+
+ air resistance, friction of the string on the wheel.
+
+its only for the ranges for the applied force that we experimented with.  for forces much greater than what was tested, air resistance will play a greater role. the red cart was heavier than the cart used in lab 5, resulting in a higher normal force and more friction.

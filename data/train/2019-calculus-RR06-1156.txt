@@ -1,0 +1,14 @@
+discussion and conclusion
+
+how does the acceleration of a system change when m1 changes? and, how does the acceleration of a system change when the angle of track changes?
+
+the three experiments lead to the mathematical models by first conducting the experiment multiple times and then graphing the data. once the data was graphed, the equation for the line was taken and that is the mathematical model. i believe that the iv in the model means the mass weather that is for a complete system or one that changes.
+
+
+
+
+some systematic error could be possible since the mass of the bobbers was not measured and noted before testing. this would probably cause some discrepancies, since each bobber did not measure out to be 5 grams.
+
+some constraints in the experiments that could have been resolved were the before mentioned bobber weights. it would have been nice if they all were the same mass, but it was not necessary. also, some constraints that could have been resolved were for the second lab, the change in slope was not equal from positive to negative. so, it is a bit harder to see a difference in the mathematical model. 
+
+the mathematical models are consistent with newton’s 2nd law because they both have a consistent acceleration that is found and the forces if found by substituting the mass. the mass will be the iv in the equation.

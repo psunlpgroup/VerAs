@@ -1,0 +1,14 @@
+conclusion:
+
+
+	the purpose of the lab is to create mathematical model for the acceleration of a cart and to determine which factor contribute to it.
+
+	the first experiment shows how the acceleration of the cart is positively related to the amount of hanging mass shown by graph 5-1. this increases the force of tension affecting the cart. the second experiment shows how the acceleration of the cart is inversely proportional to the system mass of the cart, shown in 5-2. the the total amount of work will be the same but the energy is divided amongst more mass it is slowed down. lastly the y-intercept is dependent on the angle of the incline, shown by graph 6-1. this adds a force equal to mass of cart * sin(theta).
+
+	 the first data is group 3’s data and supports the claim that incline effects the y-intercepts. the second data is group 2’s data and shows that the location of magnets likely has no affect on the acceleration.
+
+	systematic errors present would be friction between the cart and sting between the track and pully. this would be a systematic error and would decrease the acceleration of the recorded. a random error would be error in the measurement apparatus. this could be decreased by adding more trials.
+
+	our model only applies when gravitational constant is the same as earths. this means that it can only be generalized to earth.
+
+	the graph and model 5-1 are consistent with newton’s second law because as the mass increases the force increases but the mass stays equal so acceleration increases. the graph and model for 5-2 are consistent newtons second law because as system mass increases and force stays the same the acceleration should decrease, and they should be inversely proportional because the sum of the forces over mass equals acceleration.

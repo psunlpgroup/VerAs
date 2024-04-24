@@ -1,0 +1,26 @@
+discussion and conclusion
+
+research question: what are the factors that affect the period of the pendulum?
+
+
+
+as found in the experiment, mass does not have an affect on the period of the pendulum; the hypothesis was correct. as previously stated, the error bars overlap each other on the graphs provided, which shows that, due to the equivalency criterion, these measurement as the mass changes could theoretically be the same true value, just with different errors in measuring the period. had the error bars not overlapped each other, then it could be reasonable to gather that there is an effect on the period, but instead there is not.
+
+
+
+through analyzing the data and looking at the graph, we see an upward curve on the length of the string vs. period graph. this means that as the length of the string increased, the period increased as well. although we see this trend visually, we can look at the graph (pictured right) and see that the error bars do not overlap each other. although the error bars are hard to see underneath the points, the heads and tails of the bars can still be seen. similarly, even with the equivalency criterion, the error bars would still not overlap with two standard deviations. this is very good indication that the trend we found has substance to it, thus verifying that there is a correlation between string length and period of a pendulum.
+
+
+as found in the experiments, angle of release does not have an affect on period of the pendulum past 20 degrees. although we did not take enough experimental data to find the relationship between angle and period at such low angles, other groups let our group know about the relationship through their presentation. based off the graph of angle vs. period, we see no correlation. the points that are plotted are relatively close in number and could essentially be called the same value when considering the error bars. although the error bars are hardly noticeable because they are the same size as the points plotted, the points are on the same level, so the error bars overlap each other. although the error bars were argument enough, the equivalency criterion also proves that there is no relationship. because the standard deviations overlap, 2 standard deviations are bound to overlap as well.
+
+period of pendulum equation
+
+
+the results from the lab are ultimately confirmed by this equation. because the only non-constant value for this equation is length of pendulum, we can confirm that the length is the only variable that has an affect on period (t). in our case, gravity will always be the same, so the only variable we have control over, in a mathematical perspective, is length of pendulum.  this makes sense that we found no pattern in the angle vs. period or mass vs. period graphs as well because they in fact have no effect on period.
+
+
+timing and slack in the string are couple random error sources. if the stopwatch is started earlier or later than it should or the stopwatch is stopped earlier or later than it should, this could cause an error in the amount of time each period took. when considering the string, supposing the string had no slack and was not pulled too tightly, then there would be no error; however, because it is impossible to hold the string at the perfect amount of tension and there might be some slack, it would cause the mass to fall because of gravity until it was caught by the string. if the string was pulled tightly, the string and gravity would affect the path of the mass. other random error could include the swinging of the mass after release. if the mass is not dropped perfectly straight, it could start swaying and even hit the rod holding the string in the air. sources of systematic error could include the angle of the drop and the mass of the object. if the scale is incorrectly balanced, the mass could always be measured above or below the actual value. similarly, if the protractor is setup wrong, the measured angle would be incorrect each time, perhaps affecting the data. all this error is the same for labs 1 and 3; however, the error due to the timing was drastically reduced using the photogate. this did not get rid of our error in timing, though. the photogate divided the standard deviation found using the stopwatches (+- 0.01 s) by 10 to get a new standard deviation of (+- 0.001 s).
+
+in order to reduce error, we could make sure to pull the string tightly (not too tight though) enough so that the mass does not fall directly downward. in order to prevent the mass from swaying, the object could be dropped straighter off the protractor. the mass of the object could be measured on multiple scales after each has been zeroed to ensure the object’s mass. finally, the angle of release could also be measured by 2 people, even using multiple protractors.
+
+the only major constraint of this lab was measuring the period, which was still accurate. with the photogate materials we were able to successfully develop true ideas of the relationship between the independent variables and dependent variables. although it is always possible to get better data readings, i would say that this experiment was overall a success because we found the result we were looking for.

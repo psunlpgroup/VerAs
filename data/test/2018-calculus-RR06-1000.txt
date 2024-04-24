@@ -1,0 +1,24 @@
+discussion questions
+
+the purpose of this lab was to conduct an experiment that could test the how acceleration of a system relates to the force applied. this goes with our research question which was, “how does acceleration of a system change when the applied force changes?”. we hypothesized that as the applied force changed the acceleration would in turn be affected. to test our hypothesize we placed a cart on a track that had air funneled through it to minimize frictions. we kept the mass of the system constant however, the mass applied to the cart was changed. we added weight to the hanging mass to change the force applied, the more hanging weight that was present, the more force applied.
+
+the equation we determined from our experiment was $y=0.0413 x + 0.0209$. this is consistent with our hypothesis, as you can see by looking at graph 2 as applied force is increased so does the acceleration. to answer the research question as applied force increases acceleration also increases
+
+
+as seen in both picture 1 and picture 2, groups kar and ram rod came to the same conclusion as our group did. as the applied force was increased so was the acceleration. they had slightly different mathematical models, kar determined $y=4.9792 x - 0.008$ and rod red determined $y=4.2935 x - 0.0045$.
+
+all things considered each groups experiment came to a relatively similar conclusion.
+
+
+
+other forces that may have been present during the experiment could have been friction and air resistance. even though we had the cart on an air track there is still reason to believe that a small amount of friction would still be present and have and affect on the cart. air resistance also played a role even though it was very small and had a tiny affect on the cart it still exerted a force.
+
+the mass of the system is present when $x=0$ for our experiment the mass in the mathematical model was .0209 kg.
+
+if the string used in the experiment was not massless than the acceleration would not be uniform. as the cart went down the track and more string was pulled by the hanging weight the strings mass would begin to be added to the hanging mass thus increasing the systems hanging weight as the experiment is conducted. this would be a problem because the hanging mass would not be constant and would be changing not giving accurate results.
+
+systematic errors present could have been the scale not being calibrated and producing inconsistent readings for the weight of the bobs. if the track was not completely horizontal this could have added gravity and would not give a uniform acceleration by the cart. human error was very limited in this experiment and no random errors that would have a significant error on the experiment occurred.
+
+constraints in this experiment could have been environmental factors in the classroom that could have affected the experiment. only so much weight could have been added to the system and the hanging weight, so we only got a small sample of what s going on. 
+
+

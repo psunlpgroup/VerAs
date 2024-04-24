@@ -1,0 +1,33 @@
+conclusion
+
+the research question that was explored for lab #1 was “what impacts the period of a pendulum?” in our experiment we addressed the research question by testing multiple variables with different weights/lengths against every other variable remaining constant. when keeping all other variables constant while changing just one variable, it allows to single out that variable and see the direct effect that the constant has on the period. our testable hypothesis theorized that the more mass added to the pendulum, the lower the value of the period would end up being. however, in our data it clearly indicates that this did not happen as all values for the period tested under a wide variety of masses were all very similar and showed no increasing or decreasing trend. however, the length of the pendulum and the period did have a positive correlation as we discovered that decreasing the length also directly decreases the period of the pendulum as our data shows. after analyzing our methods, we found that there was quite a bit of room for human error especially when dealing with timing the period. to help improve our accuracy, we averaged the period over 10 swings which would help us achieve a higher level of accuracy.
+
+
+
+exp. 2 – introduction to error analysis (september 3rd)
+
+in lab 2 we tested improved methods of measuring our data accurately. first, we began by using three separate people to time the period and then used their average to create data plots all while being conscious of the standard deviation that is found between the discrepancies of reported data by each person.
+
+
+*error bars present in graphs
+
+this data was collected by holding the variables constant at a 10-degree release angle, .05kg attached, and a pendulum length of .0534. then after collecting the data after numerous trials, we calculated our standard deviation. the standard deviation represents the spread of values, from the mean, present in our dataset. the standard deviation ultimately represents the range of values in the data that are most accurate or can be most relied on. there is a 95% chance that the true value can be found within ±2σ. by using this information and looking at our data, we calculated our own standard deviation to be 0.0828 seconds.
+
+through the testing of all three variables, we were able to collect enough data to calculate an accurate standard deviation. with knowing the standard deviation, we can easily identify and ignore and erroneous data points that may have resulted from some form of systematic or random error in the measuring process. with improved methods of capturing the measurements, it is evident through our data our precision greatly increased and that all data points follow general trends. as we greatly improved the accuracy of our timing methods, the only potential issued we still acknowledged was the inevitably of inconsistencies in the way that a person releases the bob to start the period. it is very easy to accidently cause the bob to go offline or even cause the bob to accelerate from pushing it which not extremely obvious, will still cause the data to vary.
+
+
+
+
+
+the angle of release (10° from the vertical) and the hanging mass (0.05 kilograms)
+
+testable hypothesis is 
+will the length of the pendulum impact the period of the pendulum?
+
+prediction
+as the length of the pendulum is decreased, the period of the pendulum will decrease.
+as our precision of timing the system greatly improved using the photogate, a scale error of .001 seconds was still present. with this being known, we induced an uncertainty of ±0.002 seconds which is equal to ± 2σ.  we also acknowledged a systematic error in precision of measurement in the tape measure we used which was only accurate to the nearest millimeter which gave as an uncertainty of ±0.002 meters which is consistent with the size of the error bars located on our length of pendulum graph.
+
+next we tested to find a mathematical model fit for our plotted graph shown above. it was apparent to us that the relationship between the dependent and independent variables was not linear and the shape of our data points resembled a sideways parabola opening in the positive x direction. we then concluded that a power function was the best representation for our plotted points.
+
+with the introduction of the photogate we were able to eliminate most all the systematic and random error involved with the manual timing of the period. however, will still had a relevant uncertainty of .001 seconds and .001 meters for the length of the pendulum. through fitting the mathematical model into our plotted points, we found that the power series worked best and with a correlation coefficient of r2 is 1 which passed nearly directly through each of our points. the mathematical data fit into the model gave us $t=2 l^{0.493}$

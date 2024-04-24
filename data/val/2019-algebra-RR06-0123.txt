@@ -1,0 +1,17 @@
+discussion and conclusion
+
+	the purpose of the force and motion lab was to be be able to determine how certain aspects of the system affect the acceleration of the system while also determining equations to represent how as each aspect of the system changes how it affects the system as a whole.  
+
+when it came to creating and arriving at these mathematical equations (see each graph respectively), it was in the equation of the graphs that we received the mathematical models.  in each experiment we arrived at the graphs by changing the weight in either the sled or the bobs in order to see how changing the weight of each respectively affected the system.  at each weight we would run at least five trials and then take the average of hem to find our acceleration at that weight.  next we would repeat that step, changing the weight of the independendent variable to collect enough data.  then after we did that we would compile our data onto a graph in excel on which we could find the equation of the lone using excel's features.  however in each equation since they are in x and y format, the x in the equation is meant to represent the weight of whatever part of the system you are changing while the y is the acceleration of the total system when the mass of what you are changing is at a certain weight.
+
+
+
+
+
+	now when looking at the results from group #002s lab, we can see that they used the term friction in the hypothesis while we used just the general idea of adding weight to our sled.  while they both did and mean the same thing, for a clarity side it's just helpful to say you increased the weight rather than friction.  however seeing them come up with the same general hypothesis as us helps reinforce the validity of our results.  then checking out their equation we see it is also similar to ours meaning that even in their experiment while the results may not be the exact same, they are close enough to ours and tested for the same result that we can see the validity of our results as well as in theirs.  
+
+since most of the steps were the same throughout the experiment any possible errors would most likely been systematic errors and would have arrived from errors in the system measuring the acceleration and/or the calculations we did.  possible random errors could have also come from an error in calculation as well as messing up and misplacing the starting point for the sled or in the mass of the bobs.  to eliminate these it just comes down to making sure measurements and trials are kept as accurate to one another as possible to ensure the correct results.  
+
+well with the experiment and possible constraints, in the system there's really only one massaccelrating the system which is the bobs and since we measured the mass of one bob and multiply that by the number of bob's we used, possible differences in the masses could lead our results to stray a bit and be inaccurate thus preventing our results from being too generalizable.
+
+with our mathematical models we are using the mass to calculate the acceleration because in each test we are either keeping the force constant or changing it on our own accord so we always have control of the force and since we have the mass and acceleration, we can calculate for the force as fne$t=ma$.

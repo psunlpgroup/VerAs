@@ -1,0 +1,5 @@
+conclusion:
+
+	
+
+	based on the data shown above, it is showing that the relationship between force and acceleration in the graph is linear. so we see as the hanging mass increases the amount of acceleration of the system will increase also. using the theoretical model ($f=m a$ we have a variable for the total mass of the system in this model which is m. force which includes gravity being multiplied by the hanging mass, and the acceleration of the system with gravity. so if the equation is shown as $a=\frac{f}{m}$ as one the force applied then the acceleration will increase. the final experimental model was $y=0.05 x-0.0563$ as shown in the graph. other forces that could be found in the experiment are friction and air resistance. we also see the mass of the system appear as the inverse of the slope in the experimental model. the model addresses the experiment question because it shows a linear graph based on the data in this experiment of acceleration increasing. but, the sting could increase the acceleration by adding mass to the system.  

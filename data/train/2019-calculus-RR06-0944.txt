@@ -1,0 +1,28 @@
+discussion and conclusions: 
+
+	1)  the purpose of this lab was to familiarize ourselves with the way force, mass and magnetic force effects the acceleration of an object and to develop mathematical models that represent this relationship to further our understanding.
+
+2) in experiment 1, the resulting mathematical model was derived from the graph of the plotted data in the force vs acceleration graph where a directly proportional relationship between the two was observed. we also noted that force and acceleration were being measured which led to the equation of the line being formatted into a newtons law equation. the same process was used in the mass experiment except the measured variables were mass and acceleration. experiment 3 also used the same approach stated for experiment 1 except magnetic force on the cart was used instead of gravitational force applied to the cart. my interpretation of the model 1 is that as the force applied to the cart increases, the acceleration increases. this can also be noticed by the positive linear relationship shown on graph 1. my interpretation of model 2 is the exact same as model 1 where a positive linear relationship is shown on graph 2. model 3 was slightly different from 1 and 2 where a negative linear relationship was shown meaning that as the magnetic force increases, the acceleration decreases. this is shown in graph 3.
+
+	3) 
+
+graph 4 is  group 2’s data of height vs acceleration
+
+
+
+
+
+graph is  group 4’s data of number of magnetic force vs acceleration
+
+
+
+group 4’s data is of the same experiment as ours and its also takes the same correlation. this further supports our understanding that the magnetic force and acceleration are inversely related. groups 2’s data is of another entirely new idea that the angle of elevation effects the acceleration. this shows that the acceleration increases as the height off the ground increases.
+
+
+ the random errors in this lab include any error made by the recording machine or being very slightly inaccurate in measuring distance. this was reduced as much as possible by being as careful as possible. while the error margin was too small to be seen, it was still there as there is always random error.
+ time was a big constraint in this experiment as we were not able to complete all trials by ourselves and had to rely on other groups for data. our technology was not state of the art but still very accurate and good enough to get the job done.
+
+
+
+
+our data lined up with newtons equation shown above because it uses the same variables and then replacing the variable with our values, we get almost the same measurement that was recorded by the machine.

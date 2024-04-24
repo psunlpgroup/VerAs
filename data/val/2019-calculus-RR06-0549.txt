@@ -1,0 +1,15 @@
+discussion and conclusion:
+
+the purpose of this lab was to be able to control and change variables to see the differences they result in. we changed the mass on the cart and pulley to show the relation between the masses and the system as a whole. using the air track allowed us to disregard friction and the use of the pulley made for more accurate velocity measurements. we also were able to control the tilt on the system to see the affect it had on the data.
+
+the three experiments resulted in similar mathematical models because the change in acceleration between the data was very close. the mass in the system stayed the same when tilt was changed to directly show its correlation. the graphs all have very closely related slopes, but different y-intercepts. the force on the system would equal the mass of the system multiplied by its acceleration.
+
+
+
+	the data from the other groups was very similar to our own and verified our results. group 4 also tested tilt and had slopes similar to ours; however, they converted their equations into calculating force.
+
+	some errors we could have encountered is the string moving without also moving the wheel of the pulley as well. also, the string sometimes fell off the wheel which resulted in taking some data more than once. the table could also not have been completely level.
+
+	some constraints would be that we were not able to do the experiment on a larger scale and put the track at a larger angle. also, once the mass of the cart increased it could have forced the cart closer to the track, creating some friction.
+
+	our mathematical models are consistent with newton’s second law because our slope in our model is equal to the acceleration of the system and the x value is mass therefore the equation results in a force.

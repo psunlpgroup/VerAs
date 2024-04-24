@@ -1,0 +1,21 @@
+discussion and conclusion: 
+
+the research question we were asked to investigate throughout this experiment was; “what impacts the period of a pendulum?”
+
+
+
+each experiment allowed  us to investigate what impacts the period of a pendulum. figure 1.1 and 1.2 (string length versus period) showed that the longer the length of the string was, the longer the period became. also, though our testing we thought length vs period was a linear relationship but through further testing it became a power relationship. in figure 2 (mass versus period), we found out that mass does impact the period to a certain extent. figure 2 shows that when the mass hits a certain value, the graph starts becoming parabolic. after looking at figure 2’s parabolic shape, we determined that mass has little affect on the period of the pendulum and therefore did not need to be tested again in lab 03. the same explanation goes for figure 3. angle has a negligible impact on the period of the pendulum, therefore did not need to be tested further. 
+
+
+
+the theoretical model for the period of the pendulum is $t=\frac{2 \pi}{\sqrt{g}}$ *l. which is period is equal to 2pi times the square root of gravity multiplied by the length of the string. our data fits this model exactly with our data. after looking at the values from figure 1.2 and comparing the period to what is in the table and the values from the theoretical model, it is acceptable to conclude that our data fits the theoretical model. since angle and mass did not influence the period, they do not influence the theoretical model because the theoretical model is impacted my length. so, the longer the length of the string is, the longer the period is was. 
+
+
+
+random- the only random error we can think of is not being consistent when measuring the angle of testing we chose. we could have been more accurate in measuring our angle in a more efficient manner
+
+systematic- some of the errors include not waiting more a full period to complete before time was stopped, pulling on the string to tight may have caused it to stretch out, and not putting the protractor in the same spot every time the angle was measured.
+
+to reduce these errors, we made a constant point on where the protractor was to measure the angle of release. we used a photogate to collect the average of the period, in seconds, versus using stop watches that had a large error associated with them. finally, we only had one person measuring the string length, so it stayed constant within the acceptable range of error.
+
+using the theoretical model, one of the constrains is length of the string that may limit the generalizability of our results. the string we were given was only about 180 cm and we could not do any further testing past the length of 180 cm. finally, we were told to stay in the range of zero degrees to 30 degrees. it could be possible that an angle larger than 30 degrees could impact the period.

@@ -1,0 +1,13 @@
+discussion and conclusion
+
+a. what impacts the period of a pendulum?
+
+b. the three experiments address the research question by finding out which variable of the pendulum impacts it the most. the claims that were made about length of string, angle of pendulum, and mass of object were all correct that the each impacted the period of a pendulum, besides the changing mass, which had little to no impact.
+
+c. the mathematical model is $t=0.0124 l + 0.798$
+
+our data fits this model because it is the linear equation we got when we did more trials of different lengths of strings, and the linear line passes through each point’s error bar. the angle of the pendulum doesn’t affect the period as much as string length does, so we left out that equation in our mathematical model. we also left out the mass of the pendulum because the period barely changes when the mass changes.
+
+	d. the systematic error that was present was the stop watch starting and stopping because it was based of reaction, so times may not be that accurate. this error could be reduced by if the time was measured by the pendulum passing through some sort of laser to start and stop the stopwatch. the random errors that were present were the protractor not being flush with the arm, and the person who held the pendulum in place before it was release could move the angle, which would affect the period as well. these errors could be reduced by having the protractor be attached to the arm so the angles would be the same for each test, and a robotic arm could have released the pendulum to reduce the error a person could have releasing it themselves.
+
+	e. the constraints in this experiment that may limit the generalizability of the results are that the angle is not completely accurate due to being measured using eye sight and a protractor. another constraint in this experiment is that the string only could go up to a certain length, making testing lengths greater than that undoable.

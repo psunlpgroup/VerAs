@@ -1,0 +1,21 @@
+conclusion:
+ the purpose of the lab was to see which variables effect the acceleration of a system. in lab 05, we created two mathematical models that described the behavior of a real system dealing with the change in the mass of a system and the change of the applied force of a system.  in lab 06, we focused on the applied force of a system. 
+
+ the three experiments led us to believe that the changing of the mass of the system led to a decrease in acceleration and a change of applied force (increase), led to an increase in acceleration. it was interesting to find that an exponential model fit the curve of our mass vs. acceleration graph better than a linear line. this could be due to error in the experiment itself. our graph for the change in applied force was a positively correlated linear line.
+
+
+ 
+
+this group had the same general idea of us, but not as specific. they just related the applied force to a change in the system, but we specified that the acceleration of the system decreases. we also agreed with the fact that c1 and c2 in the equation would both decrease. this helps strengthen our mathematical model. 
+
+
+
+	this group had a different experiment. they changed the angle of incline, where we added magnets to the system to increase the friction. they had the same conclusion as us. they did not express that the values in the mathematical equation decreased which is the only thing differentiating our conclusions with theirs, along with the evidence found.
+
+
+
+ the final equations for both experiment 1 and experiment 2 may be inaccurate. the constant values calculated in each equation may be higher or lower than the true values. this could be due to the mass of the car or length of the string. the radius of the pulley may have also contributed in affecting the calculated values. inaccuracies in the equipment used may have also contributed, such as if mass added to the car to in experiment 2 were inaccurate. the starting position along with the length of string may have also affected the calculated value. this could all be eliminated by a machine that puts the car exactly to the same starting position.
+
+ if there were more variability in the weights, there would be a greater difference in data points which would be able to confirm our results. 
+
+ in $f=ma$ theoretically, both force and mass, should effect the acceleration. because force and acceleration are on opposite sides of the equation, as mass stays constant, our results make sense with acceleration and force being directly related. the same thing goes for mass and acceleration. they are on the same side of the equation. so if force stays constant, as mass increases, acceleration should decrease because they are inversely related.

@@ -1,0 +1,17 @@
+discussion and conclusion –
+
+	our three initial hypotheses were:
+
+if the mass of the weight on the pendulum is increased then the period will be decreased
+
+if the launch angle of the pendulum is increased then the period will be increased
+
+if the length of the string on the pendulum in increased then the period will be increased
+
+in conclusion as we change the mass and launch angle of our pendulum, the period of this pendulum will not be significantly affected. we can see this clearly by looking at the error bars notated on our graphs and the lack of a large interval.  however, our prediction of string length affecting the period of the pendulum holds true. we can see this by looking at the error bars that are present on our graphs as they are much smaller than the rejected hypotheses.
+
+	a theoretical equation that describes the period of a pendulum based on the data that we have collected can be described as is 
+
+$t=l^{β} α$ 
+
+where α is some constant > 0, β is 0 < some constant < 1

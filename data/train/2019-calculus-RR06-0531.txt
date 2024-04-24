@@ -1,0 +1,15 @@
+conclusion:
+the purpose of this lab was to create a setting that was known as the neutral setting. we then were told to change the setting so that we could see how the setting affected the acceleration using the same mass change. by getting a “neutral” setting this allowed us to be able to compare mathematical models between the “neutral” setting and the setting with friction. this; therefore, allowed us to be able to see how friction caused a loss in acceleration.
+
+ the three experiments led us to these mathematical models because we knew that the frictional setting would create a lower acceleration that still increased. in the mathematical models, i feel that the coefficient shows the increase in acceleration while the y-intercept shows its starting point. this can be seen in the graphs since they all start in similar locations but then increase at different rates like their coefficients.
+ 
+
+
+
+the other groups whiteboards/ findings helped support our theory and helped us concluded that the acceleration would still increase just at a slower rate than when there was no friction. based on the other groups data we could see that their data also increased but not as quickly as it did in lab 5. we used the data from groups 3 and 5. as far as we could see their coefficient also decreased which help us believe that we were correct by believing that the coefficient was the rate of increase in acceleration. 
+
+ we had a few systematic errors including, stopping the cart to quickly after the hit and not getting correct accelerations and not being able to get an exact mass do to the type of scale we used which is about rounding. we also had an issue figuring out how to out both the magnets on and masses on at the same time. in the future, we could wait till the cart stops itself instead of us stopping it and we also fixed the way we put the magnets on the cart in order to allow the masses to sit better. 
+
+ some constraints could have included how we were not able to do both of the experiments in the lab and how we could have done more trials if we were given more masses to use. by having more trials that would have helped give a more designated approach because the acceleration change would have been more obvious. 
+
+ our two experimental mathematical models showed newton’s second law by showing that the greater the frictional forces is and the greater the masses is the acceleration will not increase my as much as when the force had no friction.

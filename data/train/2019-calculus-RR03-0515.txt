@@ -1,0 +1,59 @@
+conclusion for lab 1
+
+research question: will the variables, mass, string length, and drop angle affect the period of a pendulum?
+
+goal is  the main goal of this experiment was to find which variables (string length, mass, and drop angle) affected the time it takes for a simple pendulum to complete one period. 
+
+our claim and how we addressed the research question for mass as the independent variable is  when mass was the independent variable and string length/drop angle were held constant, we were able to find if changes in the mass affected the period of the pendulum. in the period verses mass graph, we claimed that there is no trend between the mass and the period. in order to account for a large portion of masses we used 50g, 90g, 130g and 170g. we attribute a small amount of variation to the random error that occurred during the tests; however, it is clear from the graph that there is a very small variation in the period between the different masses. 
+
+
+our claim and how we addressed the research question for drop angle as the independent variable is  when drop angle was the independent variable and string length/mass were held constant, we were able to find if changes in the drop angle affected the period of the pendulum. we used the drop angles of 5, 10, 15, and 20 degrees for our angles. the drop angle vs period graph was slightly different than the other graphs. there seems to be some trend going on in the drop angle graph, however we knew that any trend should be linear, and this trend is most definitely not linear. we concluded that there is no correlation between drop angle and period, despite the variation in points. we mainly attributed this change to the random errors that may have occurred while timing or measuring the angle. 
+
+
+our claim and how we addressed the research question for string length as the independent variable is  when string length was the independent variable and mass/drop angle were held constant, we were able to find if changes in the string length affected the period of the pendulum. the string length verses period graph was much different than the other two. we used string lengths of 20, 30, 40, and 50 centimeters for our data points. this graph showed a very noticeable linear trend. therefore, we concluded that there is a correlation between the string length and the period of a pendulum.  
+
+
+
+
+
+our claim remains the same as our string length vs period graph forms a linear correlation. for the string length verses time trial, we used the same string length for all 10 trials of 52 cm. this allowed us to determine the amount of error, whether it be systematic or random. we tried our best to get the most accurate measurements possible, however there were still errors. these errors were accounted for in the graph by the error bars as shown. to find these error bars we took the standard deviation of the 10 times from our 10 trials. this was then put into excel to find our upper and lower bounds for each trial. these upper and lower bounds account for errors by showing how far away from the data point that we can conclude that there is a trend. this means that if the line of best fit is within the error bars, then we can make a conclusion. since the linear line of best fit is well inside the error bars, we can still claim that there is a positive and linear correlation between the string length and the period. 
+
+
+
+
+
+our claim remains the same as our drop angle vs period graph does not form a linear correlation. for the drop angle verses time trial, we used the same drop angle for all 10 trials. this allowed us to determine the amount of error, whether it be systematic or random. these errors were accounted for in the graph by the error bars as shown. to find these error bars we took the standard deviation of the 10 times from our 10 trials. this was then put into excel to find our upper and lower bounds for each trial. these lower and upper bounds were large compared to the string length. this might have been because we had to measure the drop angle every time rather than using a single string length throughout trials. the linear line was nowhere near the points or the error bars showing a large amount of error. this shows that our data might be slightly off, but not necessarily incorrect, therefore we keep our claim that there is not a correlation between drop angle and period. the constant of 20 degree drop angle was kept for this trial to determine error. 
+
+
+
+our claim remains the same as our mass vs period graph does not form a linear correlation. for the mass verses time trial, we used the same drop angle for all 10 trials. this allowed us to determine the amount of error, whether it be systematic or random. these errors were accounted for in the graph by the error bars as shown. to find these error bars we took the standard deviation of the 10 times from our 10 trials. this was then put into excel to find our upper and lower bounds for each trial. the linear line of best fit was not within the error bars of our data showing a great amount of error. this shows that our data might be slightly off, but not necessarily incorrect. because of this our claim still stands that there is no correlation between the mass and period of a pendulum. the constant of 110g was kept for this trial to determine error.
+
+in our trials, the systematic errors were very small. although there are almost always systematic errors in every experiment, from the scales, stopwatches, measuring tape etc., they did not have much of an effect on the validity of our data. most of the errors came from the random errors. these errors have a much higher likelihood of occurring. random errors consisted of pressing the stopwatch at different and incorrect times, dropping the weights from slightly different angles, and inaccurate measuring of the string length. in order to reduce these errors, we could have taken a few steps make sure the data is accurate and precise. these possible alterations include setting up a system to drop the weight at a specific angle each time, using technology to time each period (which is what we did in experiment 3), and a more accurate measuring device. 
+
+uncertainty in graphs
+
+the independent variable verses period graphs include a few uncertainties. one possible uncertainty may have come from the use of humans to find these measurements. our lab group used a stopwatch on each on the trials which may have led to each of the times being slightly off since its nearly impossible for somebody to be 100% accurate when timing. another uncertainty might have come from the use of a protractor when measuring the drop angle. the protractor may have not been completely straight and the string might not have been “dead on” with its angle. finally, the string length might have also led to some uncertainties. since we had to measure it with a tape measure, the exact length might not have been fully accurate. 
+
+
+
+
+
+equation is  $y=0.8716697 x$
+
+       r2 is 0.9995
+
+
+
+during the previous 2 experiments, we made claims about string length, drop angle and mass. these clams said that the only variable to influence the period of a pendulum was string length. so, we put this to the test. we set up a photogate to measure the period of the pendulum. this took away a very large portion of the random error and made it systematic error. 
+
+lab 3 somewhat challenged our previous clams. we knew that there was not a correlation between the time and drop angle/mass, but we decided to test string length out with much more accurate devices. our previous clam stated that there was a linear correlation between the string length and the time. this experiment found out that there is a non-linear correlation. we know this because of the power cure fitting the data extremely well. we can conclude this because the r2 value was 0.9995 which is extremely close 1 and because the data is very accurate (the error bars were too small to be seen!) our equation from excel came out to be $y=0.8716697 x$ which is incredibly close to the theoretical equation for simple harmonic motion that we found on google is  $y=2x^{.5}$ there was a slight difference in the exponent of x. this might have been caused by environmental factors as well, such as air resistance and friction. overall, after 3 long lab periods of working with pendulums, we can conclude that there is no correlation between the mass and time, there is no correlation between drop angle and time, and there is a power correlation between string length and time. 
+
+
+
+there were a few possible constraints that limited the generalizability of our results. one of which was the time we had in class. we could have done many more tests, but there was not enough time for us to do as much as we would have liked. another constraint that we had was the equipment. there was not a ton of ways for us to completely and accurately measure some variables while keeping others constant. one example is the string length. it was very hard for us to “super” accurately measure the string length which could have led to small variations in our data. 
+
+our lab setup
+
+
+
+our lab was very basic. we used a pole to hang the string and a small loop in the string held the weights. a protractor was used to measure the drop angle throughout the experiments. a tape measure was used to measure the string length throughout all tests. the labeled weights were used in all three tests to determine weight. and finally, a stopwatch was used in the first 2 labs while a photogate was used in the third lab to decrease random error.

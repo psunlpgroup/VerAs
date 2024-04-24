@@ -1,0 +1,33 @@
+Discussion and Conclusion:
+In this experiment our main goal was to determine if the acceleration of the system was impacted by a change in applied force by gravity on the system. 
+Our data shows us that acceleration of a system is impacted by the force of gravity. By changing our hanging weight we were able to alter the force of gravity on our system. This is our independent variable and is plotted along the x-axis in graph 1. We then were able to measure our acceleration of the system as each hanging weight was increased. The slope of our line allows us to include that this is a positive linear relationship. In other words as we change our independent variable our dependent variable is in return changed. We could test this by drawing a horizontal line through our graph. When doing so you can see that our error bars do not align with this horizontal line, backing up our explanation of a linear relationship between acceleration and the force of gravity. It is also important to note how small in size the error bars are. They are so small that they are  not even possible to see with normal examination of the graph.
+
+After conducting our experiment we were able to compare our findings with those of other groups in our lab section 002. The first group that I will compare our findings to is that of group 3.
+
+
+After taking a look at the data collected from group 3 that is found in table 4, it is clear to see that as group 3 increased their independent variable of force, their dependent variable acceleration increased as well. This allows the conclusion that group 3’s findings support our data. This is because as we increased our independent variable of force, we also found an increase in acceleration.
+
+
+
+After taking a look at the data collected from group 4 that is found in table 5 it is also clear to see that as group 4 increased their force, their acceleration increased. This supports the findings of our data because as we increase one variable the other variable increases. In conclusion to the referral of other groups data we can state that the data from groups 3 and 4 support our data findings because all of the data represents and depicts a linear function.
+
+The theoretical equation for the acceleration of a system by a single force can be determined by the following equation is 
+				$f=m a$ 
+The experimental mathematical model is determined by the following equation is 
+				$y=c1+c2 x$
+From our experiment our experimental model was $y=5.1828 x-0.0578$, If you refer to graph 1 you can see this depicted above the linear fit line. The reciprocal of our slope is equal to 0.193, this was about 20g off of our theoretical. Although we did have very minimal variance I believe it would be fair to say that our mathematical model is supported by the theoretical model. It is also fair to say that it is a linear fit because our R squared value is approximately 0.997 which is relatively close to the desired value 1 for a linear fit. 
+
+The enhanced theoretical equation for the acceleration of a system with more than one force acting on it is the following is 
+		$a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$
+
+Our experimental mathematical model can depicted as the following is 
+		Multiplying c2 by our coefficient mass where $y=c1+c2 x$.
+We can then determine that it is linear and c1 was determined to be the reciprocal of the mass and c2 lets us quantify any external forces. 
+
+In calculating our mathematical model we found that (1/10) of a newton of external forces was acting on our system. These forces could be accounting for something such as friction or an unlevel track. 
+
+In a scenario where a heavy string connecting the hanging weight with a cart we would be able to predict the acceleration. Because there would be an increase in weight it would be fair to assume that more gravity would act on the system. This would lead to the prediction that as the mass of the system increases the force of gravity increases, increasing acceleration. 
+
+It is important to note in this lab we should account for random errors due to measurement errors. These errors include acceleration in meters per second squared,  and also mass in kilograms. These errors are accounted for by using uncertainties. The uncertainties for mass would be (½)(1/10) of a gram, and the uncertainties for acceleration can be found following the plus/minus sign in table 2. These errors could be reduced by collecting more data, or just by taking a great deal of measurements and averaging them. There could be some systematic errors to account for such as the unknown external forces acting upon our system.
+
+This experiment does contain a few constraints. The largest constraint would be that we used a weightless string. Another constraint would be that we used a level track. This affects the generalizability of the conclusion of this experiment because we could not apply our findings to that of a similar experiment using a weighted string or an unlevel track. 

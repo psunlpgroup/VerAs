@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+the goal of lab was to develop mathematical models to describe he behavior of a real system and understand the variable and numerical value in lab 6.
+
+our equation’s in lab 5 were $y=0.0024 x - 0.029$ for the force vs time graph and $y=\frac{1.5948}{x^{0.24}}$ for the acceleration vs. mass graph. the first equation represents $a=0.0024$ with an uncertainty of -.0292 which should ideally be 0. the second equation is comparable to a rewritten of $f=m a$ to get a which is 1.5948m^-.242. the other equations in lab 6 were similar to the first equation in lab 5.
+
+the other groups showed that the first equation in experiment 5 and the equations in lab 6 showed a linear relationship like ours did, and the second equation in experiment 5 was a power functions like ours. this helped us understand that we were correct on our interpretation of our graphs.
+
+
+
+4.we could improve our experiment by using a more reliable method of changing friction than magnets. the magnet setup we used was not very reliable or even. 
+
+5.there could have been random error in either of the experiments but since we had a machine to measure velocity vs time, our data was very accurate.
+
+6.the constraints on the system is that we couldn’t change the actual track to testing the coefficient of friction so we had to rely on magnets which was the best way to do that with our options.
+
+7. the two mathematical models were constituent with newtons second law and there was only some error in the first equations.

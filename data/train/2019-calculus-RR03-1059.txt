@@ -1,0 +1,9 @@
+discussion and conclusion:
+
+
+
+the question being researched in the lab is what variables affect the period of the pendulum. three experiments were done, one per hypothesis created by the team. the three variables that were believed to have affected the period are the length of the pendulum (figure 1), the mass on the end of the pendulum (figure 2), and the initial release angle of the pendulum (figure 3). each experiment used a set of common values to keep constant while the dependent variable was tested. this set of defaults are 42cm for the length, 45° for initial angle, and 50g for the mass. the length was discovered to be the only variable that affects the period which is shown from the error bars in the graphs not having an overlap. figures 2 & 3 have so much overlap that if there was an effect on the period it could not be considered due t the error.
+
+the theoretical model developed for the period of the pendulum was calculated from the data in figures 4 & 5. this data gave the model $t=0.0118 l + 0.7$ which when calculated, is near our actual data as seen in figure 5. the variables that did not affect the period were not considered for a theoretical model.
+
+the errors recorded in the first experiment are from improper timing of the periods. these were random human errors and therefore have bigger error bars. this error was combated by using a device and software to time the periods accurately. systematic errors in the experiment are from the device not being isolated and this allowed the environment to have an impact on the pendulum from air draft. this can be minimized by boxing off the pendulum. the only constraints in the lab are the amount of trials we could perform. with more data we could have developed a more accurate model.

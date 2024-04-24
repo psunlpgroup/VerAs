@@ -1,0 +1,17 @@
+discussion and conclusion
+
+the objective and main point of these two labs was to answer the question, how does the acceleration of a system change when the applied force changes? we hypothesized that the acceleration is impacted by the applied force on the system, in a linear relationship that is positive. for the first experiment, our hypothesis was proven to be right. due to the fact that, $a=\frac{f}{m}$ the acceleration (uncertainty given in data 1) (dv) is impacted by the hanging mass (uncertainty of +/- 0.05g) (iv) in a linear relationship that is positive. you can clearly see in figure 1, that the relationship is linear, based on the slope and the r^2 value. also, when looking at the graph you can see that the y-intercept suggests that there are more forces acting on the system other than the iv, hanging mass. this y-intercept could have been a result of a few experimental limitations. such as, a non-horizontal track or uneven air flow from the track. a lot of random errors could have taken place that altered our data as well. there could have potentially been a knot in the string, impacting the acceleration. in the future, we could use a new string to avoid it stretching (another systematic error) and then check to make sure it doesn’t have any knots. another random error that could have taken place is when we released the cart. there could have beena an added force that pushed the cart and played a role in the acceleration. to fix this, we could get better equipment or just have the same person release the cart everytime and try to be as consistent as possible. more systematic errors that could have happened during the experiment are not having a horizontal track and inaccurate measuring techniques/instrumentation. not having the frictionless horizontal track played an immense role in the y-intercept of our experimental equation, $y=0.0489 x - 0.0424$. looking at the other groups data, i agree with “half beard’s” (figure 4) summation equation, showing the forces that are present in this experiment. however, group kar (figure 3) stated that there is a known friction value. i disagree with this statement because the theoretical equation ($a=\frac{f}{m}$) estimates what the slope of the experimental equation will be, but does so by neglecting other forces such as friction, air resistance, and the angle of elevation of the track. 
+
+
+
+constraints is  not having frictionless track, this was a factor into the y intercept on our experimental equation. 
+
+findings of other groups agree is  i agree with group half beard’s (figure 4) summation equation. it includes the forces acting on the system. 
+
+findings of other groups disagree is  i disagree with group kar’s (figure 3) statement about having a known friction value. the y intercept is also composed of uneven air flow and angle of the track. 
+
+theoretical equational vs experimental equation; support? the theoretical equation ($a=\frac{f}{m}$) can estimate the slope of the experimental ($y=m x+b$) but does not include other forces like friction and the angle of the track. 
+
+correct enhanced equation? and support is  yes, the enhanced equation does include all forces on the system assuming that there is no friction. 
+
+heavy string is  if the string was heavy then it would cause friction between the pulley and also add mass to the system. the extra mass will cause the acceleration to increase while the extra friction will slightly decrease it, but the mass will influence the acceleration more.

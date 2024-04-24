@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+	the main purpose of these labs was to develop mathematical models that are able to describe the behavior of a real system while also understanding each variable and numerical value in the models. to create each model, we collected data and plotted it on a graph. by using the graph, we calculated a line for best fit for both sets of data. our first model had a negative slope, as seen on the graph. the second model had a positive slope, also evident in the second graph. the numerical values and variables are affected by the mass of the system.
+
+
+
+
+
+based on the two above whiteboards, our findings were similar to other groups. while the claims are not identical, they are similar to ours and strengthen our claims. 
+
+
+
+
+
+the average error of the sensor was plus or minus 0.013. other possible errors include random or systematic error, such as wear on the track. these could be reduced or eliminated by completing additional tests using alternative supplies. some constraints include only having one track and 8 bobbers and using only one sensor.
+
+
+
+our two mathematical models are consistent with newton’s second law. as we change the forces that are applied to the system, the acceleration also changes. similarly, when changing the mass, the sum of forces is changed and acceleration is subsequently changed. as seen in the graphs above, increasing applied force also increases the acceleration and increasing the mass decreases the acceleration. as a result, the mathematical models are consistent with newton’s second law.

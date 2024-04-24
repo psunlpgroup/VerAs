@@ -1,0 +1,15 @@
+discussion and conclusion
+
+the research question being investigated in this lab was, “for small swings, what impacts the period of the pendulum?” 
+
+experiment 1 helped address this question because it told us that the angle does not affect the period of the pendulum because the results from table 2 and figure 1 do not show a significant difference in any of the data. if the graph was zoomed out, the regression line would essentially be a linear line straight across.
+
+experiment 2 helped us address the research question because it told us that the mass does not affect the period of the pendulum. the results from table 4 and figure 2 did not show a significant difference in the data. when the regression line is put on the graph the r value is .203 which shows there is no significant difference in the data. the line is also horizontally across.
+
+experiment 3 helped us address the research question because it told us the length of a string does affect the period of a pendulum. the results from table 6 and figure 3 show that there is a clear correlation. the graph has a linear regression line with an r value of 0.998 which is close to 1 which is the perfect r value. 
+
+the theoretical model was $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. all of our models were not complete because gravity would have to be used, so we used gravity as a constant. the theoretical value of figure 3 was 1.42 and the curve that best fit this graph was a power curve. figure 2 and figure 1 both had a best fit curve of a polynomial curve.
+
+the errors that were present in the experiments were mostly human errors such as reaction time of timing and releasing and incorrectly measuring the length of the string. these errors are systematic errors. there were also many equipment errors such as a broken protractor, the stopwatch not counting, broken strings and the scale not being calibrated correctly to weigh the weight. all of those errors were random errors. these errors were reduced by having a photogate time the period of the pendulum. further human error could be reduced by having a machine release the pendulum and start the timer at the same time. the other errors, such as broken equipment, was reduced by use brand new equipment that was not broken.  
+
+there were a few constraints in this experiment. one was we only had 200 g of weight and the other was the length of the string could only go to around 320 cm due to the height of the system that was given to us.

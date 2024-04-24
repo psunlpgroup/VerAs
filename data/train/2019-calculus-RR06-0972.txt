@@ -1,0 +1,27 @@
+discussion and conclusion points
+
+	
+
+	the purpose of this lab was to show a relationship between how masses incorporated in a system can change the system’s acceleration. this was done by achieving mathematical models through data points gathered on the air track pulley system. by altering variables of the pulley system, the models changed and thus were better understood to what each variable meant and how it played a role in determining the acceleration of the system. 
+
+	the experiments conducted were quite similar and resulted in opposite results. the system has two places where mass could play a significant role is  the hanging weight and the moving cart. more mass on the hanging weight resulted in more acceleration of the system (gt1) while more mass on the cart resulted in less acceleration (gt2). the mathematical model of both proved to be relatively linear with a m variable that represents the mass as it changes. its apparent that one decreases as the other increases. while these results were good, there was more to test for. by altering the force of the system through a shifting angle, it was seen in d3 that the acceleration increases with an increasing force. g3 displays how the similar data slopes shift down with different slant angles. 
+
+	other groups proved similar results. for example is  
+
+
+
+
+
+
+
+
+
+
+
+the first being from group 7 and the second being from group 8, both whiteboards represent the same conclusion as our own. there model values prove to be closely similar as well, providing higher accuracy.
+
+	errors could be found in measuring bob mass accurately but that is simply from human error. systematically, there aren’t many errors possible but possible friction might not be accounted for.
+
+	in this experiment, the original masses of the hanging weight and the cart weren’t adjustable so that could affect a certain range of mass. the bobs were also a specific mass and not adjustable. 
+
+	the experimental models are true to newtons second law because adding mass onto the hanging mass is basically adding a stronger tension force which increases acceleration. adding mass to the cart is adding mass to m which increases making acceleration smaller. it all correlates to the equation.

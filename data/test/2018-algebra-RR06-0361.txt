@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+	how does the acceleration of a system change when the applied force changes? when applied force is increased our data and graph is linear and acceleration increases proportionally. this makes sense given that newton’s 2nd law, which states that the net force acting on an object is equal to the product of its mass times its acceleration. 
+
+factors could have caused our experimental model to disagree with the theoretical model of how the change of the acceleration is resulted by the applied force of the system. our experimental model suggests that not only gravity is acting on our cart. if the track was sloped at an angle the external forces would have to be considered. 
+
+we assumed gravity to be the only external force, but friction was present. 
+
+if we were to test a massless hanging mass the only force to cause the cart to move is gravity from the angle of the track. 
+
+the errors present were of 0.0001s from the photogate and to reduce the systematic error occurred we decided to test the system 10 times. 
+
+a constraint in mind is the angle of the track, to measure and make sure the track is flat to eliminate any errors.
+
+comparing both data from groups 4 and 6 were very similar to ours especially their experimental model. each group had a similar and near identical graph to ours. group 6 was a good reference to our data because they too took multiple trials.
+
+

@@ -1,0 +1,15 @@
+conclusion:
+
+	the purpose of this lab was to investigate the effects of applied forces on the acceleration of a system as well as the effects friction may have on a system.  the mathematical models developed for each part of this experiment help to show that there is a relationship between applied forces and friction, and acceleration from each of those factors.  based off of figure 1, it can be determined that there is a significant, positive relationship between the acceleration of a system and the applied force causing it to accelerate.  the more force there is acting on the system, the more the system will accelerate.  figure 2 shows a less significant, and negative relationship between the acceleration of a system and the total weight of the system.  the more mass there is on the system, the smaller the acceleration will be, but there will still be movement.  figure 3 shows a relationship between the amount of friction acting on a system and the amount of applied force acting on the system.  the mathematical models are all based from the slopes and intercepts of the graphs.  r^2 values for each experiment were approximately 0.95 or above.
+
+							figure 5 is  group’s mathematical model for 
+
+   magnetic friction  (below)
+
+
+
+the results in figure 5 help to verify that the results found in the tables and graphs above are accurate and the conclusions drawn from the data above are accurate.  the results in figure 4 go to show that even tilting the system will cause friction which strengthens the claim of friction having an effect on the system.  
+
+	if this experiment were repeated, errors to avoid include ensuring the string the bobbers are attached to has no knots or loops in it as this will have an affect on the calculated acceleration of the system, ensuring that there is little to no swinging movement from the bobbers as the track is turned on and off; the extra movement can have an effect on the system as well.  the bobbers has a tendency to swing between trials across all experiments and this can cause an unaccounted for force being exerted on the system.  
+
+	constraints in this experiment set include only having so many bobbers to conduct the experiments with, having only so many magnets, and having only one string to work with.  the first week of experiment, lab 5, the system was able to begin at 100 centimeters, but in lab 6, the system was forced to start at 60 centimeters because the strings were different across the weeks.

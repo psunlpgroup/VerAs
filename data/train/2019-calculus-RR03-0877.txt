@@ -1,0 +1,23 @@
+conclusion
+
+research question
+
+the question being investigated within this lab was what factor effects the period of a pendulum.
+the first independent variable investigated was the string length of the pendulum. the claim that was made was the more string length would require more time for the pendulum to complete a period.  this is supported by the data in tables 5 and 8 as well as figures 1 and 4. table 5 shows that when the string length was increased from 24 to 40.6 cm the time increased just under .3 seconds and when increased to 66 cm increased just under .3 seconds. figure 1 displays this data as a positive correlation. when further tested table 8 shows this same trend as well as figure 4, which displays the data for table 8 giving a mathematical model of $t=0.530777419733657$
+
+the second independent variable investigated was angle of release. the claim that was made is there is no correlation between an increase of angle of release and the time required for the pendulum to complete a period. table 6 and figure 2 support this as there is little change between the points as the angle was changed and all the points fall within the small error bars.
+
+the third and final independent variable tested was the mass at the end of the string of the pendulum. the claim that was made is there is no correlation between an increase of mass and the time required to complete the period of a pendulum. this is supported by the little to no change in time shown in table 7 as well as table 3 showing little to no slope in the table and all the points falling within the small error bars.
+
+as mentioned in point i in part b, the mathematical model was found to be $t=0.2546$ and the theoretical model for the period of a pendulum is 2.5(length(m))^.5 the model found fits the theoretical because the units when converted would be divided by 100 to find the length in m from the cm
+reading tape measure
+
+two people confirmed measurement
+
+lining up properly with the protractor
+
+two people confirmed measurement
+
+proper pressing of the timer
+two people running timers to limit possible inaccuracy
+some constraints of this experiment would be the time to conduct the experiment, if there was more time to do the experiment more factors could be tested and different values of the iv and dv could be tested.

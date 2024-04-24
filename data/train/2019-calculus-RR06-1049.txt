@@ -1,0 +1,14 @@
+conclusion
+
+the purpose of this lab was to develop a mathematical model based on a real system and to understand the variables and numerical value in the model. this was achieved by determining the impact of applied force and a magnetic force on acceleration. to do this, a mathematical model was created in each scenario is  hanging mass, mass of glider, and magnetic force.
+
+in testing the hanging mass, the model that is expressed in figure 1 is a polynomial. it should be a linear equation is  $a=\frac{f}{m}$. the data in table 2 still fits that equation but had a high r^2 value for multiple fits. as the weight of the hanging mass increased, the acceleration increased. the linear model of figure 1 is $y=2.8 x + 9.3$. the y-intercept is gravity.  in testing the mass of the glider, $a=f m^{-1}$ was the model derived from this experiment. the acceleration decreased as mass increased.  the power model $y=2.8 x^{0.09}$. the third experiment shows that as friction is added to the system, the friction decreases the acceleration as seen in figures 3-5. 
+
+
+group 1’s the y-intercept is decreasing which shows that the acceleration decreases as friction increases.
+group 2 did not present any numerical data and arrived at a vague conclusion. if their conclusion is interpreted that as the mass increases, the acceleration decreases, that would be inconsistent with our data (see tables 6-8).
+systematic errors present in the lab present in the lab could be the scale. another systematic error was during lab 6, the second trial had uneven magnets on the sides. one side had one magnet while the other had two. this would lead to an uneven force on the glider that would impact the data by slightly decreasing the acceleration but not significantly. random errors present in the lab include measuring the glider and bobs(mass) on a manual scale. this led to estimations of mass that could be too high or too low. in the future, the lab should be done with even magnets on each side and a digital scale would eliminate the random errors of a manual scale.
+
+some constraints of this experiment may have been the magnets. they had to be taped on, so the force wasn’t that strong and the placement if the magnets. ideally the magnetic force would be throughout the glider and not just one or a few spots.
+
+as discussed above, the mathematical models derived from lab 5 aren’t consistent with the theoretical equations but the data would be able to fit with the equations. the ideal mathematical models would be $y=2.8 x + 9.3$ and 2.8x^0.09. these somewhat align with the theoretical models by including the force and the inverse of the mass.

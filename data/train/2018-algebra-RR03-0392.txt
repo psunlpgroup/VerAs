@@ -1,0 +1,13 @@
+
+
+figure 7: 
+
+lengths were chosen over a large range in order to receive a large range of data. the length of the period was recorded as follows. a graph of the data was created with the dependent variable of time on the y-axis. error bars where placed at +/-.0005 given that the timing device measured to 0.001 seconds. 
+
+*note is  error bars are had to see given such a small standard error, and a strong correlation between the variables. 
+
+following this final trial of the hypothesis that there is a correlation of the length of the pendulum to the period of the pendulum, we were able to confirm our data form the prior experiment, as well as improve the accuracy/precision of our data. given the graph in figure 7, you can the positive logarithmic correlation between the length and time. such that when the length of the pendulum is increased, the period of the pendulum increases as well with respects to some logarithmic function. using this data and with the aid of our ta, a theoretical equation was able to be produced, the equation is as follows, $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. where t is the period of the pendulum, l is the length of the pendulum, and g is gravity with a known value of approximately 9.81m/s^2. this equation further confirms our conclusion that as the length of the pendulum increases, the period increases. 
+
+deviations in the data can be accounted for given both random and systematic error. the systematic errors in this experiment could arise form the weight not being completely calibrated and labeled correctly, the stop watch not being calibrated, or the timing device in the third lab not being calibrated correctly. random errors could arise from incorrect reads on the protractor, exact timing on the period being read wrong, and no averages being taken. to reduce the systematic errors, the weights to be reweighed, and multiple timing devices could be used. to reduce random error, more trials could be run, allowing for an average to be taken. 
+
+during the course of this experiment, many constraints came up. the largest of those being a time constraint. not having enough time to run multiple trials over many differing values could cause the generalizability to be lowered. another constraint would be the equipment that was available for use. given that most equipment was not up to date, this could cause a deviation in the generalizability of the results.

@@ -1,0 +1,11 @@
+conclusion:
+
+ in this lab we were trying to figure what variables affect the period of a pendulum and so we tested the weight, angles and length of the string.
+
+in the first lab we tested the weight of the string and all we found was a linear line which is not what it was supposed to be and in the second lab we tested the angle on the pendulum which again left us with a linear graph. after the first two experiments we thought that the third graph would be linear as well, but our hypothesis was wrong and the third graph ended up being exponential. 
+
+ our equation to our final graph was $y=2.1382 x^{0.4112}$. this equation fits our line well and is a lot more accurate than our first two graphs that were linear. turns out the only thing that changes the period of the pendulum is length, but weight and angle did not have the same outcome. 
+
+the only kind of serious error that we had was that the first 2 graphs were linear and we fixed this by switching up the independent variable and we fixed it by doing more total trials and by lengthening the string.
+
+if we would have gotten more time in class to do even more trials then we would have been able to get closer and closer to the actual exponential equation but we came pretty close in the time that we did have.

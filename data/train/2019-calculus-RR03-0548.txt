@@ -1,0 +1,16 @@
+discussion and conclusion
+
+	 in our first graph, we investigated the relationship between the mass and period of a pendulum. we predicted there to be a relationship between the two such that the period of the pendulum increases as the mass increases (with the release angle being 45 degrees and the string length being 50 cm).  however, we found there to be no relationship as there is no correlation in the graph.
+
+	
+
+in our second graph, we investigated the relationship between the release angle and period of a pendulum. we predicted there to be a relationship between the two such that the period of the pendulum increases as the angle gets higher (with the mass being 50g and the string being 50 cm). however, we found there to be no relationship as there is no correlation in the graph.
+
+	
+in our third graph, we measured the relationship between the string length and period of the pendulum. we predicted there to be another relationship between the two such that the period of the pendulum increases as the string length gets longer. this time, we did find there to be a relationship as there is positive correlation in the graph and a positive trend line slope.
+the theoretical mathematical model for the period of a pendulum is $t=1.41067359796659$. our equation ($t=2.14 x^{0.41}$ is relatively similar to this equation which means that our data is accurate, for the most part. two of our initial predictions about the release angle and mass of the pendulum affecting the period of the pendulum proved to be inaccurate as string length is the only variable that did affect the period. our equation proves the previous statement to be true.
+
+	
+ the only error that seemed to be apparent was human error while we were taking measurements. we tried to be as precise as possible, with 3 group members using the stopwatch and averaging out all 3 measurements for each trial to get as accurate of a measurement as possible. it really came down to trying to be as perfect as possible with each trial and having the constants be exactly what they should be (releasing from exactly 45 degrees, the string length being exactly 50cm, and the mass being 50g). the photogate also helped reduce error tremendously as it knows exactly when to start and stop.
+
+the only constraint during this experiment was really the space that we were given. we were not given much space to run our trials and i feel that if we were given more room to test on a bigger scale, then we could have potentially received more accurate data and gotten a better understanding of the trends.

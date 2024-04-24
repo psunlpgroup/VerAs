@@ -1,0 +1,11 @@
+discussion and conclusion
+
+research question: what impacts the period of a pendulum?
+
+the first experiment tested all three hypotheses created for the three independent variables. the second experiment tested the amount of error in the first experiment. for the third experiment, we had discovered that mass and angle do not affect the period of the pendulum, so we tested the effect of the length of the string using the photogate.
+
+the mathematical model was determined by using the equation from the line of best fit from our tests, which proved our claim that the length affects the period of the pendulum with a power function. because the formula for period of a pendulum does not include angle or mass, these factors have no effect on the period.
+
+there is a random error with the timing while using a stopwatch. there can be inconsistency with the point that is used as an indicator for when to stop the stopwatch. we reduced this error by using the photogate. another chance of random error is the angle that the pendulum is dropped on the horizontal, causing rotational movement. this could be reduced by lining up the string with a base before releasing.
+
+we had a limit of 210 grams. while we discovered that mass did not affect the period, we were still limited in the amount of mass we could use.

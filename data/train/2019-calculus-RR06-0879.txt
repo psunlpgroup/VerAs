@@ -1,0 +1,21 @@
+conclusion:
+ the purpose of this lab was to develop mathematical models which describe how acceleration is impacted by the overall force and mass of a system as well as to develop mathematical models for how to develop an understanding for how different angles of elevation will impact the acceleration of a system.
+
+
+the three experiments lead to the resulting mathematical models since our in experiment 5, for each experiment, my group increased the mass/force on each respective block for each trial then recorded the force/mass and acceleration in a table in excel. from this data, we then formed a graph in excel with force/mass on the x-axis and acceleration on the y-axis, plotted a trendline, then took the equation from the trendline to make our model. in experiment 6. we increased the angle of elevation of the track by 0.3 cm each time on each end. from here, we took readings for both negative and positive values of acceleration then and created tables for each angle of acceleration while holding mass constant. we then plotted the equivalent forces and acceleration on the same graph (1 graph for positive angles, 1 graph for negative angles), then created a trendline and formed the equation based off these trendlines in order to create our mathematical models. hanging weight as independent variable addresses the research question because as the weight increases, the overall acceleration will increase as well.
+
+
+
+  the results from these two other groups contribute to our understanding of what the numerical values in our models represent because it helps us to confirm that the slope values represent the amount the acceleration will increase with every newton of force that is applied to the system. from the models, we can see that while the track has a negative elevation angle, the acceleration will change less per newton of force than when the track has a positive angle of elevation. the picture on the left is from group 2 and the picture on the left is from group 4. group 4 data does not support our claim because their data is uncorrelated. group 2 data does support our claim because their data also shows that there is a positive correlation between force and acceleration, 
+
+
+
+ the errors in this experiment included, but are not limited to, errors in taking the mass of each mass that was applied to the hanging mass or errors in applying mass to mass 1. these random errors can be reduced by recording the mass of each individual mass more than once and then averaging the masses and by using more caution while applying the mass to mass 1. systematic errors in this experiment could be the calibration of the balance that was used to take the mass of each individual bob could’ve been off. this could be reduced in the future by ensuring that the balance is calibrated before we start recording mass data.
+
+
+
+ constraints in this experiment include force tested only going up to 391.08n, mass only going up to 400g, and elevation heights only going up to 0.9 cm and down to –0.9cm. due to these constraints, claims made in this lab can only hold true for when forces of less than or equal to 391.08n, masses of less than or equal to 400g and elevation heights of –0.9cm to +0.9cm are being tested. 
+
+
+
+ our two experimental mathematical models are consistent with newton’s second law, $f = m a$ because as the mass and acceleration of the system from experiment 5 increased, the overall force did as well. the same holds true for experiment 6 despite the angles of elevation changing. while the overall mass and acceleration changed, so did the force of the system for each angle of elevation tested. however, we see from the models that for negative angles of elevation, the acceleration changes less per newton of force than it did for positive angles of elevation. this is due to the negative angles of elevation working against the acceleration due to gravity. using the equation, $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ is exemplified in the lab because our data exemplifies a positive correlation between the mass of the system and acceleration of the system. if a heavy string was used to connect the two blocks, the acceleration would not cane because the system mass does not consider the mass of the string.

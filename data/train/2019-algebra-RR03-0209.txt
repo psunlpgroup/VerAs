@@ -1,0 +1,16 @@
+discussion.
+
+
+
+the research question we were addressing is: what effects the period of a pendulum? to address this question, we tested the three variable that might have an impact on the period is  the mass of the bob, the angle at which the pendulum is released and the length of the string that attaches the bob to the mount.
+
+
+
+	in our first experiment we addressed the mass as the iv (see table 1.). we tested whether the period length the dv, changed when you change the mass of the bob. in our experiment we did see some change in a seeming pattern, but when considered more closely the difference is so small it can be attributed to error (see figure 1.). this is true when the angle and length are kept constant and within the margin of error.
+	in our second experiment we addressed the angle as the iv (see table 2.). we tested whether the period length the dv, changed when you change the angle of the release. in this experiment we also saw some change in a seeming pattern, but when considered more closely the difference is so small it can be attributed to error (see figure 2.). this is true when the mass and length are kept constant and within the margin of error.
+
+	the finale experiment we did address the length of the string as the iv (see table 3.) and the period as the dv, to see if the period changed when the length changed. this experiment was conducted twice in slightly different ways. the first time we used stop watches to find the period of the pendulum, and the second time we used a photogate. we also repeated the experiment with a larger number of iterations and more variation the second time. this being said the second round should be more exact, so this is what we are considering here. there is an effect on the period when you change the length even if the mass or angle is not kept constant the equation, we got for the relationship is $y=1.0030472 x$ which is extremely close to the theoretical model which is $y=1.003855 x$ .
+
+
+there are always things that can be done to increase accuracy but in the case of this experiment there are not many things that are possible to do in a reasonable lab setting. you can double check equipment and decrease air flow but otherwise there is not much because the only errors that can effect this experiment are the room conditions the human taking the measurements and the tools being used.
+	there are a few constraints on our results is  the composition of the air should be approximately the same, the friction should be standard. and the gravity should be standard as well.

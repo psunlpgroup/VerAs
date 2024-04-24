@@ -1,0 +1,17 @@
+discussions:
+
+experiment 1 and 2: independent variables of the different tests are for each graphs:
+
+
+rs question is  does changing the length, increasing the mass or changing the angle of release effects the period of the pendulum?
+
+
+	it appears hat hypothesis 2 and 3 are wrong and that increasing or decreasing the iv does not change the period of the pendulum much when looking graphically and mathematically. increasing the length of the string however did increase the period therefore hypothesis one was true while the other 2 were disproven. with the different error bars and trends that were included in the experiment 2, it showed more evidence of support or denial of hypothesis. with the error bars an trendlines, graphically it shows that changing the mass and changing the angle of release has no correlation. they are within each other’s error bars therefore have no trend. this proves our hypothesis 2 and 3 wrong and that the change of angle of release and mass does not affect the period. however, the hypothesis 1 was proven true being not within the range of the error bars and showing there is a trend. 
+
+there could have been calculation and input errors. human errors and not being careful enough. to fix these errors, we are to be more careful with our calculations and also be more tedious and double checking when doing the experiment. also having a more steady hand to release and ctonrol the timer and or pendulum.
+
+research question is  what is the relationship between the length of the string and time?
+
+from the lab tests and gathering data of the different trials done with the changing of the length of the string while keeping some variables constant throughout the test. we find that the length of the string is indeed a determining factor in the length of time for the period of the pendulum. once determined, we compared our results and imported the data into a excel spreadsheet to get a graphical model with error bars and a trend line. we got a equation with the trendline and data imputed into the equation corresponds to the graph graphically. our mathematical equation is supposed to be relatively similar in getting same results as the theoretical model.)  the results we got should have matched, but we got different numbers and running through numerous trials and working with excel provided us with the wrong set of numbers. therefore, there was a error in the systematic setup or more excel itself. from the information we gotten, the results of mathematical and theoretical are fairly different and not similar to each other. theoretical is more what could be the possible outcome while as our mathematical is our outcome. we determined that the length of the string indeed is a changed in the period of the pendulum.
+
+human errors definitely happened with maybe not correct string length and or calculating and formulating the mathematical model and using the theoretical model to answer questions. another error is pendulum possibly hitting something or not going back and forth, but maybe circling back and forth. there were systematic errors with the set up and excel that happed to. to fix the errors, we are to be more tedious and careful with our work and double check calculations and measurements.

@@ -1,0 +1,11 @@
+conclusion:
+On the 24th we started by stating a hypothesis that only the length of the pendulum would affect the period of the oscillation’s. In this test we were looking at three independent variables of weight, length of string, and the angle of release. For each of these test we changed one of the variables but kept the other two constant throughout the rest of the experiment so they would not have an affect on the other test. We also had a dependent variable of time. Following are our three graphs of the three different test. The first is a regular graph and the second has error bars. 
+After looking at these different graphs we were able to prove that our hypothesis was correct. The mass and the angle had no correlation on the change of the time of a period. 
+On January 31 we got back together and looked at our data and looked at some of the possible errors and did more test of our graphs. These are some of the errors that we could think of . Stop watches being “eyeballed”, In-exact angles, we’re only human after all ,Friction/air resistance played a part, Elasticity of the string, particularly as weight increased , Time of release (point, and timing)
+	On our last day of February 7th we did one last test to show a better correlation between our Hypothesis and what our data showed. In this test we used a laser sight to measure the time the pendulum took to make 1 full oscillation.  That got us this table.
+
+This is the average period of 10 swings.  We then used our error bars and set them to .001 because that is as close as our photogate could go.  
+Here is the graph with our equation and our R^2 value
+
+
+After seeing this we knew that our hypothesis was correct. We concluded that in this experiment the only variable that directly correlates with time is the length of the string in the system. Therefore, we were able to release the pendulum at different angles and not worry about it hurting our data.

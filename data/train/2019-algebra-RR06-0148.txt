@@ -1,0 +1,15 @@
+discussions and conclusion:
+
+the purpose of lab 05 was to try and prove if any of the independent variables that we tested had any impact on the mathematical models and their values. in lab 06 the purpose was to show and prove that we knew which values meant what in each mathematical model
+
+all 3 experiments (lab 5 and 6) were all used to show how changing the independent variables have a direct impact on the mathematical models. our mathematical equation was in the form (c1*f+c2). if we compare this to the general form of newtons second law, we can see the c1 is consistently effecting the result. throughout the experiment we realized our c1 value was slightly decreasing and it was the opposite for c2.
+
+  to the left you can see an example of another groups findings, in this case it was group 1. we were only able to get one picture due to other groups erasing their findings. however, it was nice to compare this groups work with our considering they tested the same independent variable. there were two big differences in our experiments would be the mathematical values we got and the final conclusion. for example, they said that friction does not play a part in slowing the acceleration, we said the opposite. the values in front of the x followed the same pattern as us though. as the magnets were increased, the number slowly decreased, suggesting that it does slow it down. 
+
+systematic errors- a few systematic errors we had was the string would come off or slip on the wheel therefore the acceleration may have been off. another was the magnents shifted or fell off during the run so it was not consistant
+
+random errors- one random error was a few times i may have turned the vacuum off before it had stopped completely and that made it slow. if i had left it on until it came to a complete stop i could’ve avoided this error. 
+
+the biggest constraint we faced especially in lab 6 would be the amount of magnets we could fit onto the cart. the 4 “sticks” that the magnets were on really limited what we could fit on there therefore the impact of them on the acceleration of the cart was minimal. if there was a way to add stronger magnets and still save space, that would be ideal. 
+
+the sum of the forces in the x direction are equal to the mass of the system multiplpied by acceleration. this statement is true for both of our experiments because the force is only made up of the two parts of what we were testing, the mass which we were changing and the acceleration which is what we were looking for.

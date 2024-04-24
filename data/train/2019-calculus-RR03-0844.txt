@@ -1,0 +1,15 @@
+conclusion
+
+in these labs we were trying to determine what affects the period of a swinging pendulum. the three factors that we determined to be testable were the mass of the pendulum, length of the pendulum, and the release angle.
+
+in our first test we kept the release angle and the length constant while adjusting the mass of the pendulum. we had predicted that adding additional mass would not affect the period of the pendulum and we were correct. our graph displays overlapping error bars which gave us zero correlation between mass and the period of the pendulum.
+
+in our second test we kept the mass and length constant and varied the release angle. we predicted that angles under 20 degrees would not affect the period but that angles greater than 20 degrees would affect the period. this is exactly what our experiments, tables, and graphs ended up showing us.
+
+in our third and final test we kept the release angle and mass constant while we varied the length. for this test we predicted that lengthening the pendulum would cause an increase in the period. when we ran the experiment, this is exactly what we saw.
+
+the mathematical model for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. this fits with what we discovered in our experiments. our testing showed that mass and release angle under 20 degrees do not affect the period and there is no variable in this equation for these values. however, length is positively correlated which can be derived from the equation and from our test results. this is because gravity is a constant here on earth so this would not necessarily be true if you ran the test here and then ran it again on the moon.
+
+the random errors that we believe could have affected our tests were not being completely accurate with the release angle and not being completely accurate with measuring the length of the pendulum. another random error from the first lab would have been the time from the stopwatch but this was removed in the next lab when we used a photogate. we could have removed more of the random error from the angle of release by having one person watch the release angle while another person actually held the pendulum.
+
+in summary, we believe that our test results on what impacts the period of a pendulum were very thorough and neatly fit the mathematical models given.

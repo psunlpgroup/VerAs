@@ -1,0 +1,32 @@
+discussion and conclusion:
+
+this experiment showed what we originally thought was a linear relationship between string length and period.  this is about what we expected based on prior knowledge of physics.  however, in our final experiment we retested this theory and found that a power function more accurately described the relationship.
+
+
+this experiment confirmed our prediction that the mass would not affect the period of the pendulum.  we can say this because the slope of the trend line is a negligible quantity (essentially equal to zero), meaning that as mass increases there is no change in period.  any change that was seen in this experiment was mostly caused by random error.
+
+	based on the results of this experiment, we concluded that there was a linear relationship with a negligible slope, as we had in experiment 2.  during our error analysis (on 1/31/19), we realized that the relationship was actually a direct proportion between period and angle.  at small angles, which we took to be between 0 and 30 degrees, the angle does not affect the period.  at larger angles (between 30 and 90 degrees), however, air resistance becomes a larger factor, causing this linear relationship.  we did not test angles greater than 90 degrees because the mass would not have followed the path of a pendulum, throwing off our data.
+
+
+	this means that our data would show that 68% of the results of this technique are within a range of 0.0414 of our mean value (1.635 ± 0.0414).
+
+
+
+
+
+
+once again, the results of this experiment showed an increase in the period of the pendulum as the length of the string was increased.  this time however, as mentioned in the experiment 1 discussion, we realized that a power curve was a much better fit for our data, having an r^2 value of 0.9992 instead of 0.995.  this accurately reflects the actual equation which relates the length of a pendulum to the period is 
+
+$t=2 \pi \sqrt{\frac{l}{g}}$
+
+essentially our equation was of the form is 
+
+$t=k l^{a}$
+
+where k is a constant that is in some way derivative of 2π divided by the square root of gravity, and a is a constant which is close to 0.5.  thus, our mathematical model accurately represents the formula.
+
+	most of the random error in our experiment was caused by human lack of precise reflexes when hitting the start/stop button on the timers.  we minimized this error by performing each test for a given data point two times, as well as using two timers, giving us four measurements.  by taking an average of these six, we can safely state that our overall measurement is closer to exact.
+
+	we found it difficult to accurately measure the length of the string.  the angle at which we had to do so made it very awkward.  i would call this systematic error since it was not the measurer that was being imprecise, rather it was the setup of the experiment that prevented us from getting an accurate measurement.  namely, the fact that the mass of the bob stretched the string, and that it was difficult to estimate the center of mass of the bob.
+
+	our experiments showed that string length is the key factor in the period of a swinging pendulum.  their relationship resembles a power curve with degree  0.5.  we also showed that the mass of the bob and the angle have almost no effect on the period at small angles, however due to the presence of air particles and friction, higher angles show a correlation with an increased period.  with the initial question of what affects the period of a pendulum in mind, we can safely state that the key factor is the length of the string.

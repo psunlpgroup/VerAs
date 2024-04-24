@@ -1,0 +1,8 @@
+conclusion:
+During this experiment several variables were tested to see if any of the following variables would change the period of the pendulum swing. These tested variables are the mass of the pendulum, the length of the string, and the angle of release. The first variable tested was the mass. 
+
+As Table 1 shows the experiment started using a 50 cm long string at a release angle of 20 degrees. Mass was the independent variable for this portion of the experiment, and during the three tests performed the mass was changed from 50 to 150 and finally to 250 grams as shown in Table 2 below. 
+
+	The time of the period changes slightly, but it does not change in a way to draw a conclusion and is most likely caused by human error. The following phases of the experiment were not able to be completed due to time constraints however, data was given to show that of the three variables the only one that affected the period was the length of the string. 
+
+	The point of this experiment was to discover what factor changes the period of a pendulum. The random error that may have occurred while taking measurements would have come from human error in taking the measurements and systematic error in improper setup or imprecise measuring devices. Controlling random error can be done by having more than one person look at measurements and taking the average of multiple readings.

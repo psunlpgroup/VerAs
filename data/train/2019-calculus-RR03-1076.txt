@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+the purpose of these labs was to determine which of the independent variables (length, mass, and angle) influenced the period of a pendulum.
+
+in the first experiment, the three independent variables were generally tested in order to reach an understanding of which one of the independents had an impact on the period of a pendulum. from this experiment, it was concluded that both length and angle affect the period of a pendulum. according to figure 1, length is shown to have a positive correlation confirming the impact length has on period. in figure 4, it is demonstrated that angles less than 20 degrees have no correlation and therefor no effect on period, but for angles greater than 20, there is a positive correlation proving that large angles have an impact on period. in figure 3, mass is proven to have no correlation and therefor no effect on period due to overlapping error bars. 
+
+
+
+in experiment two, the measurements from our first experiment were used to analyze how precise and accurate our measurements were and methods that could reduce error were explored. with the addition of standard of deviation and error bars on the graphs, it was much easier to recognize whether the tested variables influenced period. 
+
+
+
+in the third experiment, another set of measurements was taken with a photogate to eliminate human error due to reaction time when recording time. the photogate gave both precise and accurate measurements of period per varying lengths by completing multiple trials and computing an average of the time. a mathematical model was acquired from figure 2. the fact that the r^2 from the best fit equation is extremely close to one can confirm that the numbers are both precise and accurate portrayals of the relationship between length and time. 
+
+the theoretical mathematical model for the period of a pendulum is  . the coefficient can be found by  which comes out to 2.007. the experimental model from figure 2 would output a coefficient of 1.9933. the numbers are close together further proving the accuracy of the experimental model from figure 2. only angles less than 20 degrees were tested to create the mathematical model. masses, and angles less than 20 degrees have no effect on period and therefor are not represented in either mathematical models. 
+
+random errors were present in the experiments conducted before the use of the photogate. due to a person’s reaction time, the period measured by use of a stopwatch could be either slower or faster than it is. another random error could be in the measurement of the length of the string to the pendulum’s center of mass. the person in charge could easily measure slightly higher or lower than the pendulum’s actual center of mass. random errors were reduced by completing multiple trials and calculating an average time. random errors were reduced further using the photogate in a later experiment. if the tools used were misshapen or uncalibrated, then there would be systemic/one-sided errors.
+
+during the experiment using the photogate, angles were not accurately measured to be below 20 degrees. also, the string that was attached to our pendulum was unable to go to two meters, hindering the ability to experiment with a wide range of lengths.

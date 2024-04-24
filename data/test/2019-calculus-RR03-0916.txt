@@ -1,0 +1,21 @@
+discussion:
+
+there is a negative correlation between the weight on the string and the period of the pendulum. as the weight increases, the period of the pendulum decreases
+
+we are confident in our results because if we look at the data tables, you can determine that the times have a small standard deviation. in addition, all the data points fit the trend of the graphs and the data follow a negative linear path.
+
+if we could control the tension of the string, we would be able to eliminate errors and impact the period of the pendulum 
+
+accuracy of weights, we can not determine if the weights were exactly as heavy as said to be. we could prevent this error by weighing the weights prior to using it in our experiment
+
+the effects of different angles of release on the period of time it takes a pendulum to swing
+
+as you increase the angle of release, the period it takes the pendulum to swing will be greater
+ the smaller the angle of release, the shorter the period of the pendulum
+how will different angles of release effect the period it takes the pendulum to swing
+there is a positive correlation between the angle of release and the period of the pendulum.
+as the angle of release increases, the period of the pendulum increased
+straightness of string, we could have made sure the swing was straight to avoid errors by using an electro magnet which would allows us to get more consistent releases 
+protractor inaccuracy, the angle could be off by a few degrees each time due to the inaccuracy of the protractor.
+our mathematical model produced from our lab data does support the theoretical equation
+based on our results and the results of another group, we can determine that the data points fit the data well, so we are confident in our mathematical model. our r^2 value we calculated was 0.9936 which is really close to 1. this means that the variance of the actual point and the line of best fit is small

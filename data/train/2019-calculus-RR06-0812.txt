@@ -1,0 +1,12 @@
+conclusion:
+
+	the purpose of the labs were to describe the behavior of a system while learning to understand what each variable meant, along with its numerical models. the purpose was to also learn about what affects the acceleration of a system and whether the location of a set of magnets would. the experiments conducted in the experiment with the hanging weight as the independent variable demonstrated that with an increase in the hanging mass, the acceleration of the system does increase. when looking at its graph, it can be concluded that there is a positive correlation between the hanging mass and acceleration. in terms of its validity, it is very certain that it is true because the error bars are too tiny to even be seen. the same can be said for the other two experiments, as their error bars were also very small. from the magnet location experiment, it can be concluded that the lower the magnets, the less the acceleration.
+
+
+
+the results from this group slightly contrasted ours, as theirs seemed to be harder to draw a conclusion from. it can be said that their experiment had too much error.
+
+
+group 2 had data that was more similar to our data. from this, we could make the conclusion that as the friction increased, the acceleration decreases, demonstrated by the b value growing closer to 0 as friction increases. 
+
+	potential errors that might have affected the experiment would be air resistance. air resistance, being a systematic error, would have slowed down the cart’s acceleration. by carrying out the experiment in a vacuum, this error could be avoided. another error would be measuring the masses incorrectly with the triple beam balance. this could have thrown our results either way depending on how far off the mass was. to eliminate this error, a more accurate and precise balance could be used to measure the mass. constraints of the experiment would be time, as we were only given two hours to work on the experiment. another constraint would be the equipment being used, as it was difficult to make precise and accurate measurements with them. the mathematical models are consistent with newton’s second law, as they demonstrate all the forces being acted on them. the mass of the system may be constant, but the force of friction and hanging mass were easily factored into both models, demonstrating newton’s second law.

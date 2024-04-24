@@ -1,0 +1,10 @@
+conclusion:
+The purpose of the lab was to determine whether the hanging mass had an effect of the force on the cart. Our research question was is  how does the acceleration change when the force is changed? 
+The tables and graph provided show that the hanging mass directly effects the acceleration, which in turn directly effects the applied force. In other words, the heavier the hanging mass, the higher the acceleration, and the higher the applied force. The graph provided shows that our mathematical model is $y=11.68 x - 0.4516$. This model is incorrect, and we worked with the TA to figure out why our P-value was incorrect, but our y-intercept should still be roughly correct.	
+
+
+	The data found by these groups differs from our data since our mathematical model is incorrect, but they agree with the rest of the lab’s data.
+One of the forces present, other than the mass of the hanging weight, was the mass of the cart itself. This shows up in our experimental model as the weight of the entire system. Since we considered the weight of the string holding the hanging mass negligible, a heavier string would have influenced the acceleration, not only by adding more weight to the system but by also creating friction.
+Possible systematic errors that could have occurred during this lab are that the rotary 
+motion sensor could have not picked up an accurate speed from the cart, as well as the DataStudio could have not accurately obtained the proper acceleration values. If the acceleration values are inaccurate, then the values of the Forces will also be inaccurate. The uncertainties provided in the charts were calculated from the numbers provided in the pre-lab.
+	In our experiment, we had to use a different track week two than we used during week one, which could have impacted the results that we found. Other constraints include the possible systematic errors, as well as the fact that we considered friction negligible even though it may have had an impact.

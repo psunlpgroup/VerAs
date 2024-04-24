@@ -1,0 +1,9 @@
+conclusion
+
+in conclusion we found that when a force (hanging object) had an increase in mass the cart’s acceleration will increase. the theoretical equation for that w$a=c f + c$ the r squared value was close to 1 which meant we were very accurate. for the second experiment when magnets are applied onto the cart it causes friction between the cart and the track which resulted in a slower acceleration. again our r squared value was near 1 so that meant we were accurate.  
+
+
+
+errors is 
+
+i believe there were few errors due to the accuracy of the equipment. one error could be human with the weighing of the fish bobbers. random errors were reduced because of this. maybe not the same amount of air was used as previous or future trials. there could be a mix up in recorded numbers. these errors would be small and human error though which explains the .99 r value.

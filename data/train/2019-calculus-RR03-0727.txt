@@ -1,0 +1,39 @@
+conclusion
+
+
+
+research question: what impacts the period of a pendulum?
+
+
+
+
+
+claim 1: there is a positive correlation between string length and the period of the pendulum. this trend can be seen in the above graph since the dependent and independent variables increase together.
+
+claim 2 is  there is a positive correlation between angle of release and the period of the pendulum. this trend can be seen in the above graph since the dependent and independent variables increase together.
+
+claim 3 is  there is no correlation between the hanging mass and the period of the pendulum. this trend can be seen in the above graph since there appears to be no obvious pattern in the data.
+
+when analyzing possible factors for impacting the period of a pendulum, the most common would be mass, angle of release, and length of the pendulum.
+
+in lab experiment 1, we were tasked with determining these possible factors that could affect a pendulum’s period. through taking measurements, testing values, and collecting data, we analyzed and compiled tables and graphs to depict trends in behavior between the independent variables, mass, angle, and length, with the dependent variable, period. with the data, we made claims about each of the three factors. 
+
+in lab experiment 2, due to weather related incidents which cancelled class, our group independently worked through the online make up. during this, i was able to simulate, using online software, the period of a pendulum. i was able to adjust values, such as, mass, angle of release, and length. this experiment addressed the research question, by allowing us to see trends in error bars on graphs. also, in the lab, i identified the difference between random and systematic error, and how this affects the period. seeing the large error bars for mass meant that it was uncertain to confidently claim it has an affect on the period. on the other hand, with angle of release and length of the period, the error bars are small and not overlapping, meaning these two independent variables impact the period of the pendulum.
+
+in lab experiment 3, we created mathematical models to prove the independent variable, length, affects the dependent variable, period. collecting more data, we made claims and created another table with multiple trials with multiple string lengths, and compared them to that of other groups, and their claims. we were able to determine that our mathematical model was close to the theoretical model for calculating the period of a pendulum. however, the ideal pendulum equation and our mathematical model were not perfect. so, to reduce this error, we concluded that running more trials would be necessary, as well as, using an even wider array of values for length. 
+
+
+
+
+
+using the theoretical mathematical model for the period of a pendulum, it is predicted that the period for a pendulum of length 0.50 m would be 1.42 seconds. this value was found by plugging the length of 0.50 m into the equation is  2*pi*(square root(length/gravity)). the experimental value for the pendulum based on the trendline of our graph would be roughly 1.58 seconds. this experimental value is 0.16 seconds larger than the theoretical value. the reason that mass and angle of release are not within the equation for the theoretical model is because they do not show, through tests and graphing of data values, positive correlation with the period. however, concluding from our data, we determined that angle was positively associated with period. this was false; only in the occasion of using large angles, which we did test, would there be a small amount of correlation to impact the period. 
+
+
+
+a random error in these experiments was the use of a tape measurer to identify the length of the string we were using for the pendulum. a tape measurer is not capable of measuring very tiny increments. another random error could include the use of stop watches when timing the period of the pendulum. a stop watch is not capable of measuring the period of the pendulum to the thousandth or even ten thousandth second. as well as recorder’s reaction time is not perfect. as soon as the pendulum is released, there is a delay in when the stop watch is started and stopped. the random errors can be reduced by collecting more data. over time, the error is minimalized by taking more and more data, thus creating a more accurate representation of the data.
+
+a systematic error in these experiments was the use of the triple beam balance, which over years of use, may be inaccurate, causing all our weight measurements to be off their true value.
+
+
+
+some constraints in this experiment that may have limited the generalizability of my results would be the measuring devices. however accurate they may be, they will never be ideally perfect to calculate the theoretical period of a pendulum to one hundred percent accuracy. as well as, the string provided was not adequate in measuring a hypothetical pendulum length of 20m, 40m, 60m, etc.

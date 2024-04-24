@@ -1,0 +1,11 @@
+conclusion for mass:
+
+the question that was asked in this experiment for this variable is, will the mass affect the pendulum swing. 
+
+the results of our data have answered the research question. the answer is that it doesn’t affect the pendulum swing.
+
+the theoretical mathematical model for this variable is $t =m$ where t is the period and m is the mass. this was the model because mass didn’t affect the period of the pendulum. based off our graphs, you can see that when that the mass and the period are about the same values. this proves that the mass doesn’t affect the period of the pendulum.
+
+even if they were errors with measuring the mass, it wouldn’t have affected anything. 
+
+a constraint that could have limited the generalizability of our results could been the mass not being the mass we measured. if the mass was different from the measured mass, then our equation and graph would be wrong, and we wouldn’t come up with a result of the mass not affecting the period.

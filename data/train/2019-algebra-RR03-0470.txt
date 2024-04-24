@@ -1,0 +1,11 @@
+discussion and conclusion
+
+the purpose of this lab was to determine what factors will affect the period of a pendulum. 
+
+each of the three experiments- experimental design, measurement uncertainty, and mathematical models- addressed the research question. 
+
+the mathematical model is $t=2.1009 l^{0.4246}$
+
+there were many possible errors that could have occurred throughout these experiments. in the experimental design lab, there were many opportunities for human error in measurements and timing. in the mathematical model experiment, there was less room for error because we used a photogate to time each period, which reduced the amount of error greatly from the first experiment. 
+
+ the constraints of this experiment were many caused by the amount of time and resources we had to preform them. had we had more time we could have done multiple trials we could have found the averages, making our numbers more accurate. as for the resources available, if we had more accurate measuring devices, we could have limited the amount of error that occurred.

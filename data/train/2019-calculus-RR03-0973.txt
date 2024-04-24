@@ -1,0 +1,38 @@
+conclusion:
+
+restatement of the research question-
+
+the whole premise of conducting these past three labs was to deduce the particular variable that may or may not influence the time at which a pendulum takes to complete a period.
+
+
+
+discussion of the three independent variables-
+
+	for the first lab, three variables were tested to see their impacts on the duration of the pendulum’s period. beginning with the first experiment that evaluated the relationship between the length of the string that holds the swinging object to the fixed pivoting point on the stand and the pendulum’s period, there was a positive correlation between the length of the string and the duration of the pendulum’s period. based upon graph 1, as the length of the string that attaches the swinging object to the stand increases so does the time that the pendulum takes to complete a period. reaffirmed by the positive slope of 0.0188, the correlation was made.
+
+	during the second experiment, which investigated the relation of the mass of the swinging object and the period, there was a slight negative correlation between the dependent and independent variable. therefore, as the mass of the swing object increased, the period would decrease. however, the slope on graph 2, which is -0.000325, is fairly close to 0 and resultantly the research group deduced that there was no correlation between the mass of the object that swings and the period of the pendulum.
+
+	the last of the three variables to be tested was the angle from the vertical axis of movement that the object was released from. through the completion of this experiment, there was a fairly small positive correlation between the angle-dropped and the duration of the period. similarly to graph 2, the best-fit line for graph 3 showed that there was no correlation between the two variables as the slope of the graph was 0.00422.
+
+
+for the third lab, students were tasked with finding solely the direct correlation between the length of the sting verses the period of the pendulum. however, unlike the first experiment conducted during the first lab, researchers were able to utilize photo sensors to time the period of the pendulum, rather than having to use stop watches to rudimentarily calculate the period. after plotting the data for the third lab, a best-fit line was calculated and a direct relationship between the length of the string and the period was derived. based upon graph 5, students were able to deduce that the period of a pendulum is directly proportional to the square root of the length of the string, which happen to be the exact correlation made in the theoretical model. moreover, the slope of the theoretical model is equal to two pi divided by the square root of gravity, which happens to be about 2.006. this slope is fairly close to the calculated model, which had a slope of 1.97.
+
+
+random errors that could have possibly impacted the results-
+ there could have inconsistencies with the precision of replication of the experiment. although the angle at which the object was dropped had no correlation to the period, this human error of varying deviations of the drop-angle could have increased or decreased other external stimuli.
+ to resolve this issue, the students should have designed, or set-up a dropping mechanism that consistently dropped the swinging-object at the same height with minimal force applied to the object that could have been introduced by humans.
+additionally, for the first three experiments conducted that evaluated the three suspected variables of influence, students used stop watches to measure the time duration of the period. random error could have been introduced by the students as they could have incorrectly started and/or stopped the timer with the movement of the pendulum.
+during the first lab, the researchers attempted to reduce the effects of human error on the timing of the period by having multiple people time the same period and then averaging that value. additionally, for the third lab, students were given a photo sensor that more accurately and precisely timed the period of the pendulum.
+
+
+since the data of for the duration of the period relies on the accuracy of the timing devices, any mechanical error that would have skewed the data, giving readings that would have been greater or less than the actual duration of the pendulum’s period.
+
+once again, the students utilized multiple timers to not only diminish the effects of human error but also the effects that might have been caused by the possible systematic error of the timers. moreover, in the third lab, researchers used a photo sensor that had a greater accuracy.
+
+even though the string was fairly light in weight, the effects of air drag, and its mass could have skewed the data, increasing the time of the period.
+a possible solution to this error could be conducting this experiment a vacuum chamber to reduce the effects of air drag.
+ lastly, the improper labeling of the protractor could have resulted in a repetitive measurement of an misrepresenting angle.
+ to reduce this issue, the students could use multiply protractors to average a drop-angle that could be closer to the actual recorded.
+
+
+due to the fairly simple and small sample size of tested data points for the various conducted experiments, it is hard to generalize the data as the sample size depicts only a small portion of the various pendulums that exist in the universe. the length of the string only ranged between 20 and 58.5 centimeters, the drop angle never exceeded 90 degrees, and the heaviest mass tested was 150 grams and the lightest was 20 grams. since the range of data is fairly small and the size of the sample for each experiment only ranges between 5 to 10 trials, then it limits the possibility of generalizing the data.

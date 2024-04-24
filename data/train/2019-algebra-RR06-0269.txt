@@ -1,0 +1,20 @@
+discussion and conclusion 
+
+ 
+
+to reiterate, the research question is how the mass of the system effects the acceleration of an object.  the hanging weight as an independent variable is shown in this experiment. as we can see in model 1 and in model 3 as hanging weight is increase, the acceleration increases this as well confirms our hypothesis. 
+
+as seen in other group experiments there is a positive relationship between hanging weight and acceleration. this could be because of the increased mass acting on the system. this was found to be a power relationship. this can be confirmed because our r^2 value is very closed to 1 with a value of .997. 
+
+the theoretical equation is $f=m a$ system. this is proven in this experiment because the acceleration is equal to the force times the mass of the system. as seen in model 2 there is a positive relationship between the mass of the system and the acceleration, as in, when the mass of the system increases so does the acceleration of the system. 
+
+
+in the scenario of a heavy string attached to the hanging weight, i predict that as the hanging weight increased mass, the string will pull the system forward with and equal reaction from the weight. 
+
+ 
+
+there were random errors present in the experiment. for example, then the vacuum track was turned on, it was not a perfect system. the cart was not being lifted off of the track evenly, thus causing friction to enter the system and affect our data. this can be seen in the graphs. if there was no friction acting on the system the points on the graph would have lined up better. this can be fixed in the future by adding more force on the vacuum tract to properly lift the cart up more and create the system to be a near frictionless system. thus, giving us better data. 
+
+
+
+the constraints of this experiment can be seen with the equipment that was used. the computer system put a constraint on the experiment. the computer graphing system had a lag time between when the cart started moving and the computer recording it. also, the limited lab time put a constraint on the experiment. we could have perfected the experiment more instead of rushing to complete it. this would lead to better data.

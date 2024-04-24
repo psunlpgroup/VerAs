@@ -1,0 +1,19 @@
+discussion and conclusion
+
+
+
+ the purpose of conducting this lab was to develop mathematical models which describe the behavior of a real system, in this experiment i tested, how friction affected the acceleration in mass of a system. 
+
+the three experiments i conducted all played a very large role in supporting my predictions. my predictions were as the mass of the hanging force increases, the acceleration as well, will increase. also noting as the friction decreases the acceleration could increase. i tested this in three different ways by changing the friction force between the air track and the car attached to it. in conducting each experience you can tell by looking at the experimental design charts that all of my control variables amongst all three experiments remained constant. you can tell by looking at all of the graphs (1,2,&3) above that even as the differences between the friction forces my prediction remained to stay true. 
+
+
+
+this photo above was taken during my lab class. the group responsible for this data was group 3. their results supported my prediction of as the friction force decreases the acceleration was greater, this is also supported by the results collected from group 1 in the picture below.
+
+
+
+errors that maybe present during this experiment could be systematic errors. these could affect the results of my experiment giving me either a higher or lower acceleration. an example of this could be that i did not measure the mass of the system correctly causing mw to consistently get wrong accelerations. something i did to reduce any sort of error was to always double check my measurements.
+
+the only restraint that may be present during this experiment could be the three-balance scale, i feel as if an electronic scale would be more accurate when measuring the system of the mass. 
+
+the two math models are consistent with newtons second law because i used the mass of the system and the acceleration to find the frictional force. newtons law, to find the force of friction you also take the mass of a system and multiple it by the acceleration, so i used both factors of the to find force of friction.

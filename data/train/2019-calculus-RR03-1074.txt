@@ -1,0 +1,45 @@
+discussion and conclusion
+
+this lab sought to investigate which factors affect the period of a pendulum for small angle swings. 
+
+
+
+
+theoretical model is 
+
+
+
+in figure 1, the calculated line of best fit (with r2 is 0.9998) follows the curve of a power series with a power of 0.49243. in the theoretical model, length (l) is an independent variable with a power of 0.5. figure 2 and figure 3 also agree with the theoretical model since the variables mass (m) and angle (θ) do not appear in the equation, and the experiments demonstrated that the two had no measurable impact on the period of a pendulum.
+
+
+
+
+
+human reaction time in starting and stopping the stopwatch. this was reduced by using a photogate, a precise timing device with an uncertainty of a mere 0.001 seconds instead of 0.0881 seconds.
+
+applying forces to the pendulum while releasing it. this could be reduced by using an electronic arm to release the pendulum on a signal.
+
+releasing the pendulum from an inaccurate angle. this would be fixed by affixing the protractor orthogonally to the stand.
+
+systematic
+
+inconsistent string length (due to slippage, stretching, or stretched tape measure). this was fixed by tying string to the stand and using a metal tape measure.
+
+different force of gravity due to height above sea level. this could be reduced by either testing at sea level or calculating the exact force of gravity at the specific altitude of the experiment site.
+
+measuring the length of the entire pendulum when calculating length rather than to the center of mass. this would be fixed by calculating the center of mass of the pendulum as a system and then measuring to that distance.
+
+
+multiple constraints with the experiments that were run limit how applicable the results are to every situation. the room had limited size, so lengths of 10m, 50m, or 1000m could not be tested. the only field of gravitational acceleration in which the experiment was conducted was that of the earth, not any other planet. both the theoretical model and the experimental model for the motion of a pendulum only hold for small angles of oscillation; at greater angles the results of the experiment may not be valid.
+
+overall, the generalizability of the results of the three conducted experiments is somewhat limited. the experiments did serve, however, to identify that string length impacts the period of a pendulum.
+
+
+
+
+
+
+
+
+
+

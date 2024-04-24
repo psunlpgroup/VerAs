@@ -1,0 +1,8 @@
+conclusion:
+
+In conclusion in lab 1 all we did was change the angle of release from which we dropped the string at. We kept the wight and length of the string constant so we could see any changes in the period that were affected by the angle of release.
+In conclusion for the 2nd part of lab one we changed the weight being applied at the end of the string for each trial run and keeping the length of the string and angle of release  constant so we could observe any change in the period.
+In conclusion, in the 3rd part of the first lab we changed the string length and kept the weight and angle of release constant so we could observe any change in the period.
+In conclusion, in lab 3 we changed the length of the string varied and the rest of the factors constant. This differs from the first lab part 3 because we used different equipment. We utilized a photogate which has an uncertainty level to .001% of uncertainty which is a lot more accurate than handheld stopwatches
+As length being the independent variable we can conclude from the graphs that as the length increase so do the time in a linear fashion.
+Constraints for the experiments would be not having more accurate measuring system for measuring out the length of a string as well as a more accurate system in which to measure degrees in which we will drop the pendulum by.Random errors for lab 3 could be a result from error in judgement in the angle of release. Systematic errors however, Are slim to none because there is a.001 % chance of uncertainty.

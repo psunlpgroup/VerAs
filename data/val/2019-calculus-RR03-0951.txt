@@ -1,0 +1,11 @@
+conclusion:
+
+ in this experiment the objective was to determine whether the lengths of the strings affect the period of the pendulum . that is why our first independent variable was the length of the strings. however, we wanted to be related to other factor as well, such as angle and mass of the pendulum. after, we obtain data from three independent variable. therefore, we could notice that the length and angle are correlated to the period of the pendulum. however, the slope of the ,mass was negative correlation which means that this factor does not affect the period.
+
+from the lab-02 we tested the hypothesis about whether the pendulum period is affected by the lengths of the string by standardized the independent variable . in order words,  we were finding whether the range of uncertainty are high or low of what we have found before. therefore, we use the standard deviation technique. this graph expressed that it was low. finally, this make our hypothesis more reliable because mean data is close the mean average. 
+
+from the lab-03, we conclude the mathematical model of this experiment by using the photoage with the independent variable of the length and angle. fortunately, we obtained the equation of the string length. 
+
+finally, as we calculated and tested our hypothesis. it is known in the real life, there even more limitations that generate more random error such as the measurement and the resistance force of the air, atmospheric pressure or wind. as a result, those factors can also affect the period of the pendulum and can not be manipulated. 
+
+.

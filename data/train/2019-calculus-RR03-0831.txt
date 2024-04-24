@@ -1,0 +1,13 @@
+conclusion
+
+in the labs we were asked it to investigate, “what impacts the period of a pendulum?” in each experiment our group used a different variable as the independent to test what most affects the period of a pendulum out of the variables is  pendulum length, angle from normal, mass of pendulum. we had 3 labs over this question and these variables; the first we tested what possible effects would be presented after changing the values of these different variables relating to the length of the pendulum’s period. the second lab asked us to take the data we collected in the first lab calculate the human error we created in a mathematically unideal situation. the third lab we conducted just the length experiment trials again, only this time we greatly increased the variation between the pendulum lengths. also, in this lab to eliminate as much human error as possible we used a digital photogate sensor.
+
+in the first experiment, whose data is shown by figure 1 and table 1, we predicted that the as we shortened the length of the pendulum, the period of the pendulum would present a direct correlation by also decreasing. we were correct as shown by said figures as well as figure and table 4. a power curve can be observed in figure 4 defined by the equation $y=2.0041 x^{0.5269}$. 
+
+in the second experiment, we tested whether the pendulum’s angle of release would affect the period. we predict that as the angle grew larger so would the length of the period. by looking at table 2, figure 2 and 3, you can see that we were incorrect with our hypothesis in that the data collected reflects that no matter what angle relative to the normal of the pendulum, the period stays relatively the same.
+
+the third and final experiment of lab 1 tests what affect changing the mass of the pendulum has on the period. we hypothesized that the greater the mass, the shorter the period would become. like our second experiment, we were again incorrect in that while we changed the mass quite a bit, the period of the pendulum again stayed relatively the same. these results can be observed in figures 3 and 6 as well as table 3
+
+figures 5-7 show the human error created by an imperfect and imbalanced situation for the experiment. looking to figure 4, we can see just how precise our calculations became after we introduced the digital photogate which would time the exact length of the period for all trials in which it was present.
+
+ pg. 2

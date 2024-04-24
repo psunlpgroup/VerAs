@@ -1,0 +1,19 @@
+conclusion:
+
+
+
+throughout the two labs we were trying to figure out if force on the system and mass of the system affected the acceleration of the system. we then determined what factors affected the mathematical equation of the acceleration of the system. we tested this by changing the tilt of the system and then comparing our data to other groups who did test on the negative tilt and friction of the system. 
+
+when we changed the mass hanging off the pulley, which was our independent variable, we were changing the force on the system. by changing the mass, we were able to isolate and change the force on the system. we found that as the force increased so did the acceleration. we could tell this because in our force vs acceleration graph, as the force increased, so did the acceleration. our graph also had an r^2 value of 0.9993 and did not overlap the error bars at one sigma so we are 99% sure that our data holds true.
+
+our data also compares well to other groups data. as seen in the picture below we had a similar equation and they had a r^2 value of 1. as their force increased, so did their acceleration, which also holds true to our claim.
+our data also compared to other groups data. as seen below our force vs acceleration equation is very similar to theirs. this further proves our claim as more than one group has had similar equations and claims as us. their equation can be seen below.
+for our equation we found that the acceleration is equal to force divided by the mass. we found this by looking at the graph of force vs acceleration. the mass of the system stayed constant and as the force increased, so did the acceleration. since our equation was linear, we determined the equation to be $a=\frac{f}{m}$. this can be derived from the theoretical equation $f=m a$. so, the theoretical equation of $a =\frac{f}{m}$ supports our findings for the equation for the acceleration of a system with one force.
+we found that as the acceleration of a system is dependent on the sum of the forces divided by the mass. $a = \frac{f1+f2+fn ..}{m_{system}}$
+this is supported by the theoretical equation as it is the same equation, $a = \frac{f}{m_{system}}$. as the tilt increased, more force was added to the system and the acceleration increased. you can tell this from our data by looking at the change in our equations in lab 06. the more the airtrack was tilted the more the y-intercept increased, and the slope did not change a significant amount between tilt distances. 
+
+	in a scenario where the string connecting the masses is heavy the acceleration of the system would decrease. since the equation for acceleration of a system is $a = \frac{f}{m_{sys}}$, as the mass of the system increased, then the acceleration would decrease since the mass of the system is in the denominator.
+
+	some random errors in our lab was measuring the tilt of the system and the mass of the fishing bobs. to reduce these errors, we should use a protractor which measures the angle of the tilt, not just the height of the mass tilting the system. also, the fishing bobs were very light, so measuring them does not give us an accurate reading of mass. to fix this issue we could run the experiments more and taking the average of the experiments. 
+
+	some constraints we had during this experiment was time and not having a totally frictionless surface. if we had more time, we could have run more trials and got more accurate results. since we were using an airtrack, we reduced friction a lot, but not totally. so our equations for acceleration could be affected by the little friction that is affecting the system.

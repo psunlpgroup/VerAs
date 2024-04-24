@@ -1,0 +1,18 @@
+discussion:
+
+the purpose of this lab was to investigate the effects of different factors (mass of bob, length of string, and angle of the release) on the length of the period of a pendulum. we experimented with each of these factors controlling the others while doing so. 
+
+in experiment 1, we tested the effect of the mass of the bob on the period length. we ended up finding that the mass of the bob has no effect on the period. some systematic and random errors must have played in to the data such as errors with the stopwatches, errors in human reaction, and errors in the use of the tools in the experiment. experiment 2 had more accurate results showing that the length of the string has an effect on the length of the period. one can see in the graph and the data that as the length of the string increases, the length of the period increases as well. experiment 3 was also skewed by poor data. we used too large of angles and by doing that we threw off the data. the lab was meant for small swings and we used angles as high as 60 degrees. therefore, the data shows a clear increasing pattern.
+
+the theoretical mathematical model for finding the period of a pendulum is is  
+
+
+
+this equation shows that there is only a relationship between the length of the string and the period. gravity, g, also plays a role in the length of the period. the equation that we found was is 
+
+2.0738x0.4645
+r² is 0.9996
+
+where x is the length of the string. this model is quite close to the theoretical considering it is based off data points and does not include the factor of gravity.
+
+	we found there were multiple systematic and random errors. some of the systematic errors were is  balance calibration, use of the tape measure, and use of the stopwatch. and some random errors were is  human reaction time, technique of releasing the bob, and use of the protractor to find the angle of the drop. during lab 03, we used photogates and that alone removed the errors of stopwatch use and human reaction which was the source of much of the error. we could also make sure to calibrate the balance before weighing the bob each time.

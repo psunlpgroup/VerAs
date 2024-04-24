@@ -1,0 +1,16 @@
+conclusion and discussion:
+
+
+	        from the beginning of the experiment my group members and i speculated that length would definitely affect the period but somewhat unsure if the other variables would have an effect. when we conducted the experiment with length of the pendulum as the independent variable, we found that it did affect the period, the data for the error bars did not overlap in figure 1.  this therefore confirmed our hypothesis and prediction we made before the experiment was completed.
+
+	
+
+	        for our second experiment we tried to determine the effects of mass on the period of a pendulum. my group predicted that the mass of a pendulum would not affect the period and once the experiment was conducted we discovered our prediction and hypothesis were correct. based off the data from figure 2 the error bars did not overlap but when you look at the collected average periods it was obvious that mass had little to no effect on the period.
+
+	        our group believed that the angle of release would not have an effect on period of the pendulum. when looking at our results from figure 3, the error bars do not overlap which would entail correlation but when looking at the actual collected data in numerical form it is obvious that the angle has no effect on period. 
+
+	
+	        for this part of the experiment our group was to set up a pendulum with only controlled variables in order to take trials. once the experiment was set up we took 10 trials and recorded the period of the pendulum. next, the ta gave us an equation for excel which would give us the standard deviation of our collected data, our standard deviation was +/- 0.14 seconds. as well as finding standard deviation our group also discussed the possible errors we could have when collecting our data. there are two types of errors those that are random and systematical, as for the random errors they often come down to human error such as, a reaction time or a protractor is held incorrectly. as for the systematical errors these are errors such as a measuring tape, protractor, or a stopwatch lag due to variations from the production of these tools. 
+
+	
+	        the final experiment in this lab was to set up a pendulum based on the independent variable that was shown to effect period. my group noticed that this independent variable was length so again we set up a pendulum with varying string lengths, although this time we varied the lengths of the string greatly. once we conducted the experiment we found that length does directly affect period with a non-linear relationship, based on the line of best fit our experimental model was $t=2.0168 x^{0.3948}$  which is very close to the mathematical model given to us which is $t=2 i \sqrt{\frac{l}{g}}$ .

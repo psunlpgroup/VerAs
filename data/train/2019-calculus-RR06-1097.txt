@@ -1,0 +1,25 @@
+discussion and conclusion
+
+
+
+the purpose of this lab was to find mathematical models for what affects the acceleration of an object. then to figure out what each numerical and non-numerical part of the model meant. the first experiment in lab 5 were done by adjusting the mass on a system to increase the overall force. we did this by placing 8 bobbers on a frictionless cart and tied one end of the cart to a hanging mass. a test was ran to see the acceleration. 8 tests were ran and each time, a bobber was shifted from the cart to the hanging mass. this kept the overall mass the same but shifting the force going straight down. this resulted in the data shown in table 3 and graph 1. a linear relation was found from the data and the equation found was $y=2.8182 x - 0.05$ with an r² is 0.9884. the x is the force in the system and the y is the force. for the second test, the same experiment was done as the previous but instead of keeping the mass the same and changing the force, the force stayed the same and the mass was changed. doing this experiment resulted in the data shown in table 4 and graph 2. this time a power function was found instead of a linear function. the equation was $y=0.1436 x - 0.91$ and an r² is 0.9999. the y was still the acceleration, but the x was the mass of the system. in lab 6, the relevance of friction in the system compared to acceleration was tested. the same experiment was conducted as the one in lab 5 but mass was added to the base of the cart. doing this experiment resulted in the data shown in tables 5, 6, and 7 and graphs 3, 4, and 5. a conclusion can be made that the increase of friction on the base of the cart will not change the numerical values in the mathematical models. 
+
+
+
+group 2 did the same test as us and their data is shown below.
+
+
+
+their data equations were different than ours. this could have been because they were using different weights or different values. even though the values are different, their data lines up with ours that the slopes are all the same, so the acceleration doesn’t change when friction is changed. 
+
+group 6 did the test on if a different incline affects the acceleration of an object. their data is shown in the picture below.  
+
+
+
+given their data, a conclusion can be made that the change in incline that the object is traveling does affect the acceleration of an object because their slopes are different. from this, we can also state that an increase in the slope of the incline will increase the acceleration because the slopes of the lines are increasing.
+
+there weren’t very many errors in this lab because the computer did the majority of the lab. there was very little human contact. the only random error is the uncertainty of weight that the bobbers were. they could have been not weighed correctly. this could have been because the scale wasn’t zeroed perfectly, or the scale is old to give accurate readings. this could be reduced by weighing the bobbers and any mass use in this experiment with a scale that can accurately take readings of the mass. 
+
+the constraints of this lab are mainly from the machine. it is accurate at reading but does have an error of uncertainty to it. going to a small value may be useless for this lab because of the uncertainty. also, time is a constraint for this experiment. if done on own time, this lab can be ran with multiple trails and variables but since it is done in a certain amount of time, a limited amount of data needed to be collected. 
+
+the first mathematical model found was $f=2.8182 f - 0.0501$. excluding the -0.0501, this formula followed newton’s law of $f = m a$ rewritten as $f = a m$. in the mathematical model, the 2.8182 replaces (1/m). the second mathematical model found was $a = 0.1436 m-0.919$. this follows newton’s law rewritten as $a = \frac{f}{m}$. the .1436 was the force in the equation.

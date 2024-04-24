@@ -1,0 +1,18 @@
+conclusion 
+estimation while measuring using protractor.
+reaction time while using stop watch. 	
+not knowing when the pendulum makes a full swing.
+stop watch is faulty.
+length of string didn’t stay at desired measurement. 
+not “zeroing” the scale when measuring the mass.
+how to reduce these errors
+get a more accurate protractor.
+use the photogate to get a more accurate reading.
+
+
+get a better stopwatch.
+
+make sure string is at desired measurement.
+
+zero out the scale every time before weighing mass. 
+ from looking at the graph patterns there was no relationship between angle and time and with mass and time. the only significant relationship was between length and time.

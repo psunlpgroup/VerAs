@@ -1,0 +1,22 @@
+discussion and conclusion
+
+the purpose of the lab was to see how weight effects the acceleration of a car on a flat frictionless surface in a two-mass system. this was done in lab 5 by first adding weight to the hanging mass and then by measuring the acceleration of the non-hanging mass. then, mass was removed from the car and then acceleration was measured. lab 6 was conducted in a similar fashion except magnetic weights were added to the car at different positions (bottom, top, and middle). 
+
+graph 5.1 shows that as the mass of the hanging weight increase, the acceleration increases, indicating a positive linear relationship. this is represented mathematically the linear mathematical model in graph 5.1. graph 5.2 shows that as mass is added to the car (m1), acceleration decrease exponentially. this is mathematically represented by the power curve equation in graph 5.2. 
+
+graph 6.1, 6.2, and 6.3 all show positive linear relationships with different slopes based on where the magnetic weights were positioned. 
+
+given that all but one of our graphs indicate that there is a linear relationship between mass of a system and its acceleration, this had lead us to believe that the relationship between mass of a system and acceleration of the system is linear. this idea is reinforced by the strong r2 values of the linear models and the comparatively weak r2 of our one power curve model. 
+
+a linear mathematical model is as follows is  $y = m x + b$. in our model, m id acceleration and x is mass, b is to our graphs’ y-intercept. 
+
+the following are equations made from other group member that had done the same experiment as our group. 
+
+
+both groups cited above show that they have also derived mathematical models from there experiment. the mathematical models from the groups above reinforces our claim that the relationship between mass of a system and its acceleration is linear. 
+
+i believe that there was error present when constructing our power curve graph, represented as graph 5.2. most groups constructed a model similar to 2x-1, where our group constructed 2e+7x-2.858. this has led us to believe that our model is incorrect. this could be the result of either random or systematic error. if the error is random, i believe that taking more measurements would help reduce this type of error. if systematic, then the devices we used to find our model would most likely need to be recalibrated. 
+
+one major constraint that may have limited us in lab 6 were the magnets weights. we had a problem trying to get them to stay on our cart as they were not very strong magnets. this may have led to inaccurate measurements as that magnetic weights tend to shift and move while our car was move down the course. i believe that stronger magnetic weight or some sort of rig to hold the weights would have made the experiment easier. 
+
+the mathematical model for newton’s second law is msystema. in the model, msytsem is equal to the mass of the system and a is equal to acceleration. this is fairly consistent with our linear models, except that our linear models also include a y-intercept.

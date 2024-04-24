@@ -1,0 +1,9 @@
+discussion and conclusion:
+
+	the objective of the two labs conducted was to form two mathematical models that can accurately explain the behavior of a real system while also interpreting what each variable and numerical value means in the mathematical models. we collected data (tables 1 and 2) and plotted it on a graph to create the models. the line of best fit for both sets of data (tables 1 and 2) were created using figure 1 and figure 2, respectively. our interpretation of the constants c1 and c2 is that c1 equals the reciprocal of the mass of the system, and c2 equals the sum of all acceleration except for acceleration due to gravity. therefore, c1 stays roughly the same and why c2 changes. comparing the data in tables 3, 4, and 5 shows this, and this more clearly shown in figure 3, which is a graph of these three sets of data and has a line of best fit. by looking at the lines of best fit for the three sets of data in figure 3, it can easily be seen that the slopes of the lines (c1) stay about the same, while the y – intercepts (c2) change, and because of this, the data strongly supports our conclusion.
+
+figure 4 is 
+
+
+
+

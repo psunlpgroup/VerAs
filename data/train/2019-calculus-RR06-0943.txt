@@ -1,0 +1,14 @@
+discussion and conclusion
+
+the purpose of the lab was to determine the mathematical models that relate force applied and the acceleration of a system, as well as the mass being moved and the acceleration of a system. also, some variables were constant while others were tested to be able to determine the values and units for coefficients in the real world.
+
+the mathematical models are the line of best fit equations calculated from the graphed data in excel. using the tested variables on the x and y axis you can set y is acceleration and x is to the independent variable tested, which was force applied for one experiment and car mass for the other. the coefficient of the force applied and acceleration equation must be 1/m. using dimensional analysis with one side being m/s/s and the variable on the other side being n and the equation $f = m  a$, the coefficient must be 1/m. for the car mass and acceleration model, the coefficient must be 1/s/s using dimensional analysis again.
+
+
+the experimental models found by other groups for the first experiment in l05 matched very closely with the models we developed. this instills confidence in our model as it was found to be similar among many different iterations of the experiment. the model found for the second experiment in l05 did not match up very closely with any other groups, which may be due to error in the measurement devices or our calculations. the closest model for the first experiment was from table 2, who had a coefficient of 3.04 which is very close to ours at 2.95. based on the average of the coefficients from tables 1, 2, 3, 5, and 6, our coefficient likely should have been closer to .3 for the second model.
+
+systematic errors present could have come from incorrect calibration of the acceleration measurement device, a non-zero friction due to fault in the air track, and an imperfect scale for measuring the masses of the bobs and sled. random errors could have come from incorrectly massing the bobs and sled. it is difficult to reduce systematic errors as more experiments do not reduce the error. more measurements could have been made and averaged for the mass of the bobs and sled if random error was present.
+
+constraints include different gravitational forces on different planets that would impact the tilted track experiments, larger forces and masses than what could be tested in our lab, and tilt angles that are larger than what we were able to test.
+
+when the mass of the system was held constant but the force applied reduced, then newtons model is consistent with a smaller value for acceleration like that which was found with our data. when the force applied was held constant but the mass of the system increased, newtons model is again consistent with a smaller value for acceleration like that which was found with our data.

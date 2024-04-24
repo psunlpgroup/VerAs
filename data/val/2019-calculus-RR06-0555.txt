@@ -1,0 +1,27 @@
+conclusion and discussion
+
+
+
+the purpose of these labs is to determine the mathematical models from what effects the acceleration from the mass of the cart, the hanging mass attached to the cart, and how high the tilt of the track that tests the movement of the cart. we must also determine the what each value in the mathematical formula means, like what is acceleration or what is force.
+
+
+
+we determined each mathematical model by using the valuables of iv and the acceleration. from this we got a trendline and were able to determine what has a positive or negative correlation. we determined that the acceleration is what we are solving for in the mathematical equation. for the force, we found that it is represented as the f in the equation and that the mass is the value in front of the f value. finally, the value that is subtracted in the equation is the error value, this could be caused by friction or tilt.
+
+
+
+
+
+the results from the other groups contribute to our understanding of each variable represented by a value. each group that had the same tests as us were able to come to the same conclusion of each iv tested. they also had their mathematical equations and r^2 values which were close to ours and accurate as well. from this we can determine that the f is the force and the value in front of the f is mass, also everyone was testing for acceleration.
+
+
+
+some errors that we may have had could be from the fact that the track was not perfectly frictionless so some error came from that. another error could be that we did not start the acceleration tracker at the same time as the cart’s release to get a perfect estimate of the acceleration. finally, an error could come from measuring the mass of each bob and weights as the scale could only measure to the 10th decimal point and that it could also be giving false measurements from constant use.
+
+
+
+some constraints that we did not have would be that we did not have a perfectly frictionless surface to test our cart to get the right amount of acceleration. another constraint could be that we could not get a perfect test for each value we are testing and thus could create a bit of error as if we could test everything the same perfectly, we could get the right results.
+
+
+
+these two mathematical models are consistent with newton’s second law because we are always applying a force to the cart as well as have a mass on the cart to receive an acceleration for the cart with different test values.

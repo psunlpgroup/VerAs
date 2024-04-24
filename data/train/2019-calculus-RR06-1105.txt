@@ -1,0 +1,19 @@
+discussion and conclusion
+
+these series of experiments were designed to investigate the mathematical models of the acceleration changes according to the slope of the air track, and the masses of object 1 and object 2. 
+in experiment 5, the mathematical model for acceleration change according to mass of object 1 is is   $a=- 72.0023 m + 20 x + 1.033$.
+as the mass of object 1 increases, the acceleration decreases.
+for object 2, the mathematical model of acceleration change is $a=- 110.0492 m - 80 x$
+the acceleration increases as with the increase in the mass of object 2.
+the mathematical models above are acquired from the equations of the best fit lines in figure 1 and figure 2 respectively. we are confident about these models because the r square values are very close to 1 (0.9995 and 0.9999 respectively).
+in experiment 6, all three mathematical models for acceleration change according to mass of object 2 at different slopes are linear positive correlations. 
+the mathematical models are obtained from the equations of the three best fit lines in figure 3. figure 3 shows that as the mass of object 2 increases, the acceleration become greater as well. these three mathematical models in experiment 6 are almost parallel to each other (slopes of equation is  0.028, 0.0279, 0.0282), and the correlations of mass 2 and acceleration consistent with the mathematical model in experiment 5.
+finding for experiment 6 is  the slope of the system affects the system’s acceleration. the steeper the slope, the more changes in the acceleration, the y-intercepts also increase.
+for group 1, they have the same hypothesis as our group, the conclusion, and data that they got are similar to our equations which is when we change the slope value, the y-intercept changes and the value of the acceleration changes which make our group more confident on the data that we found.
+for group 2, they have a different hypothesis compares to our group, their conclusion was while the slope of their equations stays the same, the constants remained negative and varied which we can understand that the friction also changes the acceleration of the system. we are unable to determine the influence from friction due to a lack of data from the second group.
+we use bobbers to change the masses of object 1 and 2. the masses of each bobbers are not identical to others. using weights instead of bobbers can reduce this error.
+we can measure the actual angle differences instead of the heights we lifted the air track. 
+running the experiment at multiple positive and negative slopes will further increase our confidence to our model.
+limiting the friction and air resistance factor by having as few moving connected parts as possible and performing the experiment in vacuum.
+our data and mathematical models are consistent with newton’s second law ($f_{net} = m a$).
+in experiment 6, the mass of system is constant (39g). as the slope of the air track increases, the gravitational force increases the net force of system. hence the overall acceleration is increased as a result.

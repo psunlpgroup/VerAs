@@ -1,0 +1,18 @@
+discussion and conclusion 
+
+
+
+	the purpose of this lab was to test newton’s laws in realist situations. the research question of this experiment is “how does the acceleration of a system change when the force applied changes?”. 
+
+	the experiment and the resulting mathematical model shown above under “our experimental findings” answer our research question. after conducting our experiment, we were able to come up with the mathematical model that matches that matches up with the results found in graph 2. our mathematical model ($y=c1 x+ c2$) came out to being close in similarity to that of our graph’s linear model shown. 
+
+
+	based off other group findings in this experiment, we can see that there are different numbers found for other people’s mathematical models. however, if you take a closer look, you can tell we have similar set ups for our experiment. this could be due to that they used a different cart than we did, different bobs, and even because they used a different track. they had similar theoretical models as us (set up wise), but when their variables begin to have different values, that is what makes our results appear different. 
+
+	there are some other forces that could possibly be acting on this system. one force may be that of friction. if the track had a patch of friction, this could have possibly caused a systematic error to our results so that it could have possibly made our results insufficient compared to the model. however, that does not seem like the case since out model matches up quite nicely with the theoretical model shown in the “calculations” section. 
+
+	the mass of the system shows up as c1 in both the mathematical and theoretical model. c1 is made up of many variables including acceleration, mass of the cart, and mass of the cart. 
+
+	a non-massless string was used for this experiment. this was important because if the string had a significant mass, this could have greatly affected our results. this is due to the fact that as the cart would mover across the track, the hanging string would increase in length, would then increase the hanging mass the more it hung down due to gravity. 
+
+	any place of error that could have occurred were 1. when measuring the mass of the bobs, 2. measuring the acceleration of the cart, and 3. an inconsistency of the track the cart was on. the first and third error would be systematic errors because of the scale not working properly and if the track had a patch of friction that was unknown to the experimenters. this can be fixed by simply repeating the experiment with a different track and scale and see if the results are like that found here. the more data found, the easier it is to see if there is a lot of error of not. as for the second type of error, this is a random error that can be solved by using a system to record the acceleration of the cart instead of a human pressing buttons for it to record it.

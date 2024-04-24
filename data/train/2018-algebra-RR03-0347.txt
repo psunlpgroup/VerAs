@@ -1,0 +1,8 @@
+discussion and conclusion
+
+	the relationship between a pendulum and the period in which it swings can be affected in many ways both large and small. in this series of experiments, we investigated if the length of string, mass of pendulum, and the angle of drop to see if there was any correlation between them and period of the swing (tables 4, 5, and 6) . this research is applicable for a basic understanding of physics, alterations of motion, and experimental design. in this experiment, significant change was determined to occur when testing the length of string (graph 1) with a power function and a significant r-value of .9936. 
+
+	to fully investigate the alteration of swings, we tested the mass of the pendulum (graph 2) and drop angle (graph 3) as well. however, significant difference was not determined between either of those with a respective standard deviation of .03847 and .005774. upon further investigation, the theoretical mathematical model of a pendulum is found to be $t=2 \pi \sqrt{\frac{l}{g}}$    with t being the period, length of string being l, and g being downwards force of gravity. this lines up closely with our model of 0.3253x.0397 but variation is to be expected due to random and standard errors.
+
+	for the standard errors, the pendulum length was not measured from center of mass but from where the loop of the string ended so that could lead to inaccurate measurements (table 3). another error would be a standard human error with the timing of the stop watches for experiments 2 and 3 (tables 5 and 6) because it could lead to variation in the times. however, these numbers can be remedied by taking the average of successive trials and measuring from the center of mass for further accuracy and adhesion to the standard.
+

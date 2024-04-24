@@ -1,0 +1,13 @@
+conclusion:
+
+the purpose of lab 05 was model and analyze a real system and then create mathematical models from those observations. in lab 06 we were better understanding the equipment’s role in the model that was produced, as well as the origin of the values in our model. the two experiments in lab 05 contributed to the models  $y = 196.82 x^{0.906}$ and $y = 2.7649 x + 0.013$ where y is acceleration and x is weight (n). once we had plotted the data collected for each experiment in lab 05 we saw that when m2 was changed, there was a positive linear relationship between mass and acceleration and when m1 was changed there was a positive power relationship between mass and acceleration. we can only make assumptions and use these models within the confines of a lab setting and with all the same controls that we used. the experiments conducted in lab 06 resulted in the models $y = 2.7992 x + 0.0849$, $y = 2.7226 x + 0.1492$, and $y = 2.7487 x + 0.0525$ where y is acceleration and x is weight (n) of m2. 
+
+team 1’s model supports our claim because as the angle increase so does c2 while c1  remains constant. 
+
+group 4’s hypothesis was that as magnetic force increases so does the c2 value.
+
+error that could have arisen in this lab include misplacement of the weights on the cart or operating the air track machinery incorrectly.
+
+some constraints that would limit the generalizability of our results are that we didn’t test a large range of masses. we changed the mass on the cart by less than one n through each trial. we cannot make assumptions on data that is outside of this range of values. generalizability is not applicable because the air track was a part of a controlled lab environment. almost every variable was controlled, which doesn’t allow for generalizability. 
+
+these experiments are consistent with newtons second law because equations that were made used newtons laws. if you have the independent variable m (mass) this equals the dependent variable a (acceleration) over the force in n, which is what our graphs represent.

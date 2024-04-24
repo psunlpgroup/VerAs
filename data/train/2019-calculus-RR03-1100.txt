@@ -1,0 +1,35 @@
+conclusions:
+
+
+
+for experiment one the team hypothesized that the shorter the string the more frequent the period. this prediction was proven based on the data we collected from experiment one where we found that length affected the period. the error indicated in data table 4 did not give enough variance in the evidence from data table 1 to conclusively decide against this point.  an increase in length did sufficiently change the period of the pendulum. the length of the object ranged from  15” to 25”, and the times went from 1.06 s to 1.32 s with a .26s difference. the length vs time graph (data table 1) gave a sloped line that indicated an increase in time from the length.
+
+
+
+for experiment two we predicted that the heavier the object the faster the period. however, based on the data we collected from experiment two we found that mass did not affect the period. even with factoring in the error (data table 4) the evidence from data table 2 showed that an increase in mass did not sufficiently change the period of the pendulum. the weight of the object ranged from 50 g to 90 g, and the times went from 1.32s to 1.49s with a .17s difference. the time range occured because of an error in measurement, from miss timing swings. weight vs time graph (data table 2) gave a flat line that indicated relatively no change in time due to the weight. 
+
+
+
+for experiment three we initially predicted that the larger the angle the faster the period. we originally believed that this was the case however, based on the data we collected from experiment five where we found an equation we found that angle did not affect the period. even with factoring in the error (data table 4) the evidence from data table 3 showed that an increase in angle did change the period of the pendulum. the angle of the ranged from 20 degrees to 60 degrees, and the times went from 1.35s to 1.68s with a .33s difference. however as found out later the time range occured because of an error in measurement from miss timing swings. angle vs time graph (data table 3) gave a sloped line that indicated falsely a change in time due to the starting angle. 
+
+
+
+the data confirms that length of string is the only factor that concisely affects the length of the period. this was found using data table five, and has a given accuracy (r^2 value) of 0.9979 . this is confirmed with the equation given for finding the length of the period.
+
+
+
+the only other factors that could affect the period are noticeably the acceleration due to gravity. however this was un-testable on earth due to earth's near constant gravity. if we were to conduct this on a different planet with a different gravitational pull we may get different results.
+
+
+
+within the labs there were some listed errors such as is 
+
+-reaction time due to human error (human error caused a difference in the time measurement due to using a stopwatch that could not be pressed exactly at the period of the pendulum.) 
+
+-angle of release was not parallel to the reference board we used
+
+-dropped string tension was inconsistent
+
+
+
+to reduce error if we were to repeat our experiment we would be more consistent with the precision in all data taken and used; such as release angle, time measurement and tension. we would make sure that the angles and distance from the board were all as similar as possible. also, we would have the string tension be taut before release to reduce instances of free fall. this should make the experiments be more consistent and would reduce the errors.

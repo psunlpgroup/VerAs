@@ -1,0 +1,23 @@
+discussion:
+
+restated research questions: how does the acceleration of a system change when mass of the system changes? how does the acceleration of a system change when the angle of the air track changes?
+
+
+
+the first experiment showed the effect of the force of gravity on a system. we were trying to find the acceleration of the system in relation to the mass hanging. our graph shows a positive correlation in the force gravity provides and the system accelerating. the r^2 value (.9955) helps reassure us our data is satisfactory. the data backs up our claim that more mass would result in more acceleration, as the acting force on the system (mg) is increasing, causing the system to accelerate. our tiny error bars help to validate the data.
+
+our data more or less matched up with the rest of the groups. our equation ($a=0.0028 * f_g - 0.003$) was a little messy but it seemed most everyone else’s was as well. it was on track to matching the theoretical formula. it should be as is fg but c2 and c1 are error due to things such as air resistance and angles on the tables. some of the other groups had very high c1 values, such as .53, which seemed very out of place to us. 
+
+the theoretical equation of $a=\frac{f}{m_{sys}}$ almost matches our equation. the c1 and c2 values represent error in measurements and execution. our curve, given more data points to smooth out at random error we had, would eventually approach the theoretical equation. however, if there was any systematic error, it would never approach the theoretical. the system mass never changed.
+
+the new/enhanced theoretical equation was $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$. this equation isn’t actually different from the theoretical one, all it does is add variables for margin of error. in ideal circumstances the data would match $f=m_{sys} a$, because the c2 value wouldn’t exist (there would be no external forces on the system). however, since we work with error, the improved equation is very useful. our f/msys was .0028 for the first experiment and .0033 for the second. the c2 value for the first was 0.003. numbers these small show the work done was well executed but not perfect. other groups had c2 values ranging from .001 to .06 so we fit in to the class data. 
+
+error included from exp5 included us measuring all of the bobs at once and dividing by number of bobs instead of measuring them individually. this became a small issue later when we weighted one at a time and found they aren’t always 4.9g but can range from 4.2g-6.0g. for exp6 we fixed this by finding the weights of bobs 6, 7, and 2 were 4.5g, 5.5g, and 4.3g respectively (+/-.05g). there was also potential error in the tables not being perfectly level. both of these would be systematic error.
+
+error in exp6 included not being able to perfectly zero the table to be horizontal. the track was also resting on two different tables that were visibility different heights so we had to try to fix that. error included was also from not doing all the trials necessary which made us have to cram and made the data slightly incomplete. we had to reference others for their data. (other groups’ data included below) we didn’t match up with them as we did our experiment incorrect at first and had to cram to get data. if our team had more time and the ability to process our data i think that we would have ended up in an ok spot, but as t happens it doesn’t match. in the future our group will try to fix this by being more efficient with how we spend our time. 
+
+ 
+
+it is worth noting that the friction seemed to have a much larger effect on the acceleration than changing the angle did.   
+
+there wasn’t that much in way of constraints. we had many of the materials and tools needed or wanted. constraints for the 2 experiments included max and mins for mass added to the system and no way to actually find if the system was level. this would have just given us more data points and the ability to smooth out potential random error.

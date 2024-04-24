@@ -1,0 +1,21 @@
+discussion and conclusion
+
+
+
+we sought to research if the length of a pendulum, the mass on a pendulum and the angle of release of a pendulum impact the period of the pendulum.
+
+
+
+	for our first experiment, where mass is the independent variable, we were unable to conclude that there was a relationship between the mass on a pendulum and the period of the pendulum.  looking at graph 1, there may seem to be a downward trend, but in context of table 4, we can see that the difference in the periods at different masses is at max .013 seconds.  compared to the range of 160 grams, this is very small.  when examining the error bars, one can see that there is overlap between all the error bars.  this insinuates that even the small differences in periods can be attributed to our error.  essentially, there isn’t much of a real difference between the values and we cannot conclude a relationship.
+
+	in our second experiment, as seen in table 5, the period only changed .01 seconds as we changed the angle of release.  the error bars in graph 3 overlap, once again showing that this tiny difference could be accounted for simply by error.  our data did not show any valid differences in the period as we changed the angle of release, therefore we concluded that there is not a relationship.
+
+	in the third experiment, where we investigated how the length of a pendulum impacts the period, we did conclude that there was a relationship.  as seen in graph 2, there is a direct relationship where the period increases as the length of the pendulum does.  this time, the period changed much more than our other experiments.  as seen in table 6, our period differed at max .414 seconds.  our error bars on graph 2 hardly overlap, insinuating the differences between periods are legitimate differences and are likely not due to error.  thus, we concluded that as the length increases, so does the period.
+
+
+
+the theoretical mathematical model of a pendulum’s period is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$.  our data is consistent with this model.  as you see in the model, the period depends on length and gravity.  the gravity on earth is a constant, and 2π is a constant as well.  this means the only other factor left to consider is the length of the pendulum.  as previously stated, graph 2 shows a relationship between length and period because there are significant differences in the periods as we change the length and error bars do not overlap.  graphs 1 and 3, however, have very small differences in the periods, and the error bars overlap, insinuating there is no real differences that cannot be accounted for by error.  therefore, our only confirmed factor, length, is correct.  mass and angle, with no confirmed relationship, also have no confirmed relationship in the theoretical mathematical model.  also, from lab 3, our graph 4 of length and period yields an equation with an exponent of 0.5123.  this .5123 is very close to .5, where n^.5 is the square root of n.  this shows the mathematical model from our data is very similar to the theoretical mathematical model. 
+
+random error existed in the differences in time between when the pendulum was dropped and the stopwatch was started.  there was also random error in the difference between the end of the period and when the stopwatch was stopped.  to minimize these errors, we took the time of 10 periods so that the error was a smaller percentage of our final calculated time of one period.  for example, let’s assume our timing error was .2 seconds, and the period we calculated was 1 second.  if we measured only 1 period, the error would be 20% (.2/1) of the time.  however, if we measured 10 periods, error would only be 2% (.2/10) of the time.
+
+our experiment’s conclusion is limited perhaps because we were only able to measure our variables within a certain range.  given our setting and materials, it would be unreasonable to measure a huge range of pendulum lengths—for example, 10 meters would not be doable.  similarly, we could not go past the weights we were supplied with.  due to this, our results may be limited to the range we used in our experiment and a larger range of values for our independent variables could yield different results.  also, there is a lot of human error present in the experiment that may have altered our results.

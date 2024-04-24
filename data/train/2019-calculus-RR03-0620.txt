@@ -1,0 +1,14 @@
+conclusion:
+what affects the period of a pendulum?
+
+	in the experiments we did we tested three factors that we though might influence the period of a pendulum. our first test was to see if weight affected the period of a pendulum, we conducted this by having the other two variables remain constant while changing the mass to see if the time of the period was affected. out original claim was that mass wouldn’t affect the period and through our investigation we found that the claim was true as we couldn’t find enough positive correlation in the graph or in our data.
+
+	the second factor we tested was the period of the pendulum in which we change the angle of launch. we again had the other two variables remain constant while we change the angle. i predicted that the angle of launch would affect the period, although through experimentation we found that even though there was some positive correlation, there was not enough evidence to conclude that the period was affected by the angle.
+
+	the third and final factor tested was if the length of the pendulum affected the period of the system. we kept all factors except the length of the system constant to find whether period was directly affected. as a group we predicted that the period would affect the period. we concluded that it would affect the period, for several reasons. the longer the string used the bigger the radius is thus the pendulum has much longer distance to travel. finally we can conclude that length clearly does affect the period, proved by the correlation in our graphs and the data we collected.
+
+ we found that for our data the theoretical mathematical model for the period of the pendulum was $y=0.1128907 x$ this equation fits with our data with going hand in hand with the power rule. as our graph can be seen slowly leveling out more and more as the length gets longer. the leveling out that can be seen in the graph is represented in the equation by the exponent that directly correlates with the slope.
+
+ in our experimentation we didn’t find any systematic errors, but we did run in to some types of random error. some examples of the error include not launching the object in an exact 2-d plane that would sometime cause it to veer off to the side and could affect the time or hit the laser timer and slow down. to reduce this type of error we had two team members responsible for the lunch angle so that we could get it to go straight as possible. also, some initial error could have been from human error when using a stop watch to find the period. this was eventually resolved with the use of a laser gate timer.
+
+the only thing that was concluded would help would be a better way to launch the object in a straighter path. also the use of the laser gate time from the start would have been more useful.

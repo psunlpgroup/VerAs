@@ -1,0 +1,15 @@
+conclusion:
+
+	the purpose of this lab was to compare the factors of mass and length on the acceleration of a car and develop a mathematical model for that case. we also created mathematical models when determining whether tilt effected the acceleration.
+
+	upon graphing our data in excel, we displayed the equations on the graphs. we then plugged in the units for the variables to get our final formulas.
+
+	
+
+	using this data, we can further realized that c1 is a constant, and we can find the units of the other quantities after seeing how all of our graphs were the same type, a power graph.
+
+	the random error in this experiment could include our measurement of the mass of the bobbers. however, our systematic error could have been in the machine measuring the velocity. meaning that the sensor could have measured all of our values too high or too low. we could have used bobbers that all had the same mass to reduce our random error.
+
+	we were constrained to use the provided air track assuming that there was no friction.
+
+	because we were looking at how the mass effects the acceleration, we can easily see that it directly correlates with $f=ma$.

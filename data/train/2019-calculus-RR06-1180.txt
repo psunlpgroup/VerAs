@@ -1,0 +1,24 @@
+conclusion:
+the purpose of the lab is to develop mathematical models which describe the behavior of a real system(lab 5) and develop a understanding for each variable and numerical value used(lab 6).
+
+
+
+the experiment we did in lab 5 led to the mathematical model because we found as we increased the force applied the acceleration increased as a result. this means that mass and acceleration are directly related. since we were able to find a linear model for this it can be modeled as $y=2.7875 x - 0.0216$. the experiment done in lab 6 led to a mathematical model by comparing magnets and how they affect the acceleration of the cart as the force was increased. the graph shows that as we increased the force the acceleration decreased in a linear fashion. the equation for this is $y=4.7934 - 14.1 x$. the r^2 value is .985 which indicates this is an almost perfect correlation. 
+
+
+
+
+
+we couldn’t get another group poster because they had left when we’re going to take a picture of it. 
+
+ 
+
+one error that could have affected our data is friction. the cart “floats” on air and is frictionless but this doesn’t include adding weight. as we add weight to the cart there is more friction introduced to the system and thus this would result in systematic error in our data. to try and reduce this error we tried to place the weights on as evenly as possible to limit the friction in one area. we also put most of the bobbers on the pully and not the cart. air resistance could be another error, but this wouldn’t have much affect at all most likely none. if it were to occur this would be systematic error and make our data skewed one way. 
+
+
+
+the fact that the air cart was not entirely frictionless is a constraint in this experiment. another constraint was that we were limited to using bobbers only. this limited the amount of weight that we could put on the cart or use to pull the cart. 
+
+
+
+newtons second law states that $f =m a$. that means these are all related to each other. in the lab 5 we found that as we decreased the force applied the acceleration decreased. and vice versa. the graph is linear which also proves this point. lab 6 as we increased the mass acceleration decreased. the graph can also prove this point because it too is linear and shows causation.

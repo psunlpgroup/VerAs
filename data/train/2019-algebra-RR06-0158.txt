@@ -1,0 +1,18 @@
+conclusion:
+the purpose of this lab is to develop mathematical models which describe the behavior of a real system as well as to develop an understanding for each variable and numerical value included in the model.
+
+the experiment to test the impact of hanging force on acceleration yielded a positive correlation as seen by the slope of the line on graph 1. as the hanging force increased, so did the acceleration of the cart. graph 2 shows that there is an exponential rate of decay between the variables of mass and acceleration, resulting in a small slope to a large negative power. this is because an increase in mass will decrease the acceleration of the cart. the experiment to test the impact of magnetic friction showed that acceleration is impacted by magnetic friction when comparing graph 3 to graphs 4 and 5.
+
+
+
+group 1 found that friction negatively impacts the acceleration. this is shown by their decreasing slope values and increasingly negative b values within their equations from their data.
+
+
+
+group 2 also found that friction negatively impacted the acceleration of the cart.
+
+random errors such as missing or not highlighting a point in data studio before calculating the slope of the line could have affected our data and mathematical models to a degree. systematic error such as a non-properly functioning segment on our air track could have impacted the time it took for the cart to accelerate, impacting the data negatively.
+
+this experiment contained no constraints that would limit the generalizability of our results.
+
+our two experimental mathematical models are consistent with newton’s second laws in that they display a relationship between force, the mass of the system, and its acceleration.

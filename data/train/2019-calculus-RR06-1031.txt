@@ -1,0 +1,26 @@
+discussions and conclusion
+ the purpose of these labs was to experiment and find the relationship between force/mass and acceleration of a system. after conducting the experiments, we were able to create a mathematical model that can represent that situation with any given input from the user. for lab 5, we created two models, one that gave acceleration as a function of force, which is derived from the mass hanging to accelerate the car. the second model gave acceleration as a function of mass, where the mass is added/subtracted to and from the car. for lab 6, we created multiple models (to show what would happen to the equation when tilt would change) that gave acceleration as a function of force, which is derived from the constant hanging mass.  
+
+
+
+for our first mathematical model (refer to lab 5 - experiment 1 – data table/graph), we calculated a model of acceleration as a function of force. this is a linear positive relationship between the iv and the dv, just as predicted in our experimental design template. the constant of 4.69 in the equation represents 1/ (m1 +m2) kg and the .0557 represents the angle of the track not being completely level/ theta. for our second model (refer to lab 5 - experiment 2 – data table/graph), we calculated a model of acceleration as a function of mass of the car. this created an inverse relationship which validates our hypothesis as a negative relationship. the initial constant of 0.0882 is intended to represent the mass hanging. for our final model (refer to lab 6 – data table/graphs), we created multiple models of acceleration as a function of force. these models show a linear positive relationship between the two variables. the slope of the equation is intended to represent the inverse of the mass of the system. the y-intercept of these models represents the uncertainty of tilt on the track. for example, a tilt of 0mm (completely horizontal) should have a y-intercept of 0.
+
+
+the claim of group 6 was that when the tilt was with the cart (downward incline), the acceleration of the cart increased. their data adds to our understanding because due to their x-axis (hanging mass force) and their y-axis (acceleration), with greater force dragging down, the greater the acceleration of the cart. the acceleration of their cart was greater than ours however because we had an uphill tilt on our track.
+
+the claim of group 6 was that when the tilt was with the cart (downward incline), the acceleration of the cart increased. their data adds to our understanding because due to their x-axis (hanging mass force) and their y-axis (acceleration), with greater force dragging down, the greater the acceleration of the cart. the acceleration of their cart was greater than ours however because we had an uphill tilt on our track.c) 
+
+group 4 claim is when the retarding force is increased, the net force is decreased. their data and claims support that when there is a force that retards the force of the m2 force, the cart’s acceleration decreases. their tested iv had a larger impact on the values than our group.
+
+
+
+group 4 claim is when the retarding force is increased, the net force is decreased. their data and claims support that when there is a force that retards the force of the m2 force, the cart’s acceleration decreases. their tested iv had a larger impact on the values than our group.
+there could have been multiple errors (both random and systematic) present in this experiment that could have altered the results. one possible random error that was present was that the track may have not been perfectly frictionless. although the air track does a pretty good job at simulating a frictionless track, i don’t believe it will ever always be perfectly frictionless. this would create a backwards force against the motion of the cart which could have possibly decreased the values of acceleration. one possible systematic error that could have been present in this experiment was the scale. we weighed the same bobbers one week later from lab 5 to 6 with a different scale and got different numbers. this indicates to me that the scale was off by some constant factor. this would create a systematic error where all measurements and calculations using those measurements would be off by a constant amount. in order to possibly limit these errors would to always inspect your equipment to make sure it is operating correctly. 
+
+
+
+there are a few constraints in this experiment which limits the generalizability of our results. one would be that we only had relatively small masses which can only create relatively small forces. we were also limited by the length of our track. both limits cause us to claim that our models may only work within the constraints that we tested them. 
+
+
+
+our models are consistent with newtons second law. $f = m a$ shows that force and acceleration are directly proportional and increases/decreases as the other variable does. that is what we had hypothesized and had been shown in our data/graphs.

@@ -1,0 +1,15 @@
+discussion and conclusion 
+
+a) - the purpose of the lab (5) was to develop mathematical models which describe the behavior of the real system. (lab 5) the purpose of the lab (6) was to develop variables that could affect the results from an experiment. 
+
+b) – the data collected from all three labs was used to create graphs using excel. for figure 2) x is force and y is equal to acceleration. for figure 4) x is mass and y is acceleration. experiment 6, figure (6), equation can be interpreted as x is applied force and y is acceleration.  
+
+	
+
+	team 6 had a similar hypothesis to ours. this backs our data since it is very similar. the first two groups (1 and 3) tested a different hypothesis then us so we can not compare our data to theirs.  
+
+	d) errors in this lab are very minimal since most of the data recorded is from sensors. errors can be made when recording mass since the scale could be off. this would be a systematic error. to reduce the weighing errors would be to measure the weights using two different scales and take the average of.  this would could be used to reduce error in the lab.
+
+	e) the constraints are that the air rail is not totally frictionless. this can throw off numbers compared to the theoretical values. this limits the generalized results of both labs. these would lower the numbers cannot make them perfect in a lab setting using the tools we were provided. 
+
+	f) the two mathematical concepts from both experiments show that $f = m a$ and $a = f/m$ which is consistent with the graphs and data collected from the experiment.

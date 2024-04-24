@@ -1,0 +1,28 @@
+discussion and conclusion
+
+
+
+the research questions is, what impacts the period of a pendulum for small swings? after determining this data, the question became, what is the mathematical model of the period of the pendulum as a function of its length? 
+
+
+
+in the first experiment, there were five different masses with a constant angle of release and length. the data was recorded and shown in table 3.1. this data was graphed, graph 3.1, and based on this graph it appeared that the mass of the pendulum did not impact the period of the pendulum. since the error bars in graph 3.1 overlap, it can be said that mass likely doesn’t impact the period of a pendulum for small swings. in the second experiment, there were five different angles of release, while mass and length were kept constant. the numerical data is shown in table 3.2 and this data was graphed in graph 3.2. because there is overlap in the error bars of graph 3.2, there is likely that the angle of release has no impact of the period of a pendulum for small swings. in the third experiment, there were five different lengths of the pendulum and the mass and angle of release were kept constant. the error bars in graph 3.3 do not overlap, so it can be said that length of a pendulum does impact the period of a pendulum for small swings.  
+
+
+
+the theoretical mathematical model for the period of a pendulum is	
+
+				$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+
+in graph 3.4, we found a model for our data from table 3.5 for the period of the pendulum is $t=1.9804 L^{0.5081}$
+
+although on day one, it was assumed that the relationship between length and the period of the pendulum was linear, a power function curve fit this data best. the  value was 0.9996. reflecting on the theoretical model of the period of a pendulum, it is shown that the mass of a pendulum and the angle of release do not affect the period of a pendulum. the period of a pendulum is affected by the length of the pendulum and gravity. 
+
+
+
+on day 1 of this experiment there were many errors, but these errors were reduced as the experiment progressed. random errors in this experiment were measuring the length of the pendulum and not measuring the mass each weight individually. these errors were a result of human error and were not biased, which is why they are random errors. these errors were reduced by taking three measurements of the length of the pendulum and averaging the data. additionally, the mass was taken of each individual weight used. the angle of release and timing was done each by one person, so these are two systematic errors. these errors were reduced by having multiple people take measurements and averaging the data. other systematic errors could be the triple bean balance precision, the tape measure could be stretched out, and the stop watch could be fast/slow. while these errors weren’t verified, they could be reduced by finding the degree to which the instruments were off by and then shifting the data accordingly.
+
+
+
+one constraint of our experiment was we could only make the pendulum as long as the floor would allow. as a result, our model can only be used for up to 140 cm. another constraint is the availability of masses we were able to use. while it was shown that mass doesn’t impact the period of a pendulum, our experiment can only make this reasonable conclusion for masses between 50.5 grams and 210.5 grams.

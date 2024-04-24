@@ -1,0 +1,19 @@
+discussion and conclusion.
+
+the purpose of the lab was to experiment with the moving the masses around to develop a model of the velocity vs time, and to compare it with the theoretical mathematical models according to newton’s second law. we are also trying to discover the relation of each variable and constant in the models to newton’s second law. 
+
+the three experiments led to the development of the mathematical models through plotting the points, fitting the line to the points and then creating the equation off the points made. the numbers and the variables that were derived from our data, were remarkably similar to the numbers in the actual theoretical models.  
+
+
+
+
+
+both groups had comparable results to ours, which allowed us to see the similarities of their models, our models and the theoretical model.
+
+
+
+there were random errors because all of our numbers were above and bellow the theoretical model equations, which leads me to believe it was how we were releasing the cart and how the software that calculated the velocity would read it because of those errors. we could use a pully release.
+
+the system was small scale, causing us to have a limited amount of data points recorded. which could have thrown off the slope of the velocity vs time slope, aka acceleration.
+
+as the mass increased on one end of the system, the acceleration decreased. which means that the force in the system did not change. since mass and acceleration are indirectly proportional. 

@@ -1,0 +1,11 @@
+conclusion
+
+how does the length of string impact the period of a pendulum?
+
+the main factor tested in the research question was the length of string this was the independent variable because it was the only factor that changed the period in the pendulum swing, whereas the angle and weight of the strings did not change the period of the pendulum in the previous lab, so they are the control variables.
+
+the mathematical model that we used for this experiment was a power rule equation, that was $y=0.301 x^{0.4089}$.  our data fits with the model almost perfectly our r^2 value was 0.9985 and the graph represents a power function.
+
+when using the motion sensor in the lab experiment it reduces the effect of errors that occurred in the first lab with the stop watch.  there were still some random errors in the experiment though one of which was if you swung the string in a little bit of an oscillatory motion instead of straight to the peak and back.
+
+there are no constraints in this experiment.

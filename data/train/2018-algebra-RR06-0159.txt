@@ -1,0 +1,15 @@
+discussion/conclusion
+
+
+
+the main question being researched in this experiment was, how does the acceleration of a system change when the applied force changes? the experiment tested was hanging mass versus acceleration of the cart. through this experiment we were able to gather data that showed that the hanging mass did affect the acceleration of the cart. the acceleration acquired using the datastudio software and the mass values acquired using the triple-beam-balance provided in class were used to calculate a mathematical model that represented the affect hanging force has on acceleration. looking at the data from tables 2 and figure 1 it can be seen that there is a linear relationship between measured hanging mass and acceleration of the cart. figure 1 does not show standard error because they are to small to be seen.
+
+ 	the other forces that may be present in the experiment which need to be considered when comparing to the theoretical model are friction and gravity. the hanging mass multiplied by the mass of the system is divided by the mass of the system in the theoretical model. this value is then multiplied by the frictional force divided by the mass of the system to get the acceleration of the object. 
+
+	when our data is compared to other groups our $f_{ext}=0.0055$ is larger than the other groups, $f_{ext} = 0.0012 n$ (figure 2.) and $f_{ext} = 0.0018 n$ (figure 3.).  this supports our data because they are similar to our values. if everyone’s values were significantly different the hypothesis of hanging mass affects the carts acceleration would not be consistent. 
+
+a systematic error that could have occurred was that there could have been an uneven frictional force. there could have been a bump or scratch in the surface at a certain part that would increase the frictional force and decrease the acceleration at a certain part in the surface. there were times on the graph where a bump in the linear graph would occur which could affect the slope of the velocity graph and give us a different acceleration. errors were reduced by selecting the most linear part of the graph on data studios and our group kept the same group members releasing the cart every time and marked a release point. some constraints within the experiment could be only having eight bobs to add to the hanging mass. if there were more bobs there could be more measurements preformed to get more data. with more data we could make a better conclusion on how acceleration is affected by hanging mass
+
+	if the string connecting the cart to the hanging masses had a heavy weight the whole mass of the system would increase. acceleration is proportional to hanging mass and inversely proportional to the total mass of the system. therefore, acceleration would decrease if the sting had a heavy mass. 
+
+	

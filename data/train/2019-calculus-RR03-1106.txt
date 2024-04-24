@@ -1,0 +1,21 @@
+discussion and conclusion
+
+
+there is a direct relationship between the length of the string and the length of the period. as the length of the string was increased, the length of the period is increased. the length of the string started at 30cm and we ran trials increasing the length by 10cm ending with a trial that had a sting that was 70cm long.
+
+
+there is a direct relationship between the length of the string and the length of the period. as the length of the string was increased, the length of the period is increased. the length of the string started at 30cm and we ran trials increasing the length by 10cm ending with a trial that had a sting that was 70cm long
+
+the result shows that there is no relationship between the angle and the length of period. the test began at 30 degrees and end at 24 degrees, the observation shows length of the periods are about same.
+
+
+
+	based on data collected from measuring difference in angle and measuring difference of mass design, the result shows the mass and the starting angle of the pendulum are not impacting factors of the period. the result of measuring difference in length of string shows the period of a pendulum will increase if the length of the string increase. 
+
+	theoretical equation for the period of a pendulum is .  l is length of the string (meter), g is the acceleration (meter/seconds^2) due to gravity.
+
+the theoretical model equation on earth can be simplified as $t=2.006 l^{0.5}$ and our equation is        $t=2.0451 l^{0.4334}$             . the coefficient has around 2% error and the power part has 14% error compare to the theoretical model. it is close enough to represent the theoretical equation but not accurate. the equation from other lab groups are is  $t=2.1114 l^{0.4393}$         $t=2.09 l^{0.4511}$       $t = 2.087 l^{0.4839}$       $t=2.0291 l^{0.507}$      $t = 6.4151 l^{0.4555}$      and        $t = 6.3349 l^{0.4987}$ . those equations also proves our equation is close to the theoretical equation.
+
+
+the method of period data could be improved if we let the pendulum go and time for five periods and take the average. the accuracy would be improved because even though each period is technically smaller than the previous, this error is negligible in practice. it would allow the pendulum to swing in a few full periods without it being stopped inconsistently by a person after one full period. 
+air pressure in the room could also be a factor to influence the period since it is not controlled strictly. the experiment could be tested by doing a pendulum test within a controlled space and changing the pressure while keeping other variables the same. material of the string could be another factor. it could be tested by changing the material of the string to twine, rubber, elastic, etc. while keeping other variables constant.

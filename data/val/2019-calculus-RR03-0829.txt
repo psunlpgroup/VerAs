@@ -1,0 +1,8 @@
+Conclusion:
+In conclusion, our previous assumptions held up. Throughout the completion of this lab we tested the effects certain factors weigh into the period of a pendulum. Firstly, we found that increasing the weight had virtually no effect on the pendulum. Secondly, increasing the angle had some effect on increasing the period. Lastly, increasing the string length had the biggest result on the period of the pendulum. 
+Data from the photogate was used for several periods of a pendulum. We are confident in these results given a tolerance of plus or minus 0.001 seconds. Also the R squared value was very high from our line of best fit. If all other variables were held constant but gravity was decreased, the period of the pendulum would increase. With zero gravity the pendulum would float in air. (See Figure 7)
+
+ Gravity is a factor that would make a difference. Ways to test a pendulum manipulating gravity would be fun interesting, buit impractical. Friction also could be tested by using different types of string.
+ More trials could be instated to increase confidence in our results.
+    We determined that pendulum of 50cm would have a 1.4101 second period. The theoretical model suggests a period of 1.4192.
+    To achieve a period of 5 seconds we calculated a need of a pendulum length of 595.56 cm. 

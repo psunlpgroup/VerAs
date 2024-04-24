@@ -1,0 +1,19 @@
+conclusion
+
+
+
+	as we go through labs 1, 2, and 3. we were given the opportunity in lab to try and mathematically dictate that that the only things that are able to effect the period are angles >20 degrees, and the length of the string. these variables when shown when viewing the graphs show consistent data that they are truly the only ones that do so. when looking at figure 5, we get a look at the original period equation itself.  , if we view our y curve from lab 3, ($y=0.2066$ which when you simplify the t equation to just a single number, you get something similar to this. meaning that when using the equipment and tools provided for this lab, we were able to prove that the actual period equation itself works(but as we recall, originally in this passage, only for angles of degrees that are above 20 degrees). 
+
+	so in conclusion, we’ve found that from these labs, we can say that length of the string, and angles that are greater than 20 can effect the period of the pendulum.
+
+the length of a pendulum’s string has a positive correlation with its period, while mass and angle of release respectively have no correlation, given that for each the other two variables are held constant. 
+
+we have confidence in the data that we collected; averages were used and multiple measurements were taken for each trial to ensure relative accuracy. 
+
+the graph of the pendulum length vs. period demonstrates a positive correlation, in that if a best-fit line were drawn it would have a positive slope. 
+
+the graphs of mass and release angle vs pendulum respectively show no correlation, since the trend in period as each increase is relatively horizontal. 
+
+another factor that would likely affect pendulum period is force applied. testing this would be extremely difficult without a very specialized pendulum setup. a research question that we could ask is how applying force to a pendulum affects its period compared to just dropping it. 
+
+some suggestions for improvement include a greater number of collected data points, both trials per iv value and time measurements per trial. another suggestion is to use a level to ensure that the surface used for measuring the angle of release is truly horizontal.

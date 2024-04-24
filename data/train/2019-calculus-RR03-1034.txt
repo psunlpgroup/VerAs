@@ -1,0 +1,39 @@
+discussion and conclusion
+
+research question:
+
+what impacts the period of a pendulum?
+
+
+
+the effect of mass on the length of a period is 
+
+ increasing/decreasing the mass doesn’t change the period of the pendulum.
+
+discussion is  in this graph the trendline shows a small slope. this slope closely reflects zero so, the line is horizontal. in conclusion the change in mass does not affect the amount of time it takes for one period. 
+ there is no correlation between mass and the length of the period. the trendline is in range of every error bar so the data can be stated to be reliable. 
+
+
+the angle does affect the length of the period. 
+ in this situation there is a slight positive correlation this can be explained by when the angle exceeds an angle of 20 degrees then the angle of the string on release will matter. however, in our situation we keep the angle at 15 degrees so there is not possibility of the angle impacting the data.
+for small angle values, the size of the angle does not affect the length of the period. the trendline is in range of every error bar so the data can be stated to be reliable.  
+
+
+
+the effect of length of string on the length of a period is 
+ decreasing/increasing the length of the pendulum string will decrease/increase the period of the pendulum. 
+
+the graph shows that there is a positive correlation between the angle of release and the length of the period. in this graph it fits a power curve very well having a r^2 value of .999. this means as the length gets very large then the different will be very small. similarly, if the length goes smaller than the change will be more dramatic. 
+
+ when the length increases the period also increasing making a direct relationship. the trendline is in range of every error bar so the data can be stated to be reliable.
+
+
+the equation for the period of a pendulum is $t=2$ *(l/g). this means that according to this equation the length and gravity of a place is the only factors that will affect the period. this is exactly what the results i am getting in this lab as well. furthermore, as l increases in the equation, so will t. also, in a hypothetical situation in another plant there would be a systematic shift in the data, but the string length will remain to be the only factor in the system that will affect the data.
+
+
+
+angle measured incorrectly, reaction time, measuring of the string, tension in the string
+
+the photogate was used to eliminate the error of human reaction time. keeping a fixed place on the string to measure making the measurement a systematic error rather than a random error. the more trails there are the less amount of errors we had. 
+
+for the angle of the string to not affect the string period the angle must be less than 20 degrees. we were also constrained on time, this made use rush the procedure not making it the most scientifically accurate procedure.

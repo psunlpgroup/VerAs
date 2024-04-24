@@ -1,0 +1,9 @@
+discussion and conclusion:
+
+	in this experiment, three variables were tested vs. time. what was being tested was whether changing the length of a pendulum system, mass and angle of release of the system would have an effect on the period (time it takes to complete one full swing). 
+
+	analyzing the data collected, it can be determined that the only data that was related or had any significance was the length vs. time data. looking at figure 1.1 and figure 2.1, it can be seen that it is the only experiment with a relationship due to the error bars not overlapping. as the other experiments, mass vs. time and angle vs. time, the iv and period share no relation due to the overlapping error bars and relatively flat slope of the figures 1.2 and 1.3.
+
+	the theoretical model for this experiment was found to be $t=2 \pi \sqrt{\frac{l}{g}}$ . however, the mathematical model was found to be $y=- 0.0003 x^{2} + 0.0489 x + 0.562$ with an  of one. this value represents the best-fit line for this data.
+
+	it can be concluded by that the only experiment that had significant data and that showed a relationship with the period was the length vs. time experiment.

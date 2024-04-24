@@ -1,0 +1,16 @@
+conclusion:
+
+
+in this lab the research question asked was what effects the period of a pendulum. three experiments were preformed to determine if length, mass, or angle or release affected the period. during each experiment all the factors except for the one being tested were held constant. it was determined that the angle or release and the mass didn’t affect the pendulum significantly enough to make any claims, however the length of the string did affect the period. it was found that the longer the string the is the period of the pendulum increases. the reason it was determined mass and angle of release were not significant enough factors was due to the error bars created on the graphs. 
+
+
+
+this showed that the data collected had enough uncertainty to potentially change the correlation of the graph. the theoretical data shows that the graph should be $t=2 \pi \sqrt{\frac{l}{g}}$   this relates to our graph $t=4.4635 l^{0.841}$ with a r2 value of 0.9638. this equation only calculates for the length of the string and the force of gravity. the mas and the angle of release are not included in this equation, which makes since because our data showed they didn’t make any difference in the period.
+
+
+
+ the reason our r2 value was 0.9638 and not closer to one is due to random error. the lab equipment provided was not working properly. this caused the data collected to be off from the correct value slightly. in the future using equipment that is properly functioning can help eliminate this error. 
+
+
+
+some constraints that could limit this experiment from becoming generalized is the effect of air pressure and air resistance was not tested. if these did affect the period of a pendulum and this experiment was repeated somewhere else, the results could be different. additionally, the length of the string was changed while the entire time the angle of release was the same and the mass used was the same. changing two variables could also have an effect on the period that wasn’t tested.

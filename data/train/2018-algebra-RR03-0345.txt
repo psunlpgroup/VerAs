@@ -1,0 +1,19 @@
+discussion & conclusion
+
+
+
+the research question investigated in this lab was “what impacts the period of a pendulum for small swings?”. an experimental design was developed to test the hypothesis. three experiments were tested to asses which variable had the most impact on the average period of a small swing. 
+
+	an experiment was performed with the mass of the weight was the independent variable. it was observed that when the mass of the weight was altered in equal intervals for different trials, that the relationship between the mass and the period was scattered. the error bars did not overlap with the trendline. 
+
+	another experiment was conducted with the angle release of the weight as the independent variable. the graph of angle vs period showed that the error bars were roughly the same size as the mass vs period graph. again, there was no overlap of the error bars with the trendline, so there was no significant relationship between the angle of release with the average period of the swing. 
+
+	lastly the experiment with the length of the string vs period showed data that had error bars overlapping with the trendline. error bars were slightly smaller than those of the previous graphs. as the length of the string increased so did the average period of the swing. 
+
+	the theoretical equation for this lab was x5, and our mathematical model was .3253x.397. the mathematical model from the experiment was off by roughly .1 units. the r2 values was .9936 using a power trendline.  the mathematical model does support the theoretical model. 
+
+	some random errors could have been due to the loss of power in the middle of the experiment. random errors are unforeseen factors that could have altered the data. there were not many random errors in this experiment.
+
+some systematic errors could have been improper calibration of the photogate, angle readings, length measurements, or even stopwatch readings. these could be reduced by recalibrating the instruments used for measurements. some other techniques that could have been used to reduce the systematic errors could have been to use another measuring tape or another stopwatch. there were a lot more possibilities of systematic errors for this category. 
+
+some constraints on this experiment were the lab equipment. instead of using our eyeball to determine the angle of drop. a machine with the ability of dropping the object from the same angle consistently could have been used to reduce error and improve the results. human error was a constraint that could not have been prevented. so this would cause a flaw in the data, but this could be prevented by using machines that are more accurate and precise. overall this experiment went without many errors and was successful.

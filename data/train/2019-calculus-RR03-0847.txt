@@ -1,0 +1,7 @@
+conclusion:
+during lab 01, we were to investigate the different factors that might possibly affect the period of a pendulum. we used mass, length of string, and angle of release as independent variables, which were all measured by changing the variables and graphing the correlation as the variable increased. we concluded that the only factor that affected the period was the length of the string. this makes sense because an increase in angle of release means it returns at a higher point. also, the mass of an object wouldn’t affect the period gravity accelerates objects at a uniform rate, regardless of mass. this was based on the information given in the graphs below. 
+
+	during lab 02, we concluded that standard deviation did not affect the results of our graphs, they simply expanded the possible data. this was decided because the only data that showed any sort of correlation was the length of the string, which the numbers increased by enough margin so that the data was still moving in the positive direction regardless of any possible deviation. 
+
+
+during lab 03, we set up an equation to calculate the correlation of the period, as the length of the string increases. we also used a photograph machine to measure the length of the period. this made for a more accurate measurement of the time, as well as lowering the standard deviation. finally, we found an equation that represents the correlation of the period, as the length changes.

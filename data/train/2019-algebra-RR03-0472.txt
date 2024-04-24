@@ -1,0 +1,29 @@
+conclusion:
+ Our experiment tested the claim that a pendulum’s period was affected by the length of the string of the pendulum, with the controls being the angle at which it was released (60º) and the mass of the pendulum (50g). We found that the length of string does have a positive non-linear relationship with the time of a period, being that as the string got longer, the difference between times became less, but the difference was still positively correlated.
+
+The data collected during lab, as well as known scientific knowledge or theories, can be used to justify your claim.  The following questions serve as a guide for evaluating all evidence that supports your claim.
+ 
+
+              
+	We are very confident in the numbers that we got for each measurement, especially since we used a laser timer to remove the user error in timing each period. With our random errors controlled our range out uncertainty was ±.001, a very high level of certainty. 
+ 
+. 
+	The mathematical model was created using a line of best fit with a non-linear relationship (Power equation). Using the equation our graph generated we were able to compare not only with the other groups in the class, which all got very similar answers, but with the accepted mathematical model of a pendulum’s period by length. 
+ 
+        
+	We are very confident in our mathematical model produced by excel, we compared with the class whom all found very similar equations, and we compared with the accepted model to find ours was very similar. Our value was .9985, which shows a very high correlation between our line of best fit and our data points.
+ 
+
+	
+ 
+
+The period of a pendulum would be longer (increase) on the moon due to the fact that the acceleration due to gravity (1.625m/s2) would be less on the moon in comparison to the acceleration due to gravity on Earth (9.8 m/s2). If we plug the said gravities into the formula $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$  (L, being the length of the pendulum which is kept constant, and g being the said gravity accelerations) the time of period for the pendulum on earth would be 2.482 seconds, while the period for the time of period for the pendulum on the moon would be 6.096 seconds.
+
+Theoretical equation for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. My prediction was right because i predicted that the moon's period for a pendulum would be longer (increase) in comparison to the Earth’s. 
+ 
+Our experimental model data gave us the equation $y=2.1295 x^{0.4301}$. Our theoretical model gave us the equation $y=1.99 x^{0.5}$. In comparison with the theoretical model the experimental model was a little higher which shows that we still had a small amount of error in our design.  
+
+Another factor that may play into the research question, “What impacts the period of a pendulum?”, could be the angle that the pendulum passes the laser at. This would be different with each run making it a random error making our data skewed. We could investigate my making sure to keep the pendulum at a 90 degree angle when passing the laser pointer. The new research question we could ask is how does the angle the pendulum passes the laser at? 
+If I were to repeat the experiment I would had done with different strings and the different measurement of string lengths. Different procter that would give accurate angle. If i were to do this experiment i vacuum, it would eliminate  the air resistant. The strength of our experiment is our R squared value which is .998, which mean we had just about .001 error, but the laser had .001 delay therefore i would saw was done correctly. 
+The experiment vale was .4301 and the theoretical was .50 which mean we were just about 7% off. This can be result due to human error as well as laser being .001 second delay. We might made a mistaken placing the proctor  to in the middle which can give some seconds off. 
+ If we were to construct a pendulum with a period of 5 seconds than we would need string length to be 5 meters because when we did 1.8 meter we got 2.77 second. In this experiment mass doesn't make any difference but this result was using 50 grams so i would say bob have to use 50 grams.  

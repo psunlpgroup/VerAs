@@ -1,0 +1,12 @@
+Discussion and conclusion.
+ The purpose of lab 5 was to develop multiple mathematical models that describes the behavior of a “real system.” The purpose of lab 6 was to understand each variable and number in the mathematical models
+ C1 is a constant which was obtained from our best fit lines, obtained from figures 9, 11, and 13, that represents the mass of the system, without the hanging mass added, which is represented by F. Our C1 values were 17.128, 18.17, and 18.56. The mathematical C1 based on the lab set up was 19.66 which is close to our data. The C2 value represents the constant for downward force in newtons. This was also obtained from figures 9, 11, and 13. Our C2 values were 0.0074, 0.0263, and 0.0201. 
+
+
+Group 1 results showed that there C2 values for test 1 (0 magnets), test 2 (1 magnet), and test 3 (2 magnets) were 0.0075, 0.0198, and 0.0285. These values are relatively close to our groups data results which showed C2 values of  0.0074, 0.0263, and 0.0201 which can be found in figures 9, 11, and 13.   
+ 
+ A random error that could have been made during the experiment is not keeping the start distance the same with each trial. This would affect the distance it took for the cart to reach the end of the track. This would cause our data to be inaccurate. This was kept at a minimal by having two people verify the release distance. A systematic error that may be possible is the scale used could have been inaccurate which would give an incorrect mass which would in turn provide our acceleration values to be incorrect. This could be fixed or minimized by having accurate measuring equipment. 
+
+	A major constraint of this experiment is the fact that friction cannot be eliminated. This is not good because it limits the accuracy of our data in our experiment. 
+
+	Newton’s 2nd law says that the sum of the forces equals the mass of the systems multiplied by the acceleration. Our mathematical models give the equation C1+C2. The answer to the equation is the acceleration(a). We can use this equation to find mass of the system by dividing C1 by a. 

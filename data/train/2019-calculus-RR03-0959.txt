@@ -1,0 +1,13 @@
+conclusion:
+
+
+
+	the purpose of this lab was to test the effect of dependent variables such as mass, angle, and string length on the independent variable, time. the experiments were used to determine which variables influenced the independent variable. we determined the length of the pendulum to be the only factor of significant change. 
+
+	each experiment addressed how the variable effected the period of the pendulum. changing the length of the pendulum was the only direct change in period. we claimed that the change in angle would also have an effect on the period which it had a very small effect, and this was most likely due to error. the change in weight was estimated to not have an effect which our results showed. 
+
+	the theoretical mathematical model that we determined from our data was $t=0.0111 x + 0.8194$ this was a result from figure 5. the formula that is correct is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. both equations roughly fit the data. 
+
+	the errors that we experience were stopping the time at the exact moment, dropping the pendulum from exactly the same angle, and non-exact length in the cord. in order to reduce error, we used a sensor to find the exact point that the pendulum breaks the plane. to reduce the dropping angle error in the future we could create a permeant device that would measure the angle. 
+
+	the results cannot be more general is because every scenario is different unless the set-up is perfect. gravity is also a factor on the system and depending on your elevation gravity may be different.

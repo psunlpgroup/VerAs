@@ -1,0 +1,20 @@
+discussion and conclusion
+
+
+
+
+
+in this lab, we were investigating the question of what affects the period of a pendulum for small swings. 
+
+based on the data we collected and the graphs we constructed, it could be concluded that only the length of the pendulum affected its period.  mass and angle of release had no impact on the time it took the pendulum to complete one period.  when changing the mass of the pendulum and keeping the string length the same as well as the angle of release, the period remained the same each time.  when adjusting the angle of release but keeping the length and mass constant, the period remained the same.  however, when the length was increased and the mass and angle were constant, the period increased as well.  the length and period are directly related.  the graph of the length vs period fits the power curve model and the relationship is non-linear.  this was created by making a line of best fit using the error bars on excel.  
+
+the theoretical mathematical model for the period of a pendulum is $y=0.8464 x$ .the model we obtained from the length vs period graph was $y=1.0463562 x$ .
+
+our model fits pretty closely to the theoretical making our data relevant.  for the mass vs period and angle vs period graphs, there was no correlation because they made a flat line, the line could not go through the error bars.  the mass and angle did not affect the period.
+
+the random error that occurred throughout this experiment was due to the older technology used.  the strings were stretched out, the scale was older, the stopwatch had uncertainty of .0001 and the weights had been used multiple times so they were not the exact weight that they read.  better technology would reduce the error, or compensating for the error could have improved the results.
+
+the systematic error that occurred was due to our inability to start and stop the stopwatch at the exact end of the period.  we also measured to the middle of the pendulum and it probably was not exact.  the second lab, a photogate was used to measure the period which greatly improved the results.  
+
+constraints were the older tools used.  brand new equipment would be necessary for the best results.  also, more trials could have been performed.
+

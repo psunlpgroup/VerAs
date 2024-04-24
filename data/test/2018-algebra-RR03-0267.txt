@@ -1,0 +1,13 @@
+discussion and conclusion
+
+
+
+	the research question that is being investigated in this lab is what mass, string length, and angle of release will affect the period of the pendulum. when mass was the independent variable, as shown in figure 1, there is not a direct relationship between mass and period of the pendulum. the error bar value was not within the two standard deviations to be a significant correlation. when the angle of release was the independent variable there is not a direct relationship with the period of the pendulum. when looking at figure 2, you can see that the values on the graph are alternating, do not fit the line of best fit, and that the slope of the best fit line is 0.005 meaning there is very little to no relationship. the error bars on figure two are not within the two standard deviations to be a significant correlation. when the length of the string was the independent variable, from figure 3, the string length and period of pendulum have a power relationship. the error bars have a +/-0.001 seconds, the curve that best fits the data is $y=0.2671 x^{0.445}$ with an r^2 value of 0.9989. with this data it shows that out of mass, angle of release, and string length, string length was the only factor that affected the period of the pendulum. 
+
+
+
+	the theoretical mathematical model for the period of a pendulum is  with g is 980 cm/s^2 and l is length of the pendulum. the data that was found in this experiment was able to be used with this model by rewriting the model and getting        $t=0.2007 l^{0.5}$               . with this an experimental value of 0.2671 was produced, after which the x value can be raised to 0.4458. the values that were produced were close to the theoretical values, meaning the experiment should create a full model. for the relationship between the length of string and the period of the pendulum a power model was needed for the curve fitting. 
+
+
+
+	the errors would be not timing correctly, incorrect weight masses, and not accurate string lengths. these errors could be reduced by having more than one-person timing and then taking the average of the time for each trial. to reduce incorrect weight masses, write down the expected weight, weigh the weight, and go to two decimal places. for accurate string length, when cutting the string length use a ruler that has more significant figures, making sure that cut is more accurate. a possible constraint that can limit the generalizability of the results are the number of trails that were able to be ran.

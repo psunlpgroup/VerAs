@@ -1,0 +1,26 @@
+conclusion:
+
+	in this lab the goal was to find what variables would affect the period of a pendulum. this was done through different testing types, different constants, and different methods of obtaining the dependent variable. 
+
+
+	through our research we concluded that the length of the string does affect how long the period will be. in the graph above, a linear best fit line was added to show that the data we were collecting was related. from the r squared value, we can determine that the line is a good fit for the data points. since the data creates a line with a slope, that shows that as the length of the string goes up, the period will also increase. and since the line is linear, we were able to determine the length of the period at any string length. 
+
+	 for our second round of research we concluded that the angle the pendulum is dropped at does affect the length of the period. in the graph above there is a clear slope that indicates there is a relation, but we must keep in mind that there is uncertainty since the period was being timed with stopwatches. even though there is an uncertainty in the data, there is not an overlap in data between two standard deviations, therefor giving us enough clear information that there is a relation. 
+
+	the final round of research we concluded that there is no relation between mass and the period of a pendulum. meaning that no matter what the weight, the length of the period will always be the same. from the graph above we can see that there is no slope which indicates that there is no relation. from each data point it is clear, even with uncertainty, that no matter the weight, the period will be the same. 
+
+
+the known theoretical formula to calculate the period of a pendulum is . 
+
+	the most accurate formula we obtained from our data was from the length of the string experiment using the photogate. the formula (posted on the graph above) is slightly inaccurate from the real formula but are still very closely related. looking at the data in the tables above, it is noticeable that for approximately every 10 centimeters the time goes up about 0.1 seconds in the period. this proves that the data is very accurate, and the formula is closely related to the theoretical formula. 
+
+	the second formula we obtained was from the angle of that the pendulum was dropped at. we believe that this formula (posted above on the graph) is inaccurate due to the inaccuracy in the data collected using stop watches. from the data in the table posted above, the formula is not correct because as the angle increments every thirty degrees, the times of the period do not increment by the same amount. 
+
+	the final formula we obtained was from the mass versus period graph. the formula is incorrect because there is no slope, and therefor the user is unable to input and lengths or angles into it. the formula proves that the mass does not affect the period because there is no x value to change the slope. although the data for this experiment seems accurate due to the same timings of the period, this could be coincidental since the times were taken with stopwatches. 
+
+
+	one random error that was presented in this lab was the use of stopwatches as timing devices. the watches themselves were not the issue, but human reaction time was. we tried to solve this by averaging all our times together, but even this would cause a great deal of uncertainty. this issue was fixed in lab 03 with the use of photogate. 
+
+	another random error was measuring the length of the string with a measuring tape. although this is a great tool for measuring, in this lab a better form needed to be used. it was difficult to hold the measuring tape to the top of the pendulum and then try and record the length halfway down the mass. this could have been fixed with string that possibly had measurements on it or some device that could give a more accurate measurement. 
+
+	the final random error came when measuring the angle that the pendulum was being dropped at. we used a protractor and had to “eye ball” the angle. if there was a better way to measure the angle the pendulum was being dropped at, the data would have been much more accurate. the solution to this could have been a protractor that had an arm that could have held the string. 

@@ -1,0 +1,19 @@
+discussion and conclusion
+
+
+
+	in this lab, the research question being investigated was “how does the acceleration of a system change when the applied force changes?”. one experiment was performed, investigating a hanging mass as the applied force (gravity), and therefore the independent variable. for each trial, the hanging mass was changed, while the mass of the total system stayed the same. the dependent variable was the acceleration of the system, which was a gold cart on an air track that had a hanging bob mass attached to it with a string. table 2 and graph 1 represent the data for determining how the acceleration of a system changes when the applied force changes. following the theoretical equation, , the initial hypothesis and prediction for the effect of a changing applied force on the acceleration of a system was that, as the applied force increases, the acceleration of the system increases. as depicted in graph 1, the data points increase in both the x and y directions, representing an increasing acceleration correlating with an increased applied force. based off of the data collected and depicted in table 2 and graph 1, the prediction and hypothesis was shown to be correct in this experiment. the data in graph 1 is almost linear, fitting very close to a line of best fit, having an r2 value of 0.996. the prediction and hypothesis made, as well as the data collected from our group agreed with those of the other two groups, whose data is depicted in images 2 and 3. like our group, both group 3 (image 2) and group 4 (image 3) had an initial hypothesis and prediction that, as the applied force increases, the acceleration of the system would increase as well. the data represented on their whiteboards in these images also looked very similar to ours-almost linear, and following the mathematical model, . there were no major discrepancies between the data of our group and the data of groups 3 and 4. possible random errors that could have affected the results in the data collection process include applying a small extra force by means of a small push (other than gravity) when releasing the cart on the air track from rest, as well as highlighting the wrong data points in the velocity graph given by the computer measurement tool. the impact of these errors could be reduced by performing a larger amount of trials for each individual variable, and taking greater caution not to apply any additional force when releasing the cart on the air track from rest. possible systematic errors that could have affected the results in the data collection process was the triple balance providing a reading that was slightly higher or lower than the actual value for the mass of the system, and the computer tool used to measure velocity (and therefore acceleration) was slightly off in its measurements of velocity, providing a value that was either too high or too low. the impact of these errors could be reduced by calibrating the measurement equipment prior to use, and using reference values in order to determine the source of error and remove/replace it. the major constraint in this experiment that could limit the generalizability of the results was that the data was collected in a controlled setting in which there was no presence of forces that could be present in a real world setting (i.e., force of friction), and that would yield different results. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

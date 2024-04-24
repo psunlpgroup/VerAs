@@ -1,0 +1,66 @@
+conclusion:
+ to restate the question: will the period of the pendulum be affected by the length of the string.
+
+
+
+ we were able to find that the mass of the pendulum and the angle of release would not affect the     
+
+     period of time as the graphs above shows little to no change when they are dv. as for the length of 
+
+     the string, we can see an increase of time as the string also increases. we also made sure that all 
+
+     values being tested would be constant and not have different inputs. 
+
+
+
+  the theoretical mathematical model for the period of the pendulum is $t=2 \pi \sqrt{\frac{l}{g}}$. this fits our 
+
+     data because when we test the graph for the length of the string, we get an equation of 
+
+     0.2924x^0.4202 as we can convert the first equation further to see that our equation is similar to
+
+     $t=2.006 l^{0.5}$. our equation also works for increasing values as when length increases, the value of 
+
+     time will also increase from the equation. we can also see why the mass and angle of release do not 
+
+     affect the period of the pendulum as the equation $t=2 \pi \sqrt{\frac{l}{g}}$ does not include these variables 
+
+     in it as only the length of the string and even gravity only affect the period of the pendulum.
+
+ some systematic error that we could have experienced would be if the measuring tape that we used 
+
+     could have been worn form use and thus could cause our length measurements to be off. another 
+
+     systematic error could be the timers that we used to measure the period of the pendulum. this error 
+
+     would be if the timers were slower than what they used to be from years of use and thus create an 
+
+     underestimate of time. these errors could be overcome if we would input our area of uncertainty to 
+
+     even out our results. another method could be to use an automatic timer, precise measurer, or even 
+
+     new rulers and timers. as for random errors, some error could be that we did not measure the length 
+
+     of the string correctly and that we were either too late to start the timer on time or too late to stop 
+
+     the timer. these errors would affect our data greatly as even a minimum error region answer could 
+
+     be far off from the actual answer. to account for this, we can also do what we did for the systematic 
+
+     errors, get automatic timers and measurers so that we can get more precise data.
+
+ some constraints in our experiment could be that we did not have the top of the art measuring tools 
+
+     and this could cause some of our results to be different if we did have better equipment. another 
+
+     constraint would be air resistance. if we were to suck out all of the air from a room and just have the
+
+     gravity acting on the pendulum, we could see that the pendulum would not be slowed down by the 
+
+     air and thus could get results that could be the true values of the pendulum. a final constraint could
+
+     be that the human body cannot control reaction time to the exact time needed and thus the timers
+
+     would be off in terms of stopping after one pendulum swing. this would cause our times to be either 
+
+     overestimated or underestimated and thus affect our results.

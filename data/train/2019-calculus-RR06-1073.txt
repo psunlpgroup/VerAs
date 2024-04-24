@@ -1,0 +1,3 @@
+discussion:
+
+for the results from lab 5, we discussed that there was a random error in our findings and our final equation, but in lab 6 we did not find any trace of any measurable error besides the error of the measuring device. some constraints that we had was the amount of height we could change the track for lab 6, we only had 6 blocks so we could only adjust the height three times. another constraint was the number of bobbers we had, although 8 bombers was adequate in finding a line of best fit to accurately represent the data, the more bobbers used, the less margin of error there would be. overall this lab was a good representation of the equation forc$e=m$ * acceleration and on the graphs, as the mass was increased, the slope of the graph was force/acceleration.

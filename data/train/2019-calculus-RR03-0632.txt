@@ -1,0 +1,27 @@
+discussion and conclusion
+
+restate research question
+
+the original research question from lab experiment one is “what impacts the period of a pendulum?”
+
+mass vs. period 
+
+when reviewing the mass vs. period graph, it is evident that the mass of the bob has no impact on the period of the pendulum. i came to this conclusion because there appears to be no slope of the data on the graph. when the mass is varied, the period remains the same. since the error bars are hardly visible, that means that there is little measurement of uncertainty in the data. therefore, the data displayed in the graph is true to its value.
+
+length vs. period
+
+when reviewing the length vs. period graph, there seems to be a correlation between the length of the string and the period of the pendulum. because the graph contains a positive slope, i can conclude that the period of the pendulum depends on the length of the string. as the length increased, the period also increased. since the error bars are hardly visible, that means that there is little measurement of uncertainty in the data. therefore, the data displayed in the graph is true to its value. in conclusion, the length of the string has an impact on the period of a pendulum.
+
+when reviewing the angle vs. period graph, it is clear that the angle of release has no impact on the period of the pendulum. i came to this conclusion because there appears to be no slope of the data on the graph. when the angle is varied, the period remains the same. furthermore, since the error bars are hardly visible, that means that there is little measurement of uncertainty in the data. therefore, the data displayed in the graph is true to its value.
+
+theoretical equation for the period of a pendulum
+
+the theoretical equation for the period of a pendulum is $t=2 \sqrt{\frac{l}{g}}$ where t is period, l is length of the pendulum, and g is gravity. i previously mentioned that the only factor that impacts the period of a pendulum is the length of the string; however, this equation shows that gravity also has an impact. although, since gravity is constant and cannot be changed, it can be ignored in this case. therefore, the only thing that impacts the period of a pendulum is 
+
+the length of the pendulum itself.
+
+
+random errors that can occur while conducting this experiment include a stopwatch malfunctioning or someone bumping into the workstation table. systematic errors that can occur while conducting this experiment include a timer consistently measuring the period at an inaccurate rate or the bar that holds the string of the pendulum is not perfectly straight. in order to reduce any errors that could occur, a photogate could be used instead of a stopwatch. furthermore, the experiment could be performed in an isolated environment where any outside error is reduced. lastly, a flaw in the structure of the pendulum could be accounted for and corrected in the measurements, since it would be consistent with all of the data.
+
+
+a constraint on the performance of this experiment was that the maximum length of the string that could be measured was 166 centimeters, and the minimum length was 16 centimeters. because of this, we were unable to record a large enough spread of the data that we were satisfied with. although we were able to prove that the length of the string impacts the period of a pendulum, we were only able to show a two second difference for the period time at the minimum and maximum string length.

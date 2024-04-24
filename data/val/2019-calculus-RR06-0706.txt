@@ -1,0 +1,23 @@
+discussion and conclusion:
+
+	our main research question that was answered in these two lab sessions is, what affects the acceleration of a frictionless cart. in our experiments we used hanging weights as our applied force. this gave our system a constant applied force that stays the same over the duration of that singular trial. instead of one initial force, the hanging weights gave us a constant force applied. as seen above in all of our force applied versus acceleration graphs, when the force applied to an object with constant mass is increased, the resulting acceleration is also increased proportionally. we also found that if the force applied stayed constant, but the mass of the object was increased, the acceleration of the object was decreased proportionally. 
+
+	another groups’ findings help to support our conclusion. pictured below, the other teams’ hypothesis, conclusion, and equations all are very similar to the ones that we found. their group agrees with our prediction that the slope is proportionally related to the acceleration of the system. when the slope is greater, the acceleration of the system is greater.
+
+
+
+	the second groups prediction was different from ours. they hypothesized that the constant was attested to an outside force, while for our case the slope affected the constant. they concluded that the outside force affecting the constant was because of friction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+	if a heavy string was used to connect the hanging weights and the cart, the acceleration of the system would increase. the heavy string would add weight to the hanging mass, and thus increase the acceleration. also, as the string is let out, more string is hanging which increases the applied force even more, and when the cart bounces and the string is retracted up, the applied force is reduced and the acceleration is lessened.

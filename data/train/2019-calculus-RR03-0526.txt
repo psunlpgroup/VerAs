@@ -1,0 +1,26 @@
+discussion and conclusion
+
+research question: what impacts the period of a pendulum?
+
+the effect of mass on the length of the period
+
+	we can claim that the mass does not affect the length of the period. the slope of the mass verse period time graph indicates a very low value which is almost nonexistent and the standard deviation for these values seemed to be very low showing that no real change in mass can change the length of the period. we can conclude that there is no relationship between the mass of the pendulum and the length of the period. since the standard deviation is a very small value. the trendline also goes through all error bars indicating these data sets can be trusted.
+
+the effect of string length on the length of the period
+
+	we can claim that the length of the string does affect the length of the period. the graph for the photogate sensor displays a graph with a positive correlation between the length of the period and the length of the string. the best fit for this was a power curve and as the length of the string increases, so does the length of the period, but the slope of the line gets slightly smaller as the lengths of the string increases. once the string length increases past a certain point the length of the period increases at a lower rate. the standard deviation is quite small which displays it’s accuracy but also very small error bars which may not even seem visible. as the string length increases the period length increases as well.
+
+the effect of the release angle on the length of the period
+
+	we can claim that the release angle does not effect the length of the period. the graphs show a very small positive correlation between the angle and length of the period but too small to be significant. as the standard deviation and the error bars are very small, the assumption and conclusion can be drawn that there is no relationship between the release angle and the length of the period. we can conclude that for angles lower than 20 degrees the angle doesn’t effect the string length.
+
+
+the equation of a pendulum can be written as $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$, the results show that the only factor that has a significant affect on the length of the period is the length of the string. through the equation, it is noticeable that as l increases then t increases which relates to an increase in length results in an increase in time of the period of the pendulum which is identical to the results presented in this lab. the value of x in our equation is close to .5, and the value of l is taken to the half power which is similar and shows a relationship.
+
+
+	random errors included measuring the angle of the release wrong due to human error as well as using the stopwatch and starting and stopping the pendulum. another error could be the measuring of the string and how that may effect the results or even the pulling of the string.
+
+	these errors were reduced by using photogate to get rid of the stopwatch and start and stop time of the pendulum, the use of multiple trials eliminated errors by having more to base it off of. and measuring from the center of mass helped keep it consistent.
+
+
+	constraints included the angle of release being below 20 degrees to receive more accurate readings. under 20 degrees allowed the angle to not effect the length of the period. which makes this factor true only for shorter angles.

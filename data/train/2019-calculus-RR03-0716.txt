@@ -1,0 +1,21 @@
+discussion and conclusion.
+
+a.	restate for the reader the research question being investigated in this lab. 
+
+the research question being asked is what independent variable changes the dependent variable of the period of the pendulum. the three independent variables chosen for testing were the length of the string in the pendulum, the angle that the pendulum starts from, and the weight at the end of the pendulum. the first experiment which examined the change in the period given the independent variable of the mass at the end of the pendulum, with the angle of the start and the length of the string being kept constant. the claim made was that the increase in weight would led to an change in the period. the graph of the mass vs period in seconds shows a general trend of no change in the period of the pendulum. the second experiment examined the change in the period given the independent variable being the angle of the start of the pendulum, with the weight at the end of the pendulum and the length of the string being kept constant. the assumption was that the change in the angle to be smaller would make the period smaller. the graph of this experiment drew the conclusion that the angle of the start of the pendulum had a small effect on the time of one period of the pendulum. the third experiment which examined the change in the period given the independent variable of the length of the string, with the angle of the start and the mass at the end of the pendulum being kept constant. the assumption was that the longer the length of the string the longer the period of the pendulum. the graph of the this third experiment showed a significant change in the time of the period and the length of the string, the longer the string the longer the period of the pendulum. 
+
+the theoretical mathematical model for the period deduced from lab 3 was 0.1874x^0.5141. the mathematical model provided by excel was very accurate with an r squared value of .9998 so the data collected has a very strong positive correlation. at 50 cm, the equation is $t=0.422866778782612$ and that equals 1.4 and compared to the graph at 50cm the period value in seconds is around 1.4 seconds. this gives confidence in our theoretical mathematical model. the other factors of angle of drop and weight of the pendulum are not considered in the model, but angle does have a small effect on the period.
+
+
+
+
+
+
+
+
+
+random errors that occurred were because our time recordings were done by reaction time which isn’t exact and varied between the three timers, the lengths of string measured were done by hand and that isn’t exact, and the angles of initial drop were also measured by hand and that lacks pinpoint accuracy. 
+
+
+
+constraints within this experiment that may limit the generalizability were the use of stop watches and then photo gate, as well as the measurement done by the person to measure the length of the string exactly could not be kept consistent, and the use of a protractor and person to set the angle of release.

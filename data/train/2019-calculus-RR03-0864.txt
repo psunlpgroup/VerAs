@@ -1,0 +1,11 @@
+discussion and conclusion
+
+a.) what impacts the period of the pendulum?
+
+b.) two of the three tests that our group were not able to successfully validate any conclusions with a relationship between the iv and dv. for the pendulum vs mass of weight trial, the differences between the periods for the different weights were too little, not consistent, and were not outside the error bars. this resulted us to not being able to conclude any relationship between the two.  for the pendulum vs angle, the differences were also very minimal, the test wasn’t performed the best since angles over 45 degrees would result in an error according to our ta, and the error bars also overlapped. the period of pendulum and length of string we determined that the longer the string the longer the period, with the control variables of angle and mass. we received better data after performing the experiment a second time, we were able to see the trend line on the graph and how the error bars didn’t overlap.
+
+c.) the formula for finding the period of the pendulum is with g representing gravity which is the only acceleration acting upon our model. basically, our table and graph fits into this formula, with gravity being the only thing to accelerate the pendulum. since gravity is constant, the only difference is the length, and that helps us determine as length gets larger so does the period. based off of our data and graph this matches perfectly.
+
+d.) some systematic errors in the experiment would be the inaccuracy of the photogate since it tended to round and had an uncertainty of +-0.001s. another systematic error would be the rod that was holding the pendulum would sometimes go off kilter which would make the pendulum swing not in a straight line. obviously, we had some human random error throughout, whether it was silly calculations, the measurements on the string or the measurements on the angles. overall, our error is relatively low but there is still room to improve the experiment by eliminating these errors.
+
+e.) given the resources we had, we had some constraints on the tools we were able to use, which resulted in us not reaching the most accurate procedure. if we had a more precise tape measurer, scale, and a sturdier rod, this experiment would be improved.

@@ -1,0 +1,32 @@
+discussion and conclusion
+
+
+
+
+the objective of the experiment was to determine how the applied force on a system would change the acceleration, and the challenge of doing so was the group’s ability to keep the mass of the entire system the same. the group found the solution to this by adding mass to the cart that was deducted from the applied force (independent variable), the mass of the system would stay consistent, and the applied force could be altered. the group suggested that if the hanging mass were to increase, then the acceleration of the cart would increase.
+
+
+
+the resulting mathematical model directly addresses the research question. by increasing the applied force, but keeping the mass of the system the same, the acceleration increased. this can be seen in the graph provided in graph 1. as the force due to hanging mass increased, the acceleration increased. this shows a direct, positive correlation between the two.
+
+
+
+when comparing the results from the two groups in figures 3 and 4, it shows that both groups supported our groups claim. their results show that as the applied force was increased, the acceleration of the cart increased. the first group, in figure 3, came up with a mathematical model of is   $y=5.0147 x - 0.0318$. the second group, in figure 4, had a mathematical model of is  5.000x – 0.0515. compared to our group’s results, the models are nearly identical. this can be used to show how the results support each group’s claim. 
+
+
+
+the only other forces that could have been present that weren’t accounted for was friction, and the slight possibility of an inconsistency of air resistance. the mass used to determine the applied force can be seen in the first half of the mathematical model (i.e. 5.000x), where x represents the amount of bobbers multiplied by the mass of 1 bobber. this value would also include the mass of the string. theoretically, if there was a massless string connecting the hanging mass to the cart, that value would be slightly lower, along with the acceleration, but would have little effect on the uniform acceleration. 
+
+
+
+with this information, the group was able to test the equation to find out how much applied force would be needed to achieve 0.462 m/s.
+
+the group tested the predicted hanging mass which was 3.37 (3 bobbers+2 paper clips (2.18)), and achieved an acceleration of .505 m/s^2 which is within +/- .1 of designated acceleration.
+
+
+
+a possible random error would include mismeasurement of the mass of each bobber and/or the cart. this could also be seen as a systematic error in the case that the measuring tool would not provide 100 percent, precise results. nothing was able to be done to reduce these errors. 
+
+
+
+a constraint from this experiment would include an inconsistency of friction from the rail and the cart. this was noticed throughout our group where occasionally, a test would have to be redone from the increase in friction causing the cart to slow down. although this was solved by evenly spreading out the mass of the cart, it still could have played a role throughout the experiment.

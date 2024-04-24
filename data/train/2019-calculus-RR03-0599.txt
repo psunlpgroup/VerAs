@@ -1,0 +1,11 @@
+discussion and conclusion.
+
+restate for the reader the research question being investigated in this lab.  
+
+discuss how each of the three experiments addressed the research question, what claims were made, and the conditions under which the claims are valid. refer to each graph in your discussion.  
+
+state the theoretical mathematical model for the period of a pendulum and discuss how your data fits with this model.  be sure to refer to the data tables or graphs in this discussion.  even those factors that did not impact the period of the pendulum should be discussed here and compared to what is included in the theoretical model.
+
+discuss which errors (random and/or systematic) were present and what was done to reduce them (or could be done in the future to reduce them).
+
+discuss any constraints in this experiment that may limit the generalizability of your results.

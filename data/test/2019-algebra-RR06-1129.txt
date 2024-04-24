@@ -1,0 +1,18 @@
+conclusion:
+ the purpose of the lab was to determine the correlation between an incline/ decline and the acceleration of the sled.
+
+ the three experiments allowed the group to see the slope lines of the acceleration vs mass on the level, incline and decline. this helped us to see that with the incline the sled moves slowest and with the decline the sled moves fastest.
+
+based off the other groups directions they are similar to our equations, but the numbers are different because the distances at which the sled was started is probably different.
+
+
+
+based off this groups equations our directions for each equation are the same, but the constants are different. probably because of the distance the sled was started.
+
+
+
+ a systematic error would be the air resistance, this would not have effected our results enough to cause a disturbance and can therefore be safely overlooked. a random error would be the different placement of the weights on the string causing the height to differ which makes the gravitational potential energy either greater or smaller causing more or less kinetic energy in the end which makes the velocity change with each model. this could have been avoided by marking the string.
+
+ the constraints of the experiment would be length of the track and string, along with the amount of weights we had the ability to use.
+
+ the known mass of the system multiplied by the found acceleration was equal to the force of tension pulling the sled along the frictionless track. therefore our results are consistent with newtons second law.

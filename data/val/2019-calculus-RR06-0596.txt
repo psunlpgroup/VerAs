@@ -1,0 +1,17 @@
+discussion and conclusion
+
+throughout the experiment we found that while our experiments showed there was a small amount of error there are chances of random and systematic error that could occur. 
+
+random error
+
+there could be a change of mass based on how the bobbers were added onto the string from the cart. this could be avoided by finding the mass of the group of bobbers every time one was added instead of assuming that the masses were all the same.
+
+throughout the experiment the position at which the cart was released from on the track could be different in which the acceleration could be larger or smaller based on the position at which the cart was released from. this could be avoided by setting the exact position of release and go to that point every trial to avoid error.
+
+throughout this experiment we were tasked with finding factors that would affect the acceleration of a cart on a frictionless track. these factors included changing the force applied to the cart, changing the mass of the cart, and how gravity would affect the acceleration. 
+
+the experiments that we conducted showed that as you increase the force applied to the cart, the acceleration will increase. this shows that changing the force applied to the cart has a positive correlation with acceleration which means as one factor increases, the other increases as well. 
+
+the experiments that we conducted showed that as you increase the mass of the cart, the acceleration would decrease. this shows that changing the mass of the cart has a negative correlation with acceleration meaning that as one factor increases, the other decreases. 
+
+when testing the acceleration based on gravity, we found that even with a tilt backwards, there should be a positive relationship between force applied and acceleration because the affect of gravity will only be slowing down or increasing the acceleration, but it never was enough to stop the cart. our experiments showed that the force applied (with or without the force of gravity) and acceleration have a positive correlation in which as one factor increases, the other increases as well.

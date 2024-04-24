@@ -1,0 +1,7 @@
+discussion
+
+our team believes that the data from the experimental results is accurate and it complies with newton's second law. as for the impact on system acceleration, we have made other assumptions. for example, air resistance is inversely proportional to system acceleration.
+
+conclusion.
+
+as far as the results are concerned, our experiment is completely consistent with newton's second law, which is equal to the product of mass and acceleration, $f=ma$. in experiment 6, the frictional force changes the magnitude of the resultant force, so the product of mass and acceleration naturally changes. this experiment is undoubtedly successful.

@@ -1,0 +1,11 @@
+discussion and conclusion.
+
+the purpose of this experiment was to create accurate mathematical representation of acceleration. and to be able to identify what the variables in the equations mean
+in the first trial we tested how force applied effects acceleration. we found this equation
+$y=0.0029 x - 0.0123$ in this case y represents the acceleration of the object and x represents the force applied.
+in the second trial we tested ho the mass of the object effected its acceleration and found this equation. $y = 2.9609 x-0.284$ .	in this case the y represents acceleration. the x represents the mass of the object. 
+in the third trial we testes how the friction on the object effect acceleration and found these equations. $y = 508.15 x + 7.4432$,    $y = 482.47 x + 32.205$, and 	                               $y = 480.31 x + 53.498$. in this case the y is acceleration and x is the force applied and the constant added to the equation is the force of friction.
+as you can see in this photo all the other groups in the class found that the y is acceleration and x is force applied.
+the largest error that could have occurred is measurement error. to reduce this error, we used the photogate system to more accurately measure the acceleration of the object. another measurement error could have come when we measured the mass of each of the masses. 
+the biggest constraint of this experiment was size. we could have used larger masses to apply a force to the system. we had a relatively small range of masses that we were able to test. 
+when we compare our mathematical models to newton’s second law (.) we find that our assumption about the variables are correct as we apply more force we change the acceleration in a linear fashion, and as we change the mass we change the acceleration in a power function.

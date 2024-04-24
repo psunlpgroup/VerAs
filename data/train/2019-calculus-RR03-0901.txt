@@ -1,0 +1,67 @@
+conclusion:
+
+	evaluate the data and any observed patterns or trends
+
+
+
+	our group can conclude that the period of a pendulum is affected by two variables is  the length of the string, and the drop angle. the relationship between the string length and period is exponential, with the period not being affected at a noticeable rate until the length of string is above roughly .2 meters. the relationship between drop angle and the period is also exponential, but the period is affected with all changes in angle. we also learned that the mass of the pendulum bob has no effect on the period of a pendulum and were able to eliminate it from any further analysis. these conclusions hold true at all angles and at string lengths greater than .2 meters.
+
+
+
+	we are confident in all our measurements. the range of uncertainty for both the length of string and the drop angle are .001. the mathematical model was determined in excel once the group was able to correctly pinpoint what type of curve the graph represented. after that, excel was able to give the specific equation and r2 value.
+
+
+
+	we are very confident in both mathematical models provided by excel. one fits the points well with an r2 value of .9999 and the other is close with an r2 value of .9311. these values indicate how well the equation fits the given dataset with 1 being exact and 0 being no match at all. our values were both within 7% of 1.
+
+
+
+	other groups came up with similar equations to ours.
+
+
+
+
+
+	their data supports our own.
+
+
+
+	this builds our groups confidence. knowing that other groups arrived at similar mathematical conclusions is reassuring and could help improve our own work through evaluations of their experiments and processes.
+
+
+
+	connect your claim to theory or other scientific knowledge
+
+
+
+	our group would expect the period of a pendulum to increase on the moon because it will not accelerate as fast in either direction.
+
+
+
+	theoretical equation for the period of a pendulum is 
+
+	$t=2 \pi \sqrt{\frac{l}{g}}$
+
+
+
+	yes, our prediction was correct.
+
+
+
+	our equation is similar in ways such as l being the string length, but the equation provided by the internet is linear. based on the theoretical equation, the coefficient should be 6.28, while ours is 2.0042. the difference could be due to the fact that their equation is linear, while ours is exponential, so the coefficient would change in proportion to the input value (x).
+
+
+
+	our group does not believe that there are any additional factors to be tested. our experiment seemed very inclusive and we were able to test on a larger scale as well, which led to the same results.
+
+
+
+	to improve the experiment in the future, our group would use a more exact way of measuring the drop angle and the string length. a ruler and protractor both have a high degree of error involved and are never exact. our group would also use something to hold the pendulum string and bob assembly steady. our hands are too unstable to rely on for the best results possible.
+
+
+
+	at a length of .50 meters, the theoretical equation gives a value of 1.419227 seconds, while our experiments gave the value of 1.415 seconds. our value is lower than the theoretical value by .004227 seconds which is very close to the expected value.
+
+
+
+	constructing a pendulum with a period of 5 seconds requires a length of 7.8 meters. the mass of the bob does not matter. it will not affect the outcome.

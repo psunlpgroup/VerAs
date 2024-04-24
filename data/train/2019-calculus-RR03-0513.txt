@@ -1,0 +1,5 @@
+conclusion and discussion:
+
+	
+
+the length of the string has an effect on the pendulums period, the mass of the pendulum has an effect on its period, and the angle of release of the pendulum has an effect on its period (hypothesis).  in this experiment, my partners and i have been able to reduce all errors, whether systematic or random. the evidence for this is that there were no major errors in the graphs and the data that was collected was good. moreover, we had some errors that occurred in the lab such as the irregularity of time between the timer and the person who download the pendulum, the inaccuracy of the angles through which the pendulum is dropped, and lack of timing device. however, we tried to reduce the errors by having the same person who is dropping the weight be the timer, having at least 3 timers in each group, taking the exact or conventional angles such as 90, 60, and 30 to drop the pendulum through it. overall, the pendulum period is affected by the angle and the length of the pendulum itself that is projected to complete 5 periods. after the test that we did, it turned out that the pendulum mass did not affect on the period of pendulum.

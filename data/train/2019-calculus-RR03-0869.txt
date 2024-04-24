@@ -1,0 +1,23 @@
+discussion and conclusion:
+
+research question: which factors effected the period of the pendulum?
+
+when it comes to mass in terms of one cycle for the period, it appears to have no effect. this matches with our hypothesis and our prediction, saying the mass wouldn’t affect the period. this is seen in the graph because the graph has no correlation between time and the mass of the object.
+
+string length affected the period. the longer the string, the longer the time it would take to complete one period. this matches up with our hypothesis and our prediction. this is also seen on the graph, where it shows the string length has a positive correlation with the time. 
+
+amplitude also affected the period. the bigger the angle, the longer it would take to complete one period. this only happened after the angle was greater than 20, however.  if the angle was below 20, the period and the amplitude showed zero correlation. this also matches up with our hypothesis and our prediction, but we did not expect the angle being less than 20 would effect the period. this is seen in our graph, where the amplitude and time share a positive correlation. 
+
+our theoretical mathematical model is is  mass had no correlation on the period, the angle had no correlation as long as it was below 20 and the length of the string had a positive correlation on the period. our mathematical equation only applies to the string length, which is $t=2 l^{0.517}$. we chose to do this because it is the only value that has a consistent positive correlation, while the angle only starts to have a positive correlation after 20. 
+
+
+reaction time when releasing weight and starting the stop watch
+
+weight was released from the pendulum, allowing the par to be pulled slightly
+
+string length variance.
+
+greater weight results in a longer string than measured. 
+
+these errors could have been fixed it we had a mechanism to rest the pendulum on before starting the period, as it would give a reference point to where we dropped the mass. we could have fixed the weight issue if we had used a lighter weight at the beginning of the trials. 
+some constraints that might have had were that the pendulum might not have started exactly where we measured it, which could hinder our results. also stopping the pendulum was done just by grabbing it out of mid-air, so we didn’t stop it at the exact same angle we let it go at every single time.

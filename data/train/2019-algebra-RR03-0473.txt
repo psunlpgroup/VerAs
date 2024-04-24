@@ -1,0 +1,5 @@
+discussion and conclusion 
+
+	in this lab we are determining what aspects of a pendulum we can manipulate in order to change the period length of the pendulum. by changing each aspect and controlling the other two we are able to see the impact of the aspect of the period length. for example in the graphs of angle and weight we can see that these aspects have no significant impact on the period length because the error bars are overlapping. with this knowledge we can assume that our predictions were wrong and these two aspects do not impact the period length. with the graph of the length v. time the error bars do not overlap so we can assume that string length is the only aspect that impacts the period length. also we can see a positive slope so we can assume that are prediction was correct. 
+
+	some possible errors to our data includes human error due to the accurateness of the equipment used. we could eliminate these errors by using more accurate and consistent tools to measure the period length, string length, mass, and release angle.

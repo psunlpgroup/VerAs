@@ -1,0 +1,15 @@
+discussion and conclusion: 
+
+the purpose of lab 5 was to develop mathematical models to describe the behavior of a system (the system being a hanging mass tied to a cart on a track with a pulley). the purpose for lab 6 would be to determine physical changes that affects the models of a system from lab 5.
+
+
+
+the experiments in lab 5 led to models which determined the relationship between the force on a system and the acceleration of the system, and, the relationship between the mass of the system and the acceleration of the system. based on figure 5.1 and the model associated with it, the relationship between the force and acceleration of the system is a positive, general linear line. based on figure 5.2 and the model associated with it, the mass and acceleration of the system have an inverse relationship.  
+
+
+
+the experiment for lab 6 led to determining physical changes which affected the models established in lab 5, and what part of the models the physical changes affected. our group conducted an experiment where magnets were involved. this enabled the cart to experience friction along the track it moved. this friction seemed to cause a change in the initial value of acceleration (the y-intercept value) of the general linear model. this can be seen starting from figure 6.1 to 6.3, where the y-intercept changes as more friction is added to the cart. 
+
+
+group #1’s examined the same physical change and how it affected the general linear model previously determined. they formulated the same claim as ours and has results like or results. there is a difference however. the coefficient of the force f in our model is about 2 while the coefficient for f in group #1’s model is 0.002. before we plotted our graphs, we made sure to convert our hanging masses from grams to kilograms. then we converted the hanging masses to their weights due to gravity. perhaps group #1 forgot to convert the masses of hanging mass to kilograms before converting them to their weights under the influence of gravity. this would account for the scaling difference of a thousand. it seems that generally, the y-intercept term of group #1’s models change as more    magnets (more friction) is applied.
+

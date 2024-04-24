@@ -1,0 +1,18 @@
+conclusion:
+The experiments were done to answer the question: What impacts the period of a pendulum for small swings? During lab 1 conducted on August 31st our group tested the independent variables of the mass attached to the string, length of the string, and the angle of release. This was done to see which variable had an impact on the dependent variable, which was the period of the swing. (The variables and hypothesis of each experiment can be seen in tables 1,2, 3.)
+ During lab 2 conducted on September 7th our group identified any random or systematic errors and estimated ranges of uncertainty.  (These can be seen in graphs 1,2,3) Random errors that were stated were is  the response time of the person pushing the stopwatch, consistency in the length of the string and the angle at which it was held, and the difference of mass in the weights used. 
+In table 1 we tested our hypothesis of is  The period of the swing of the pendulum is impacted by the mass of the weight used. Our prediction was that the smaller the mass attached, the faster the period. We used a constant string length of 33cm and a constant angle of 20 degrees. The weights being tested were 50g, 110g, 170, and 250g. The data collected showed that our prediction was wrong, and the mass had no effect on the period of the pendulum. There was no correlation seen (graph 1).
+
+
+
+
+
+
+
+In table 2 we show the tested hypothesis of is  the period of the swing of the pendulum is impacted by the length of the string used. Our prediction was that the longer the string length, the larger the period of the swing. We used a 130g mass at an angle of 15 degrees and tested string lengths of 10cm, 86cm, 140cm and 200cm. Graph 2 shows that our results do have a coloration between longer string length and longer period swing.
+
+
+
+Our third tested hypothesis was that the period of the swing if the pendulum is impacted by the angle of the release. We predicted that the smaller the angle of release, the smaller the period of the pendulum. To test this hypothesis, we used a constant mass of 130g and a string length of 31cm. For our independent variable we used angles of 5, 10 ,20, and 30 degrees. After graphing our results, we thought we saw a correlation between the independent and dependent variables. Upon finishing our standard deviations we saw there was actually no correlation between the angle and period swing length.(graph 3)
+For lab 3, conducted on September 14th  we created a mathematical model. We recreated our experiment of the effects of the length of the string on the period of a pendulum. In order to obtain better results, we used the aid of a photogate that digitally recorded the period. Our results can be seen in graph 4 which shows that our previous prediction was true. The graph shows that our theoretical model of equation, 2.007, was close to our actual value of 2.0991.
+In conclusion, the variables that did not affect the period of the swing were is  the angle of release and the mass of the pendulum. The length of the string did effect the period and a pattern can be see over the tested range. For the string length, the mathematical dependence seems to be linear, a straight line can be drawn that passes through each error bar.

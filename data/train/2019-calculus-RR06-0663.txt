@@ -1,0 +1,55 @@
+discussion and conclusion
+
+ the main purpose of the lab is to determine the mathematical model for each factor affecting the acceleration of a real system. the main factors tested were the force applied and the mass of the system. other factors that were tested were tilt and friction. moreover, the goal was to understand the role of each variable and constant in an equation that represents a mathematical model.
+the data is analyzed according to each lab and experiment is 
+
+in this lab, we test the effect of the force applied on the system on the acceleration. this was done by keeping the mass of the system same. every time the mass of the object pulling the system was increased, the mass of the object getting pulled was decreased, and hence maintaining the mass of the system. the acceleration was measured using the datastudio. the graph of acceleration vs force was made using microsoft excel as shown in figure 3.1. 
+the model created from this graph was the equation of the line of best fit. the model is as follows is 
+here the a is the acceleration of the system and w is the weight or the force of the system. the constant 2.7094 is the slope of the line. it indicates that with increase in 1n of force, there is a rise in acceleration by 2.7094 m/s2. the constant (-0.0147) has the units of m/s2. the constant indicates the acceleration of the system when force applied is zero. this should be ideally zero. but since it is not zero in our model, there might be some external factors affecting the acceleration of the system.
+in this lab, we test the effect of the change in the mass of the system on the acceleration. this was achieved by keeping the force applied on the system constant and the mass of the object getting pulled was changed. the acceleration was calculated using datastudio. then a graph of acceleration vs the mass of the system was plotted using microsoft excel as shown in figure 3.2. the line of best fit was then plotted, and the equation of this line gives us the mathematical model. the model is is 
+the a stands for acceleration and m stands for the mass of the system. the unit of each constant and variable is already discussed. this model is ideally supposed to be a power relation, but the relation we got from our readings is a linear one. this could be because of external forces or error in reading the values. we will continue to analyze this as a linear function. the constant (-2.8471) is the change in acceleration for increase in 1 kg of the mass. the negative sign shows a negative correlation. the acceleration decreases with increase in mass. the other constant, 2.0445 is the acceleration of the system when mass is zero. the presence of this value tells us that there are some external forces acting on the system.
+
+
+since the experiments in lab 6 were similar, all of them will be discussed under one section.
+
+in this la, we conducted 4 experiments to test the external factors mentioned in the discussion for lab 5. the main two reasons are is  1. friction; 2. tilt. our team tested the effect of tilt on the system. this was done by keeping a block of certain thickness at the back end of the system. the rest of the experiment was similar to the experiment 1 of lab 5. the entire process was repeated 4 times with gradual increase in the tilt. when all the data was plotted, the graphs look like as shown in figure 4.1, 4.2, 4.3, and 4.4. the equation of the trendline in these graphs is our mathematical model. the four models are is 
+
+test 1 is  $a=2.9279 f + 0.0062$
+
+test 2 is  $a=2.9437 f + 0.034$
+
+test 3 is  $a=2.9231 f + 0.0788$
+
+test 4 is  $a=2.919 f + 0.1208$
+
+in these models, the units are the same as the experiment 1 of lab 5. f stands for the force and a stands for acceleration of the system. the constant 2.9279 is the rate at which the acceleration increases for increase in the force applied. hence, for increase in 1n of force, we see an increase in approximately 2.92 m/s^2 of acceleration. the fact that the constant 2.92 is similar for all the tests says that this constant is independent of any external forces and is restricted to within the system. the other constant, c of the equation varies for all test. this is the constant that shows us the effect of external forces. these tests were done in gradual increase of the tilt, as mentioned in table 4.2.1, 4.2.2, 4.2.3 and, 4.2.4 of the lab report. the increase in the constant shows a positive relation between tilt and acceleration of the system. increase in tilt leads to increase in acceleration.
+
+one of the factors that could lead to any error is that the system was not strictly two dimensional. the mass pulling the system would swing in all direction and hence the readings were not accurate. this leads to random errors. other error would be the friction in pulley.
+
+there was obviously friction in the system. but this was reduced using a vacuum system to make the surface frictionless.
+
+
+while measuring the effect of tilt, we want to keep friction as a control. we can minimize it but it will always be present and also vary depending on the mass of the system. other constraints are the fact that this data was collected with small masses and no mass was even greater than 1 kg. 
+
+
+
+f. consistency with newton’s law is 
+
+we know that according to newton’s second law of motion,
+
+
+tilt is  3.25 x 10-3 m.       
+
+$a=2.9279 f + 0.0062$
+
+here, 2.9279f corresponds to   in newton’s second law equation. by dimensional analysis, we know that the constant 2.9279 has units kg-1. this means that the constant 2.9279 is in fact 1/msystem.
+
+we verify this is  2.9279 is 1/msystem 
+
+	this implies, msystem is 1/2.9729 so 0.342 kgs
+
+the mass of our system is 0.338 kgs which is very close. hence, we can say that 2.9279f corresponds to  .
+
+
+
+similarly, the same can be proved for all the mathematical models showing that our data is consistent with newton’s second law of motion.

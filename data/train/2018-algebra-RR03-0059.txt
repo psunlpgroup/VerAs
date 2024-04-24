@@ -1,0 +1,21 @@
+discussion/conclusions:
+
+the purpose of these labs was to investigate what affects the period of a pendulum. to this end, three separate experiments were conducted, one probing the pendulum’s mass, one looking at its length, and the final examining its angle of initial release.
+
+	
+
+the first experiment, looking at a pendulum’s mass and its effect on period, is represented by tables 1-2 and figure 1. for each mass investigated, three data points were gathered via using three separate stopwatches. the average period for each mass was then plotted on a scatterplot, with error bars representing the standard deviation across these three points. immediately, figure 1 suggests no actual correlation between mass and period, and both the line of best fit (basically flat) and the r2 value of .0088 further indicate there is no relationship between mass and period. additionally, the error bars (especially if they were to be extended to represent two standard deviations) overlap almost completely, indicating any difference in the period between masses is due almost entirely to random error.
+
+	
+
+the second experiment examines a pendulum’s length and its effect on period. it is represented by tables 3-4 and figure 2, and much like in the first experiment, three data points were gathered for each length investigated and the average of each set of three was graphed on a scatterplot with error bars representing the standard deviation of the set. figure 2, however, appears to demonstrate a definite linear relationship between a pendulum’s length and its period (this does not fit the theoretical model, but more on that later). a linear trendline, furthermore, has an r2 value of .995, demonstrating an almost perfectly linear relationship. there is absolutely no overlap between the error bars even if they had been extended; in fact, the error bars are too small to even see on the graph.
+
+
+
+the final experiment, which investigates how angle of release is related to a pendulum’s period, is represented by tables 5-6 and figure 3. like the previous two experiments, three data points were gathered for each level of the iv, and their averages and standard deviations were included in a scatterplot as points and error bars, respectively. figure 3, at first glance, appears to demonstrate a somewhat weaker but still linear relationship between angle of release and period. even the r2 value of the linear trendline, .788, suggests a definite linear relationship. however, upon examining the error bars, the significant overlap—especially if they were to be extended twice their current length—indicates that the observed difference is likely due to random error and not an actual relationship between a pendulum’s angle and its period.
+
+
+
+the results of these experiments, for the most part, are supported by the accepted theoretical equation for a pendulum’s period is   where t is the period, l is the pendulum’s length, and g is the acceleration due to gravity. noticeably, both mass and angle of release are absent from this equation, indicating that our conclusion that these two factors have no effect on period is most likely correct. where the theoretical equation differs from our experimental results, is that the theoretical equation suggests that the relationship between period and length should not be linear, but rather a square root function, relating y (the period) to the square root of x (the length), rather than to x itself, like our results suggested. even when trying out various methods of curve fitting, the straight line still gave the highest r2 value, suggesting that our inability to correctly fit the theoretical model lies in our actual data points and the errors of our experiments.
+
+

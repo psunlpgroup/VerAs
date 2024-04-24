@@ -1,0 +1,15 @@
+conclusion:
+The purpose of this lab is to test what effects the period of a pendulum swing at small angles. The tables below describe the experimental plan for testing all of the elements that could affect the period of a pendulum swing for small angles.
+
+
+
+
+
+
+Given the length of the string, the period changes, this is depicted by data table 1 and chart 1. The linear regression having a nonzero slop is enough to state that there is a relationship between string length and the period length. The error bars in chart 2 were calculated using excel
+
+	Given by data table 2 and chart 3, we can see that the relationship is almost a zero slope. Also, if we look at the standard deviation, we can see that the variance of data is very small and statically insignificant. There by proving that angle of release does not influence the period of small swings.
+	Given by Data table 3 and chart 4 we see once again that the relationship between mass and the length of the period are close to nonexistent. This can be determined by the standard deviation and the slope of the linear regression.
+
+
+

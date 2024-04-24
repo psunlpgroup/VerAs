@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+the question for this lab is how to force and the mass of the system affect the acceleration of the system. 
+
+force experiment (hanging weight)
+
+this experiment addressed the question by varying the hanging weight (force) on the system while keeping the mass of the system constant and measuring the change in acceleration. as seen in the data table and graph under “lab 05 is  force test”, an increase in force on the system results in an increase in acceleration of the system and they have a linear relationship. this is a reasonable claim because a straight line can be drawn through all of the error bars on the graph. our linear model is $a=3.0446 f - 0.088$. the validity of this model is reinforced by two other group’s linear models which are $a=2.95 f - 0.037$ and $a = 2.9779 f – 0.0459$. the coefficients on f and the second constant are very close to one another in all three of these models so it can be said that our models are close to correct. 
+
+the theoretical equation of acceleration comes from newton’s second law, $f=m a$. rearranging the equation gives $a =\frac{f}{m}$. this theoretical model supports our theoretical model because the coefficient of f in our model (3.0446) is very close to the coefficient in the theoretical model (1/m). 1/mass of the system in our experiment is 1/0.33968kg	 which is 2.944kg^-1, which is very close to our 3.0446 and even closer to other groups’ experimental models. 
+
+a more realistic theoretical model is given by $a = \frac{f}{m} - f_{rexternal}$. the addition of outside forces to the theoretical model explains the second constant in our experimental model. any added forces resisting the acceleration of the system (in this case friction or tilt of the track), will decrease the acceleration of the system and this is shown through the data under “lab 06 is  friction test”. added friction into the system caused the y intercept to go more negative which means that the acceleration decreased. this was also shown by two other groups data. as more magnets were added to the system, more friction was added to the system, and acceleration decreased. 
+
+	if a heavy string were used to connect the hanging mass to the cart, the acceleration wouldn’t be constant throughout the run. at the start of the run, the acceleration would be lower and would increase as more and more of the heavy string contributes to the hanging weight. this will cause the acceleration to increase throughout the run and result in jerk (time derivative of acceleration). 
+
+	some sources of systematic error are the friction in the air track, any slight tilt of the track, and inaccuracies in the accelerometer. ways to reduce these errors are thoroughly testing and tweaking the air track to get as much friction out of the track as possible, verify that the track is level with a level tool before running the experiments, and testing and calibrating the accelerometer with known accelerations. 
+
+	a source of random error is the release of the cart. sometimes the cart may have a slight push at release and sometimes it may not. a way to reduce this error is to create a mechanism to consistently release the cart every time. 
+
+	because the experiments were run with lower masses and forces and with a relatively short track length, the results of this experiment are not valid for systems with very high masses and forces and very long track lengths. because we released our cart from 0.59m every time and had a maximum hanging force of 0.38416n and had a maximum system mass of 0.6505 kg, our results are only valid for systems close to those numbers.

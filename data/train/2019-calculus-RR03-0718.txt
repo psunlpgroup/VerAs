@@ -1,0 +1,11 @@
+discussion and conclusion
+
+the question being investigated was which variable has the largest affect on the period of the pendulum.
+
+all three experiments addressed the research question because they showed how the period s affected by either the mass, angle, or length of string. the claims from the experiment are valid because we performed each calculation very carefully with the help of a photogate in order to get the most precise data. with the help of the graphs, we were able to plot error bars, correlation and equations to see how the different variables altered the data. it allowed us to eliminate the angle of release experiment and mass experiment.
+
+the data i backed up by the theoretical model.
+
+random errors could have been present in when calculating the angle, because we only had a protractor and somebody holding onto the pendulum before the release. other random errors could have been incorrect lengths for the string and not starting the stopwatch in time during lab 2. 
+
+possible constraints in our experiment are the tools used that did not provide the most accurate data. the only accurate piece of equipment was the photogate, but that could be altered by the release of the pendulum. time was also a constraint, because we only have a limited amount of time to perform the experiments and retrieve the data.

@@ -1,0 +1,18 @@
+conclusion
+
+how does the acceleration of a system change when friction is added? based on the lines of best fit, the slopes decrease from the control to 2 magnets to 4 magnets. what this means is that friction is a factor that affects the acceleration. as friction increases, the acceleration of the system will decrease. this could be seen in the control vs. all the magnets. the accelerations with all the magnets were lower than the controls for all force values. what this means is friction is affecting the acceleration.
+the data from the white board above shows similar results to ours as the friction 	
+
+	or the slope of the line decreases as more magnets are used.  this similarity
+
+strengthens the confidence of our group because we have the same results
+
+
+while this group did not test the same material as us, they still showed similar results which is as the friction increases the acceleration decreases.  this similarity only strengthens the results of our group because they have the same results. 
+
+
+if a heavy string was used, then the acceleration of the system will decrease. this would be because the mass of the system would increase so the resultant expression would be used to determine the  $a =\frac{f_{net}}{m_{sting}+m_{hanging}}$ . since you would be dividing by a larger number, the acceleration would then be smaller.
+
+one source of random error could be attributed to a swinging hanging mass. when this happens not all the force is diverted down. this would cause lower acceleration values. to combat this, an effort would be made to make sure that the hanging mass is stationary before the start of the test. another source of error could come from knots in the string. when they go over the pully, they create different values in the reading. in order to stop this, a new string could be used to make sure there are no bumps when the cart is travelling.
+
+one constraint was the height of the table. often the mass would hit the ground before the cart reached the end position. what this means is the cart would only accelerate to a certain point before the mass hits the ground. another constraint would be a limited amount of mass. values for the applied force were limited and the trendline could only be found from a small applied force.

@@ -1,0 +1,19 @@
+discussion:
+
+“what variable(s) impacted the period?” 
+
+mass – this has negligible impact on the period of the pendulum. in our test results graph, there are very slight changes to the period, but this could also be due to error in measuring the time. the error bars are also overlapping in the very small time differences, proving that error played a part in the measurement of these periods.
+
+angle – this has negligible impact on the period of the pendulum. in our test results graph, there are very slight changes to the period, but this could also be due to error in measuring the time. the error bars are also overlapping in the very small time differences, proving that error played a part in the measurement of these periods.
+
+string length – this is the only variable that showed a noticeable impact on the period of the pendulum swing. given the graphs of our test results, this is made prevalent by the steady increase in time of the period as string length increases. it was also very noticeable to the eye during the lab, unlike weight or angle. 
+
+
+
+conclusion is 
+
+random error was involved in our studies while using the stopwatches because our reaction time and press of the start/stop button were delayed, thus causing flaws in our data. once we started using the photogate, systematic error may have taken place due to the sensitivity and inaccuracy of the device. 
+
+constraints for the studies included human reaction time, software issues, and possibly small differences in each time of resetting the pendulum to be swung. because of constraints and errors, the generalizability of our test results reduces as the more error and constraints give less accurate results.
+
+*all pictures used are screenshots from our own test results in our lab

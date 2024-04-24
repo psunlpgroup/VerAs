@@ -1,0 +1,37 @@
+conclusion
+
+           that these variables don’t affect the period.  using the theoretical mathematical model we 
+
+           were able to support our claims.  we were able to do this because weight and angle of 
+
+           drop isn’t accounted for in the formula.  length of string did appear to affect the period of        
+
+           a pendulum.  we were able to confirm this because length is l in the formula.
+
+   
+
+      d.) in our experiment we could have experienced both types of error.  we experienced 
+
+            random error through measuring our drop angle with a protractor trying to retest while 
+
+            collecting data.  another random error was human error from using the stopwatches.  we 
+
+            reduced the drop angle error by using a protractor.  we reduced the human error by using 
+
+            a photogate.  both changes resulted in much better data.  we may have experienced 
+
+            systematic error if the scale used to weigh our object was off or the photogate was off, to 
+
+            our knowledge neither tool was incorrect.  a way to check for systematic error would be 
+
+            using these tools to measure something you already know, for example money (all u.s. 
+
+            bills weigh 1 gram). 
+
+
+
+       e.) we were not given any constraints.  from other groups i heard a possible constraint could 
+
+             be to only test angles below 30 degrees.  i learned this post lab three, so during our lab  
+
+             we were not given any constraints.

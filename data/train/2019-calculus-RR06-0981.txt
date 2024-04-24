@@ -1,0 +1,13 @@
+discussion 
+
+for this lab, the purpose was to use the experiment to develop models for describing the behavior of a real system, along with developing an understanding for each value and variable in those models
+
+as for experiment five, the model represents the relationship of the transfer of mass in the system and the acceleration. the “x” coordinate in the model is really the force of the system from the mass. for experiment 6, the model is the same thing, but what is changing is the force of friction, causing a curve, instead of a straight line.
+
+	these groups lead to the concussion that our previous assumptions of the numbers were correct.
+
+	the errors associated with this lab overall is fairly small. most of the error would be contributed to just plain human error. and error in the track. our track did seem to not slide as well compared to other groups. but it seemed to just transpose everything down.
+
+	one would be the balance of the cart. we had to redo part of our lab because our weight was too heavy on one side and cause the cart to not move.
+
+	because the force is divided my the mass to find the acceleration.

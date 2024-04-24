@@ -1,0 +1,33 @@
+conclusion :
+
+the experiment was aimed toward the research question, “how does the acceleration of a system change when the applied force changes?” using the acceleration as the dependent variable, the independent variable being the applied force, and the control variables (which were the mass of the system) being kept the same, a testable hypothesis was able to be made is  changing the applied force will change the acceleration. the results confirmed the hypothesis and showed that by applying more force, the acceleration increases. 
+the objective of this lab was to collect other groups data from lab 5. these are shown below. then, given an acceleration value from the ta, find the amount of bobbers needed on the cart and string to gain the targeted acceleration value. 
+ $a = 0.5$ m/s^2
+
+
+
+finding the amount of force needed was the first step is  
+
+$-a (m_c + m_h) - m_h g) = f_f$
+
+find an acceleration of 0.5m/s^2
+
+$a = \frac{m_h g -f_f}{m_{sys}}$   
+
+
+to find our predicted mass we calculated is 
+
+$m_h = \frac{a m_{sys} + f_f}{g}$
+so we used 4 fishing bobbers
+
+
+
+when we tried to get the acceleration using three bobbers on the string and five bobbers on the cart, the acceleration was 0.39 m/s^2. since this isn’t the targeted value, it needed to be recalculated. 
+
+$a = \frac{20 9.8 + 0.026}{318.8}$  
+
+$a = 0.62$ m/s^2   if the mass on the string is 20g (four bobbers) instead of the three bobbers that             were on there the last time. 
+when we tried changing the mass on the string to four instead of three, the acceleration was 0.537 m/s^2 which was in the targeted acceleration value of 0.5 m/s^2. the originally calculated friction force was too high, so the calculations will be off a little. 
+
+
+given the targeted acceleration of 0.5 m/s^2, it was calculated that there needed to be 4 bobbers on the string in order to get near the targeted acceleration. this was using the friction force calculated from lab 5, which was originally too high which could have led to this lab being done twice in order to get within the targeted acceleration value.

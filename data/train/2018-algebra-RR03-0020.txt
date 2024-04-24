@@ -1,0 +1,15 @@
+
+
+conclusion:
+
+	what impacts the period of a pendulum for small swings? three factors were tested to see if they affect the period of a pendulum is  angle of release, weight of the pendulum, and the string length. out of these three factors, string length seemed to be the only one out of the three that showed a relationship with the period. 
+
+	figure 2 shows the graph of the data for the relationship between the weight of the pendulum and the period of the pendulum. the error bars on the graph show the uncertainty meaning the value can be any value within those error bars. since the error bars for each different weight overlap, we can conclude that there is no direct relationship between the mass of the pendulum and the period. this is the same for the relationship between the angle of release and the period of the pendulum. figure 3 shows the graph of the data for this factor. the overlapping error bars shows no relationship.
+
+	figure 1 shows the graph of the data taken for the relationship between string length and the period of the pendulum. there is a very slight overlap between the first two error bars, but not for all of them which indicates there could be a direct relationship between the two.
+
+	the theoretical model is $t=\frac{2 \pi l^{0.5}}{\sqrt{g}}$ and our mathematical model is $t=0.2711 x^{0.4438}$. these show similarity in the exponent and coefficient, which is what determines the curve of the graph. the curve is shown in figure 4. the error bars in figure 4 are very small and therefore do not overlap which finally shows a direct nonlinear relationship between the string length and the period of the pendulum.
+
+	some possible random errors in this experiment were the angle of release was not at the exact angle each time and the pendulum were dropped in a different spot than it was caught. these errors could have been reduced by doing multiple trials to out rule the chances of the error occurring. some systematic errors could have been damaged equipment such as the stop watch, and the string length not being at the desired measurement. incorrect string length is systematic because you do not measure the length of the string before each trial. this can be fixed by remeasuring the length of the string. the damaged stop watch error can be fixed by replacing it.
+
+	during this experiment, we were limited on how broad of a range of measurements we could use in the mass and string lengths. the pendulum would only allow for up to a certain length of string and the amount of weight it could hold. if this wasn’t limited, the results may have been different.

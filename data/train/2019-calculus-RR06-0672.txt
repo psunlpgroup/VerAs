@@ -1,0 +1,13 @@
+discussion and conclusion:
+
+	the investigation was centered around the question of what affected the acceleration of a cart. the first investigation was an experiment done with varying hanging weight pulling the cart down a frictionless surface. looking at the graph for this experiment (table 1), there is a very strong correlation between added force pulling the cart (the more massive weight being pulled down by gravity) and the acceleration of the cart. with error bars included, it is absolute that there is a linear relationship between force and acceleration. the other group which conducted this experiment also reached this conclusion, furthering the confidence that it is correct. 
+
+	the theoretical modal for this experiment is $f=m a$ that is force is equal to mas times the acceleration. our modal, in which the f was the independent variable, requires some equation shifting, but does agree with the theoretical modal. in our experiments as force increases, acceleration increases (table 1) and as mass increases, acceleration decreases (table 2) which agrees with our modal.
+
+	in a second investigation, multiple groups tested how another force, wither friction of an additional gravity force, affect the acceleration. our group tested friction, but since the track we were using was frictionless, it has no impact on the overall acceleration (tables 3-5). this agrees with the mathematical modal as friction would not impact the equation. other groups tested the tilt of the track, either forward or backwards. the mathematical modal being $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ these had a far greater impact on the acceleration of the cars (tables 6 and 7). the modal created by these other groups supported the claim of this mathematical modal.  
+
+	if a heavy string was to test, the acceleration would incrementally increase as more of the heavy string moved past the pully. the system would be less linear.
+
+	the random error in these experiments is less than in the past because so many computers were used but is still existent. there was a person turning on the system, which could have turned on inconsistently. the bobbers may have sifted their weight and pulled on the string differently. there was still some friction on the cart and the wheel which could have affected the result. the wrong part of the data could have been used to calculate the accelerations from the computer. these are just some of the random errors.
+
+	a limited number of groups completed each criterion, which could increase the effect of random error on each graph, and thus its generalizability. another constraint is could be conducting the experiment under the same gravity as was conducted in this investigation, otherwise the numbers would change.

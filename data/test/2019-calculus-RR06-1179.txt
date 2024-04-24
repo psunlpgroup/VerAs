@@ -1,0 +1,11 @@
+discussion: 
+
+			the purpose of this experiment was to model real world scenarios. in order develop these models, we used a frictionless track and cart with attached weights, which was attached to a string overhanging the edge of the track with hanging weight. we then attached magnetic strips in later experiments.
+
+
+
+each experiment resulted in an equation and each equation was similar to the others. in experiment one, we took the cart and then added bobbers. the bobbers would either act on the cart pulling it down or with a gravitational force pulling it via string-pulley system. we would take multiple trials, changing where the bobbers were in the system, but always keeping the mass of the system constant. this resulted in faster and slower speeds the cart would travel at. the rate that the acceleration is proportional to the amount of bobbers acting through gravitational forces. that proportion is about 2.9 is 1. for experiment 2 and 3, we repeated experiment one but added 2 and 4 magnetic strips to the side, respectively. this caused the acceleration of the system to be smaller. the decrease is in direct proportion to how many strips are added. 
+
+not many constraints were on us for this lab. the airtrack eliminated much of the friction that usually happens in these scenarios.
+
+our mathematical models we found are consistent with newton’s second law. when we changed the weight of the pulling mass, the force would change as well.

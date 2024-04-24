@@ -1,0 +1,58 @@
+discussion:
+
+before conducting the experiment, we made the predication that the length of the string would affect the length of the period. our reasoning is that the longer the string the more distance the pendulum would have to travel resulting in a longer period. 
+
+to determine if our hypothesis was true, we rotated which factor was going to be the independent variable. we started with the mass as the independent variable. we started at 50 grams and increased it by 20 grams every three trails. the three trails that corresponded with the same mass was averaged and used for our graphs. the length of string and angle of release stayed consistent throughout these trials.
+
+
+
+these are the results collected when the mass was the independent variable. the graph has a linear trend, and a horizontal line can be drawn through all of the errors bars that were within one standard deviation. as a result, it can be determined that there is a 99% chance the mass has no affect on the length of the period. this persists with our hypothesis that the length of the string is the only factor that effects the period of a pendulum. 
+
+next, we changed the independent variable to be the angle of release while keeping mass and string length constant. we started with an angle of 10 degrees, and had increments of five degrees every three trials. every three trails corresponding with the same angle were averaged and used in our graph. 
+
+
+
+these are the results from the trials with the angle of release as the independent variable. the graph looks like it is slowly increasing. however, a horizontal line can be drawn through the error bars that are calculated with one standard deviation. because we were limited to using angle measurements less than 30 degrees, it is uncertain that the angle of release has any certain affect on the length of the period. however, the data used showed us that there isn’t much of an affect on the period with the smaller angles used.   
+
+the last part of the experiment conducted was with the string length as the independent variable. we started with a string length of 30 centimeters and every three trails after 10 centimeters would be added to the length. we then ran trails for seven different string lengths. all of which had a constant mass of 150 grams and a constant release angle of 20 degrees. 
+
+
+
+this is the graph made by the various data points collected through the trials. the error bars indicate possible error through one standard deviation. based on the points, it can be seen that the graph is moving at almost a steady rate upwards. even through the error bars, it is clear that the string length has an affect on the period of the pendulum since the trendline has a clear positive slope. 
+
+
+there is a lot of room to have human error within this particular experiment. the angle of release may not have been precise. this could be because the string was moved after the angle was measured or the string may not have been perfectly lined up with the protractor when measuring. also, when measuring out the length of string for the pendulum, the string could’ve moved during or after taking the measurement with the tape measure. 
+
+these errors can be reduced by having a single person dedicated to measuring the angle of release. everyone else in the group can watch from different angles to see if the string lines up with the protractor at the correct measurement. while measuring the string, one person can focus on tightening the string and lining the string up with the measuring tape while another person can focus on keeping the measuring tape still and making sure the string is measured in the correct place. 
+
+estimations were found by first finding the standard deviation. the standard deviation was found by averaging the discrepancies between each data point. once calculated, the standard deviation was determined to be 0.074. this means the data points could be ±0.074 from the calculated value. this was how the error bars were created and how we calculated whether or not a factor contributed to the length of the period. 
+
+
+
+one of the biggest constraints was being limited to using angles less than 30 degrees. if we were able to larger angles it would’ve been clearer to see if the angle of release has an affect on the length of the period. we could potentially see a larger difference in the period when using angles farther apart from each other. if the standard deviation stayed the same and showed the period increasing, then we would’ve been able to prove that the angle of release does have an affect on the length of the period. 
+
+we were also constrained by the length of string we could use for the experiment. with the equipment provided, we were only able to have the string as long as the pendulum stand was tall. this prevented us from using larger string lengths which ended up giving us a worse generalization of data. however, we were still able to see the change in the period length, so the consequences of not having a better generalization of data isn’t all that great. 
+
+also, we were constrained by the amount of weights we could use. we had a set amount of weights that would fit on the pendulum. this prevented us from collecting data from the pendulum with a larger mass. in turn, this prevented us from getting a better generalization of data. similarly to the string length, the mass we did have to deal with was enough to determine that the mass of the pendulum doesn’t affect the length of the period. 
+
+
+
+theoretical equation of a pendulum is 
+
+g is gravity	l is length of string	t is period
+$t=2 \pi \sqrt{\frac{l}{g}}$
+ 
+
+
+
+the equation shows that the only factor able to affect the period of a pendulum is the string length. this matches our experimental data because we found that the only definitive factor that influences the period is, in fact, the string length. not only does the experimental data help prove the accuracy of the theoretical equation, the reasoning that goes into it also helps to prove the equation. the longer the string is the farther the pendulum has to travel. this will in turn make the period larger.
+
+
+
+which factors influence the length of the period of a pendulum?
+
+mass has no affect on the length of the period of a pendulum. after experimentation with different masses, the period had not changed consistently. also, a horizontal line was drawn through all of the error bars indicating that even with experimental error, the period was not able to change. in addition, when thinking about gravity, gravity effects objects with different masses the same way. it has a constant acceleration of 9.8 m/s^2, so no matter what mass the pendulum has, it will always consistent speed. therefore, it makes no sense that mass would have an affect on the length of the period. 
+
+angle of release has no affect on the length of the period of a pendulum. once data was collected from the experiment, the graph seemed to show a minor correlation between the release angle and the length of the period, but upon closer inspection, a horizontal line could be drawn through all of the error bars. this indicates that the angle has little to no affect on the duration of the period. 
+
+the length of string does have an affect on the length of the period of a pendulum. this was seen when the data was collected from the experiment, and it showed the data points increasing at a relatively consistent rate. when a trend line was created it showed that the points had a positive linear slope. this indicates that the string length has a direct relationship with the period. this also makes sense because when the string length increases, the distance of that the pendulum travels also increases, and if the pendulum has more distance to travel, ultimately it will take longer to reach the final point. therefore, the string length has to have an impact on the length of the period.

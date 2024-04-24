@@ -1,0 +1,22 @@
+discussion and conclusion:
+
+the research question that we were experimenting was to see what kind of factors would affect the period of a pendulum. the factors that we tested were length, angle, and weight of the pendulum. 
+
+when testing mass, we found that the change in mass does not affect the period of the pendulum. in the mass affect graph, the r-squared value is not very strong at around 0.6. the error bars for one standard deviation support the find that it does not affect the period.
+
+when testing length, we found that the change in length affected the period of the pendulum in a positive, correlative way. the r-squared value is a strong 0.9993, supporting our find that the length affects the period. the correlation between the length and period is strong and positive. the error bars for one standard deviation away are not to be seen, so error bars with two standard deviations away from the mean were placed on the graph. since the error bars were so small, it creates less of an error in the data, therefore making the data more precise.
+
+when testing the angle of the pendulum, we found that the angle does not affect the period of the pendulum just like the mass. the r-squared value of the angle graph is 0.7, only 0.1 away from the mass graph, showing that the period is not affected. the error bars can be seen and have large sizes. they overlap each other at one standard deviation. these details on graph support our find that the angle does not affect the period of the pendulum.
+
+
+in the length vs. period graph, there is a greater r-squared value with the graph being exponential rather than being linear. the equation shows through the ‘g’ and ‘l’ both having an exponent of one half.
+
+a random error that could be reduced would be how we dropped the pendulum. when we would drop the pendulum, we would hold it on a book and then let it fall. the drag on the book could knock the pendulum off a little, therefore creating error in our data. another random error that was reduced was the time that was taken. at first, we had stopwatches to time the pendulum. that created error by both people not getting the same time and included the factor of reaction time. this error was reduced by using the photogate. a systematic error was the string that we used. it wasn’t secured at the top of the stand, which could affect the time. a way that this could be reduced would be to use set string lengths with stronger strings or wire.
+
+
+
+	constraints that were in this experiment were that all the groups used the same equipment, we all had the same assumptions of gravity plus other factors. another constraint was that we all used excel to compute our results.
+
+
+
+this picture of every group’s results shows that the constraint kept our data similar. group 5 had a systematic error that made the coefficient of l 6, instead of 2.

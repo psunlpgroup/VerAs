@@ -1,0 +1,9 @@
+conclusion:
+
+	testing how the acceleration of a system changes when the mass of m2* changes and how the y-intercept of the acceleration vs. force vary for different magnet configurations has many steps. all variables need to be found and defined. then the lab needs to be set up, keeping in mind what changes and what needs to be kept the same so the experiment goes as smoothly as possible. 
+
+	all three tests predictions made about the three tests were proven correct. in test 1, the data (figure 2) and the graph (figure 3) prove that by adding mass to m2*gravity, the acceleration increases. in test 2, the data (figure 4) and the graph (figure 5) prove that by adding mass to m2 the acceleration decreases. and in test 3, the data (figure 7, figure 8, and figure 9) and the graph (figure 10, figure 11, and figure 12) prove that by adding magnets to m2 the acceleration will decrease. 
+
+	while completing test 3, there were some issues that had to be overcome. the magnet strips available to test with were just smaller magnets tapped onto a popsicle stick which was then tapped onto m2. as the testing began, we found that the “magnet strips” would fall off and had to be tapped back on in a different fashion. it is also believed that having actual magnet strips would be better to test with, but the outcome was still as hoped. 
+
+	we were very confident in our outcomes, as they compared very well with the rest of the teams. there could be room for improvements though. as stated earlier, a better magnetic strip would work better for test 3. we also believed that adding oil or grease of sorts would help in keeping the track “frictionless” as having just the air track could cause problems, especially after being used for so long. through our experiments we also found that m2 would occasionally hit the ground. to stop this from happening we think a shorter string tying the two masses together would improve the results.

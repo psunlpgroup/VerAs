@@ -1,0 +1,20 @@
+conclusion:
+
+	the period of the pendulum was affected by the length of the string and the angle of release. the length of the string was directly proportional to the length of the period, just as how the angle of release was. the shallower the angle the shorter the period became. the conditions that were held constant, at least two at a time, during any one point of the lab were; mass 110g, length 30.5cm, and angle 30º. during the la any two of these could be made constant while the third is changed for a result. 
+
+we are very confident in our data collected because we had two people measuring 10 oscillations each and then averaging the time across the 10.
+
+the graphs of both length vs period and angle vs period both show a slight positive incline to their graphed data. this proves that both of these were directly related to the period time of the pendulum. contrary to these two, the mass had a very horizontal slop which shows that mass and period are both unrelated. this is due to a simple concept in physics where regardless of the mass of an object acceleration due to gravity is the same. beyond the graphs, the data plotted is very accurate to what was predicted
+a better variable or constant to test would be gravity since it was the force acting on the pendulum.
+
+to improve this experiment, we suggest using two strings in order to create an isolated path for the pendulum to follow.
+protractor fell off the contraption causing the data to be off
+the way the sting hung off the clamp caused it to create an ovular path rather than a linear oscillation.
+the pendulum had a tendency to not oscillate in a straight line affecting the oscillation time.
+the method used for timing the oscillation of the pendulum was not the most precise
+parallax error while reading protractor 
+use an adhesive to securely attach the protractor r to the stand
+use a length of string to attach to the weight at two points to the clamp in a “v” set up, this will eliminate ovular paths and force it to go in a straight line.
+take multiple time trials and average out the results for the best accuracy
+the protractor should be read completely perpendicularly to avoid parallax error and tilt shift errors. 
+the angle of release had to be less that 50 degrees because it offered unreliable results as the pendulum started to oscillate in an ovular path if the angle of release was greater than 50 degrees.

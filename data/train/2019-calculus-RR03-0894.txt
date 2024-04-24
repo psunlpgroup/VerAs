@@ -1,0 +1,11 @@
+conclusion
+
+	after designing different experiments, we became proficient at designing an experiment.
+
+	the other objective was to identify which factors contributed to period of a pendulum. we determined, based on the data, that there is a clear positive correlation between length vs period, no correlation between weight vs period, and a conditional correlation between angle vs period. the condition with angle vs period, based on our data, suggests that as long as the angle is less than roughly 20 degrees, the period will not be affected. 
+
+
+	using our newly found tool of error analysis. we can now definitively make claims about correlations. there was indeed a correlation between length vs period in experiment one since none of the error bas overlap. all the error bars overlap in weight vs period, so that means that a correlation cannot be identified. most of the error bars in experiment 3 overlap, which makes sense because we discussed how the correlation was conditional in the lab 01 conclusion.  
+
+	lab 03 enabled us to make claims about the relationship between length vs period. we were able to mathematically model our data, as discussed above. we compared our model to those of two other groups, and the numbers can be seen below. all of our models are similar, strengthening our claim.
+

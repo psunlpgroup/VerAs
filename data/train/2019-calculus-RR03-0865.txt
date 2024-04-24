@@ -1,0 +1,18 @@
+conclusion:
+research question: what impacts the period of a pendulum for small swings?
+
+
+
+after reading the claims at the bottom of each investigation we found that only slight variances were recognized when different controls were set except for the length of the string. this is the biggest change that occurred compared to other variables. the longer the string the larger the period as it swung. it made the longer periods and therefore the data ranges were much larger for the length of string variable. mass and angle of release did not affect the period of the pendulum. the angle only affected the period of the pendulum if the angle was very large say above 50. the reason being for this is from other external factors. therefore, the research question specifically states small swings.
+
+
+
+the theoretical mathematical model for the period of the pendulum we developed was $t=0.28 l^{0.4343}$. l being the length of the string since that was the biggest factor. we excluded the mass and the angle for factors because they did not have a impact on the period of the pendulum like the length did.
+
+
+
+random errors in these experiments include the human error with whoever was using the stop watch. this became not an issue in the future because of the automatic timer we received in the future labs. this was a much more accurate representation especially considering the information given in lab two saying the uncertainty for the automatic timer was 0.001 seconds. 
+
+
+
+some constraints might be that you are only able to use small angles for your angle testing. the reason being is because there is external factors like the strain on the bar holding the string, the slack on the string, and the human error of releasing the string. if there is not access to an automatic timer then your results might have more random errors if you do not record a hefty amount of trials to drown out the random error.

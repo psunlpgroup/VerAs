@@ -1,0 +1,31 @@
+conclusion
+
+we approached this lab with the question of what affects the period of a pendulum for small swings. we tested three potential factors to figure out which one had the most impact, if any, on the period. in lab, we tested string length, the angle that the pendulum is released, and the mass of the pendulum to see how they each affect the period. 
+
+for the string length, we predicted that as the string length decreased, the period of the pendulum would also decrease bceasue a shorter string would mean that the pendulum wouldn’t have to travel as far between each swing. this will remain true unless the shorter swing has a much higher angle of release than the longer string. in figure 1, the graph shows that as the string length decreases so does the period of the pendulum. since there is no overlapping of error bars, there is a distinct difference in each string length vs period, which shows that the length of the string does influence the period of the pendulum.
+
+for the mass of the pendulum, we predicted that as the mass decreased, the period of the pendulum would remain the same. this is because the forces acting on the pendulum and the mass of the pendulum are proportional. it will remain true unless the factors such as string length or angle of release are changed for each distinct mass. in figure 2, the graph shows a slight decrease in the period of the pendulum as the mass decreased. but the overlapping error bars indicated that some of the results may have been the same. since the difference is so slight, we concluded that the mass has no effect on the period of the pendulum and that the differences were likely because of error.
+
+for the angle of release, we predicted that as the angle of release decreased, the period of the pendulum would remain proportionate to it. a larger angle would make the period longer than a smaller angle because the pendulum must travel more distance. it would not affect the period for small swings so much though because as time increases, the speed of the pendulum decreases, making the angle smaller so the period would remain proportionate. in figure 3, the graph shows that the period increases as the angle of release increases. some of the error bars overlap, indicating that some of the results may have been the same for different angles. since there is some uncertainty, we concluded that the angle of release has only a slight effect on the period of the pendulum.
+
+
+
+our mathematical model is $y=0.0797 x + 1.696$ and our r squared value is r2 is 0.9848. our model fits the graph for string length because as you plug in a higher x-value (string length) the y-value (period of pendulum) also increases. reference data table 1 or figure 1 to see the trend.
+
+
+
+random errors present during the experiment could have been is 
+
+inaccurately measuring the string (not exact)
+
+the weight would swing off-center and that would mess up the time between each swing
+
+stopping the timer too soon or too late
+
+estimating the number of swings instead of finding the exact number (to the decimal)
+
+using a protractor to measure the angle of the string- could have been off by a few degrees
+
+
+
+to reduce error, we repeated each test multiple times to average the results and eliminate potential outliers. more precise measuring tools could have been used such as a scale or something to more accurately stay on the angle of release or a better timer. when we used the photogate, we also noticed more accurate results. some constraints for the experiment were time, we sometimes had to rush to get all the data in so it may have been less accurate. the string length and mass of pendulum were also limited to about 100cm and 250g, respectively. if we had a longer string, more space, bigger pendulum, etc., we could have seen more results to confirm the trend present in all 3 graphs.

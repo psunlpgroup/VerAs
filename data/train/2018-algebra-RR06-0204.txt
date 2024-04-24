@@ -1,0 +1,12 @@
+conclusion:
+ The purpose of the lab is to find the force necessary to cause the larger cart to travel on the air track at an acceleration at 0.444 m/s2
+ The mathematical model we used is pasted below and based on our graphs we found that the mass necessary for the hanging mass was 0.018kg. After finding the hanging mass using our mathematical model we utilized trial and error in our experiment which resulted with an acceleration of 0.535 m/s^2.
+
+
+ We compared our presentations to two other groups, Mayweather and Sato. Mayweather had a mathematical model of $y=5.0147 x - 0.0318$ whereas group Sato’s model was $y=- 0.6 x - 0.0515 + 5 e$. This closely relates to our mathematical model because they are all within the same range of external forces and are similar in terms of the inverse mass. Last week our y-intercept was specific to our lab which is why it may differ for Lab 06.
+ The theoretical and experimental seemed to be closely related. Since both results were reached using virtually the same calculations.
+ There are a few forces present in the experiment, such as is  force of friction due to the hole in the tube of the vacuum, wind, and air pressure from the slide strip.
+ The mass shows up in the experimental model as the coefficient (the inverse of mass in the coefficient in the model)
+ $f = m a$. This is due to the mas changing over time (as more of the weighted sting passes through the pulley) causing the cart to accelerate unevenly (nonuniform).
+ There were two main errors occurring in the lab that may have affected our data is  one being a hole in the vacuum causing some friction, and manually pushing the cart.
+ The only constraint experienced in the lab was the hole in the vacuum tubing which may have impacted the ability to generalize the results.

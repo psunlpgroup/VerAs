@@ -1,0 +1,10 @@
+conclusion:
+in this lab, a pendulum setup was measured after the variations of multiple different variables, studying the effect of each on the pendulum’s period. each experiment focused on a different independent variable, while keeping the others as control variables. the following claims were finalized is  mass has no effect on the period of the pendulum, drop angle does affect the period of the pendulum when above 30 degrees, and string length always affects the period of the pendulum. the mass v period graph shows little variation in the data points, and due to the error one can appropriately assume that there is no change. the drop angle v period graph shows a positive correlation between angle of release and period. the string length v period graph was the most refined data and has a robust equation that matches real world equivalents. the theoretical equation for this relationship is is  
+
+
+
+this equation reinforces our hypothesis. under 30 degrees of angle release, mass and angle of release don’t play a role in the period of the pendulum, and the equation is modeled similarly to the fit line of the string length v period graph.
+
+a high degree of error was in play for the first two experiments, using a stopwatch and human eyes had a large effect on our collected data, specifically random error. to reduce this error, we used a photogate instead of a stopwatch for our last sample and the data was significantly more accurate and we were able to use it to model an equation.
+
+this experiment was constrained by the short time of the lab class and also the group fumbling through the experiment due to the novelty of the class. the first two classes were had without the use of a photogate, which would have significantly decreased the random error of our sample. in the next labs, the group will surely by more prepared and readier.

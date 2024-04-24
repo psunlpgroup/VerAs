@@ -1,0 +1,9 @@
+discussion
+
+	the results from lab 5, talking about newton’s laws, show that the weight hanging from an object, or its applied force, will increase the object’s acceleration. figure 1 shows that there is a linear relationship between the force applied and the acceleration of the object. this means that as more force is applied, the faster the object will accelerate. the results from group 1 and group 2 support our findings. this is shown by the results given on their tables. 
+
+	for this experiment, the simplified model was  and the preferred model was . from the results, our experimental model was found to be $y=0.005 x - 0.033$ where x is in place of the m1g from the preferred model and our y intercept, which is 0.0338, is in place of the   lastly,  represents the entire mass of the system. using this equation, when you plug in higher hanging masses, you will calculate a higher acceleration. a heavier string would increase the weight of the entire system thus increasing the acceleration of the object when calculated. a lighter string would be less weight and thus cause less of an increase in acceleration.
+
+	the two types of error in this lab were random error and systematic error. random error is an error due to the operator, such as an error in measurements. a way to reduce this type of error would be to continuously be consistent in your measurements throughout the lab.  systematic error is due to a problem with the tool being used, like calibration in the object used to measure weight. a way to reduce this type of error would be to make sure that each item used to take measurements is accurate and calibrated properly prior to starting the lab.
+
+	some constraints to this lab would be the time allotted for this experiment. had there been more time, there could have been more trials that were taken which would mean better and more accurate results that would have been able to have been taken.

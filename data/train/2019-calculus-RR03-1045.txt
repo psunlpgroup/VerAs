@@ -1,0 +1,16 @@
+conclusion:
+
+The length of the string impacts the period of the pendulum while the mass and angle do not have an effect over the period of the pendulum. Since mass and angle do no have an effect over the period of the pendulum they became our control variables. 
+  We are confident in our numbers because our uncertainty was .001 seconds making the error bars very small meaning there are no overlaps.
+  We used excel to find the mathematical model and determined the best model was quadratic because the R-squared value was 1.
+  We are confident that the mathematical model provided by excel is correct because R-squared is 1.
+   Other groups equations were similar to ours so we’re confident in our claims. We got similar results even though some groups equations were linear.
+ 
+ The period of the pendulum would increase because the acceleration has increased.
+  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ (where T is period, L is length of string, G is acceleration of gravity)
+ They are similar in that in our equation we a quadratic formula while the theoretical formula is linear, but our values are still similar.
+ Other factors that can affect the period is wind resistance and amount of force applied to the pendulum.
+ If we were to make changes to the experiment it would be to collect more data. The only error in our experiment was not getting the right angle exactly but that can be attested to random error and the uncertainty of .5 degrees. If we had a device that would give us the exact angle of deployment then our data would be a lot more accurate because we would have a lower uncertainty value.
+ T is 1.419 seconds
+ l is 6.206 meters , using equation from lab one is  $y =2e^{-0.5} x + 1.4312$ so 1.4313 meters
+ 

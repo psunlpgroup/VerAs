@@ -1,0 +1,4 @@
+conclusion:
+this graph includes error bars of 0.001 seconds because it is the given scale error of the photogate system used to calculate the period.
+
+what impacts the period of a pendulum for small swings? looking at figure 1, you can clearly view the direct impact the length of the string has on the period of a pendulum. these results support out hypothesis. however, we did find that the relationship between the period and the length of the string is non-linear which is not what we determined in previous labs. the theoretical mathematical model for the period of a pendulum is $t=2 \pi$ [sqrt(x)]. our data fits this model because the data points we collected provided a best fit curve that matches $y=\sqrt{x}$         which closely corresponds with the theoretical mathematical model.

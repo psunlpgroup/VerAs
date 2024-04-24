@@ -1,0 +1,6 @@
+discussion and conclusion
+
+	in this experiment, the length of the string was changed every trial to see how it would affect the period of the pendulum. looking at the graph above, it can be concluded that as the length of the string increased trial by trial, the period of the pendulum also increased. this means that the independent variable of the length of the string is directly related to the period of the pendulum. the correct theoretical equation for the period of the pendulum is $t=2 \pi \sqrt{\frac{l}{g}}$. the theoretical model period of the pendulum for 50 cm would be 1.4192 seconds. using our equation from our data the theoretical period of pendulum would be 1.5634 seconds. this means our data has some sort of systematic error because our period is larger.
+
+
+some possible systematic errors could be that the measurements for the length of the string were slightly off due to human error. this could be prevented by measuring with a more accurate instrument instead of a tape measure. also, some random error could be from the photogate not working properly, or the photogate not being synced properly to the computer. to diminish these possible errors the photogate should be connected properly to the computer and made sure it is working correctly.

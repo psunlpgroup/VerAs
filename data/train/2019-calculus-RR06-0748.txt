@@ -1,0 +1,31 @@
+discussion and conclusion: 
+
+a.  the purpose of this experiment was to create mathematical models to describe the behavior of a real
+
+
+
+ system, and to determine the meaning of the models and their numerical values.
+
+
+ the first experiment led to the mathematical model $a=0.0027 m + 0.03$ because there was a positive linear correlation that could be seen between the force due to gravity and the acceleration on the system. the second experiment led to the mathematical model $a=9.337 - 0.0275 m$ because there was a negative linear correlation that could be seen between the mass of the system and the system acceleration.
+
+
+
+ in lab 6, the first experiment where no magnets were added led to the mathematical model $a=17.849 f - 0.0245$. the second experiment where two magnets were added led to the mathematical model $a=16.928 f - 0.0142$. the third experiment where two magnets were added led to the mathematical model $a=16.659 f - 0.1213$. these mathematical models show that there is a positive linear correlation between force and acceleration and the increase in mass on the cart lowered the acceleration and the addition of magnetic weights to the system had the same effects. the increase of mass 1 (on the string) was the only cause of the increased acceleration. 
+
+group 1 hypothesized that a hanging mass and magnets would affect the acceleration of the system. there data shows that the equation did not change with each experiment, but the hanging mass affected the acceleration. the data from this group helps better understand what the numerical values represent because their equation did not change the slope or y-intercept. this lack of change shows that the slope represents the inverse of the mass of the system, which stayed constant in the experiment. the y-intercept shows that the starting acceleration was nearly 0 when the applied force was 0, which is consistent with newtons second law.
+
+
+
+
+
+
+
+this group had linear results that show a positive correlation between the acceleration and added height. there is little to no change in the equation of the line, so no matter what angle is applied to the track the acceleration will increase, which is due to the acceleration of the force of gravity as the cart moves down the track. the mass of the system stays constant which is why the slope stays relatively the same.
+
+a random error that may have occurred in this experiment is the measurement of the string and the masses, which could have an effect on our data and the mathematical models. this could be reduced by measuring the weights with an analytical balance and using a more precise measurement tool to measure the string. a systematic error that could’ve occurred was the presence of friction on the track. this would cause the acceleration always to be less than the true value. to reduce this error, the force of friction could be added as an uncertainty in the data.
+
+a constraint that existed in this experiment include the two- hour class time, which limited our ability to run more trials. another constraint was the limited amount of mass and magnets that could be added to the system. also, the measurement tools we had were not completely accurate. 
+
+ the mathematical models for lab 5 are consistent with newtons second law because the slope of the line is equal to the inverse of the mass in the first part, and the slope is equal to the inverse of the force in the second part, which is consistent with the variables that were used and newtons second law.
+the mathematical models for lab 6 are consistent with newtons second law because the slope of the graph is generally equal to the inverse of the mass and the y- intercept is generally equal to the acceleration when the mass is 0, which is also consistent with the variables used and newtons second law.

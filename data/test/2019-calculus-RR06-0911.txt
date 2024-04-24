@@ -1,0 +1,21 @@
+conclusions:
+
+	in this lab, we were to make mathematical models that describe the behavior of a real system and to develop an understanding for each variable included within the model. 
+
+in each of the experiments, the resulting mathematical models came from the equation of the line of best fit through all of the plotted data points on the appropriate axes. in experiment 1 of lab 05, y is the acceleration of the system while the x is the amount of force being supplied by gravity acting on the hanging mass. in experiment two of lab 05, the y is still acceleration, but the x is now the system mass. in lan 06 the y in the mathematical model is the acceleration of the system and the  is the force supplied by gravity acting on the hanging mass. 
+
+
+
+other groups findings is  
+
+
+
+
+
+seeing the conclusions of the other groups, i realized that i accidentally got a picture of a group that did not do the same experiment as my group (group 5), and so the data is difficult to use in comparison. the first group did have the same experiment however, and using their data, i see that they came to the same conclusion that my group did. 
+
+potential random error that could have occurred could be a trial in which the string came off of the pulley system without the group noticing. another example could be accidentally transferring the wrong bob from the cart to the hanging mass. examples of systematic error would be if there was a protrusion on the bottom of the cart that was causing more friction between the cart and the track and/or the possibility that the vacuum pump could potentially have not been working at full capacity, thus lessening its ability to reduce the friction of the track on the cart. 
+
+	some constraints from this experiment would be the fact that we only had the one air track to test on so that if there was systematic error, the only way to potentially get rid of it would be to use the data from other groups assuming that they wouldn’t have the same systematic error. another constraint would be the fact that there were varying levels of air resistance depending on where the mass was on each of these experiments that we were not accounting for. 
+
+	our mathematical models are consistent with newton’s second law because our mathematical models are all consistent with the statement that the acceleration and the applied force had a positive correlation in their relationship while the mass was a inversely proportional correlation with the acceleration (as the applied force increased, so did the acceleration. as the mass increased, the acceleration decreased.)

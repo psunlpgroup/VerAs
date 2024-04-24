@@ -1,0 +1,24 @@
+discussion:
+
+data set 1: the effect of the hanging mass on the acceleration of the system was measured in this set. this was achieved by keeping the mass of the cart constant and changing the hanging weight (m2). this resulted in a linear graph. as the weight of m2 was increased, the acceleration of the system increased as well. this relationship is valid as the error bars in the data set 1 graph do not overlap.
+
+data set 2 is  in this set, the effect of the cart’s mass on the acceleration of the system was measured. this was achieved by keeping the hanging mass constant and changing the mass of the cart. this resulted in an exponential graph. as the weight of m1 increased, the acceleration of the cart exponentially decreased. this relationship is valid because the error bars do not overlap.
+
+data set 3 is   is  this set was a control for the retarding forces experiment. this was achieved by adding 2 magnets to the top and 2 to the bottom of the cart, increasing the mass of the cart, and decreasing the hanging weight. this resulted in a linear relationship. as the force increases, so does the acceleration of the cart.
+
+data set 4 is  in this set, the effect of a retarding force on the acceleration of the system was measured. this was achieved by increasing the mass of the cart and decreasing the hanging weight. this resulted in a linear relationship. as the force increases, so does the acceleration of the cart. but in the set, the acceleration was less that data set 3.
+
+data set 5 is  in this set, the effect of a retarding force on the acceleration of the system was measured. this was achieved by adding 2 magnets to the top and 2 to the bottom of the cart, increasing the mass of the cart, and decreasing the hanging weight. this resulted in a linear relationship. as the force increases, so does the acceleration of the cart. but in the set, the acceleration was less that data set 4. 
+
+data set 6 is   is  in this set, the effect of a retarding force on the acceleration of the system was measured. this was achieved by adding 4 magnets to the bottom of the cart, increasing the mass of the cart, and decreasing the hanging weight. this resulted in a linear relationship. as the force increases, so does the acceleration of the cart. but in the set, the acceleration was less that data set 5.
+this group performed the same experiment and concluded the same answer. their data also resulted in a linear relationship $y=m x+b$. also, their coefficients are very close to our coefficients. using this and comparing our data and conclusions, it supports our results and conclusions. there really are not discrepancies other than a few decimals.
+
+this helps us understand that the slope of the track might also affect the results of this experiment. their iv had a larger impact than our groups iv, but this still supports our conclusion. the elevation of the track caused the acceleration of cart to decrease as angle of elevation increased.
+
+theoretical equation is $a=\frac{f}{m_{sys}}$ 
+
+enhanced theoretical equation is  $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$
+
+the models above that showed a clear linear relationship between hanging mass and acceleration of the cart directly relate to newton’s second law. this is because the hanging mass in the experiment is equal to sum of f in the second law equation $f=m_{system} a$. also, the above models show that the mass of the cart is related to the acceleration, showing that as the mass of the cart (system) increases, then acceleration decreases. as hanging mass (net force) increases so does acceleration. these are consistent with newton’s second law. in the equation $y=m x+b$, the coefficient attached to x is (f of hanging)/(f of unknown). x is representative of hanging mass and y in the acceleration of the cart.
+ random errors in this experiment could be human error in the timing of the data retrieving, in the placement of the magnets (could have not been in contact with cart completely), and also in highlighting the slope of the graph on the computer, we could have highlighted too little to too much of the slope and caused an error in the slope recording. this could be reduced by taking more measurements of each trial and taking the average of the slopes to be more accurate.
+a major constraint of this experiment is that we did not measure the difference in the number of magnets, we only measured with different placement of the magnets. this effects the results by not being able to understand fully how the magnet affect the friction in terms of if more magnets increase the friction. but this did not affect results much because our conclusion would still be the same if not similar.

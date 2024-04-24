@@ -1,0 +1,95 @@
+discussion and conclusion:
+
+research question:
+
+
+how does the acceleration of a system change when the cart is pulled up an incline?
+
+the effect of the hanging weight on acceleration is 
+
+as the hanging weight is increased, the acceleration increases as well. 
+
+there is a linear, positive correlation between the two variables. 
+
+the weight was changed independently, and the acceleration was dependent on the magnitude of this mass.
+
+for clarity purposes, each figure and graph is written in terms of the force applied by the hanging mass. the force applied by the hanging mass has a direct and positive relationship with the mass of the hanging weight. in other words, trends between force applied vs acceleration and hanging mass vs acceleration are the same.
+
+the error bars were not visible. as discussed in the error discussion, the device that provided each and every measurement had the minuscule error of 0.001. minimal measurements were taken by hand, so that greatly reduced error.
+
+
+group 04 did the same tests as us—the affect of the hanging mass on the acceleration. additionally, they had a backwards tilt to their ramp, like us.
+
+their data is very similar to ours.
+
+as the angle of incline increases, so does the slope. 
+
+as the incline increases, the lower the y-intercept. it becomes more negative. this number makes sense because it shows that the ramp had a backwards tilt.
+
+their numbers for the equations were very similar to ours which also suggests a similar trend comparing force applied/ hanging mass to acceleration.
+
+discrepancies is  they did, however, use a different set of heights used to incline the ramp, which were measured in mm. despite this, the general trends are still identical between the groups. 
+
+
+groups 05 almost the same thing as us, but they had a forward tilt to their ramp. (the tilt of the ramp went down in the direction of movement.)
+
+they are both positive, linear correlations.
+
+our slope decreases as height increases. their slope increases as height increases. 
+
+this is due to the fact that their tilt in the ramp is assisting the direction of movement. ours is in the opposite direction and it opposes the movement/ 
+
+we have negative y-intercepts. they have positive y-intercepts.
+
+same reason as before is  we oppose movement, they compliment movement. 
+
+in other words, the y intercept is the acceleration when there is no force applied. obviously, if there is a backwards tilt (ours) the cart will accelerate backwards. similarly, if there is a forward tilt, the car will accelerate forward. these are just due to the mass of the cart. 
+
+the numbers are nowhere close to ours.
+
+they used different units, but the trends of each of the slopes in relation to the change in height shows us that they are the same 
+
+
+
+theoretical equation discussion is 
+
+$f=m a$ 
+
+if the mass of the system is held constant, but the force applied is increased, the acceleration will also have to increase. direct relationship between the two. 
+
+$a=c1 w+c2$
+
+c1 is 1/msystem. 
+
+
+
+additional theoretical equation discussion is 
+
+ $a= \frac{f_{applied}}{m_{system}} + \frac{f_{frict}}{m_{sysytem}}$
+
+this is the same equation as discussed above. despite that, there is an additional force, friction taken into consideration. 
+
+
+
+scenario is  heavy string connecting cart to hanging weight is 
+
+ acceleration would increase is  the force would add to the weight of the hanging mass. as we have seen in this lab, that increases acceleration. 
+
+acceleration would decrease is  this would add an overall mass to the system. this makes the cart harder to move. it may even increase friction on the pully. 
+
+an error could have occurred when selecting a portion of the graph to analyze for the acceleration. the wrong section could have been used. sections that were too big or too small may also have been used. 
+
+scratch marks on the track. 
+
+
+the error due to the rotary motion detector is  0.001. 
+
+the error due to the balance is  0.05.
+
+
+this generally only affects systematic errors, but there were multiple trials conduced. this minimizes the impact of outliers 
+
+data was also compared with other groups to ensure that the data was correct enough to assume trends from. 
+
+minimal measurements were taken by hand.
+not every angle was able to be tested. our data can only really be applied to small angle situations. while trends may be similar, it is difficult to say if they will be following the same equations.

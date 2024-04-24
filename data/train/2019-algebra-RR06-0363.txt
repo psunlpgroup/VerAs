@@ -1,0 +1,17 @@
+conclusion:
+the purpose of these two labs were to develop mathematical models which describe the behavior of a sled on an air track(real system). another purpose of the labs were to develop an understanding of what the applied force, the mass of the sled, and the angle at which the track is positioned, has on the acceleration of the sled itself.
+
+ table #1 and graph #1 resulted in the linear model used in the graph. table #3 and graph #3 was an altered version of the linear model. they both displayed an upward slope or a directly proportional relationship between applied force and acceleration of the sled. table #2 and graph #2 display the power model used in the graph. this showed a semi-negative slope between the mass of the sled and the acceleration of the sled. in the experimental models conceived from the above experiments, the y value represents the acceleration in (m/s^2), while the x is the applied force(n).
+
+
+
+the above groups whiteboard represents their hypothesis and conclusion which is the same as ours. as the applied force increases so does the acceleration. this was proven given our evidence presented in table and graph 3. the above groups r^2 numbers are quite close to 1 which gives their mathematical model credible.
+
+
+
+using the finding of this groups data, we can further understand the affect of friction on the acceleration of the sled. when comparing our independent variables, angle of track and friction, the force of friction applied to the sled had a the larger effect of the acceleration of the sled.
+
+some systematic error can be attributed to the computer program collecting data. as discussed above the uncertainty of the program is so small that there are no errors visible on graph #1, however they are still present and can alter our end data very slightly. some random errors that could have occurred could have been our measurements of the height of the angle of the track, measurements of the weights when placed on the sled, not having the string completely straight when starting the experiment. these could have been reduced by double checking our original measurements.
+
+ some constraints that could have limited the generalizability of our results are our number of trials; it is always possible to include more trials in our experiments which would create a larger sample size and further solidify the credibility of our results. another constrain was the time in each lab period. each day, we worked up until the lab was over so our work was rushed. 
+both of our mathematical models are consistent with newton’s second law because we re-arranged the equation to be $\frac{force}{mass} =acceleration$. this equation was consistent with the experiment because mass and applied force were the two independent variables tested. we proved that as force increased, so did acceleration, but when mass increased, it caused acceleration to decrease. this is consistent with our equation used to be consistent with newton’s second law.

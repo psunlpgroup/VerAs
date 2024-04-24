@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+conclusion: 
+the slope on the airtrack has an impact on the acceleration, as the slope becomes more negative so does the c2 constant
+ how does a negative slope on the airtrack effect the acceleration?
+ lack of air resistance testing, this could be corrected by testing the experiment in a vacuum
+
+inaccuracy in weights, which could be corrected by weighing our weights on a scale before using it in our trials
+
+lack of enough data points, which could be corrected by taking more data samples

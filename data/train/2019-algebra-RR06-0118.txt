@@ -1,0 +1,15 @@
+discussion and conclusion.
+
+the goal of these experiments were to develop strong and accurate mathematical models that coincide with newtons 2nd law and also comprehend the values we got back from our excel graphs and data. 
+
+we derived our mathematical models from the data we plugged into excel and got from the graphs. our equation aligns with newtons 2nd law equation of the sum of $f=m a$ so it is easily interpreted as to how to plug in the variables. 
+
+we found that every groups data we looked at almost always aligned with our findings from the experiment. although the numbers in other groups mathematical models may have varied from ours by a little, they all yielded a similar graph and relationship between the independent variable and dependent variable. 
+
+i believe that the random error in these experiments could be attributed to the measuring devices used in this lab (.001 uncertainty), and the small amount of friction remaining on the air table. there could also be a small amount of air resistance. 
+
+some systematic errors present could have been us not placing the track perfectly back at its starting point. 
+
+finding the systematic error was difficult because of how small the error bars were so that interfered with the generalizability of the experiment.   
+
+the equations we got back from our excel graph followed newtons equations by setting the sum of the forces equal to the mass of the entire system times the acceleration.

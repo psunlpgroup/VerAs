@@ -1,0 +1,40 @@
+discussion
+
+research question restatement: which of the factors in a pendulum (length of the string, mass, and angle of release) play a role in determining how long it takes for the pendulum to complete a full swing/period?
+
+
+
+
+
+the mass vs time graph, along with its error bars, allows me to conclude that there is no significant relationship between the iv, mass, and the dv, time to complete swings, in the range of masses shown. if the error bars were doubled in size (indicating a 95% confidence level) most would include the almost horizontal line of best fit, showing that as the mass changed, while the time did fluctuate slightly, it did not display any significant positive or negative trend.
+
+
+both the original graph of the length of the string vs time and the one conducted with a highly accurate laser time gate show a significant positive correlation between the iv and dv. if the error bars were doubled on the hand-collected graph, the bars would overlap for until the last data point with its error bar was out of reach of the first data point. this graph, however, made it look linear while the second trial, the one with the laser gate, provided results with error bars so small they can’t be seen. this is excellent support to the argument that time and length of string are positively correlated.
+
+
+knowing the true equation for a pendulum, clearly there were some errors in the measurements my group made. regardless, if one were to just look at our graph and data, they may conclude that there is a relationship between angle of release and time. because there is a clear rise in the time values from the beginning to the end and the error bars were small, it seems reasonable to say that there is some sort of positive relationship between the iv and dv. (again, this is clearly not the case, but this argument was written using my groups data and resulting graph as the evidence)
+
+
+the theoretical equation for the time it takes for a pendulum to complete one full period is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$)  which when simplified becomes $t=2.007 l^{0.5}$. this equation is close to our experimental equation of 0.1678(x^0.5353), which has an r^2 value of just 0.9996. this r^2 value is almost 1, which means the equation fits the plotted data points almost perfectly. this supports the theoretical model well, having the equation vary by less than 0.5 on the coefficient and less than 0.05 on the exponent.
+
+
+response time, such as starting and stopping the watch on time varied with each test.
+
+the inability to accurately measure the angle may have influenced our results.
+
+our inability to know exactly when one period was.
+
+whoever was releasing the pendulum may have unintentionally pushed or pulled the bob when releasing it.
+
+
+string flex, or having the string stretch after being measured, may have played a part in skewing our results.
+
+we are unable to know if the stop watches and other measuring devices were calibrated and accurate. this may have provided some systematic error.
+
+
+
+when attempting to minimize random errors, the solution is rather straight forward. taking a greater number of trials and averaging their results will provide an answer that should be closer to the actual value of what you are searching for. in statistics this is known as the law of large numbers or the law of averages. dealing with systematic errors, however, is not as easy. it is difficult to know if a given measuring tool is warped or distorted in a way that will throw off results. the only way to keep these errors to a minimum is to check all the equipment used in the experiment and ensure they are all accurate.
+
+
+
+when performing these experiments, some of the major constraints include the measuring devices, time, and basic human error. the measuring devices, such as a protractor and ruler, are rather basic and provide a large opportunity for human error. using the devices to “eyeball” measurements create substantial random error. this is where the time constraint comes into play. because random error can be minimized with multiple trials, one would need a good chunk of time to complete enough to make a difference in the calculated mean and standard deviation. because of this it is difficult to draw firm conclusions from the data collected as it will only show general trends rather than specific equations.

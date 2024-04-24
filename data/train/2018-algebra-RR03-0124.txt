@@ -1,0 +1,24 @@
+discussion and conclusion
+
+
+
+one of the research questions being investigated in this lab is, how does the mass of the pendulum affect the period of the pendulum? this was tested by changing the mass of the pendulum while keeping the angle and length of string constant. when graphing the data collected, there was no linear correlation between the data points and the error bars had large overlaps. this allows us to come to a conclusion that the mass has no effect on the period of the pendulum. 
+
+another research question that was investigated in this lab is, how does the angle of release of the pendulum affect the period of the pendulum? this was tested by changing the angle of release while keeping the mass and length of string constant. when graphing the data collected, there was no linear correlation between the data points and the error bars had large overlaps. this allows us to come to a conclusion that the angle of release has no effect on the period of the pendulum. 
+
+a third research question that was investigated in this lab is, how does the length of string affect the period of the pendulum? this was tested by changing the length of string attached to the pendulum while keeping the mass and the angle constant. when graphing the data collected for both the stopwatch and photogate, there was a strong linear correlation between the data points and the error bars had absolutely no overlap. therefore, we can conclude that the length of string has an effect on the period of the pendulum. 
+
+the theoretical mathematical model for the period of the pendulum is as follows is  
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+my data fits with this model because when setting the pendulum length of 0.50 m mathematically, the period of the pendulum would be 1.418 seconds. compared to the experimental value on the graph, at 0.50 m, the period should be 1.5 seconds. these two data points are very comparable to each other and they are not exact because gravity was not able to be accounted for when running the experiment. 
+
+	errors that were present in this lab were random errors such as, a human using the stopwatch to record the time because they can be too slow or too fast. another random error would be a human measuring the angle with a protractor because the angle is based on perspective and could be different between people. this would affect our data by reducing the precision of our measurements. a possible systematic error would be the stopwatch being slightly off, therefore the data will not be accurate. one way we eliminated the random and systematic error was by using the photogate to record the period of the pendulum instead of the stopwatch. this allowed our data to be more precise and accurate. 
+
+a constraint that we ran into during the lab was the amount of space provided to test the length of string. we could have gotten a wider spread of data if the equipment used in lab allowed us to have a longer string without hitting the ground. this affected our generalizability of the results by having a smaller spread of data to collect therefore having to find in between points that may have not had that much of an effect on the period. 
+
+each of these experiments helped address the research question by testing each variable to see if there is any relationship between them. the data and graphs of each experiment allowed us to come to a conclusion that the length of string is the only variable that will affect the period of the pendulum. 
+
+
+

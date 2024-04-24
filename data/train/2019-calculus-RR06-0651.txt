@@ -1,0 +1,10 @@
+conclusion:
+ the purpose of this lab was to develop mathematical models that represented relationships that were tested using real systems. this lab also served to help develop an understanding for each variable constant value in the model and what they represent. 
+for our models, we were attempting to prove $a = c1 f + c2$, finding the values of  c1 and c2. after we collected our data, the data was graphed on excel and a linear regression was used to develop the models. c1 being the slope of the graph, representing the relationship between how the x value causes the y value to scale. in this case how the force applied causes the acceleration to increase with the scale of c1. the c2 value is numerically the y intercept, which causes the x intercept. in our data, the force increasing for an amount before the acceleration increases is due to tilt of the track. our values of c2 were all negative because our track was tilted upward, a downward tilt could possibly produce a positive y intercept.
+the two images above are the findings of other groups. the findings of the first group shown tested the same hypothesis as us, and received very similar results, which strengthened our confidence in our claims. the second image, data from group 1 shows a group that tested the effects of friction, they concluded that friction does not affect the c2 value, which also strengthens our confidence in our model.
+
+ possible sources of errors in our data were unlikely to come from the measurement tools as they are very precise, unless there was a systematic error involved. a small amount of error could possibly arise from errors in the measurements taken of the masses, but that should not affect the overall graph much due to the possible error being small. 
+
+ possible constraints on this experiment are the same as last time, the scale was very small and if the experiment was tested again with a much higher mass and more trials done, a more accurate result could be formed.
+
+ in our system the mass was held constant, so changing the force applied to the system should proportionally change the acceleration of the system. our testing supported that claim.

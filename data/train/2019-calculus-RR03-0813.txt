@@ -1,0 +1,14 @@
+discussion and conclusion:
+
+	in this experiment, the factors that affect the period of a pendulum were investigated. these three factors included the string length, mass, and initial drop angle of the pendulum. one of the parameters of the experiment was that these angles not exceed 20 degrees from the vertical.
+
+	from the results, it was gathered that the only factor that affected the period of the pendulum was the length of the string. this conclusion was initially reached due to the seemingly visible direct relationship seen in graph 1. additionally, the other factors were eliminated due to the visible lack of a relationship between the data points on graph 2 and graph 3. in order to affirm the hypothesis that the length of the string was the only factor of the period, additional tests were completed with a photogate instead of a stopwatch to reduce the error in the time of the periods. the results of this were what were expected and seemed to match the data from the previous tests of the string length, following a power relationship as seen in graph 4. 
+
+	the theoretical model for the period of a pendulum takes the form of the equation is  
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+where l is the length of the string in m and g is the acceleration due to gravity in m/s2. this equation yields and power equation of $y = 1.99 x^{0.5}$, where x is the length of the string and y is the period of the pendulum. it seems plausible that the data gathered for graph 4 yielded a similar mathematical model, because the equation derived from the data (as seen in graph 4) had the same radical exponent but a different constant in front of the x term. this was most likely due to the length measurements being in inches rather than meters. as seen in the theoretical model, the equation only includes the string length and not the mass or angle, which matches the conclusion made from the experiments.
+
+	air resistance, friction, or any other outside forces may have been causes of random error in the experiment. additionally, any unknown uncertainties (ex. the scale) may have been sources of systematic error alongside the known uncertainties. one improvement that was made during the course of the experiment was to use a photogate timer instead of a stopwatch, effectively eliminating the error from the stopwatch. an improvement for the lab would be to create a mechanism that allows for the angle to be constant every time. another improvement would be to use a vacuum to remove other outside factors such as air resistance.
+
+	as mentioned above, the constraint of keeping the angle below 20 degrees could be a factor in the conclusions made from the experiments, because there may be other impacts of the angle on the period if the angle passes that threshold. a wide enough range was tested for the string lengths and masses, so it is relatively safe to assume that there would be no change to those results.

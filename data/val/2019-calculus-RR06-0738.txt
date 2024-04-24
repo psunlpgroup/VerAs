@@ -1,0 +1,9 @@
+conclusion:
+ In a frictionless environment, how does the movement of objects change? (See attached pictures for mathematical models)
+ The three experiments led to these models because we used special tools which measured velocity vs. time and outputted formulae. The meaning behind the variables in these formulae are acceleration and velocity.
+
+
+These two other lab groups present data which agrees with our hypothesis or does not affect our hypothesis. The variables still mean the same thing as above.
+Non-(completely)-frictionless environment presented systematic error, because we can’t get a perfectly frictionless environment on earth. To reduce the error, we could travel to space.
+ A constraint of this experiment was testing area. Since we cannot test on a different planet with different gravity and friction, we cannot test all the variables in the equation.
+ The mathematical models are accurate because they only deal with one dimensional physics, due to the fact that there was an air track constantly propelling it upwards with a constant force, completely eliminating vertical motion.

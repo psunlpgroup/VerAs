@@ -1,0 +1,13 @@
+conclusion:
+So, what affects the period of a pendulum? Based on our experiments, observations, and data, only the length of the pendulum affects its period, not the mass or angle.
+
+The mass of the pendulum didn’t end up affecting the period of the swing. This is because for all objects of similar shape and size, gravity will have the same affect no matter the mass. When we made our error bars, the bars ended up overlapping horizontally. This means that there is no way to differentiate that the values are different from each other, thus proving mass does not affect the period.
+
+The length of the pendulum did have an affect on the period of the swing. The error bars we made were almost too small to see, but they do not overlap like the mass v time graph. If the error bars on a graph do not overlap, this means that the numbers can be distinguished apart from one another.
+
+The angle at which a pendulum was released did not affect the period of the swing. The graph showing the error bars overlapped each other, just like the mass v time graph. Which again means that the angle doesn’t affect the period.
+
+The graph above is the equation we came up to calculate the period of a pendulum. The actual equation is $T=2 \pi \sqrt{\frac{L}{g}}$ with T being period, L being length, and g being gravity. Using some calculations and an online equation maker, we ended up with the equation $y=0.4029 x^{0.4883}$. This is close to the theoretical model, so yes it supports it.
+Random errors in the first lab included is  stopwatch use error, angle error, not dropping the pendulum exactly straight. During the third lab random errors could include is  not dropping the pendulum straight, or not having the exact same angle every time.
+the graph above is the equation we came up to calculate the period of a pendulum. the actual equation is $t=2 \pi \sqrt{\frac{l}{g}}$ with t being period, l being length, and g being gravity. using some calculations and an online equation maker, we ended up with the equation $y=0.4029 x^{0.4883}$. this is close to the theoretical model, so yes it supports it.
+random errors in the first lab included is  stopwatch use error, angle error, not dropping the pendulum exactly straight. during the third lab random errors could include is  not dropping the pendulum straight, or not having the exact same angle every time.

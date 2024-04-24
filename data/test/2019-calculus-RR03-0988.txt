@@ -1,0 +1,26 @@
+discussion
+the mass vs period graph contains a slight positive trendline slope, which can be attributed to random errors. each point contains a very similar interval of time within their error bars, which reveals why there seems to be a positive slope instead of the ideal zero. the similarity in distributions of the error bars proves that there is no relationship between mass and period.
+
+
+	the amplitude vs period graph contains a positive trendline slope. this, along with very minimal, or no overlap between error bars are undeniable evidence that there is a positive relationship between amplitude and period. the higher the amplitude, the longer it takes to complete one period.
+
+	the string length vs period graph contains a very positive slope. this indicates that there is a strong positive relationship between string length and period. this claim is also backed up by the lack of overlap between error bars. this indicates that string length is likely the most influential factor out of all three tested independent variables.
+
+
+equation is  $t=2 x^{0.517}$
+
+x is string length (m)
+
+
+
+
+
+theoretical model
+
+$t=2\pi \sqrt{\frac{l}{g}}$   
+
+	the determined mathematical model is very similar to the theoretical model. the coefficient in the mathematical model is 2, and (2pi / √g) is 2.001. therefore, the lab data/mathematical model supports the theoretical model.
+
+	it can be concluded that period is affected by string length and amplitude, while being unaffected by mass. there are sources of random error contained within the series of labs. the majority can be attributed to human error (timing a period, measuring the angle of release, accidentally moving the string between trials, etc.), but can also be attributed to slight errors in mass being made slightly off from the advertised value. these errors can be minimized by using monitors that remove possible human errors, such as a motion detector. also, there should be some sort of hard hold for the pendulum, that is not a knot on the top of a stand. it is very possible the stand rocked back and forth with the pendulum, causing systematic error. reducing human contact with the pendulum, and increasing computer and machine usage will increase the precision of this experiment, and greatly reduce variability.
+
+	the results are valid, as each variable was tested independently. this means that while one variable was changed, all others were carefully remained constant. changing a single variable and measuring the differences in a variable dependent on that variable reveals relationships and trends, which can be used to draw conclusions. there were strong constraints of equipment. the equipment used in the lab left a great deal of room for human error, which will cause lots of deviation from the theoretical value. this damages the quality of the conclusions drawn, but trends can still be determined fairly reasonably. time was another constraint. being pressed for time limited the maximum amount of tests. more tests are required in order to obtain a greater sample size and increase the level of confidence in each graph. this would have strongly increased the credibility of the conducted experiments.

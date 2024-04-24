@@ -1,0 +1,18 @@
+conclusion and discussions
+
+as it was hypothesized, it can be seen that controlling the mass of the cart and the hanging mass have an effect on the acceleration of the cart pulley system. also, as it seen in the above graphs, changing the friction also impacts the acceleration of the system.
+
+
+
+adding more mass to the hanging string increases the pulling force, adding to the effective force which makes the cart move faster. a faster moving car means it has greater acceleration. therefore, it can be concluded that the applied force and acceleration are directly proportional. also, increasing the mass of the cart makes it move slower which states that mass and acceleration are inversely proportional. hence the graph is a power curve with decreasing acceleration.
+
+in the second set of experiments involving friction, it is observed that the slope of the curve keeps on decreasing which basically means that as the friction increases, the acceleration decreases. so, it can be concluded that friction has a negative correlation with acceleration.
+there are a few errors in the experiment which appear in the calculations of the equations when attempted to do so. these are represented in the graph as error bars but are too small to see. this is because that the device is pretty accurate but there are small mistakes which accumulate to create an error.
+our results agreed with 2 other groups’ results and conclusions.
+
+
+our model has the form $a=c f + c$ for all the three experiments. here c1 represents the reciprocal of mass of the cart. 
+	 $a = \frc{f}{m_{sys}}$
+the mass of the cart is constant across all the experiments and there is a fixed frictional coefficient for the track. so, whenever a bobber’s location is swapped from being the pulling force on the pulley to the cart, it acts increases the mass of the cart and thereby increases the normal force. normal force multiplied by the frictional coefficient gives the frictional force which keeps on increasing as we add more and more bobbers to the cart. the result should decrease the acceleration as friction opposes the motion and therefore decreasing the force for the whole system, which is reflected on our graphs. 
+if the string connected to the hanging weight is heavy, and the mass of the string is not considered, the results might differ since a significant amount of error might appear on every reading.
+random errors were reduced by taking a set of 5 values for each reading and then taking the mean of the data. also, since approximation was rarely used in this experiment and everything was mostly done by machinery, the chances of having errors were very low.

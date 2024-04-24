@@ -1,0 +1,10 @@
+conclusion:
+
+
+
+	during this experiment, the research question that was being investigated was what impacts the period of a pendulum. experiment 1 addressed the simplest perspective of the research question, which was to find the factors that affect the period. we discovered that the angle of release and the length of the string affect the period, but mass does not through this experiment*. with experiment 2, we addressed the measurement uncertainty in our recorded times and showed the error bars on each graph which proved our original predictions of what impacts the period of a pendulum. mass had little to no error bars which also overlapped with the trendline. meanwhile the angle of release and the length of the string had larger error bars which easily showed that there was a lot of error^. since precisely recording the time of the period using our eyes is very challenging, experiment 3 was conducted using a sensor to fix the large error^*.
+
+
+
+	the theoretical mathematical model is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. the theoretical model has a number of 2.007s/m1/2 meanwhile our mathematical model has a number of 1.989s/m1/2 in front of l. the coefficient in the mathematical model was 0.4048 and the theoretical coefficient was 0.5. these numbers are very close to each other and the difference can be attributed to human error^. there were both systematic and random errors in experiment 1*. with experiment 2, there were still both error types^. however, with experiment 3, there was much less systematic error since we were not using a more accurate tool to record the period^*. a future experiment could include a release mechanism that consistently released at the correct angle, which would reduce a large portion of errors. a constraint in this experiment was the number of and type of string used. multiple strings may affect the pendulum differently than only having one string attached to the weight. another constraint was also the limited tools, which was also discussed earlier, that caused us to have an increased error range. with the proper, accurate tools, however, this could be altered.
+

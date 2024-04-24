@@ -1,0 +1,31 @@
+discussion
+
+
+
+the purpose of this lab is to find a mathematical model for a real-life system of force and motion. along with understanding how different variables and the numerical value of those can impact the model and what the significance of them are.
+
+
+
+in lab05 we did not have enough time to complete the second set of data as there was confusion for how the lab should take place. as for the first part of lab05 and the data from lab06 we had devoted mathematical models for these. for our first equation in table 1 we found by hanging more weight from the hanging mass this increased the acceleration. this shows in our graph because it has a linear negative slope that shows the more mass the more acceleration.
+
+
+
+for table 2’s data we did the same experiment from lab05 and did that with magnets attached the cart. we started out with no magnets, then 2 small magnets, then 2 big magnets, then all the magnets. so, we have four sets of data with four equations. in this experiment we were seeing the impact of friction due to the magnets when the mass of the system was kept the same. what learned was, and this is very easily seen in the four equations, is that the there was a noticeable difference in the amount of force needed to break the static friction and turn it into kinetic friction. where this is seen is between the two equations with 2 magnets on and all the magnets on. the starting values of these are considerably different. with the equation with all the magnets on showing the highest amount of force needed before the cart started to move. 
+
+
+
+when comparing our data to another group you can find similar results as to what friction did to the system.
+
+
+
+this image is from another group that tested friction on the system. in this group they showed the same negative slope of acceleration when you add more magnets the less acceleration you are going to have. 
+
+some random error that might have occurred might have been releasing the cart to soon or scanning the data improperly to get the slope of the acceleration. we were fortunate enough to not have this be an issue though because our values were all very linear which indicated the cause and effect of our system. if we were to try to reduce this error in any way the best way to be sure of our data is to take more data.
+
+
+
+the only types of constraints we had on this experiment would be the number of magnets we might have had. if we were to have more magnets, we could develop a solid set of data comparing the data of the other magnets. plus, different type of strength of the magnets. another constraint we had was the amount of weight we could hang on the system. the bobs do not weigh so much, and we could only have 6 on the system at a time.
+
+
+
+when looking back at this experiment and thinking about newton’s second law, if is very clear to see how the mass of the system impacts the acceleration. if you have more mass, you’ll have less acceleration and if you have more acceleration, you’ll have less mass. in lab06 you could see how you’ll have a bigger magnitude of all the summed forces in the x direction and how they impact a system with a constant mass on the acceleration. the difference in the acceleration due to the friction can be seen when compared to our first lab.

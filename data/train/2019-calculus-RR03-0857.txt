@@ -1,0 +1,21 @@
+discussion:
+
+is this lab, the affect of different variables on the period of a pendulum was tested. 
+
+
+	in this experiment, the affect of the mass on the period of a pendulum was measured. this was accomplished by keeping both the string length and the angle of release constant, 52.7 cm and 15 degrees respectively. the mass used was then varied with each trial and the averages for each mass were graphed. from the data it can be concluded that the mass does not affect the period of a pendulum. based on the graph the period of the pendulum remains the same as the error bars of each data points overlap meaning the true value of each could in fact be the same. 
+
+
+	in both experiments, the affect of the length of string on the period of a pendulum was measured. this was accomplished by keeping both the mass and the angle of release constant, 215 grams and 15 degrees respectively for data set 2 and 50 grams and 30 degrees for data set 4. the length of string used was then varied in both experiments and the average periods for each length were graphed. from the data it can be concluded that the length of string does affect the period of a pendulum. as the length of string in increased, the period is also increased. for both graphs the line of best fit models a power function and the error bars do not overlap. 
+
+
+	in this experiment, the affect of the angle of release on the period of a pendulum was measured. this was accomplished by keeping both the length of string and the mass constant, 90cm and 100 grams respectively. the angle of release was then varied and the average period for each angle was graphed. from the data it can be concluded that the angle of release do not affect the period of a pendulum. based on the graph the period does not change with the angle as the error bars of each data point overlap. 
+
+$t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+this mathematical model supports the conclusion drawn from the lab because the only variable in the equation for a period besides gravity is l, the length of the string. this shows that all other variables were not necessary and could be canceled out. as mentioned in data sets 2 and 4 discussion, the graph created represented a power curve.
+
+
+	some random errors include, air resistance, human force exerted on pendulum, spin of weight, and human error in the time recording. air resistance could not have been addressed but did not pose to be as great of a factor. however, the random error associated with the collection of the time was reduced using a photogate in the collection of the data for data set 4.
+
+	one constraint of this experiment includes the inability to test at greater angles. this affects the generalizability of the results because we can only for certain conclude that the length of string affects the period of a pendulum for smaller angles of release.

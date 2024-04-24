@@ -1,0 +1,19 @@
+discussion:
+
+	research question: how does the acceleration of a system change when mass of its parts changes?
+
+	our group found that when increasing the hanging mass, the acceleration also increased.
+
+we looked at data from  two other groups in our class who showed similar results and whose data supported ours.
+
+the theoretical equation for such a situation is   $m1 g=3 m$ if said force is gravity acting on the system. this supports the experimental data because it is incredibly similar to our equation.
+
+if more than one force is acting on the system, the equation is $m1 g-f_{fr}=3 m$ if the second force is friction. this supports our data because it would be the same as our data if we added friction.
+
+the equation of the system if there were multiple forces acting on the system it would be newton’s second law $f=m a$. this supports our data because our data coincided with newton’s second law.
+
+if there were a heavy string connected to the system, the mass of the string would have to be taken into consideration when calculating the equations for the acceleration.
+
+there were almost no random errors in our experiment, however errors in the experiment could be related to the friction due to the air or the sled scraping the track if there were a gap in airflow. this would cause the acceleration to be lower than it should be in a frictionless system.
+
+the constraints of this experiment were the range of motion of the rail and the weights we were able to use to measure the acceleration of the system. had there been no constraints we would have been able to gather more data points in a larger range of values,

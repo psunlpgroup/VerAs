@@ -1,0 +1,11 @@
+discussion and conclusion.
+
+in this lab, we were trying to discover what affected the period of the pendulum (mass, length, and release angle).  
+
+as seen in trial 1 and figure 1, we altered the length of the pendulum. through the graphs and error bars, we were able to determine that there was a positive influence from the length of the pendulum on the period of the pendulum. in trial 2 and figure 2, we altered the release angle of the pendulum, and we determined that there was no correlation between the release angle and the period of the pendulum. we claimed this because with the error bars on in figure 2 overlap, meaning that there is no distinguishable increase in period length. finally, in trial 3 and figure 3, we altered the mass of the pendulum. based off figure 3 and how there is little to no increase in the data points, so we were able to make the claim that there was little to no correlation between mass and the length of the pendulum. 
+
+the theoretical mathematical model for the length of the pendulum was close to the actual model created by our data. we had an r squared value of .998, which means the equation fit the data very well.
+
+the errors recorded in the hand timed periods were random, because of the reaction time of the human brain and eyes. as wells as the errors fell above and below the fitted curve. when using the photogate, the errors were systematic. the photogate could be used to gather less errored data.
+
+only five trials were taken per independent variable which limits how close the data can be fitted to the theoretical mathematical model. having done more trials, would have given more room to rule out the outliers.

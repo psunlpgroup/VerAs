@@ -1,0 +1,43 @@
+discussion
+
+the purpose of the lab is to find out how acceleration of the entire system of the sled and hanging mass is affected by the increase of the applied force and find any error factors that could affect the data of the experiment. 
+
+
+
+the relationship between applied force and acceleration is a positive linear relationship as stated in the mathematical model $y=0.0028 x - 0.0052$.  the y-intercept is a systematic error due to outside forces like friction or a tilted slide that could increase the acceleration due to additional gravitational force pushing the sled down the tilted slide.  the graph shows that the data points almost matches the linear best line of fit since r2 is 0.994. 
+
+
+the theoretical model $f=m a$ and experimental model (mathematical) are almost similar in linear but differ due to the intercept in the mathematical model caused by systematic error occurring in the system. the other forces in the experimental model that may be present are either air resistance due to the bobs in the system being aerodynamic, friction of the sled rubbing the slide, or a tilt in the slide that forces the sled to move in one direction without hanging mass. 
+
+
+
+ the mass in the system occurs in the sled and with the hanging mass at the end of string that are filled with bobs.  
+
+as the hanging mass increases, the force will increase. therefore, the acceleration of the system increases.
+
+as the frictional force on the system increases, the acceleration of the system decreases.
+
+
+
+
+misplacement of initial starting point of the sled 
+
+pushing the sled instead of releasing the sled
+
+
+scale not calibrated to measure mass of system
+
+stretched tape measurer on slide to measure distance traveled
+
+forces being unaccounted like friction, air resistance, torque
+
+
+
+random errors can be fixed by doing more attempts of the same trial and find the average of the data to have a more accurate result.
+
+systematic errors can be fixed by subtracting the outside forces and uncertainty of the uncalibrated mass. and for the stretched tape measurer, it can be fixed by using a more accurate tape measurer. and to prevent tilted slides, test the sled with all bobs with no hanging mass and test if the sled consistently tilts to one side.
+
+
+due to time constraints, we were not able to do an experiment for the second factors that affects the acceleration of the system in lab 5.  
+
+in lab 6, me and caden worked together in the experiment, while robbie did his on his own in a different lab class.

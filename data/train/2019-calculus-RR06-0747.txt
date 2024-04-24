@@ -1,0 +1,44 @@
+discussion and conclusion:
+
+research question: 
+
+what features of the actual lab setup might contribute to the values of these numerical values (c1 & c2) and how does the acceleration of a system change when mass proportion changes?
+
+hanging weight and the research question is 
+
+the experiment with the hanging weight tested how the hanging weight (mass of the two blocks/their applied force from weight) affected the acceleration of the system. a claim can be made that there is probably a positive linear relationship between them based on our graph. based on our error bars, it is unlikely that it is actually flat, as the bars do not overlap. 
+
+
+one group came to a similar conclusion that the amount of applied force and slope of the track affect the acceleration of the system. they support it by showing the slopes of their graphs are positive in each case which supports our conclusion.
+
+
+
+theoretical equation for a single force is 
+
+for a single force, $f = m a$ is the theoretical equation. using f as the independent variable, and solving for a you get is 
+
+$a = \frac{1}{m} f$
+
+where m is a constant coefficient. our model closely relates to this except we have a constant at the end, so our model is not supported by this equation. however, when multiple forces are involved, it is a different story.
+
+
+
+
+in the theoretical equation, the c1 coefficient should represent 1 over the mass of the system and c2 should represent the sum of all the acceleration except from gravity. multiplying by the mass of the system should give the value of the sum of the rest of the forces. our model has a coefficient and a constant which model to the theoretical version. the theoretical version is derived by manipulating newton’s second law is 
+
+sum of $f = m a1 + m a2 …$ 
+
+and solving for acceleration and treating the constant as the sum of the rest of the accelerations (or forces in original). our model is supported by this theoretical equation. 
+
+
+
+
+the scenario where a heavy string connects the hanging weight with the cart changes some of the possible magnitudes of the forces by making the weight of the hanging weight act heavier than it should. it can be predicted that because there is more applied force due to weight, that the acceleration will be higher.
+
+
+
+
+possible random errors could include sensor error and placing cart not accurately/precisely on the same starting point each time. systematic error could be that the selecting tool to get the slope for the velocity vs. time graph can’t select the whole spike, so some data at the beginning is lost every time which could lead to error of type systematic. ways to reduce it or to be surer it is random error would be to do more trials or doing independent trials done by other people and systems to help reduce error.
+
+
+constraints within the experiment were the range of mass we could use as the hanging weight which may affect the generalizability of the results outside of the range of masses we tested. another constraint was that the track was not actually not completely frictionless (partially represented in the constant of the equation we found) and thus may affect the generalizability of the results outside of the range of friction, or lack thereof, we tested.

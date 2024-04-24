@@ -1,0 +1,12 @@
+conclusion:
+	
+
+	
+
+	in this lab we were trying to answer the question “does the angle, length, and the mass at the end of the string affect the period of a pendulum?”. the first experiment that was conducted did affect the period of the pendulum. if you look at the slope of the graph you can see that as the length of the string got longer the period also got longer. the claim that was made was that as the length of the string got longer the period did too. this was supported by  our data. the angle of release did not affect the period if it was under 20o. this is also shown in the data that was provided if you look at the data at the angle when we tested around 60o our time period was just a little longer. the mass does not affect the period at all no matter because when we were testing the reason that the period changed was due to human error. 
+
+	     the mathematical model for this experiment       $t=0.1851 x^{0.5176}$              this is the best mathematical model that could be made from the data that was given because our r2 value was closet to one with this model. the closer that the r2 value is to one means the more accurate the formula. the graph that was used to give this formula was the length vs period graph. the other independent variables that we tested were proven not to have an affect on the period so there is no formula created for those.
+
+	     the systematic errors that could be in this experiment is that balance is not actually balanced which would cause a constant error in the data, other systematic errors would be that mass of the weight is incorrect. the random errors in the experiment could be the humans pressing the stopwatch to get the period of the pendulum. other random errors that could occur is the string slipping because of the mass which would increase the period of the pendulum. things that could be done to reduce the error would to be to use a photogate from the beginning and to have a more secure way of tying  the string to make the pendulum.
+
+	     constraints that would limit the generalizability of the results is that we had to do the testing a certain way. if we were able to use a photogate from the beginning our data would have been more accurate because there would be no human error in the data causing random outliers.

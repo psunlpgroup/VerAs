@@ -1,0 +1,19 @@
+discussion & conclusion
+
+the purpose of this lab was to find out how the acceleration of a system is affected when the applied force changes.
+
+ the experiment and our mathematical model address the research question by showing a linear relation between force of the hanging mass and the resultant acceleration as shown by our second graph.
+
+both groups support our claim because they both show a linear relation between the force of the hanging mass and the resultant acceleration. 
+
+ the force of the weight of the cart because that affects how much force is needed to accelerate the cart.
+
+ the force of the hanging mass is shown as the x in the equation but the mass of the system remains constant throughout all of the trials.
+
+ a non-massless cart might affect the uniform acceleration so that it is only affected by the force of the bobbers and not the string.
+
+different mass of the bobbers was present and we weight each one before every trial to get an accurate value each time. error from the datastudio program on the computer when it calculated the value of acceleration but error was given to use.
+the number of bobbers provided, distance of the frictionless track, length of string.
+notes from other group is  $y=4.7102 x - 0.0832$  group tucker
+$y=\frac{5 x}{e^{0.06}} - 0.051$ group sato
+$y=3.9206 x + 0.141$ group cochran

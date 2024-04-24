@@ -1,0 +1,11 @@
+The acceleration increases as the hanging mass increases.
+
+Group Group Name’s findings refute my groups findings. This group calculated a fext of -10.37 N while my group calculated -0.0179 N. Group Dusty Pigeon’s findings also refute my groups findings because they calculated -0.0038 N. We all did the same experiment so our results should all be similar.
+
+The theoretical equation was . Our experimental mathematical model, $y=4.6961 x - 0.0841$ overall supports the theoretical equation but our C1 value was 0.6539 smaller than the theoretical value.
+
+In the scenario of a heavy string connected to the hanging weights and the cart, the cart would increase acceleration. The weighted sting would add more weight on the hanging mass and as we tested with the weightless string, the more mass added to the hanging mass the more the cart acceleration increases.
+
+A random error that could have occurred was one of the group members pushing or pulling on the cart during the release of the cart during the test. This was reduced by the group member barely holding onto the cart by the top. 
+
+A constraint we occurred within the experiment was the force of friction. We were unable to measure the force of friction so we couldn’t calculate how it affected the experiment. 

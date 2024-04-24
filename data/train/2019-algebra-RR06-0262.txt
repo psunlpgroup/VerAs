@@ -1,0 +1,11 @@
+conclusion:
+ the purpose of lab 05 and lab 06 was to determine which factors affect the acceleration of a system given a change in certain factors. the purpose of lab 06 was to determine if physical lab settings can affect the acceleration.
+
+ in our three experiments we used experimental data to calculate mathematical models. these mathematical models are a direct reflection of the results of this experiment. in our first lab we did two different mathematical models. the first was to determine how hanging mass changes acceleration and in using this mathematical model we can conclude that hanging mass has a direct effect on the acceleration of a system. we are confident in this data as shown with our r squared value of 0.9999. in the second experiment for the first lab we tested to see if the overall mass of the system affects acceleration. in analyzing the data table and graph we came to a conclusion that this does not affect the acceleration of the system. using our mathematical model for this experiment, it confirms are conclusion that it does not affect the acceleration of a system. our final experiment in the second lab was to see if tilt affected the acceleration of a system. in analyzing the 3 different tilts we came to a conclusion that they do not affect acceleration.
+
+hanging mass- $y=0.0282 x - 0.011$
+overall mass of cart- $y=\frac{18.288}{x^{0.849}}$
+tilt- 0.2863x+0.07025
+there could be some random and systematic errors in this experiment. the best way to eliminate these errors is to double check all calculations and re-run any trials that seem out of place.
+some constraints that may limit our generalizability of our results are the materials we are using and the overall method of testing the hypothesis as this could not completely be said for any cart unless the overall lab settings are the same.
+our mathematical models are consistent with newton’s second law in given that the more mass of the hanging system the higher the acceleration. this goes with the overall equation $f=m a$.

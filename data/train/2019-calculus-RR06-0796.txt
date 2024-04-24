@@ -1,0 +1,14 @@
+discussion and conclusions
+
+
+
+the purpose of this lab was to test different variables in order to prove newton’s second law.  in lab 5 we completed experiments to show what variables impact acceleration in a positive correlation, linear, value and found that force and acceleration have a positive relationship.  you can see this in the first set of graph and data tables.  in lab 6 we completed experiments to prove that our findings from experiment 5 were true by changing were the force was applied but still getting linear relationship, look at second set of graphs.
+
+$a = \frac{f_{changing} f_{constant}}{m}$ was the mathematical model we came up for in this experiment, which looks very similar to $y = c1 x+c2$, c1.  that’s because (1/mass) is c1 and (1/m) is c2.  this model is backed up by all the graphs and equations listed below from different experiments, because the c1 and c2 represent the coefficient of mass.  the constant force is the independent variable or x value, and this outputs the acceleration.  
+during lab 6 different groups conducted different experiments; backward tilt, forward tilt, and magnet position.  these other two experiments backed up our data because the x coefficients were all very similar.  the x value represents the mass of the system which makes sense that it would be relatively the same in each experiment because we were using the same mass across all three experiments.  
+
+some errors we faced during this experiment was when plotting the data points, we had to start and stop the timer on our own which could have to led to a slight error in our acceleration marks.  on the plot if you let the timer go too long it would cause the linear graph to dive deep messing up the acceleration value.  this would be random error in the experiment.  since the measuring tools we used the errors in our value were all set at .001 m/s^2.
+
+during lab 5 our cart and track were not working properly.  we did several trials and were still getting skewed data, so we had to take data from another group in order to get an accurate mathematical model.  also, air resistance could have played in our data, but this was likely negligible making limited impact.  however, most of the errors and outside factors were limited in this lab giving us accurate data and good graphical models.
+
+in both lab 5 and lab 6 we were able to back up newton’s second law. in both experiments we kept the mass of the system the same, and changed the force applied on the system.  we found that when the force increases so does the acceleration, this make sense because they have a positive correlation.

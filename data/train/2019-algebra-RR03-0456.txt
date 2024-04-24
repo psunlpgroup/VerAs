@@ -1,0 +1,10 @@
+conclusion:
+ the research question for this lab was “what impacts the period of a pendulum?”
+
+
+
+ in lab 1, we tested 3 different independent variables to try and figure out which variable affects the pendulum. at the end of lab 1 we saw that out of all 3 of our graphs the length vs time graph was the only one to have any affect on the dependent variable. we made the claim before the lab that only length would affect the time and at the end we saw that that was the case and we were correct. in lab 2 we went back and tried to find where errors were happening in our experiment, both systematic and random error. this showed that we could have had a lot of error in our recording of data. our standard deviation for our lab 1 was around + or – .03 for all of our data points. in lab 3 we chose which variable we thought changed the time it took for our pendulum to swing. we chose length vs time and took new data points with a censor to limit our standard deviation of time to + or - .001 seconds. this made our data much more accurate and eliminated some error from our previous labs.
+
+the theoretical mathematical model for a pendulum is $t=2 \pi$ sqrt(l/g). this equation states that only the length can affect the time it takes for a pendulum to swing. our data shows that this equation is correct and that length is indeed the only independent variable that affects time.
+
+ in the lab there was systematic and random error. below is a list of all the errors we had on or lab 1. to try and reduce these errors in lab 3 we used a censor that was accurate to the .001 second. this reduced the random error of measuring the time with stop watches. we also measured from and to the correct spots of the pendulum. we also kept the protractor measuring the angle of the string the entire time leading up to the moment of release to make sure we didn’t move from the angle we wanted.

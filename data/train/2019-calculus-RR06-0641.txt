@@ -1,0 +1,25 @@
+discussion and concclusion
+
+research questions: 
+
+how does the acceleration of a system change when the mass of m2 changes?
+all of our predictions were proven to be true by our data. as seen in figure 1, as the mass of the hanging object is increased, the acceleration also increases at a constant rate (shown by positive correlation and small negligible error in graph). this makes logical sense as force is equal to mass times acceleration, so when the mass of the hanging object is increased, the acceleration of the object on the surface has to increase to make up for this increase in equivalent forces. 
+
+as seen in figure 2, as the mass of the object on the surface is increased, the acceleration decreases at a constant rate (shown by negative correlation and small negligible error in graph). this makes logical sense as force is equal to mass times acceleration, so the acceleration of the object will have to go down to keep the forces equivalent.
+
+as seen in figure 3, increasing the slope of the track decreases acceleration as gravity will now have different effects on the object on the surface. it is also shown that increasing the mass of the hanging weight will increase each acceleration equally, regardless of steepness. this keeps in line with the logic discussed above.
+
+in figure 5, we are group #6 and i will be comparing our data to that of group #4. the slopes of our data were very similar as well as our values for m1. the only place where we differ is on what our accelerations are equal to; our group has negative acceleration and theirs has positive. this was most likely caused by us working in different coordinate systems rather than it being some mistake. other than that, our data is very similar and only off from each other by a few decimal places.
+
+in figure 5, comparing ourselves to group 3, their acceleration is a third of ours and group 4’s, but all their other variables are quite similar. when speaking with this group, their claims were the same as ours and they used a similar problem solving method. this discrepancy is most likely caused by a different starting weight.
+
+theoretical equation and mathematical model
+
+as $f = m a$; the equation      $a =\frac{f}{m_{sys}}$   can be found.
+
+the mathematical model $a=c1 w+c2$ supports the model above as f/m can be transformed into a constant times a variable. this can then be compared to the correlation of datasets in all of the graphs above.
+
+the model above can be enhanced into $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$  as the total force of the system will be equal to f + fext which can then be exapanded over msys. this supports the above models.
+the heavier string would add to the total mass of the system. the force will still be the same for each trial, so acceleration would have to decrease to make up for this difference. 
+due to the error discussions above, there is no major random or systematic error that we found. there are the typical human error and faulty lab equipment that could have caused error. ways the experiment could be improved is if the surface was truly frictionless and if we were able to test an even larger set of data points.
+the lab environment allowed many outside factors to constrain our results. our testing was on a small scale and our variability was not wide enough to say that this will happen in all situations. air resistance and testing under different acceleration due to gravity could help us to guarantee that our results will work in all scenarios.

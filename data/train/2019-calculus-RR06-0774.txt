@@ -1,0 +1,19 @@
+discussion and conclusion
+
+the purpose of this series of labs was to develop mathematical models which describe the behavior of a real system as well as to develop an understanding for each variable and numerical value included in the model.
+ 
+the first experimental mathematical model $a=3.3014 f - 9.513$ is a linear trendline for the graph in figure 1. it can be compared to , which is another way of stating newton’s second law. , which is very close to 3.3014 kg-1, the slope of the graph in figure 1. the constant -9.5135 m/s2 represents the initial acceleration of the system, which was just gravity (-9.8 m/s2).
+the second experimental mathematical model $a=0.3913 e - 2.04$ is an exponential trendline for the graph in figure 2.
+the third experimental mathematical model $a=3.3674 f - 0.026$ is a linear trendline for the graph in figure 3. it can be compared to , which is another way of stating newton’s second law. , which is very close to 3.3674 kg-1, the slope of the graph in figure 3.
+
+some systematic errors that might have been present and might have affected our results include releasing the cart at different places along the ramp. in the future we can release the cart from a particular position to reduce systematic error.
+some random errors that might have been present and might have affected our results include mechanical issues with the ramp, the cart, the balance, and the masses. in the future, we can calibrate the balance and weigh the masses to reduce random error.
+
+some constraints in this experiment that may have limited the generalizability of our results were that we could only add masses up to 0.45 kg for the experiment testing the impact of mass on acceleration of car and that we only added heights between 0 and 0.2485 inches to the front of our ramp for the experiment testing the impact of increasing the angle of the ramp on acceleration of car. 
+
+
+
+the first experimental mathematical model $a=3.3014 f - 9.513$ is consistent with newton’s second law () since it can be compared to , which is another way of stating newton’s second law. , which is very close to 3.3014.
+the second experimental mathematical model $a=0.3913 e - 2.04$ is consistent with newton’s second law () since 
+
+2019 university of cincinnatilab 06 – force and motion part ii     page 7

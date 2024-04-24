@@ -1,0 +1,13 @@
+discussion and conclusion
+
+
+
+the purpose of lab 05 was to develop a mathematical model of a real system, that is, one that the acceleration is impacted by the mass and the force of the system. the purpose of lab 06 was to develop an understanding for each variable and numerical value included in the model. these three experiments led to the resulting mathematical models based on the trials that we conducted and the results that came from them. the mathematical models that resulted from lab 05 were found when we took data on the system’s mass and the acceleration over a certain distance and made a graph with those value and then took the equation of the tread line. the same protocol was followed for the force versus acceleration graph (figures 1 and 2). the mathematical model that resulted from lab 06 were found when we did three trials of acceleration vs force adding more mass to the system causing more and more friction.
+
+
+this is the data collected by group 2. they changed the angle of the track by adding height to the front and the back of the track. this is an accurate representation of the mathematical model of the experiment.
+this is the data from group 5 and they had a few different graphs of different trials of different heights of the track and had their mathematical models to support their hypothesis. 
+
+
+
+there is always going to be random and systematic error in every lab that we complete. for systematic error, we had no opportunity zero out or calibrate the measurement device, this could have resulted in some error. we also could have rounded the weight measurements which could have caused systematic error. random error could have been that there were some ridges on the track or that we set something up incorrectly. the constraints were that we were limited to the equipment and tools that we were given in the lab room. our two experimental mathematical models are consistent with newton’s second law since the three variables that we are testing are acceleration, force, and mass.

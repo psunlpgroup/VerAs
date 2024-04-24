@@ -1,0 +1,20 @@
+
+
+discussion and conclusions: 
+what impacts the period of a pendulum?
+
+	on mass as an independent variable- 
+
+		the data collected shows that there is no practical correlation between the mass of 		a pendulum and its period. the evidence is listed above in graphs and data tables. 			for the purposes of the experiment, the error is negligible (as seen by the				extremely small error bars) and would have no impact upon the claim made.
+
+	on angle as an independent variable-  
+
+the data collected shows that there is no practical correlation between the angle of a pendulum and its period. the evidence is listed above in graphs and data tables. for the purposes of the experiment, the error is negligible (as seen by the extremely small error bars) and would have no impact upon the claim made.
+
+	on length as an independent variable-
+
+		the data collected shows that there is a positive, power relationship between the			length of a string and the period of its pendulum. the excel graph gives the 			function of this relationship to be $y=2.01 x^{0.49}$ , which is quite close to the 			theoretical equation for the period of a pendulum to be $t=2\pi \sqrt{\frac{l}{g}}$. once 			again, the error bars are quite small and the r^2 value is near 1, so the error is 			likely not impactful on the result.
+
+
+
+ there are several obvious constraints upon our experiment. we could not test lengths over just a few meters, masses over .25kg, or angles above 30 or 40 degrees. additionally, we took gravity to be a constant, which is not necessarily true. if this experiment were repeated with enough precision at a different elevation, different results could possibly be obtained.

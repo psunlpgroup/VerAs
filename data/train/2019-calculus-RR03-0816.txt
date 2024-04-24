@@ -1,0 +1,6 @@
+discussions
+
+in conclusion, we confirmed our prediction that an increase in pendulum length does increase the period time.  however, we could not prove that the angle of release or mass of the pendulum had any affect on the pendulum period. the data we collected did not shown enough of a change when including error bars. with the data collected a power equation was produced to find how string length determined the pendulum period (shown below.) 
+
+theoretically, the equation should be $t=2.01 l^{0.5}$. while this data showed an equation of $t=0.1911 l^{0.51}$ and is surprisingly close, errors could account for the inexactness. 
+random error was encountered while using stop watches to time the periods of the pendulum.  this was reduced by using a photogate to gather data in the next trials.  systematic errors may have played a factor in inaccuracies. these could have occurred through cheap tape measures experiencing overuse, string stretching during multiple trials, or inaccurate photogate/time watches. the systematic errors could be reduced by purchasing new and higher quality measuring devices.

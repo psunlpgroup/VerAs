@@ -1,0 +1,31 @@
+conclusion:
+This research that is being provided is used for determining out of three variable which variable or variables change the period of the pendulum. The three variables that are to be tested are the angle of release (degrees), mass of object (grams), and string length (Centimeters).
+
+While addressing the string length as the independent variable our group maintained the two other variables (mass of object and angle of release). Our research question was to find what variable changes the period of the pendulum. In order to do this, we could only change one variable at a time to guarantee no other factors came into play when deciding what independent variable changes the outcome. Our claim for the independent variable of string length was any change in the string length being greater or less in length will affect the period of pendulum. This can be seen with the graph prediction that any change in string length will positively impact the period time of the pendulum.
+
+While addressing the mass of the object as the independent variable our group maintained the two other variables (string length (30cm), and angle of release (30°)). Our research question was to find what variable changes the period of the pendulum. In order to do this, we could only change one variable at a time to guarantee no other factors came into play when deciding what independent variable changes the outcome. Our claim for the independent variable of mass of the object was any change of the mass (grams) being greater or less than the starting mass will not positively affect the period time of the pendulum.
+
+While addressing the angle of release as the independent variable our group maintained the two other variables (string length (30cm) and mass of object (50 grams)). Our research question was to find what variable changes the period of the pendulum. In order to do this we could only change one variable at a time to guarantee no other factors came into play when deciding what independent variable changes the outcome. Our claim for the independent variable of angle of release was any change of degrees in the starting of the experiment will not positively affect the period time of the pendulum.
+
+ The data below shows lab 3 (the third Friday lab) using a computer software and tools to measure the period time to eliminate human random error with timers for our change in string lengths. This data was only computed for string length because that was the only IV that positively correlated with period time from our conclusions. The range of uncertainty with this method was +/-  0.001. When plotted, this range was too small to be seen is 
+
+
+The relationship between the independent and dependent variable are nonlinear. The graph above is a power graph with an equation of $y=2.1274 x^{0.4172}$. Comparing this equation to the theoretical equation given in class ($y=1.99 x^{0.5}$ is very similar to ours showing it is accurate.
+
+The table below in the image is the Data for Investigating Whether String Length (meters) Impacts Period Time with the computer software. In addition, shows the values for period time squared to make a linear graph. This experiment had the string length in meters instead of cm. 
+
+The r^2 value for the power graph is 0.9971 which is close to 1. This also shows that the line is a better fit (more accurate).
+
+We eliminated all other variables (mass and angle) because they did not impact the period time of the pendulum. So, there is no other data to test to see a positive correlation on period time of the pendulum.
+
+
+There can be a lot of different errors in the experiment being random as well as systematic. Systematic errors can be easy mistakes like measuring the string length by just the string and other tests measuring the string length along with the metal rod going down to the mass of the pendulum. While this is just a few centimeters it will still skew the data of little by little. Another systematic error are the masses not actually being what they are displayed as, with students being irresponsible and dropping the mass they can be chipped or damaged to the point that the displayed mass is no longer accurate.
+
+Random errors are harder to prevent with the equipment given. Using the Angle of inclination for example while trying to maintain a constant angle proves to be difficult to hold the end of the pendulum exactly the way it should be while trying to count down for the other members to time the period of said pendulum. Another random error would be the timers our team used to measure. While we found the mean of the values it still doesn't mean that our data will be truly accurate.
+
+
+Constraints in this experiment that may limit the generalizability of our results could be is 
+String length was never greater than 175 cm. 
+Mass of the object was never greater than 210 grams. 
+Angle of release was never greater than 30 degrees. 
+So, this shows we are generalizing that the results and conclusions found are correct for all changes in independent variable greater than what we used. 

@@ -1,0 +1,43 @@
+
+
+conclusion:
+
+In previous labs you investigated the impact of mass, angle of release, and length on the period (swing time) of the pendulum.
+      Which of these IVs did not affect the period and should not be included in the mathematical model or equation? (Note that these null results will still be included in the Lab Report.)
+Both the mass of the pendulum and the angle of release from equilibrium didn’t affect the period and thus should not be included in the mathematical model. The length of the pendulum string, however, had an observed effect on the period and this effect. 
+      For each IV that affected the period, is the pattern apparent over the entire tested range? If not, be sure to account for that when you state your model by including the restricted range(s) where the model holds.
+The length of the pendulum string, which did have an impact on the period, has a linear dependence with the period. A straight line can be drawn through the error bars.
+ For those that did impact the period, what is the mathematical dependence (i.e. is it linear or nonlinear)? Look at your graphs from previous weeks and pay attention to the error bars. Although it is possible that a straight line or curve does not pass through each plotted data point, can a straight line or curve be drawn that passes through each error bar?
+The length of the pendulum string, which did have an impact on the period, has a non-linear dependence with the period. A straight line cannot be drawn through the error bars.
+In determining the mathematical dependence, reducing the amount of uncertainty (which shows up as the length of the error bars) is important. If large uncertainties are present, then sometimes a straight line can be drawn through the associated error bars indicating a linear relationship that may not actually be true. This next activity involves the use of a photogate (see Figure 1) which will enable period measurements of greater precision, thereby reducing error bar size.
+Using the photogate, repeat only those experiments conducted earlier in which you had evidence that a particular variable may have impacted the period. In setting up the equipment, note the following (read all of the following five items before collecting any data) is 
+      In your lab records be sure to include is 
+          A drawing of the set-up, including the photogate
+          Experimental design template (include IV, DV, CV with values, hypothesis, and prediction)
+          Well-labeled and organized data table(s)
+      The support on the stand holding the photogate needs to be adjusted so the pendulum bob rests between the arms of the photogate but can swing freely as shown in Figure 1. For the timing program to work, the beam between the photogate infrared source on one arm of the photogate and the sensor on the other arm has to be interrupted.
+      In the experimental design, keep in mind a few things is 
+          A broad range of lengths is better for determining the mathematical relationship between the period (DV) and the length (IV). For longer lengths, set the photogate on the floor.
+          Keep the angle of release small (~10°).
+          Be sure the pendulum does not hit the photogate when swinging.
+      To collect data using the photogate, on the lab computer click on Data Studio Experiments -> First Semester -> Pendulum. Then click the Start button in the upper left corner of the window. A number will appear in the digital readout. This number is the measured period for each swing. Note is  Be sure to keep the timer running until all data has been collected. That is, do not press Stop until your group is completely finished taking measurements.
+      Conduct the experiment and record the data in your lab records. Be sure to consider how many measurements of the DV are needed for each change in the IV.
+
+Use Excel to create a graph of the period (DV) versus the IV.
+The scale error of the photogate is 0.001 seconds. You may use this value for the error bars on your graph unless you believe it is not a reasonable estimate for the uncertainty. If that is the case, adjust accordingly and provide justification in your lab records. Insert error bars on your graph. Consult the Excel User’s Guide for guidance, if necessary. 
+
+[It can be identified with the Excel file that error bars have been added to the above graph. The error bars are too small to visibly see here.]
+ Look carefully at the graph. Is the relationship between the period (DV) and the IV linear or non-linear? Is this different than what you determined using data collected during an earlier lab class? Include a sketch of the graph in your lab records.
+The relationship between the period and the length of the pendulum string is non-linear. This is not different than what we determined using data collected during an earlier lab class.
+ If the graph is non-linear, what type of curve best fits the data? Is it $y = x^2$ ? $y = \frac{1}{x}$ $y = \sqrt{x}$? Use the curve fitting tool in Excel. Consult the Drawing the Best-Fit Line section of the Excel User’s Guide for guidance.
+The type of curve that best fits the data is a power equation. Specifically, the equation we got was is   with an R2 value of 1.000.
+Repeat steps d-h for any other variables, if any, for which you have evidence that they impact the period of the pendulum. Be sure to take appropriate notes in your lab records, if warranted here.
+ Once you have identified the experimental mathematical dependence between the period (DV) and IV(s), consult your textbook or instructor for the theoretical mathematical model for the period of a pendulum. Were you able to come up with the full model as a result of this lab? Why or why not? Include the mathematical model in your lab records as well as address these questions.
+The theoretical mathematical model for the period of the pendulum is is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ , in which we were unable to come up with the full model as a result of the lab due to the lack of knowledge of theoretical mechanical physics, stemming from our inability to derive the correct equation.
+ Check your lab records for completeness using the rubric below.
+Using the theoretical mathematical model for the period of a pendulum, predict what the period would be for a pendulum of length 0.50 m. Compare this to the experimental value on your graph. How do they compare?
+Using the theoretical mathematical model, the period for a pendulum of length l is 0.50m would be 1.419 seconds. Using our experimental value, the period for a pendulum of length l is 0.50m would be 0.609 seconds. Comparing these two values, there is a considerable difference between the theoretical period and the experimental period (a difference of 42.9% 
+If you were asked to construct a pendulum with a period of 5 seconds, how long should its length be? How much mass should the bob have?
+Using the theoretical mathematical model, the length of the pendulum string would have to be around 6.2059 meters. Using our experimental model, the length of the pendulum string would have to be around 29.72 meters. The mass of the bob is irrelevant as the mass of the pendulum bob has no impact on the period of a pendulum. 
+
+

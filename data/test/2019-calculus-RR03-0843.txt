@@ -1,0 +1,21 @@
+discussion and conclusion
+
+the research question is what impacts the period of the pendulum. in response to this research question there is no correlation between mass and period. doing 4 trials of 5 different weights there was little to no variations between the averages of each time. also, by graphing the data and putting in error bars there was almost a perfect horizontal line showing no correlation. the error bars are small because the error of the measurement using the stop watch was reasonably small. 
+
+
+		the research question is what impacts the period of the pendulum. angle is one of the contributing factors because the period of the weight would have to be determined by how long it takes to do one revolution. so, in order to find what impacts the period of the pendulum we must test every single possibility.  in response to this research question there is no correlation between mass and angle. doing 4 trials of 5 different angles there was little to no variations between the averages of each time. also, by graphing the data and putting in error bars there was almost a perfect horizontal line showing no correlation. the error bars are small because the error of the measurement using the stop watch was reasonably small. 
+
+
+
+		the research question is what impacts the period of the pendulum. in response to this research question there is correlation between period and length. the reason for this is doing multiple trials with different lengths we found a positive correlation between length and area. the error bars are also shown on the graph showing a positive correlation outside of the possibility of error. thus, proving our hypothesis that length of the string does affect the period. 
+
+
+the equation found in the lab is as show is as follows $t=2.1163 l^{0.456}$ with an r^2 value of 0.9995. this r^2 value shows how accurate our groups data is to the trend line shown below which tells us our data fits the trend very well. 
+
+
+the theoretical model is very similar to the theoretical equation for a pendulum. the coefficient should have been 0.5, our value was 0.4562. this is very close to the expected value.
+	preform more trials and get more people to do the experiment to help reduce human error. for this experiment a robotic arm would help reduce human error as described from above
+
+the string length could have been measured with a more precise measuring device like a dial caliper and the string could have been marked so that we know where exactly to tie the string to the stand. the measuring devices could also have been calibrated before using them in the lab. 
+
+	this lab has very few constraints limiting how the lab is run. thus, making generalizability to be great. students and professionals from all over can and will be able to do these tests with little to no cost needed. the only tools we used was string, weight, photogates and, excel. thus, generalizability is very high.

@@ -1,0 +1,32 @@
+discussion and conclusion:
+
+the purpose of the labs was to develop mathematical models to describe how the acceleration of a cart changes with different values of force acting on it due to tilt of the track, changes in hanging mass, or use of magnetic strips.
+
+
+
+the two experiments in lab 05 were to test for correlation between the acceleration of the system and the hanging mass pulling on the cart. with the hanging mass being increased, it could be seen that the net acceleration of the system was increased.  the experiment we conducted in lab 06 was how many varied heights of the track’s tilt affect the cart’s acceleration on the air track. the different heights tested were 0 cm, 1.721 cm and 3.524 cm. with the increase in these values, it was seen that the acceleration of the system was less. my interpretation for the physical meaning of each variable in the models is shown, for example, from graph 3 in lab 06 data is  
+
+$y=31.116 x - 0.212$  y is the acceleration; 31.116 is 1 divided by the sum of the hanging mass and the mass of the cart (mass of the system), x is the force, 0.212 is the track tilt (the value is negative because our group conducted experiments with backwards tilt)
+
+the mathematical models collected are direct results from our graphed sets of data.
+
+
+
+the results from other group’s findings lead me to believe that my assumption of what the numerical values represent to be true. this is due to the reoccurring slopes and intercepts, as well as the r^2 values being almost 1. the graphs collected by group 1 and 6 depicting positive slopes with intercepts below 0 also match with the general findings. likewise, group 5 found the intercepts to be above 0, which also compares with the general findings. 
+
+
+
+systematic errors present in the lab include the collecting of the mass of the hanging mass, or the mass of the cart. over years of use, the triple beam balances will not read as though they are brand new. random error that may be present in the lab can include the use of a triple beam balance to gather the masses. the balances do not measure passed the nearest gram, and then after someone would need to guess a smaller value if the weight was in between two values. what could be done in lab to reduce systematic error would be when to identify if the triple beam balance is measuring incorrectly. someone could weigh a known mass on our balance, and from there would know if the balance measures true values. to reduce random error, we would need to run the experiment and average values after a large number of observations.
+
+
+
+constraints present were that the track’s used were straight tracks, we were unable to used curvy paths for the carts to follow to gather different accelerations. our mathematical models are only generalizable to tracks that are straight.
+
+
+$y = m x + b$
+
+
+
+as seen in our mathematical models, y was equal to the acceleration, a.
+
+net force divided by mass of the system is seen as the mx value, m being the mass of the system, and x as the force. in our models, the value of m was 1 divided by the mass of the system, so, it can be rewritten as $y =\frac{x}{m} +b$, which is exactly the same as newton’s second law. the b value would be the incline when we tested the acceleration at multiple heights.

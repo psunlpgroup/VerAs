@@ -1,0 +1,22 @@
+discussion and conclusion:
+
+a. the purpose of this lab was to develop mathematical models to describe the motion of a real cart on an air track, as well as to develop an understanding of each variable and numerical value in ours models.
+
+
+
+b. for our experiments, we ran several tests first while varying the mass of the cart, and then by varying the mass of the bobber. we plotted the data from both experiments and then used excel to create lines of best fit for both sets of data. the equations for these lines became our mathematical models. the variable in each model is what represents the mass that we were changing for that experiment while the numerical value is the retarding force caused by a slight slop in the air track. we confirmed this through out experiments in lab 6, by varying the slope of the track. as we raised the slope of the track to act against the car’s acceleration, the magnitude of the numerical value in our model increased, causing a further decrease in the car’s acceleration.
+
+
+	both groups ended up with similar results to our own. increasing or decreasing the slope of their air tracks resulted in a corresponding change to wither help or hinder the acceleration of the cart, depending on which way the track was tilted. the fact that we all produced similar results shows that our experiments are repeatable and this adds credibility to our claim the numerical values in our models are directly influenced by the slope of the air track.
+
+d. there might have been some systematic error in the tools we were using to measure our masses and to record the motion of the cart. there isn’t much we could do to fix any error in the pulley system except to compare it to the values obtained from a different pulley. the scale, however, could have been zeroed in advance to ensure we were getting accurate masses for our cart and bobbers.
+
+there we very few opportunities for random error to occur during our experiments. most of our measurements and calculations were taken care of electronically and wouldn’t have any random error. the one area where this error could exist is in our measurements of the masses of the cart and bobbers. if they weren’t measured properly, then some random error would be present in our experiments. this could be reduced simply by taking more care to be precise during measurements.
+
+
+
+e. the models we created are intended to model a real system under the same conditions as the one in our lab. changes to the environment that introduce other factors that would reduce or increase the acceleration of the cart will likely render these models unusable. examples of such factors could include, high winds, lower gravity, and higher resistance if the car is not traveling through open air, such as if it was underwater. any such conditions would produce large changes in wither the variable values or the numerical values in our models causing them to be much less effective.
+
+
+
+f. newton’s second law is . reordering this law, we get  both the models found from our experiments are consistent with this law. for model 1, increasing the mass of the bobber and thus the force on the cart produced a greater acceleration as is the result of increasing the force in newton’s second law. in a similar fashion, as we increased the mass of the car, we observed a smaller acceleration. this is shown in newton’s second law by the fact that the mass is in the denominator of the equation, decreasing the resulting acceleration.

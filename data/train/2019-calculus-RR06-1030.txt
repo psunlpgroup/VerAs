@@ -1,0 +1,12 @@
+conclusion:
+
+the purpose of lab 05-06 was to experiment what the effects of mass and friction have on acceleration of a system. the real system once we added mass to the system the acceleration of the system would decrease, however, when mass was added to the applied force than the acceleration increased. once we added friction the acceleration started to decrease as we added mass to the system. the graphs each represent the accelerations of the systems and what affects another. the tables are all of the data we collected.
+
+the three experiments led to the resulting models because the experiments were preformed to test the acceleration of a system. by adding weight and friction to the system we were testing the affects on the acceleration. the meaning of the variables is what affects what. adding mass to the applied force increased the acceleration. adding mass to the system decreased acceleration. adding friction and mass to the system decreased acceleration. the variables were all picked to test the hypothesis of what affects acceleration and what did not. in the figures above you can clearly see there is a negative correlation with mass and acceleration. the slopes of the lines indicate the numeric value of the acceleration.
+
+
+these groups had the same general conclusions we had. the equations are a little bit different but more or less the same thing. this supports our claim because now there are three groups of data that are relatively the same. as shown in the groups white boards the numbers are different but the same model.
+
+constraints in this experiment would be not being able to test the effects of gravity due to obvious reasons. we were not able to test the height of an incline because of a time constraint. so our results are based on what we could test and we theorized over what we couldn’t.
+
+the experiments consist with newtons second law by mass and acceleration having a indirect relationship and by force and acceleration having a direct relationship. if you increase the mass you decrease the acceleration, however, if you increase the force you increase the acceleration and vise versa. this is true to newtons second law and our data supports that.

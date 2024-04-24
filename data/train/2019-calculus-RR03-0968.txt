@@ -1,0 +1,19 @@
+discussion and conclusion:
+
+the experiment was conducted to determine the physical factors which affect the time period of the pendulum. this could be the mass of the bob, the length of the string or the angle of series. the experiments conducted addressed the research question as we tried to find out a pattern in the change of time period of the pendulum by increasing or decreasing the magnitude of the independent variable. the claims made for as the prediction turned out to be false for the mass of the bob and the angle of release as we plotted the data-points for each of the 3 graphs above and tested our pendulum with a photogate. the only factor which affects the time period of the pendulum is the string length, which had a positive correlation with the time period of the pendulum as can be seen in graph2, which further provides the evidence that as we increase the string length, the time period increases, proving one of the predictions to be correct. 
+
+
+
+					graph4
+
+
+the mathematical model for the period of the pendulum can be seen in graph4 is  
+$y=0.0134 x + 0.868$ where y is the length of the string and x is the time period of the pendulum. the positive slope indicates a positive correlation and the constant term indicates the uncertainty or the error in the experiment (which ideally should be equal to zero). the other factors had a linear relationship with the time period meaning they would have a slope of zero and no matter how you change the y, the x would remain the same.
+
+
+
+there were random errors which include controlling the stopwatch and releasing the pendulum in sync with the stopwatch. this was improved significantly by using a photogate which eliminated the human aspect of calculating time. the bobo would cross a beam of light and the time would be automatically calculated and sent to the computer as a list of several data-points. the results were accurate with systematic errors occurring in the 3-decimal place. 
+
+
+
+some constraints regarding the experiment can be the characteristics of the pendulum used, small angles of release and the mass of the bob and length of the string used.

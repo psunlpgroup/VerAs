@@ -1,0 +1,13 @@
+discussion and conclusion
+
+the research question that is being asked is what variables affect the period length of a pendulum.  
+
+we preformed 3 labs for this research question, the first lab had us test three different variables that could have affected the period length of a pendulum. the angle that pendulum was released at barely affected the pendulum and the mass did not affect it at all. the only one that seemed to affect the length significantly was the length of the string.  the second lab took our findings and determined what our error was as we used stopwatches in the lab before. the third lab had us take one of our variables that did affect the period of a pendulum and had us use a photogate. this only has an error of 0.001 seconds so therefore we already know that our timings were correct. the conditions that were made were under a controlled lab. 
+
+
+
+above is the theoretical mathematical model of the period of a pendulum and as you can see length of the string (l) is a very important variable in that equation. this proves that length does change the period a pendulum. our graph which related length of string to the period of a pendulum verify this as it is a positive correlation which works with the modeled equation. according to our tests, mass did not affect the period length and as you can see the model verifies this as there is no variable for mass because it would not change the outcome of the variable. the angle can change the gravity (g) value to a small degree but overall does not have that massive of an effect on the outcome. 
+
+we had to pay attention to two variables for our error. in lab one, we had one massive error which was human error because we had to use stopwatches which we knew would lead to a pretty significant error. we could reduce the error by having the person with the best reflexes be the person om the stopwatch but could also have pressed the button slightly before the period was finished and therefore reducing error. the second error was not as egregious as we used a photogate that took away human error and had an error of 0.001 which is almost nothing but still mattered to the overall equation. there is no way to really reduce the error as we would have to change the code in the machine. if we really needed to reduce the error more than we could obtain a more accurate photogate type machine.
+
+our main constraints were the ones given to use by the lab, we were constrained to just testing three variables and only a certain amount of time for each lab and the number of tests per variable were limited. we were also constrained to the amount of mass we could put  on the string but we learned that does not affect the period of the pendulum so it is not an important factor.

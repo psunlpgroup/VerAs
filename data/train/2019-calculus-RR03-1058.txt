@@ -1,0 +1,23 @@
+discussion and conclusion
+
+
+
+research question: what impacts the period of the pendulum?
+
+
+to answer this question, we considered three different independent variables is  mass, length, and angle of release. with mass as the independent variable and length and angle of release as constants we found that mass has no effect on the period of the pendulum. the data found in table 3 and figure 3 supports this conclusion. the data has no real correlation between the iv and dv. in table 4 and figure 4 the uncertainty values and error bars are included to show that that even with errors in measurement the values show no real correlation. the mass of the pendulum does not affect the period.
+
+
+
+for the independent variable of length, we found there was a non-linear correlation between it and the period of the pendulum. there was an overall positive correlation between the two. generally, as the length increased the period increased as well. this data can be found in table 1 and figure 1. the power equation $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ models the data and their correlation. when conducting our experiment, we produced our own power equation to see if it was like the actual equation. this equation $t=0.0189 l^{0.5204}$ is very similar to the actual power model. the error bars and uncertainty values would allow the actual measurement values to correctly match the equation 100%. these error and uncertainty values can be found in table 2 as well as figure 2. 
+
+
+
+our last independent variable to test was the angle of release. after several tests, we concluded that the angle of release does not have an affect on the period of pendulum. while keeping the mass and length constant, we tested several different angles of release. every time, we found that the data was all very close and there was no real correlation. theoretically, without human and measurement error the period would be the same every time. the data in figure 5 and table 5 shows that there is no real correlation. figure 6 and table 6 show the error bars which in theory contain the actual measured value within them.
+
+
+
+all of the experiments performed contained some sort of human error, equipment error, and outside influence. the period originally could never be measured accurately due to human error when timing as well as releasing the pendulum. to reduce the human error of timing we used a photogate to track the time. to reduce the human error of releasing it, in the future we could use a mechanism to release the pendulum. in terms of equipment error, the tape measurer, stop watch, or photogate all could have possibly had systematic error and made incorrect measurements. 
+
+
+the experiment’s constraints include the string, the apex of the pendulum, and the mass on the end. the apex of the pendulum constrained us because the string was not secured well and could vary at the point of connection. this would make the pendulum have an uneven swing. the string is a constraint because it is not the ideal method to use a pendulum on and can affect the period. the mass on the end may have been affected the period because it could have its own type of swing at the point of connection. these are all constraints which can not make our claims as general.

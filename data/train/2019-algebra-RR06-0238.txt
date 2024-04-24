@@ -1,0 +1,35 @@
+discussion and conclusion-
+
+
+
+the purpose of this lab was to develop mathematical models to describe the behavior of a real system as well as to understand each variable and numerical value included in the model. these were investigated throughout labs 005 and 006. the research question followed was asking how mass and hanging force affect acceleration. 
+
+discuss how the three experiments (two in lab 05 and one in lab 06) led to the resulting mathematical models as well as your interpretation for the physical meaning of each variable and numerical value included in the models. be sure to refer to the graphs in your discussion and how the mathematical models are a direct result from the graphed data.  
+
+the final mathematical model resulted from the three experiments and their graphed data. it was obtained through analysis of the lines of best fit ______________
+
+group #5 tested whether or not friction would affect the acceleration of a mass, and if so, how it would do so. they predicted that the friction would affect the acceleration, and they stated that their experiment confirmed their hypothesis. 
+group #1 ran the same tests that we did - they tilted the ramp forward by the same incremented measurements to observe the effect it had on acceleration, and if it countered the findings from the previous experiments in lab 005 at all. they came to the same conclusion that we did and they have great c2 values to support their claim. 
+discuss how the results of these groups contribute to your understanding of what the numerical values in your mathematical model(s) might represent. discrepancies and agreements between the groups’ data and claims are stated and discussed
+
+while conducting the experiment, we were mindful of the fact that it would be very easy for a lot of random error to occur in this experiment - such as errors from our measurement techniques, timing, etc. in order to avoid this, multiple trials were conducted, and an average was taken. our r^2 values for our lines of best fit were high, with the lowest value showing that the line went through 88% of the data points. this suggests that we did a rather good job at eliminating random error. in order to further eliminate random error in the future, we could run even more trials, use measurement tools with a smaller error percentage, and try even harder to conduct the experiment with as much precision as possible. in terms of systematic error, this could not be avoided by simply running more trials. if at all, systematic error may have been present in any of the instruments we used - they may have pushed all measurements and recordings above or below their true value. however, because our data and resulting equations were not incredibly far off from what was expected, and what other groups got, we have reason to believe that there was not a significant amount of systematic error during these experiments. if we wanted to reduce the possible amount of systematic error in the future, we could compare baseline measurements of each instrument against other instruments of its kind, and see if the results leaned towards one side more than the other in comparison.
+
+
+
+discuss any constraints in this experiment that may limit the generalizability of your results.  
+
+in this experiment, the procedure tried to limit outside factors as much as possible so that the focus could be made solely on the relationship between mass and acceleration. there was minimal friction on the cart bearings, and all other factors (such as the equipment used, starting mass, starting and stopping point, etc.) were all held constant. due to the amount of control present in these experiments, one could think that the results may be limited in terms of their generalizability. in actuality, these things can differ in the real world. however, after conducting these experiments, we can deduce that the relationship between mass and acceleration is direct and positive, in accordance with newton’s second law. 
+
+
+
+discuss how your two experimental mathematical models are consistent with newton’s second law.
+
+	newton’s second law essentially states that the net force acting on an object is equal to its mass times its acceleration. this also equates to the acceleration being equal to the force divided by the mass. our two experimental mathematical models are consistent with this as ___________
+
+
+
+a discussion is included with adequate reasoning or justification for how the evidence (graphed data) supports the claim. error bars, their size, and the equivalency criterion are discussed with respect to how the hanging weight affects the acceleration.
+
+theoretical equation $a=\frac{f}{m_{sys}}$ is provided and the discussion for how the experimental mathematical model $a=c1 w+c2$ supports the theoretical model is complete and accurate. results from curve fitting and how the system mass relates to the fitting parameters are included in the discussion.
+
+enhanced theoretical equation $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ is provided and the discussion for how the experimental mathematical model supports the theoretical model is complete and accurate. how the extra force(s) relate(s) to the fitting parameters are included in the discussion.

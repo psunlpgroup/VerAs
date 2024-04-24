@@ -1,0 +1,31 @@
+discussion and conclusion:
+
+the purpose of this lab was to investigate which factors affect the period of oscillation of a pendulum. 
+
+	
+
+	during this lab we checked to see if mass would affect the period of a pendulum. we used five different weights and recorded three times for each weight. we then averaged out the three times for each weight and plotted them on a graph. the graph showed to have zero to no slope between the error bars, meaning as the weight went up the period stayed the same, which answered one of our research questions. which was is  what impacts the period of a pendulum? and it could now be concluded that mass had nothing to do with the effect of the pendulum. 
+
+
+
+	we also checked to see if length of the pendulum would affect the period. we did the same procedure as with the mass vs time, including five different lengths with three different times for each length, averaging the time and plotting it on a graph. what we found was that the graph had more of a positive slope between the error bars, as the lengths increase so did the periods. this proved to us that length had something to do with the period of oscillation of a pendulum.
+
+
+
+	lastly, we checked to see if the angle the pendulum was being dropped at would affect the period. we did the same procedure as with the mass vs time, including five different drop angles with three different times for each angle, averaging the time and plotting it on a graph. we discovered that just like the mass vs time, the slope of the graph between the error bars looked to be close to zero. meaning as the angle increase the period stayed the same. and we concluded the just like the mass vs time it does not influence the period. 
+
+
+
+	since the only independent variable that effected the period of a pendulum was length, we conducted a more exclusive experiment with better equipment. we concluded that the relationship on the graph was closely related to an inverse power function. the equation are data produced was $y=2.1325 x^{0.4055}$. the theoretical equation was given as $y=1.99$ which was very close to what we produced. 
+
+
+
+	throughout the lab there was plenty of room for error. reaction time on the stop watched, not correctly lining up the pendulum on the same angle each time, the string slipping up or down on its mount, the pendulum not swinging in a straight line all contributed to giving us errored data. if we had more time, and more resources we could off canceled as much of these errors as possible. for example, if we had a better way to repeatedly drop it at the same angle each time it would reduce error. also, if we used photo gates for all the data collected it would improve are data. finally, if we took more data it would be able to slim down the error too.
+
+
+
+	throughout the lab we had many constrains. for example, we were constrained to finish the labs within a period of two hours, use a protractor to measure angles, had a limited amount of string, could only use photogates for one lab, and we only had a total of 250 grams of weight we could use. with these constraints the generalizability of the results is affected. for example, when using a protractor or a stop watch only a level of precision could be made, then when using photogates. also we couldn’t take larger data ranges with the limited strung and weight. 
+
+
+
+

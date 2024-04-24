@@ -1,0 +1,9 @@
+conclusion:
+
+	to conclude on this lab, i would say that applied force has a positive correlation with acceleration. therefore, if you raise the applied force, the acceleration increases as well. in our experiments, we added friction by increasing the applied force on the track. it seemed that the more the applied force the more the acceleration.
+
+newtons first law states that an object will remain at rest unless an outside force acts upon it.
+
+newtons second law states the acceleration of an object as produced by a net force is directly proportional to the magnitude of the net force.
+
+newtons third law states every action has an equal but opposite reaction

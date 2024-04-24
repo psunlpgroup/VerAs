@@ -1,0 +1,28 @@
+conclusion/discussion:
+
+the big question: what factors affect the period of a pendulum?
+
+
+
+the first lab addresses this question, by directly attacking it, and attempting to make a claim based off inaccurate measurements and techniques as shown by the three points in graph a-1. also, our group did not have enough time to gather raw results for the effect of additional weight on the pendulum, as well as the angle of release for the period of the pendulum, so this first lab was an incomplete attempt at answering the big question. the second lab however was a trial for showing how the results from the first lab were incredibly inaccurate. it did not necessarily answer the big question, but as seen by graph 1,2,3-b, it did display how inaccurate our results were from the rudimentary first experimental process, while combing results from other past groups. the third and final experiment was the ultimate answer to the big question, as it stretched the data points from .2 meters to 3 meters and had the usage of a computer program to determine the period of the pendulum as displayed by graph c-1. this part also introduced the mathematical expression, in which showed the function as it appears in the excel program. the claims made in the first experiment were that the length of the string will only influence the period, while the mass and angle would have no correlation. this was half right, as the angle past 20 degrees had a positive correlation to the length of the period. in the second experiment, we predicted that the results of the ten trials would differ and show the inaccuracy of our results in the first experiment, and this was correct. we did find that the measurements taken in the first experiment were inaccurate to a certain degree, by the standard deviation. in the final experiment, we thought that if we were to add more data, with a larger range of points, our results would be more accurate, along with the sage of a photo-laser sensor in which would automatically calculate the period of the pendulum through a program on the desktop. in this way, we were correct, and had developed a significantly lower standard of deviation. 
+
+
+
+the mathematical model that we got in the final experiment was the equation as follows is 
+
+$y=2.0833 e^{0.4492}$
+
+this equation does in fact fit our data points from graph c-1, in which it clearly shows an exponential growth over length, in which is what the “e” function represents. the equation above does differ from the theoretical equation significantly, as the theoretical equation is is 
+    $p=2\pi \sqrt{\frac{l}{g}}$
+
+this in which has an incredibly different graphical look since it is a square root function.
+
+however, we had to keep the angle underneath 20 degrees and the pendulum without any weights on it to keep the length to a testable function. if this were not the case, weight had no clear function of effect on the period of the pendulum, and the angle past 20 degrees did have a positive correlation associated with it. 
+
+
+
+	the main errors that occurred in the experiment were the inaccurate length measurements and degree measurements, since we were “eyeballing” the lines of which denoted the length/degree. not only that, but the person who released the pendulum had to make sure it was released as straight as possible (at least in the final experiment), so that it did not collide with the sensor. along with that, the person who counted down the release of the pendulum sometimes let go too early and would mess up the data points. steps that can be taken to make sure that these errors do not occur again include being patient, taking your time, trying to get as close to the lines for measurements as possible. 
+
+	
+
+	constraints in this experiment included the measuring equipment for the first two experiments, in which stopwatches were used to time the period of the period, along with the accuracy of the tape measure and the protractor in determining the exactness of the length/ angle of release. other constraints include generic human error when timing/ recording pieces of data, instead photographic/ computerized images that show exact time splits.

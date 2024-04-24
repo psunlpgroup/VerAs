@@ -1,0 +1,13 @@
+conclusion:
+ the purpose of lab 5 was to develop mathematical models that described the behavior of a frictionless air track with a mass hanging over the edge, pulling down another mass on the track. the purpose of lab 6 was to understand the variables and models created in lab 5.
+
+ the three experiments were used to find the accelerations at different masses of object 2 and different backwards tilt of the air track, which led to the creation of graphs of the acceleration on the y-axis and the mass of object 2 on the x-axis. after getting the line of best fit for the points, we found the equation for each line, which led to our mathematical models.
+ 
+
+the findings of these groups helped me to understand what the numerical values on the models mean by giving me the other two factors that were tested in the lab.
+
+ the random error was the human error in the measuring of the masses and the measuring of the distance of object 1 on the air track before releasing it. the error could’ve been lowered if we had used a more automated scale for the measurement of the masses and if we had a better way to line the cart up with the specific distance, we were releasing the cart from on the track.
+
+ the constraints that will limit the generalizability of our results are the frictionless track we used, and the linear motion of the experiment. these make it difficult to apply the results from the experiment to the real world.
+
+ the mathematical models we created are consistent with newton’s second law, because they both are functions for how to get the acceleration which is one of the parts of newton’s second law. the function to find the acceleration is broken down by the mass being multiplied by 1 over the force, then subtracting off the acceleration when the mass equals 0.

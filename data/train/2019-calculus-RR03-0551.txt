@@ -1,0 +1,19 @@
+conclusion:) the question being investigated in this lab is what affects the period of the pendulum?
+
+
+our first experiment which was changing the mass to see how it would affect the period of the pendulum. as shown in figure 1 our error bars overlap so we can not say that there is any correlation between mass and the period. this claim is valid in all conditions.
+
+our second experiment was changing the length of the string connected to the pendulum to see if it affected the period. as shown in figure 2 our error bars do not overlap so we can conclude that the period increases with the length of the string. this claim is true for all conditions.
+
+our third experiment was using different angles of release to see how it affected the period of the pendulum. as shown in figure 3 our error bars overlap so we can not say that the angle of release does not affect the period. there was some error in our way of finding the data points for this graph. there is a correlation between angle of release and period as long as the angle is more than 20 degrees.
+
+
+
+ $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ is the theoretical model to find the period of the pendulum where t is the time, l is the length of the string, and g is acceleration due to gravity. the theoretical model only has string length and not angle of release or mass. this agrees with our data, looking at figure 2 is  string length vs. period you see a positive correlation and with figure 1 is  mass vs. period and figure 3 is  angle of release vs. period there is no correlation because our error bars overlap. 
+
+
+ there were no systematic errors that we had, all of our equipment was calibrated correctly. we had some random error we had to fix, when timing the period with a stopwatch it is possible to get a value above or below the true value due to reaction time. fixing this was easy, each member in the group had a stopwatch and timed the trial and then we took the average of those 3 times. we also had some random error with measuring the angle of release. we fixed minimized this by putting the protractor in the same spot every time and having 2 people look at it from the same point before letting the pendulum swing.
+
+
+
+ the only constraint that was found was if the angle of release is above 20 degrees there is a positive correlation with the period.

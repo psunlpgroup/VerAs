@@ -1,0 +1,43 @@
+discussion and conclusion
+
+the experiment’s purpose was to identify the impacts on the time for the pendulum finish a period of the three factors is  length of string, mass of the bob, and angle of releasing the bob. in general, there was an impact of the length of string and the period time of the pendulum. however, the period time of the pendulum was shown to be less likely affected by the angle of release and the mass of the bob.
+
+the third experiment was investigated to identify whether the bob’s mass affected the period time of the pendulum. as shown in the figure 3, the slope of the trend line was horizontal (equal 0). this meant even when the mass of the bob increased, the period time of the pendulum remained constant. therefore, there was no or less likely have a relationship between the bob’s mass and the period time of the pendulum. this result was different from the prediction which was made before (in table 3).
+
+the second experiment was investigated to identify whether the angle of release affected the period time of the pendulum. as shown in the figure 2, the slope of the trend line was horizontal, whose value was equal to 0. this meant even when the angle of release the bob increased or decreased, the period time of the pendulum remained constant. therefore, there was no relationship between the angle of release and the period time of the pendulum. this result was different from the prediction which was made before (in table 2)
+
+the third experiment was investigated to identify whether the length of the string affected the period time of the pendulum. as shown in the figure 3, all the data points fit to the power curve which had the equation is  $y=0.29964576 x$. this meant when the length of the string increased, the period time of the pendulum also increased but gradually. moreover, the r-squared value of this graph was 0.991, which was much closed to 1. this meant the data points were precisely closed to the best-fit line. therefore, students could conclude that the length of string affected the period time of the pendulum. 
+
+the theoretical mathematical model for the periodic time of the pendulum is is  
+
+         (1)
+
+
+
+where l is the length of the string (in meters, m)
+
+            g is the gravitational acceleration (g/                g
+
+            t is the period of the pendulum (in seconds, s)
+
+
+
+according to equation (1), there is only the length of string that affects the period time, t. the variables, which are the bob’s mass and the angle of release, are not in the theoretical mathematical model. hence, students can emphasize that the period time of the pendulum is affected by the length of the string, not by the other two variables. 
+
+the equation of the power curve, which shows the relationship between the length of the string and the period of the pendulum, in figure 1 is is  
+
+    (2)
+
+the coefficients in both equation (1) and (2) have similar values. if students plug in any string’s length value with correct units, the outcomes in both equations have the similar results. 
+
+the error bars in the figure 2 and figure 3 are bigger than the one in figure 1. these error bars are not credible because the students investigated the impact of the bob’s weight on the period time of the pendulum in week 1. however, they measured the uncertainty in week 2. on the other hand, error bar in figure 1 was given; therefore, it was more reasonable and more credible. the power curve actually goes through data points in figure 1 and their error bars, which reinforces the relationship between the length of the string and the period time of the pendulum. 
+
+there were some errors during the measurement. for instance, students did not stop the time immediately after the pendulum finished its period, which could be considered as a systematic error. this error was improved by using photogate, which was more advanced and accurate equipment to measure the period time. 
+
+another source of errors was angle of releasing the pendulum may be slightly different from 45 because students got the protractor ruler out before releasing the bob. it was random error. students can reduce this error by repeating more trials with more carefully-measured angles and take the average of the angles. one constraint of this experiment was the use of a tape measure to measure the length of the string. this is a constraint because the human eye is not completely perfect, and it is possible to be off by a millimeter or two when measuring the length. another constraint is the minimal air resistance. while the bob is small and the impact of air resistance is negligible, it is still there nonetheless, and a perfect experiment would be performed in a vacuum where air resistance does not exist.
+
+
+
+
+
+

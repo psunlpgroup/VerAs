@@ -1,0 +1,13 @@
+conclusion:
+the purpose of these experiments was to answer the question ”how does the acceleration of a system change when a factor of the acceleration is changed?” 
+
+for our first experiment, my team tested force as a factor of acceleration. as shown in table 1, we added bobbers to the end of the pulley system one at a time and graphed the results in graph 1. we know our graph is accurate, because when our system is used to solve for acceleration using our given mass of 340g, using 1/m, we find the coefficient 2.94, while the coefficient in our graph was 2.86. this means our results were rather accurate, and that our conclusion that the force applied affects the acceleration of the system is justified. in addition to this, two other groups had a constant of 2.78 and 2.64, respectively. these are all relatively close to ours, and reinforce our results. 
+
+	for our second experiment, we tested mass as a factor or acceleration. as shown in table 2, we increased the mass of the system by adding weights to the cart while keeping the force constant. as shown in graph 2, as mass increased acceleration decreased. the coefficient in our graph was 0.463n, which is an approximation of force applied. our actual force constant was 0.384n, so this is enough to justify our results when you consider the outliers in our graph. the coefficients we recorded from other groups were 0.194 and 0.327. the second result is very close to ours, but the first is rather far. still, the data we have allow us to conclude that the mass of a system is inversely proportional to the acceleration.
+
+	for our third experiment, we tested a negative slope as a factor of acceleration. as shown in table 3, we added a block to each iteration of an experiment identical to experiment 1, then graphed the results in graphs 3-1, 3-2, and 3-3. after graphing the results we recorded the coefficients of 3-1, 3-2, and 3-3 as -0.04, -0.05, and -0.02, respectively. however, we expected for the coefficient to increase after every trial, so the fact that the coefficient dropped 0.01 instead of increasing does confuse us. however, the difference in the first and third trials allow us to conclude that the slope has a positive influence on the acceleration.
+
+	if a heavy string was attached the end of the cart, the force applied to the cart would increase, which could be considered a systematic error, and would shift our results consistently upward.
+
+	some random errors in our experiments were the misuse of the measurement software, possibly obstructing the course of the cart in its motion.
+

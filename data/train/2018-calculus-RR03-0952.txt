@@ -1,0 +1,54 @@
+discussion and conclusion
+
+the research question which was investigated in the first three labs is follows is 
+
+what affects the period of a pendulum of small swings the most? 
+
+
+
+to answer this question, three variables were tested. length of string, angle of release, and mass on the end of the pendulum. as shown in figure 1, the time to complete 5 swings (dv) of the pendulum was affected by the length of string (iv), between lengths 25-30 cm,  no error bar overlap can be seen, so one can confidently conclude that the period was most likely affected. if one observes the change in the time to complete 5 swings, y-axis, it can be observed that the error bars lower bound is at 5 seconds, while the upper bound is close to 7 seconds.  the level of uncertainty in this experiment is 1/20 cm as previously shown under table 5. 
+
+
+
+from figure 2 one can see that the error bars do not appear to overlap, but the lower bound for the time to complete 5 swings is just below 4.7 seconds, while the error bar of the upper bound is only at 5.4 seconds. that is only a 0.7 second jump, and is most likely not tied to the angle of release. the error bars, while small do not necessarily indicate that the period of pendulum is affected. the level of uncertainty in this experiment is ½ degree, which is the highest for all iv’s. one can also glean from figure 2 that the trendline only passes through the first point, indicating that there is very little correlation between data points, and thus it is likely that the angle of release (iv) has no effect on the period (dv).
+
+
+
+ in figure 3, overlap between error bars can be seen from 50-100g, and 200-300g. once again, the trendline fails to pass through more than one point, indicating that there is likely no correlation between mass of the pendulum (iv) and time it takes to complete 5 swings (dv). no claims can be made that the mass (iv) affects the period (dv) of a pendulum, since error bars are inconsistent. the level of uncertainty for this trial was 1/20 gram. 
+
+
+
+the data displayed in figure 4, was collected during lab 3, and shows a stronger trend. as one can see, the trend line runs through all points of the data, and the error bars, while present, are small and consistently show no overlap. one will also notice that the range in times measured for the time (dv) of the period of the pendulum is greater. in table 8 the range is 0.709-2.678 +/- 5e-4 seconds for the range of uncertainty. based on figure 4 one can conclude that there is a measured change in the period (dv) of the pendulum as you increase the length of string (iv).
+
+
+
+  as can be seen in figure 4, the experimental equation derived from our data is is 
+
+$y=0.1678 x^{0.5353}$
+
+where y is the time of the period, and x is the length of the string.  to determine how closely our experimental equation compares to the theoretical, one need only plug in values for the length of string and compare the outputs. if input for the length of string is .50 m in theoretical model, and 50 cm in experimental model, then the outputs for time of period are is 
+
+
+
+theoretical time of period is 1.419 seconds
+
+
+
+experimental time of period is 1.362 seconds
+
+
+
+the experimental model equation is very close to the theoretical equation. to fit a trendline to our data in figure 4, the power trendline was determined to be the best fit since its r2 is 0.996. mass and angle of release showed the lowest affect on the period of the pendulum. not only can this be determined from figures 2 and 3, but it can also be determined from the mathematical model for the period of the pendulum. the theoretical model has no inputs within the equation for mass or angle of release. which leads one to conclude that neither mass, nor angle has an affect on the period of a pendulum.
+
+
+receiving values above and below theoretical mass of objects weighed several times, due to minor fluctuations.
+
+human errors such as incorrect reading of measuring tape due to level of estimation required. reaction time of individual using stopwatch being low, resulting in either underestimation or overestimation of the time to complete one period.
+
+possible incorrect calibration of stopwatches, resulting in data being skewed one way.
+
+measuring tape inaccuracies due to years of use, resulting in a stretched scale, leading to an underestimation of length.
+
+protractor used to measure angle of release was extensively chipped/damaged near measuring marks.
+
+flexing of the string as it undergoes stress during motion, resulting in longer pendulum than measured.

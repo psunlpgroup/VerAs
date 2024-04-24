@@ -1,0 +1,15 @@
+conclusion: 
+
+research question: will the length of the string and the angle of release influence the pendulum.
+
+the research question was concluded to be true. the length of the string affected the period the most while the angle of release affected it but minimally (within 1 second). in the graphs of each lab the data shows that the weight of the pendulum does not affect the period while the length and angle affect the period.
+
+
+
+period of the pendulum equation is  $t=2 \pi \sqrt{\frac{l}{g}}$
+
+the results of the three labs agrees with the theoretical equation, this is true because the only variable of the tested variables within the equation is length.
+
+through the solution of increasing the trial numbers in each lab, the amount of error in the data decreased.
+
+through the experiments the constraints were; the string length had to be within a meter, the angle of release could only be below 90 degrees, and the weight could only be a maximum of 250g and a minimum of 50g.

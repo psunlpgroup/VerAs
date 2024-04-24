@@ -1,0 +1,19 @@
+discussion and conclusion
+
+	in this lab we found how the acceleration of a set ass changes when the hanging mass and mass being pulled change by equal amounts without changing the total mass of the system. 
+
+ in the lab which the hanging weight was the independent variable we were able to conclude that the acceleration of the system will increase as you increase the weight of the hanging mass by the equation $y=2.982 x$ where x is the force of gravity in newtons.  we were able to come to this conclusion by measuring the change in the systems acceleration when only the mass of the hanging mass was changed (the independent variable) and plotting those points and then finding the relationship between those points.
+
+another groups data that we analyzed had very similar data to ours with the same c1 value only varying by mainly + .001.  the main difference comes from our -.06, this value represents our systematic error.  this means that every group is going to have a different c2 value with no correlation.  based on this fact it is safe to say that our values are supported by this other group.
+
+after analyzing a second group’s data a similar conclusion can be found as from the first.  the c1 value again was very similar to ours, while the c2 value was different from both ours and the first groups with no obvious correlation, further confirming that all three of our values are very close to the actual value.
+
+the theoretical equations is $a=\frac{f}{m_{sys}}$ , and the experimental equation is $a=c1 w+c2$.  in the theoretical equation f is the force of the hanging mass times the acceleration of gravity this is then divided by the mass of the system.  since we ran our experiment using the hanging mass and the mass of the system we were able to find the rate at which the acceleration changes and streamline the equation, however we did have to account for error which is our c2 value.
+
+the enhanced theoretical equation is $a=\frac{f}{m_{sys}} + \frac{f_{ext}}{m_{sys}}$ , and the experimental equation which we derived was $y=2.982 x-0.01$.  the enhanced experimental equation that we found is more accurate than the un-enhanced equation this is because we were able to account for the error due to the tilt of the track.  this relates to the theoretical equation similarly to how the un-enhanced versions relate (see above paragraph) however the, + fext/msys , relates to the drop in error we saw.
+
+with a heavy string is the stiffness of the string remained the same the overall acceleration should remain the same.  this is not to say that the acceleration at a certain point would be the same.  since the amount of string not overhanging is going to add to the weight of the mass being pulled, at first the acceleration will be less than a lighter or weightless string.  however as more of the string begins to overhang and add to the hanging mass’s the acceleration will increase.  these two differences in acceleration will average out to be the same as the lighter or weightless string.
+
+since we were able to negate random error from the system there is no more that could be reduced.  however systematic error due to the error of the scale and the computer software we used could be reduced further by using more accurate equipment.
+
+the constraints within the experiment was just the equipment used to run the experiment.  this has little affect on the generalizability of the results since they affect the systematic error and not by very much.

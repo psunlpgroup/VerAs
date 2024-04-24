@@ -1,0 +1,21 @@
+discussion and conclusion
+
+what are possible factors that could impact the period of a simple pendulum?
+
+in the first experiment, the factor of the string length of the pendulum was tested to see if it influenced the period of the pendulum. from this experiment, we were able to conclude that this factor had the greatest effect on the period of the pendulum, as shown in figure 1. in the second experiment, the factor of mass of the pendulum was tested to see if it influenced the period of the pendulum. from this experiment, we were able to conclude that the mass had very little to no effect on the period of the pendulum, as shown in figure 2. in the third experiment, the factor of angle of release was tested to see if it influenced the period of the pendulum. from this experiment, we were able to conclude that this factor also had little to no effect on the period of the pendulum, as shown in figure 3. 
+
+the ideal equation for the period of a pendulum is is 
+
+$t=2 \pi \sqrt{\frac{l}{g}}$
+
+where t is the period of the pendulum, l is the length of the string of the pendulum, and, g is gravity.
+
+
+
+this formula for a pendulum confirms our prediction. we predicted that the model for the period of a pendulum would be a side opening parabola, and this ideal model forms a graph of the same type.
+
+the ideal equation can be rewritten as $t=2.00607241409981 \sqrt{l}$ by replacing 2pi with 6.28 and g with 9.8. this simplifies to $t=0.95 x$. the coefficient and exponent are very close to those in our equation. the coefficient differs by 0.15 and the exponent differs by about 0.08. these differences can be attributed to experimental error.
+
+possible ways to reduce error in the investigation would be to better control the constant variables such as angle of release. this could be done by using a mechanism that automatically releases the pendulum at the correct angle instead of manually measuring and releasing it. another improvement that could increase the accuracy of the data would be higher precision string length measurements down to the millimeter instead of centimeter. finally, additional data points at more string lengths would allow for more data to calculate the trendline, allowing it to be closer to the ideal equation.
+
+some possible constraints in the experiment that limit the generalizability of the results are the number of data points tested, as well as the possibility that the string was not hanging directly perpendicular and therefore was not hanging freely, thus having another force acting upon it and causing the readings to not be as accurate as possible.

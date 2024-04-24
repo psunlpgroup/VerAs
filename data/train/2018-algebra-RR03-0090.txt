@@ -1,0 +1,15 @@
+discusion and conclusion
+
+the period of a pendulum can be effected by changing the setup. the length of string was found to be the only variable that had an effect on the period. the length of string was then tested to find standard deviation (table 4) and the experimental model (graph 4).
+
+when length of string was changed, the period was effected. the longer the string, the higher the period (graph 1). the error bars represent one standard deviation and do not overlap when comparing the length of string being 40 cm and when the length of string is 60 cm. 
+
+when mass of bob was changed, the period was not affected (graph 2). although it does look like the period decreases as the mass of bob increases, this is due to random error. all of the measurements fell within ±2σ which can be seen in the error bars which represent one standard deviation so the results can still be accepted.
+
+when angle of release was changed, the period was not affected. all measurements taken for period are similar no matter the angle of release (graph 3). all of the error bars overlap so even though the measurements differ slightly, this is probably due to random error and not the angle of release being changed.
+
+the theoretical equation for the period of a pendulum is 2π*sqrt(l/g). the experimental equation produced from lab data was $y=0.8759 x^{0.5117}$ (graph 4). this is different from the theoretical equation. however, the experimental equation does support the theoretical equation since the exponent is 0.5117. this is very close to 0.50 which is the same as taking the square root.
+
+random errors could have included the precision limitations of the stopwatches. this error was reduced by taking the averages of the different stopwatch times. other error could have come from the length of string, and the degree of release not being completely accurate. if the length of string was measured too short, the period would be lower than the actual value. if the length of string was measured slightly too long, then the period would be slightly longer than the actual value. if the scale that was used to measure the mass of the bob was incorrectly calibrated, this could have led to error as well. the mass of bob and angle of release could have been measured incorrectly which is bad experimentation but these should not have any effect on the period.
+
+constraints within the experiment included time. not enough time was given to measure all three variables so the measurements of the angle of release experiment were actually sample data collected by another group. another constraint was that the longest length that the string could be when finding the experimental model was about 200 cm so our model only generalizes pendulum lengths less than 200 cm.

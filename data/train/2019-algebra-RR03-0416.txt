@@ -1,0 +1,9 @@
+discussion and conclusion
+
+as previously stated, the research question that was investigated in this lab is what impacts the period of a pendulum for small swings. the 3 previous labs that were conducted had independent variables of the weight of the pendulum, the angle of release, and the length of the string. all of these experiments were tested to see if it had an effect on the time period of the pendulum.  in the previous experiments, the weight of the pendulum and the angle of release both had a negative correlation which means the pendulum decreased. in lab 1, as the length of the string increased, the period of the pendulum did as well. the mass and the angle of release was kept constant throughout this experiment, it had no effect on the period of the pendulum.
+
+errors in this experiment are likely due to be systematic. this could be for many reasons such as the sensor being off or unreliable, or the pendulum was off somehow. the vertical error bars in figure 1 indicated that the margin of error was very small. 
+
+the length of the string vs the period of the pendulum had a positive correlation, as the length of the string increased, so did the period. although the polynomial curve had the highest r value, it was agreed that the power function is the right relationship. it was seen that figure 2 had a similar r value, which confirmed that the power function was the best fit. systematic and random error could have been the cause of error in the equation in our experiment. double checking things, accurately recording/measuring, and doing a practice round of the pendulum can help reduce systematic and random errors.
+
+the cite for this evidence is from figure 1 ad figure 2.

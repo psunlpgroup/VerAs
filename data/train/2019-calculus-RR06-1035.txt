@@ -1,0 +1,7 @@
+conclusions that i listed above. 
+
+	in these labs there were systematic errors that occurred. one error was the pressure of the air that was coming out of the holes on the track. since there was only one pump supplying air, each hole had a small difference in pressure which could have affected the data. this could have been fixed with putting one or two more pumps onto the track so that the pressure was more equal for each hole. one other error was the level of the track. although lab 06 measured the differences in acceleration because of the angle of the track, this could have been inaccurate if the track was not level in the first place. this would have also affected data for lab 05. a solution to this would be to give each team a level so they were able to determine if the track was perfectly horizontal. 
+
+	there were two restraints in this lab. the first restraint was the time. many groups left early before we could collect their data, and we were unable to perform the second variation of lab 05. the second restriction was the tools provided. the only tool we needed that was missing was the level as i said above. this would have provided us with more accurate data. 
+
+	our model in lab 05/ 06 is accurate with newton’s second law because it is dealing with the mass, acceleration, and the force is found using a conversion value as i listed above. since force is equal to mass times acceleration, we can say that acceleration is equal to force divided by mass. this is how we found the acceleration in both of the experiments.

@@ -1,0 +1,3 @@
+conclusion. 
+
+conclusion: overall, we were successfully able to address the research question of “how does the hanging force and addition of friction to the airtrack affect the acceleration of the system?” in our case, we found that the answer was that acceleration was affected by changing the hanging mass of the system.

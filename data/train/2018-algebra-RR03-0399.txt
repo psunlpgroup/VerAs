@@ -1,0 +1,11 @@
+discussion and conclusion
+
+in labs 1-3, the research question was “what affects the period of a pendulum for small swings?” the independent variables tested were length of string, angle of release, and mass. when testing length of string, we found that as length of string increased, so did the period of the pendulum. in figure 1, a line with a positive slope is shown, supporting our prediction of a direct, positive relationship between string length and the period of the pendulum. with an equivalency criterion of +/- 0.035, the error bars are very small and support our claim.
+
+when testing angle of release, we found that as angle of release increased, so did the period of the pendulum. in figure 2, a line with a positive slope is shown, supporting our prediction of a direct, positive relationship with the period of the pendulum. with an equivalency criterion of +/- 0.035, the error bars are very small and support our claim that as angle of release increases, so does the period of the pendulum.
+
+when testing the mass of the pendulum, we found that mass does not affect the period. in figure 3, our scale is so small on the y-axis compared to the x-axis. if the scale was adjusted, the graph would appear to be a horizontal line, indicating no relationship between the period of a pendulum and the mass. since the error bars overlap in figure 3, we consider the values to be equivalent, which supports our claim that mass does not affect the period.
+
+the theoretical model for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+after using the theoretical mathematical model, we can predict that the period for the pendulum would be 1.418 seconds. this is slightly different, yet very close to the value of 1.409 seconds that can be determined from the best fit line shown in figure 4, which is a power curve, rather than a line.

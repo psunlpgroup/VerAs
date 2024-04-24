@@ -1,0 +1,19 @@
+discussion & conclusion
+
+the purpose of the lab was to develop mathematical models to describe the behavior of a real system and understand what each variable and number represented in the established model. 
+
+the experiments performed in the lab 05 found two models for the impact of mass’ location within the system. the first from figure 2 was $y=1.07 - 0.026 x$ where the leading coefficient is the inverse of our mass constant and the constant is the maximum acceleration of the system. as the mass on the car increased, our applied force would decrease at a constant rate, and so the acceleration would also decrease. the second from figure 4 was 0.00253 * x + 0.018, where the leading coefficient is the inverse of our applied force constant and the constant is the acceleration caused by factors held constant in our system. as our applied force increased with more mass, the acceleration would too. the experiment performed in lab 06 found three versions of the same base model found in figure 4 to compare the constants in order to determine the factors which contribute to the constant. the models we developed in figure 8 varied the slope of the track the car ran on. as our slope increased away from the end of the track that the car moved toward, the constant decreased, with the constant being 0.0536 for the accepted “level” state, -0.0668 for a positive slope, and 0.159 for a negative slope. this shows that slope may be a contributing factor to the constant at the end of the applied force vs. acceleration model in figure 8.
+
+figure 9 is  group 5’s findings
+
+another group whose findings are on the whiteboard in figure 9 matched that of our group’s in lab 06. this strengthens our conclusion from lab 06 that the constant, or y-intercept as they phrase it, is affected by the slope of the track.
+
+
+group 2 from figure 10 tested the effect of friction on the car by adding weights lower on the car to change the center of mass. they found that as friction increased, the constant decreased, thus concluding that friction affected the constant. this shows that multiple factors contribute to the constant acceleration, but some factors impact the constant more than others. the change in the constant they found was much lower than ours or group 5’s, so slope may have a larger impact on the constant than friction.
+
+
+
+
+a random error was the error of the sensor used to track the acceleration of the system. the radius of average error of the sensor was 0.013. a systematic error could be the air pressure of the pump not being high enough to achieve a truly frictionless track, skewing the data. these could be reduced or eliminated by completing additional tests using alternative supplies such as other tracks and pumps. our experiment was constrained by materials, with our group only having one track, eight bobbers, a few metal slabs to vary the slope of the track, and one sensor. another constraint was time, we only had two hours to complete each lab, which limited the number of tests that could be performed.
+
+all our mathematical models are consistent with newton’s second law, sum of the forces on the system equals the mass of the system multiplied by the acceleration of the system. as applied force changes, the acceleration also changes proportionally. this can be observed by the plots in figures 4 and 8. similarly, as mass changes location within the system, the sum of forces is changed, and acceleration is subsequently changed. this can be observed by the plot in figure 2.

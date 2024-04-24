@@ -1,0 +1,21 @@
+discussion and conclusion
+
+research question
+
+it is possible that the mass, angle of release, and the length of the string affects the period of oscillation of a pendulum.
+
+experiments
+
+the mass on the end of a string was increased each trial and the period of an oscillation was timed. as you can see in figure 1, the mass did not affect the period of an oscillation. the angle of release was increased by five degrees each time and the period of an oscillation was timed. we expected the time to increase as the angle increased and in figure 2 you can see that it did. the angle of release does not affect the period of oscillation drastically. the length of the string was tested and the length was increased by random intervals. in figure 3 you can see that time increased by almost two seconds between the first length, 39.9 centimeters, and the last length, 169 centimeters. the length of the string does have an affect on the period of oscillation.
+
+mathematical model
+
+the theoretical model for the period of the pendulum states that as the gravitational pull increases, the period of an oscillation will be shorter. in figure 1, 2, and 3 the graph steadily increases. this shows that our data fits with the theoretical model for the period of a pendulum. the height of the stand did not affect the data nor did any other factors.
+
+errors
+
+in these experiments we did notice a few random errors. as i mentioned before, the graph in figure 1 shows the time getting shorter once we put 150 grams on the string. this was concluded to be from our timing method. we were using a stopwatch with a human pressing start/stop. the timer’s reaction time was most likely a factor.
+
+constraints
+
+in this experiment we did have some constraints. for the length of the string we could only have a length of 200 centimeters. we could have a mass of 160 grams as well.

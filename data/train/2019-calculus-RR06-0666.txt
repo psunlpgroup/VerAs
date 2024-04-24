@@ -1,0 +1,15 @@
+discussion and conclusion:
+
+the purpose of this lab was to test how force and mass affects the acceleration of a system. in the second part of the lab we tested how different variables affect the mathematical model’s constants.
+
+through the testing in lab 5 were able to create mathematical models for acceleration vs. force applied and acceleration vs. mass of cart. in lab 6 we tested how the tilt of the track affects the constants being added our subtracted to the end of the mathematical model aren’t necessarily human error but can be caused by the tilt in the track or friction (tested by other groups).
+
+
+
+in the above tests group 1 tested whether greater friction on the track affected the acceleration. in their tests you can see that the constant on the end became more negative with more friction showing that friction slowed the acceleration. in the second picture group 3 tested how the tilt away from the front makes the constant on the end more negative which is the opposite of the what are group tested which would agree with our results.
+
+random errors may have included, unpredictable friction in the track which could cause a lower acceleration to be read, the pulley sometimes slipping on the string causing a lower acceleration to be read. systematic errors could be air resistance this would lead to lower acceleration being read.
+
+constraints for this experiment could be the inconsistency with track level and friction of the track. this is shown in the mathematical models which means that it makes it hard to apply the models to a scenario of no friction or perfect level.
+
+the two mathematical models both show that acceleration will stay constant if you ignore the constants shown. which was proven in experiment 6 because when the track was titled the only thing that changed was the constant being added or subtracted.

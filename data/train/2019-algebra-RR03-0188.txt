@@ -1,0 +1,19 @@
+conclusion:
+
+there weren’t uncertainties in the time measurements because they were measured electronically, although the length of string was measured with a tape measure which isn’t that accurate, and the angle of drop was measured using a protractor, which is somewhat accurate, but not 100%.
+
+
+
+angle of drop, length of string, and weight were all tested to see if there was an effect on the period of a pendulum. if you look at the first graph for angle of drop, you will see that as angle increases, so does the time, making our prediction correct. if you look at the second graph for length of string, you will see that as the length increases, the time increases, again making our prediction correct. the final graph shows the relationship between weight of pendulum versus time, this graph has no correlation whatsoever, making our prediction incorrect.
+
+
+
+the mathematical model for a pendulum is 2pi * sqrt(l/g), this will give the time it will take for a full period of a pendulum, the variables are length and gravity. it states that as length of the string of a pendulum increases, so will the time. this matches up very well with the data that we collected for the length of string versus time experiment.
+
+
+
+ all of the errors in this experiment were measurements so they were random. measuring the length of the string with a tape measure, the angle of drop with a protractor, and for the first lab we measured time with stop watches which then would involve human error. in lab 03 we used an electronic timing system to reduce this error, but nothing else was done to reduce the error of the other measurements.
+
+
+
+ the only constraints that could lead to the data not being generalizable is that the measurements were not 100% accurate

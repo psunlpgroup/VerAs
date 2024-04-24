@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+research question - what impacts the period of a pendulum for small swings?
+
+for the experiment where mass of the pendulum was the independent variable, while the string length and the angle of release were kept constant, a claim was made (a hypothesis). this claim was that as the mass of the pendulum increases, the period of the swing will increase as well. this claim however is not apparently true. based on figure 2 there is was no correlation between mass change in mass and the change of the period of the pendulum. the error bars are barely visible from figure 2 which shows that each data point is distinct from one another.
+
+ for the experiment where the angle of release was the independent variable, while the string length and the mass of the pendulum were kept constant, a hypothesis was made claiming that as the angle of release increases, the period of the pendulum would also increase. this claim however is not apparently true. based on figure 4 there is no correlation between the change in the angle of release and the change of the period of the pendulum. the error bars are also barely visible from figure 4 which shows that each data point is distinct form one another.
+
+for the experiment where the length of the string was the independent variable, while the mass of the pendulum and the angle of release was held constant, a hypothesis was made claiming that as the length of the string increases, the period of the pendulum would also increase. this claim can be backed up by evidence found in figure 5 and figure 6. based on figure 6, there seems to be a positive correlation. also, the shape of the trendline curve seems to represent a power law relationship.3. 
+
+the theoretical mathematical model for the period of the pendulum is is 
+          
+
+ this  coefficient for the trend of figure 6 was found to be 0.988. this means that the expression found from the trend curve shows strong correlation between the length of the string and the period of the pendulum. the variables, mass and angle of release, do no affect the period of a pendulum based on the theoretical model as they do not appear in the expression. a term in the expression is the term g. this is the magnitude of the acceleration due to gravity. it is constant for the expression. so changing the mass does not change the expression (as the acceleration due to gravity is the same for objects of all masses). the angle of release does not affect the expression as the angle of release does not change the acceleration of pendulum swing (the acceleration being the one due to gravity).
+ a type of random error which would have affected the measurements of the first two datasets would be the timing done by the group members (when the stopwatches were used). the consistency of the timing would be up to the reaction time of everyone (which will always or at least usually be inconsistent). 
+
+a systematic error that could have affected the third dataset could be the calibration of the photogate. perhaps the measurements of the photogate sensor could always have been off by a hundredth of a second which could result in the expression found in the experiment.
+
+another possible reason for the difference between the theoretical expression and the expression found in the experiment would be that the data points found could be to far apart. when plotted, this could shift the shape of the curve as it might have for the expression found in the experiment.
+
+5. some constraints which could limit the generalizability of the results could be how long the length of the string can and the fact that the swinging of the pendulum will eventually come to a stop. certain string lengths can not be measured, and the measurements of the periods cannot exceed a certain amount of time. if not done under the constraints, the model may be inaccurate.

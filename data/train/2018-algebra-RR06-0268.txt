@@ -1,0 +1,10 @@
+discussion and conclusion
+
+the purpose of the experiment was to determine the effect of applied force on the acceleration of a system. a positive linear relationship between applied force and the acceleration was $y = 5^-{0.6} x – 0.0131$ as seen in figure 2. this is accurately representative of the fact that the acceleration increases with the applied force from the mass, as was predicted in figure 1. other lab groups also reached a similar conclusion. figures 3 and 4 show the measurements in their experiments and their findings.
+
+
+
+figures 3 and 4. final results from group sato and another group.
+
+in comparison to the theoretical model, which is $a = \frac{1}{m}* f$, 1/m represents one over the total mass which ended up being 5-06 and the x represents f. the slope derived from one over the total mass according to the theoretical model was 5-02 which is larger than what the actual model shows. also, as can be seen, there is no y-intercept. the y-intercept seen in the actual equation is evident of the force of friction on the cart because of the air pressure. the mass of the system is seen in the slope of the experimental model. some possible sources of error could be in the precision of the recording device, and the scale error of the balance used to measure the mass of the bobbers. in consideration, a non-massless string connecting the hanging mass to the cart will not affect uniform acceleration because it will increase the total mass of the system, which from an experimental perspective, remains constant. the experiment wasn’t entirely controlled, as several factors influenced the results such as the aforementioned force of friction from the air pressure track and the mass of the string was not considered. 
+

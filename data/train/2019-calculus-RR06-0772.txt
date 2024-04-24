@@ -1,0 +1,101 @@
+discussion and conclusion:
+
+research question:
+
+what factors affect the acceleration of a system?
+
+for the independent variable applied force, the values of acceleration for different
+
+values of hanging mass were measured whilst keeping the total mass of the system
+
+constant.
+
+ these values were entered into excel, and a plot of acceleration vs. applied force was
+
+plotted along with the trendline.  the equation of the line that gave the greatest r 2 value was chosen. this equation
+
+determined the mathematical model. in this case a linear trendline was chosen.
+
+r2 for the plot of acceleration vs. applied force is 0.9
+ the data was measured using the software datastudios. the scale error using this
+
+setup is 0.001 m/s2. since, this is a very small value, the error bars were too small to be seen.
+
+therefore, there is a positive correlation between the acceleration and the force due to
+
+hanging mass. hence, force affects the acceleration of the system.
+
+for the independent variable mass of the system, the values of acceleration for
+
+different values of mass of the system were measured whilst keeping the hanging mass
+
+constant. these values were again entered into excel, and a plot of acceleration vs. mass of the
+
+system was plotted along with the trendline.
+
+the equation of the line that gave the greatest r 2 value was chosen. this equation
+
+determined the mathematical model. in this case a power trendline was chosen. r 2 for
+
+the plot of acceleration vs. mass is 0.9 the data was measured using the software datastudios. the scale error using this
+
+setup is 0.001 m/s2. since, this is a very small value, the error bars were too small to be
+
+seen. therefore, there is a negative correlation between the acceleration and the force due to
+
+hanging mass. hence, mass of the system affects the acceleration of the system.
+
+
+the model shows a power relationship compared to the linear relationship according our model.
+
+however, the slope is positive so as force increases acceleration increases which is in line with
+
+our model. the slope of 3.0344 is very close to our model indicating a constant slope.
+
+this model shows a power relationship with a negative power, therefore there is a negative
+
+correlation. this is in line with our model. however, the constant 0.1302 is not very close to the
+
+value according to our model. this discrepancy indicates error.
+
+the model shows a power relationship compared to the linear relationship according our model.
+
+however, the slope is positive so as force increases acceleration increases which is in line with
+
+our model. the slope of 2.63 is very close to our model indicating a constant slope.
+
+this model shows a power relationship with a negative power, therefore there is a negative
+
+correlation. this is in line with our model. however, the constant 0.0144 is not very close to the
+
+value according to our model. this discrepancy indicates error. this model supports newtons law in that as the force increases and mass m1 remains
+
+constant acceleration increases.
+
+no differences were discovered between our experimental model and newtons second law
+
+($f=m a$ for acceleration vs applied force i.e both are linear.
+this model supports newton’s second law in that the acceleration is negatively correlated to the mass of the system.
+
+according to newton’s second law $\frac{f}{m}=a$ in accordance with this law, the system deceleratesas the mass becomes larger and larger.
+
+unlike newton’s second law $\frac{f}{m}=a$(which is a linear relationship), our model for acceleration
+
+vs. mass has a power relationship.
+the constant can be attributed to the force exerted by additional factors such as tilt. to
+
+analyze this, another experiment was conducted.
+
+the force due to the weight of the hanging mass is the independent variable, the acceleration is
+
+the dependent variable, and the mass of the system was the control variable.
+
+if the string connecting the hanging mass is heavy, it will add to the force applied. this force would be the $c = m g$ and would be added to the equation is 
+
+full automation of the experiment, without any human interaction would produce the best results. otherwise, this experimental setup was fairly simple which leave little room for
+
+a possible cause of random error is the swing of the string connecting hanging mass. a possible improvement is to stabilize the hanging mass- ensuring that there is no swing to the hanging
+
+mass that could disturb the measurement of the acceleration. a possible cause of systematic error is the added weight of the string. a nearly weightless string
+
+should be used for this experiment. also, the system should have no tilt originally, and should be completely horizontal in the beginning for this particular the experiment.

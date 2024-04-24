@@ -1,0 +1,13 @@
+discussion and conclusion:
+
+	the research question that these experiments were based off is what different factors affect the period of a pendulum and how they affect the period also.
+
+	when it comes to the mass of the bob and how it affected the period of the pendulum, the evidence says that there is not much of a correlation between the two. if you look at the data and the graph above for the mass of the bob, there is no correlation of the period of the pendulum as the mass increased. the graph supports this because the error bars on the data points overlap so that tells us that there is no trend as the mass increases. 
+
+	when it comes to the length of the string and how it affected the period of the pendulum, the evidence says that there is a positive correlation between the two. the data table and the graph above for the length of the string, as the length increases, the period of the pendulum increases. the graph supports this because the error bars overlap very little if not at all between each data point. 
+
+	when it comes to the angle of release and how it affected the period of the pendulum, the evidence supports that it has little to no affect on the period if you look at the data tables and the graphs above for the angle of release, it shows that there is little correlation between the two. we were later told that the angle has zero effect on the period when it is under 20 degrees, but we did not test this because our lowest angle was 20 degrees. the error bars on the data points overlap so that tells us that there is little to no trend between data points. 
+
+	the theoretical equation for the model is $t=2 \pi \sqrt{\frac{l}{g}}$. the theoretical model we arrived at is very similar to the equation above, except we used a slightly smaller coefficient and a slightly larger exponent. 
+
+	some systematic errors that could have occurred are the correct masses of the weights, the accuracy of the length and the angle, human interference with the path, and human timing error with the stopwatch. a random error that would have occurred is wind resistance and how it affected the bob. these can be fixed by doing more trials. the more trials, the less random error there would be and the easier it would be to detect the systematic errors.

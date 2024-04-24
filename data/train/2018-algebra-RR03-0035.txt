@@ -1,0 +1,19 @@
+discussion and conclusion
+
+	the research question, what impacts the period of a pendulum for a small swing, was answered with the completion of this experiment.  the compilation of data has pointed to only one variable that affected the period of a pendulum swing.  each variable will be discussed, and the data will justify the ending result.
+
+	the collected data for the mass of the pendulum variable was gathered in a table and graphed with its standard deviation and error bars.  based on the data, the average period of the pendulum swings did not have much difference within the group.  every data point fell within each error bar and therefore represents no impact.   “because experimental errors are inherent to the instruments and techniques used in this lab course, an equivalency criterion of ±2σ will be used to determine if two values may be equivalent.  recall that ±2σ provides a confidence level of 95%, indicating that the true value is very likely to lie within this range of uncertainty” (uc lab 02).  this level of confidence also suggests there is no impact from the mass of the pendulum on the average period.
+
+	the collected data for the length of the string variable was gathered into a table and graphed with its standard deviation and error bars.  based on the data, the average period of the pendulum swings did have a significant difference within the collected group.  there was an increase in average time per swing as the length of the string increased.  this is determined based on the use of the equivalency criterion.   not every averaged time fell within this error on the graph and so the swing was indeed impacted due to the length of the string.
+
+	the collected data for the angle of release was also gathered into a table and graphed with its standard deviation and error bars.  based on the standard deviation being so small and the lack of variation in average times, the angle of release did not impact the average period of the pendulum swing.  this is evident in the graph above.
+
+	the theoretical equation for the best fit of the length of the string vs the average period of the pendulum fits into a polynomial progression from the shortest period to the longest period.  the equation used  is 2pi/sqrt(g)sqrt(l).  when we use this model in terms of the string length of 0.5 m, we find that the time is 1.4 s which is equal to the graph 4.  the mathematical model is supported by referencing graph 4.  the equation from the graph is 2.0014x0.5014 which represents the polynomial mathematical model and r2 is 1.  
+
+	random errors identified during this experiment include the stop watch that only measures to the hundredth of a second, therefore would round depending on the thousandth number.  also, the measurement of the angle of release using the protractor can vary (+) or (-).
+
+	systematic errors identified during this experiment include a delay in stopping the stop watch to accurately measure one period.  likewise, stopping the stop watch too early.  pushing the pendulum to accelerate the period instead of a release would also cause a systematic error.
+
+	to reduce these errors, the last experiment done with the photogate eliminated most of the errors listed above.  of course, the release would need to be an actual release and not a push to keep the swings consistent. 
+
+	major constraints of the experiments include the limited amount of time available to collect all necessary data needed for analysis.  another constraint of this experiment was limited amount of space/height to complete more trials and have a larger sample to analyze.  if these constraints were abolished, a larger sample size would suggest better accuracy and precision.

@@ -1,0 +1,3 @@
+conclusion
+
+	     to conclude this series of experiments, we are very confident in our mathematical model, and the idea that the time per oscillation of a pendulum is affected by the length of the string and not the mass or launch angle. we believe that we did a reasonably well job at minimizing both random and systematic errors to the best of our abilities. we did have some minor constraints, such as no access to more accurate electronic balances, that affected the overall precision of our measurements. even without more advanced equipment, we are confident in all of our measurements.

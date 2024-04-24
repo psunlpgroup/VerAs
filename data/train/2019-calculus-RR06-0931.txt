@@ -1,0 +1,42 @@
+discussion and conclusion
+the goal of this experiment was to identify what factors impact the acceleration.
+the independent variables were isolated and tested against the hypothesis.
+
+the dependent variable ‘acceleration’ was measured against the isolated independent variable ‘mass1’. 
+
+the control variables were initial placement of mass 1 is  700 cm and total mass of the system is  423.75g
+
+$a=0.0025 m + 0.1066$
+
+as mass increases the acceleration also increases. 
+
+the dependent variable ‘acceleration’ was measured against the isolated independent variable ‘mass of the system’. 
+
+the control variables were initial placement of mass 1 is  700 cm and total mass of the system is  423.75g
+
+$a = 3e^{-08} m^2 - 0.0003 m + 1.0152$
+
+as mass of system increases the acceleration decreases. 
+
+analysis of number of bobs on the hanging mass, placement of the mag
+
+the dependent variable ‘acceleration’ was measured against the isolated independent variable ‘number of bobs on the hanging mass, placement of the magnets’.
+
+the control variables were initial placement of mass 1 is  700 cm and total mass of the system is  423.75g
+
+ in the graphs for experiment 5 the slope is the acceleration of that mass value x. in the graphs in experiment 6 the same is true, except the graphs we plotted are linear. the 2 constants are in 1/kg and unitless to give us m/s^2 after multiplying by newtons which is perfect because that is the unit acceleration is in.
+
+the mathematical model was determined by finding a best fit line of the graph of velocity versus time. the mathematical model were found by finding the best fit line of applied force i.e. mass into gravity and acceleration of the cart. this helped in our claim acceleration is proportional to the ratio of the mass of the cart and the mass on the string.
+
+the acceleration of an object as produced by a net force is directly proportional to the magnitude of the net force, in the same direction as the net force, and inversely proportional to the mass of the object. the experiment supported that because the applied force is proportional to acceleration. the experiment concluded the relation between applied force and acceleration which discounts any other forces acting on the cart. 
+
+the results are concurrent with newton’s second law because in all the graphs as the mass attached to the cart goes up, the acceleration goes down. this is because the position of the mass of the system is regardless, the sum of the forces must equal zero. this means that if the force doesn’t change and the mass increases, then the acceleration must decrease and vice versa.
+
+
+
+in this lab some errors may have occurred. there are systematic errors that may have occurred. if the scale regularly weighed things slightly too high or too low, as well as the data that datastudio recorded could be random errors.
+
+we were working with a specific cart, masses, and magnets in this lab. because of the nature of the cart and magnets, we had to tape the magnets down. this might have affected the experimental results and might prohibit this experiment from being replicated in the same way.
+
+
+distance and the time taken to travel the distance.

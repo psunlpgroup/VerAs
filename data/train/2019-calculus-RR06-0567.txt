@@ -1,0 +1,17 @@
+discussion and conclusion
+
+the research question in this experiment was how does changing the force applied, react on a system.
+
+the first experiment with the hanging mass (independent variable), answered the research question by with the data collected was able to create a mathematical model to properly represent the collected data. with this there is a margin of error which is displayed by the graph in figure 1 & 2 by the dotted line. this supports the research question by showing that with the force applied increasing the acceleration of the system changed in a positive manner.
+
+with the data collected from the other groups, it proves our point of that with the increased force applied, such as the bobbers, that the system would accelerate in a positive motion. in figure 3 it shows the data collected from other groups and with the 2 models our models were very similar to the other groups models, supporting our results and conclusion.
+
+with the data collected from a second group this also supported our idea of that with a changing iv, that the system would increase its acceleration and have a positive correlation. our models were opposite but with what the second group was testing it would prove our results.
+
+the theoretical model for this experiment would be $f = m_{sys} a$. this is represented by the acceleration being the acceleration of the cart, force is the force applied by the bobbers, and the msys is represented by the mass of the system. with this model supports the actual mathematical model of $a = c1 w + c2$ because with the theoretical model gives us the basis of the mathematical model. with the curve from figure 1 shows the system mass staying the same with the force applied increasing. with this shows that the mathematical model for that comes from the theoretical model.
+
+in the scenario of a heavier string connecting the hanging weight with the cart, the acceleration would be higher. with a heavier string it only increases the force applied to the system, so there would still be a positive correlation between the acceleration and the force applied.
+
+the random errors of this experiment would be some of the data points in the data. with this we can tell these errors came from human error, such as maybe not having the cart at the right place or not properly selecting the data in the graph/data charts. these could be reduced by double checking ourselves during the experiment and making sure things get done properly.
+
+the constraints of this experiment were that would couldn’t change the mass of the cart, mass of the bobbers, the number of bobbers, and the distance traveled. this would affect the general stability of the experiment by that if they weren’t our constrictions then we would have been able to gather more data and have better and more accurate results.

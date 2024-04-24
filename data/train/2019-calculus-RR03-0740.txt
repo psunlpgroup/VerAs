@@ -1,0 +1,15 @@
+discussion & conclusion
+
+the research question for this lab was as follows: “what impacts the period of a pendulum?”
+
+the experiment of period versus mass addressed the possibility of mass affecting the period of a pendulum. it was claimed that the mass of a pendulum does not impact the period of a pendulum. figure 4 shows that there is no probable relation between mass and period, as on average when mass increased, the period did not within our range of certainty.
+
+the experiment of period versus length addressed the possibility of length affecting the period of a pendulum. it was claimed that length of a pendulum does impact the period of a pendulum. as the length of a pendulum increases, so does its period. both figures 2 and 3 showed this correlation.
+
+the experiment of period versus starting angle addressed the possibility of starting angle affecting the period of a pendulum. it was claimed that starting angle may or may not impact the period of a pendulum. figure 1 showed slight correlation, but after considering the uncertainty of each measurement, no claim could be made in support of a correlation.
+
+the theoretical model for the period of a pendulum is as follows is  $t=2 \pi \sqrt{\frac{l}{g}}$ , where t is period, l is length of the pendulum, and g is acceleration due to gravity. this is consistent with our claims as length was the only factor that could be correlated to period with confidence. as mass increases, the effect of gravity on our release being not precise would be decreased. as angle increased, velocity at the bottom of the arc increases, which could slight increase error due to a inconsistent release.
+
+in our initial tests without the ir gate to precisely measure period with more sample data, there were many random errors that could cause uncertainty. these include the timer’s reaction time to stop the stopwatch, the precision of the starting angle measurement, the tautness of the string, and the release of the pendulum contributing spin to the weight. one primary systematic error in all tests was the imperfect hinge point created by the string lying over a beam with width. this error may have caused one half of the swing to be different than the other in a way that may have impacted our data.
+
+there were some constraints of the experiment that may limit the generalizability of our results. the lab equipment provided limits the range of our data maximums and minimums. for example, we could not increase our mass past 250g. we also were required to release the pendulum by hand, and in an ideal test, the pendulum would be released in a more repeatable way. the string’s tautness may also vary the length a slight amount. a fixed length such as a metal rod would be more ideal. the last major constraint was the time given to collect adequate samples. if more time were allotted, more definitive results may be produced.

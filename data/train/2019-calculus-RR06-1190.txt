@@ -1,0 +1,29 @@
+conclusion:
+the purpose of the lab was to test how increases and decreases of mass of and force acting on a system impact the acceleration of said system, developing mathematical models that hopefully align with newton’s second law of motion, $f=ma$ or the force acting on a system equals the system’s mass times the acceleration of the system.
+
+the experiments led to the models produced by plotting how an change in force affects acceleration, how a change in mass affects acceleration, and how a change in the physical environment of an experiment can alter the data and results of an experiment.  our models were obtained using the data from the graphs, which followed various trends that both supported our predictions and aligned with the second law of motion
+
+
+
+
+
+
+
+
+this is the data of a group (5) that had a similar hypothesis to our own, although we are more inclined to agree with this group’s data than our own because this group tested angles of the rail at larger magnitudes than us, and should give a clearer distinction between data sets.
+
+
+
+
+
+
+
+this is the data collected by a group (2) that was testing the affect of magnets on the acceleration of the system, but this group’s experiments revealed little to no correlation between the two, and therefore, our independent variable is more likely to have an impact on acceleration.
+
+
+
+the likelihood of random errors in this experiment is low, seeing as the human-controlled aspects had little impact on the results and the rest was done electronically.  there is a high probability of some flavor of systematic error arising from minor inaccuracies in the equipment used to measure the accelerations and masses.  in the future, while it is almost impossible to eliminate some systematic errors, potential random errors could be prevented by mechanizing the experimental process, thereby removing the highest probable cause for random error; human involvement.
+
+some of the restraints that may have limited generalizability of our results are the fact that our system operated with near zero friction, air resistance and pressure were ignored, and there was only so much of the materials to work with and lab station to alter the conditions of.
+
+our findings support the second law of motion, $f=ma$ by showing that, as mass increases with a constant force product, acceleration must decrease, and that, as force increases with a constant mass, that the acceleration must increase.

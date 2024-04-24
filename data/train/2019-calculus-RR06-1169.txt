@@ -1,0 +1,17 @@
+discussion and conclusion:
+
+in labs 05 and 06, the objective of the labs were to asses the effects certain variable have on the acceleration of a system or the acceleration of two masses.
+
+the effect of the hanging mass as the independent variable was that the acceleration of the system increased. this is because the applied force to the standing mass, which is on a frictionless surface, had a lower mass each time the masses were transferred. the mass of the system never changed.
+
+the other group’s data supported our findings due to the fact that both or the compared equations would end in a positive number either due to the leading coefficient or a much larger constant, implying that the acceleration increased. their equation was 3.0581x^.0293
+
+a second group refuted our claim with a slightly different equation. theirs was (-2.1^(-3))x+1.79. because the leading coefficient is negative and the mass of the glider is so large, the calculated value would be negative. however, the negative could be due to the direction of the glider or the mass of their system could have been smaller than in our setup
+
+the calculated equation for the acceleration by a single force is equal to 2.7048x-0.0141. this compares to the theoretical well because the coefficient is close to the mass of the standing mass and the constant, which is essentially 0, represents the error.
+
+the heavy string would increase the acceleration because as the hanging mass pulls the glider across the track, more and more mass is pulling the glider across the track.
+
+one possibility for error is air resistance. air resistance is impossible to avoid in a lab setting unless the experiment is conducted in a vacuum. air resistance would have a small effect due to the size of the glider but large enough to impact the calculations.
+
+the constraints in the experiments would include that we controlled the amount of friction to an extent. therefore, it would be very hard to create an equation that could be generalized for all systems regardless of the amount of friction. for example. we had 2 trials with friction and a frictionless trial. all three yielded different coefficients with similar constants. as friction constantly increased between each trial, the coefficients did not. they went from 2.6262 in the frictionless trial to 2.2588 with half of our maximum friction and 1.9328 with the maximum available.

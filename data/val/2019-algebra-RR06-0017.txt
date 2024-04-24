@@ -1,0 +1,4 @@
+conclusion:
+
+
+from doing the 3 experiments in lab 5 and 6, the conclusion that was made was that the more force there is the higher the acceleration will be. and more mass equals a decrease in speed. the graphs and data which were collect can account for this. when comparing the data with others groups, they had similar findings. errors which may been present during the experiments range from, incorrect measurements, scales not being calibrated, friction unaccounted for, surface could possibly affect the acceleration. for constraints it can be said that the errors which were listed can affect the results of the experiments.

@@ -1,0 +1,10 @@
+conclusion.
+
+
+
+
+
+
+	the theoretical equation that we are basing out data off of is $f= m a$. in the experimental the mathematical model of $a = c1 w + c2$, supports the theoretical equation because the system mass relates to each other, so the force is the main factor that is changing, you can come to this conclusion by looking at the line of best fit of the graphs above. however, when dealing with more than one force the theoretical equation expands to include these extra forces in the relationship, $a =\frac{f}{m_{system}} +\frac{f_{external}}{m_{system}}$. this still supports our mathematical model because tall that is changing is another force and that can easily be accounted for just by adding it to the other acting forces to get a larger net force.
+
+	in another scenario, if string’s negligible mass was replaced by a heavier string whose mass must be accounted for, the acceleration of the system would be slightly larger than the accelerations that we were able to conclude. this is because as the string rolled down the pully, the new strings mass would have added to the hanging mass causing a greater acceleration downward. some random errors that were accounted for were the still present frictional force that was close to being neglected by the air track, and the density of the air around the track. some systematic errors include the balance to be off, and the pully’s error of .001 m/s^2. we could correct these errors with newer or more precise lab tools, but because of the constraints of our materials and technology some error will always be present. if these experiments were to be replicated using tools that had more precision then the values that we found would be more accurate and have less error.

@@ -1,0 +1,15 @@
+conclusion:
+
+as the data show the only correlation between an independent variable and the length of the period is when the length of the pendulum is changed
+
+in the mass vs time experiment it shows that there is no correlation as shown with the graphs and error bars. all the data lies in the range of the error bars prompting it to show no correlation.
+
+when using the length as the independent variable the graphs show a positive correlation as seen in the graphs as all the data is outside the error bars. from the data you can conclude that length does influence the period of the pendulum. unlike that of the mass vs time graph.
+
+using the data in the angle vs time lab trial we see that like the mass vs time lab there is no correlation between the angle used to release the pendulum and the period of the swing.
+
+the equation found would be 2pi(l/g)^1/2 seeing the equation it would make since that length directly effects the period and mass and angle are nowhere to be found in the equation.
+
+random errors in the experiment would be the human errors encountered with the timing of the periods using the stopwatch, as the human eye is not infallible. that random error was reduced by using the photogate and even with a systematic error of the photo gate being .001 the data still stands and the equation found supports this.
+
+some of the constraints include, the angle as the experiment would change if the angle used was above 10 degrees it would be in another realm of physics. also we could not change gravity in the experiment as if we would have been able to we would have seen some sort of relationship to the period as well.

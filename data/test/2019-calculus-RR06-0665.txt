@@ -1,0 +1,11 @@
+conclusions agree with ours.
+
+group ii used a different iv and a different force to test for the impacts on acceleration.  their mathematical model is similarly in linear form as our own and must represent the same units.  their coefficient in front of the variable is much higher than ours so their variable must be much more significant in its effect.  
+
+
+
+there could have been scaler errors as always when using measuring equipment; higher precision and properly calibrated devices reduce this margin of error.  there are always random errors when humans perceive and set up experiments and interpret findings.  taking many trails and averaging findings reduces this error. 
+
+
+
+if there are other impacting variables on the dv that were not controlled and kept constant then that would compromise the generalizability of our results.  i think our results were very confident as reviewed by their r^2 values between iv and dv, and that our results agree with such a tested scientific law that it is generalizable that .  in lab 5 we controlled largely for one force of weight and in lab 6 we tested the impact of antagonistic and coincided force vectors.  both experiments had consistent results with newton’s second law.

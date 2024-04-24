@@ -1,0 +1,10 @@
+conclusion and discussion: 
+
+
+
+	from the beginning of the experiment my group members and i speculated that when the force due to the mass changing increases, the acceleration would increase as well. when we conducted the experiment with the same length every trial and the force due to the changing of the mass as our independent variable, we found that it did affect the acceleration of the system. the data for the error bars did not overlap in figure 1 and the error bars were also too small to see when applied in excel. this therefore confirmed our hypothesis and prediction we made before the experiment was completed. 
+
+we also looked at two other groups and their results for the same experiment.
+
+
+	for lab 06, my group and i had to complete two trials with a calculated mass for the given acceleration. we kept the string length the same and used the same exact materials used in lab 05. (we did have to use a different air track) once we calculated the mass needed to obtain the acceleration that was given to us beforehand, we conducted the trial. our first trial was not as successful as we thought it would be. our given acceleration was 0.588  and the acceleration from the first trial was 0.673 . the acceleration obtained from the trial is within the 0.1 mark but it should be closer. the second trial, my group and i took off a couple of paper clips and adjusted the mass. we obtained an acceleration of 0.643 . our theoretical model and our mathematical model were very close causing the error bars from figure 1 to be very small. there were also some random and systematic errors that could have caused the experiment to be a little off. the reaction time for when the cart was let go might have been a little early or a little later than when the timer was set off.

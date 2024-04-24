@@ -1,0 +1,5 @@
+conclusion
+
+research question: what factors impact the period of a pendulum?
+
+to figure out this question, our group tested string length, weight of pendulum, and angle of release. we found out that the only thing that impacts the period is the string length. this is because when the string is shorter. it has less distance to travel, which means a shorter period. an important systematic error that was discovered is that we weren’t exactly able to see when the pendulum made a full period. to fix this, we used a photogate to measure exactly when the pendulum made a full period. this helped us get more accurate data. a random error that constantly occurred was not holding the pendulum at the correct angle. even though the angle didn’t affect the period, we still needed to hold it as close to the exact specified angle as possible to get accurate data.

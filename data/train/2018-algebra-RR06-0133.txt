@@ -1,0 +1,12 @@
+conclusion:
+As a group we decided that the system should consist of the cart and all eight bobs which will remain constant through the experiment. The total mass of this system is about 189.6 g( give or take 0.001 grams).
+
+ We will conduct nine trials starting with no bobs and ending with all eight bobs attached. The velocity time graph will be posted by the computer and the acceleration derived from the linear portion of the graph will be used as plot points for our graph. 
+
+
+
+
+The first group we used to compare our results to was the group who had an equation $y=4.9362 x - 0.0102$. Our equation for our lab was $y=4.8456 x - 0.019$. Our equations for our experimental models were similar in our slopes and our y-intercepts. With our results being so similar, I am led to believe that my testing and results are accurately described. Our force external applied to the system was much closer to zero which actually leads me to believe my group had the more accurate results. 
+
+
+In comparing to another group, with the experimental model of $y=5.3 x - 0.0717$ I noticed that our slope was much different, along with our y-intercepts. This leads me believe that since both of these values are different from mine, that this group must have used different values to calculate their labs results. The force external applied for this group was .0135 N and when compared to our group’s .0039 N, was much higher in comparison. This group did not believe that they were releasing the cart correctly which is what caused error. 

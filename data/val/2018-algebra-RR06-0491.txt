@@ -1,0 +1,20 @@
+discussion and conclusion
+
+
+
+the purpose of this lab was to find the relationship between the applied force of the acceleration of a system so we can answer the research question, “how does the acceleration of the system change when the applied force of the hanging mass changes?”
+
+the mathematical model determined in this experiment was $y=0.0043 x$ as seen in graph 1. this supports the hypothesis seen in table 1 that the acceleration of a system is impacted by the changing of the applied force of the hanging mass. in graph 1 we see that the relationship is linear so as the applied force was increased the acceleration also increased. the theoretical model was found through using newton’s second law. in order to find the relationship, the sum of all forces of the hanging mass and the cart. the equation for the force of the hanging mass is as follows; → . the equation for the forces acting on the cart is as follows; → . both of these equations can be set equal to one another in order to come to a final equation of; .  from this we found-
+
+	  the mathematical model helps answer the research question because it shows that the there is a positive linear relationship.
+
+another groups mathematical model was $y=0.0053 x - 0.026$. their results support our mathematical model because the slopes are very close. another groups mathematical model was $y=0.2309 x + 0.314$. this one differs from ours because some groups measured in kilograms and other measured in grams. however, both groups mathematical models support ours because they show a positive linear relationship between the force and the acceleration. 
+
+
+
+
+the mathematical model can be compared to the theoretical model because it shows the relationship that the mass of the bobbers on the cart and the mass of the hanging bobbers have on the acceleration. when the values are plugged into the acceleration equation found in the theoretical model it shows if there is a more bobbers in the hanging mass and less on the cart lead to a higher acceleration. other forces that were not accounted for in the system were the mg, the normal force of the table mass and friction. friction was present in the theoretical model involving acceleration. the mass of the system can be seen as the denominator in the experimental model which is 188.6 g. this is found by the addition of the cart and the bobbers. a non-massless string would improve the acceleration of the cart. this is because the mass of the string was not considered. this would result in error being reduced.
+
+a systematic error was the frictionless track used because there was still friction present. this is unable to be removed completely. when finding the mass of system, a human error could have been reading the scale wrong. this could be avoiding in the future by measuring everything more than once to make the final mass of the system more accurate. there could have been random error in each trial but this was reduced by doing a multiple of trials. 
+
+there were several constraints in this lab. one was the precision of the measuring devices used. another constraint is each bobber in the system could have had a different mass from the others. time was another constraint because more trials could have been completed if we had more time.

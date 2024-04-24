@@ -1,0 +1,19 @@
+conclusion::
+
+the purpose of this lab was to understand how mathematical models work with real systems and figure out what the equations and variables for the graph represent. the first experiment in lab 05 resulted in its mathematical model because the weight pulling on the cart has a direct correlation with the carts acceleration, therefore, its mathematical model represents a positive line. also, the cart’s acceleration did not increase significantly after each weight was added because the weights are relatively lightweight, so the line on the graph is very gradual, but linear because the weight increment was the same every time. the variable x represents the weight that is added on to the string pulling the cart. the second experiment resulted in its mathematical model because the weight on the cart has an inverse correlation with the acceleration. this shows in the graph because the line is negatively sloped. the variable x represents the weight being added or removed from the cart itself. the third experiment resulted in its mathematical model because the angle was directly related to the acceleration when the slope was positive. when the slope was negative the more severe the angle became the more the acceleration decreased. variable x represents the angle of the system.
+
+
+
+this team’s findings were very similar to ours. i noticed that in both our graphs and their graphs the line is almost the same for incline and decline, but it is offset on the y- axis slightly.
+
+
+
+
+
+this group ran a set of experiments testing the friction of the system instead of the angle of the system by placing weighted magnets on the cart to weigh it down so it is touching the track.
+
+
+
+	errors may have come from where the cart was placed, the length of the string, whether or not the weights pulling on the cart were completely still. all of these could have made the acceleration fluctuate. it could have been possible to control all of these factors but it would take a lot of time to conduct the experiment.
+
+	the experiment was related to newton’s second law because every experiment we did affected the acceleration enough to record it, most of the experiments were adding mass but the angle experiment changed the force on the cart because of gravity, and that also had an affect on the cart’s acceleration.

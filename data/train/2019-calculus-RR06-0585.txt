@@ -1,0 +1,5 @@
+conclusion
+
+
+
+coming into this set of experiments, our research question was “what affects the acceleration of a system?” to answer this question, we attempted to isolate all possible variables that could affect the acceleration, which were the force of gravity, the mass of the system, and the friction between the cart and the track. we believe that we did a good job at minimizing both random and systematic errors to the best of our abilities. one constraint that we had that could possibly affect the results of our experiments are the lack of electronic balances to measure the mass of the cart, magnets, and bobbers. without the use of electronic balances, we are still very confident in all of our measurements.

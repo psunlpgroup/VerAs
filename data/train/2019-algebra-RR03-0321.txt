@@ -1,0 +1,24 @@
+discussion and conclusion
+
+research question: how do mass, string length and angle of release affect the time of the period?
+
+claim is  the mass of the pendulum has an effect on the length of the period. the more weight that is added, the shorter the period will be. 
+
+this claim was not supported by the graph with because despite the fact that there is a negative correlation, all of the error bars overlap. therefore, there is no significant difference at one standard deviation between the values and it can not be determined with certainty that the values actually differ.
+
+claim is  the length of the string has an effect on the length of the period. the longer the string, the longer the period will be. 
+
+this claim was supported by the graph because it has a positive correlation and the error bars do not overlap. as string length increased, average length of the period increased. therefore, this data is statistically significant at one standard deviation and it can be determined with certainty that the values actually differ.
+
+this claim was further supported by repeating the experiment testing string length with control variable of mass (50 g) and angle of release (30 degrees). 
+
+
+
+
+error bars representing an uncertainty of +/- .001 are included on the graph but too small to visualize.
+
+a mathematical model with a power relationship with the equation $y=1.949 x^{0.343}$ can be created by the data collected from the repeated trials. this model is close to the actual model for the relationship between string length vs. period. the r^2 value of .98413 indicated that this model closes fits the data.
+
+
+
+possible systematic errors include improper calibration of measuring tools such as the stopwatch and the scale. these types of errors can be reduced by ensuring that measuring tools are calibrated to be as accurate as possible prior to conducting the experiment. random errors are caused by human error in making measurements or maintaining control variables. for example, the person releasing the pendulum could accidentally not release from the same angle each trial when the angle was supposed to be kept constant. random errors can be reduced by limiting human error by conducting the experiment with as much care as possible. for example, when the experiment for length vs. time of period was repeated, the photogate was used to reduce random error. there are constraints to this experiment that limit the generalizability of the results. the tools we had available during the experiment are not as accurate or precise as tools that would be used in a real lab environment. additionally, experimenters were also constrained by time. if more time had been available, more trials would have been run and the results would have been more accurate because more trials would have reduced the impact of random errors.

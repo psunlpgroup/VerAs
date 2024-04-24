@@ -1,0 +1,21 @@
+discussions:
+the reaction time with the stopwatch of the person who held the watch
+determining one whole period is a tricky step
+because we execute this experiment in a 3d environment, the pendulum might swing to another angle and not how we want it to swing. 
+air resistance could be an issue
+the variables that we took into consideration might not be accurately measured
+the set up of our experiment might not be perfect which can cause the experiment to have margins errors.
+how we fixed it
+in order to fix all theses problems, we could use a kind of system to minimize the random and systematic error that we ran in. the system would have no air resistance, automatically measure the whole period, and the experiment set up is fixed. 
+constraints that may limit the generalizability of our results
+i think the results we achieved through our experiment can be applied to every small swings pendulum and if there are constraints, it would be very small to affect the generalizability. 
+the experimental design template and the graphs for each factor are the same as in experiment 1
+discussion and conclusion part is the same as experiment 1 except is 
+this experiment is to find the errors systematically and randomly that occurred when we conducted this experiment. 
+experimental design
+research question is what impacts the period of a pendulum?
+if the length of the pendulum is related to the time of a full period, then the longer the length, the more time in a period. prediction
+a longer length will result in a longer period time measurement.
+the measurement uncertainties were about ± 0.001s in regards of time, and ±0.5mm in regards of the tape.
+these measurement uncertainties were measured by the time sensor which is listed in the instruction in lab 3 handout. 
+according to the theoretical mathematical model that i made above, our data doesn’t fit the theoretical data. as the theoretical data has a positive linear correlation but our data represent a power correlation.

@@ -1,0 +1,5 @@
+discussion and conclusion: 
+
+the purpose of the lab is to develop mathematical models that describe the behavior of a real system and to develop an understanding for each variable and numerical value that is included in the model. the experiments led to the resulting mathematical models by seeing how different independent variables impact the acceleration of a system. 
+
+some things that could have resulted in some error for our experiment was how the magnetic strips were not able to stay on the cart by themselves. this led to them having to be applied to the cart with tape or string allowing the strips to move on the cart a little bit. something that was done to reduce error was taking multiple acceleration readings from the computer and taking the average of them to get the most accurate acceleration possible for the cart.

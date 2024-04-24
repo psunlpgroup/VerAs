@@ -1,0 +1,25 @@
+discussion and conclusion:
+
+does mass, string length, and release angle affect the period of a pendulum?
+
+by interpreting the results above, the mass does not affect the period of a pendulum. this can be seen in the mass vs. period graph above where the error bars overlap each other portraying that they are all roughly the same and don’t differ enough for us to claim that mass has an affect on the period. however, looking string length vs. period graph you can see that string length does make a difference where the longer the string, the longer the period. so in this experiment we conclude that string length is a factor in the period of a pendulum. lastly, look at the angle vs. period graph and table as you can see, when the angle increases from 10 to 20 degrees it is about the same. however there is then a jump from 20 to 30 degrees where it then stays around the values to 50 degrees. given these circumstances the release angle does not have a significant affect in the period of a pendulum.
+
+the equation the calculate the period of a pendulum is is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. theoretically, gravity plays a huge role in the period of a pendulum. if you were to do this experiment on the moon you would find that the period time would be much longer due to the lack of gravity there. theoretically the only factor that truly affects the period is string length. 
+
+
+
+	as you can see when string length increases so does the period. here our data is very reliable where our r^2 values is .9999 which means that the curve represents about 99% of our data which is very good. 
+
+	
+
+
+
+the formula in the graph above represents the parabola curve as $y=c x^p$. as you can see in the photo above, various groups have generally the same formula values indicating that mass and angle are no a factor in the period of a pendulum.
+
+in this experiment there are a number of systematic and random error that were fixed or weren’t able to be. some of the errors were starting the stop watch early or late and starting the timer right away rather than waiting for the weight to reach the back side or wait for it to reach one full period then start the watch. this was fixed by using photogate to help decrease the systematic error. another error was not making exactly angle measurements with the protractor. there was no way to fix this human error so we did multiple trails in order to try to reduce outliers in the values we got. in the future you could also use a bigger protractor for a more precise measurement.
+
+one constraint in this experiment was that you were only given so much weight and a smaller protractor which could effect results in one way or another.
+
+
+
+

@@ -1,0 +1,22 @@
+discussion and conclusion
+
+ the purpose of lab number 5 was to develop a mathematical model that described the relationship between hanging mass and acceleration of the cart. it also helped to show what other variables could have a significant effect on the acceleration of the cart in this situation,
+ for each experiment you first need to run the experiment multiple times to get enough data so that your model will be accurate. once you have ran many trials you can put your data into a table and then onto graph. once on the graph you can use the slope and y intercept of the trendline of the graph to develop your mathematical model, this is an equation that can be used to predict other values for the same experiment, and it can help show the overall trend of the experiment. most of the graphs have some sort of a linear or power trend this helps in making an accurate  prediction when deciding the overall trend of the experiment. 
+
+
+this is one example of a presentation from another group. they showed that they had found similar information as our group and their mathematical model  was very similar as well.  
+
+this is one example of a presentation from another group. they showed that they had found similar information as our group and their mathematical model  was very similar as well.  
+
+
+
+this picture of the chalk board shows all the other groups findings in lab 6. most of the groups had a similar answer that consisted with a constant times m to a power of something close to -1. this helped to prove our groups model correct and show how our meth of gathering the information was similar to those in the other groups.
+
+this picture of the chalk board shows all the other groups findings in lab 6. most of the groups had a similar answer that consisted with a constant times m to a power of something close to -1. this helped to prove our groups model correct and show how our meth of gathering the information was similar to those in the other groups.lab6
+
+
+
+ the first error that could have happened in the groups would be just mis calculations with our math, this would be a random error. a second error that may have a happened in our groups is a systematic error of the computer and the sensor used, if it was not calibrated correctly any group using that system would not have the correct information. in order to reduce these we compered our answers, that way if your answer was significantly off from another group you had an idea that something might have gone wrong during our experiment, we actually caught ourselves on this during lab 5. if it was not for comparing with the other groups presentation, we would not have realized that we forgot to multiply and out model would have been way off.
+ the biggest constraint we have is that we could only be as precise as our scale and our computer program if we wanted to be more precise we would need other equipment, another constraint we had during our experiment was that we could only measure it on a small scale with out cart, we would have to work outside of the lab to measure how it would work on a bigger scale experiment that had much more mass.
+
+ our two experiments models were consistent with newtons 2nd law because our total mass did not change, we just moved it from one side to the other without changing the sum, this was the same process and theory as newtons second law.

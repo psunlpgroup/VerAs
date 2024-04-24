@@ -1,0 +1,33 @@
+conclusion
+
+	what impacts the length of the period of a pendulum?
+
+	the experiments showed that the only variable that effects the period of a pendulum is the length of the string.  graph 1 shows that the longer the string the longer the period.  graph 2 and 3 show that the release angle and the mass of the pendulum have no effect on the length of the period because each point is within the error bars of the others.
+
+the theoretical mathematical model for the period of a pendulum is is 
+
+
+
+the following is a graph that compares the mathematical model to the lab results.
+
+
+
+(the blue line is the lab results and the orange is the mathematical model.)
+
+the curves of both seem to be identical, but the points seem to be off by a consistent amount implying some sort of systematic error.
+
+	some random errors are the uncertainty in measuring the lengths of the string.  another random error is the human reaction time for starting and stopping the stop watch.  to eliminate this error, we used a photogate to measure the period.
+
+	some systematic errors include 
+
+	accuracy of the weights.
+
+	accuracy of the tape measure. 
+
+	accuracy of the photogate.
+
+	to reduce the systematic errors, we could have tried using different tools and see if we got the same results.
+
+	
+
+	the experimental models are true for the limited range of lengths that we tested.

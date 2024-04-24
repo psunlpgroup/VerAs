@@ -1,0 +1,17 @@
+discussion and conclusion.
+
+
+
+the purpose of the lab is to develop mathematical models which describe the behavior of a real system as well as to develop an understanding for each variable and numerical value included in the model. 
+the first experiment led to the mathematical models of $a = 2.6479 f + 0.0118$ . the physical meaning for the constants in the experimental model are the representations of gravity and all of the other control variables. the second experiment led to the mathematical models of $A = 0.3434 M-0.933$ the physical meaning for the constants in the experimental model are the representations of gravity and all the other control variables. the second experiment led to the mathematical models pictured in figure 3 and figure 4. the physical meaning for the constants in the experimental model are the representations of gravity and all the other control variables.
+this group’s (group #3) data and claims support the findings of our group. this gives our group more confidence in our claims and reinforces our claims of the physical meaning for the constants in the experimental model.
+this group’s (group #1) data and claims support the findings of our group. this gives our group more confidence in our claims and reinforces our claims of the physical meaning for the constants in the experimental model.
+possible errors (random and/or systematic) might have been if the pully did move at the same speed as the rope fell and it may have affected our results by decreasing the acceleration recorded. what could be done in the future to reduce this is to increase the force applied to increase the friction between the rope and the pulley.
+
+
+
+constraints in this experiment that may limit the generalizability of our results are the equipment provided and the program provided.  
+
+
+
+our two experimental mathematical models are consistent with newton’s second law because it is similar to .

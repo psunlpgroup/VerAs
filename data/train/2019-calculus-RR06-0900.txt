@@ -1,0 +1,18 @@
+conclusion
+
+the purpose of this lab was to develop mathematical models which describe the behavior of a real system, as well as to develop an understanding for each variable and numerical value included in the model. 
+$a = 2.96 F-0.00663$
+
+this model produced by the line of best fit in excel shows that the acceleration of the system is directly proportional to the applied force of the system according to a linear relationship. the physical explanation for the coefficient is the constant mass of the system. the physical explanation of the constant is the acceleration of the cart when the applied force is 0. this value should be 0 and the extremely small value in our model is caused by small experimental error or uncertainties.
+$a = 0.0982 m-1.65$
+
+this model produced by the line of best fit in excel shows that the acceleration of the system is inversely proportional to the mass of the system according to a power law. the physical explanation of the exponent is the inverse relationship between the mass and acceleration. the physical explanation of the coefficient is the potential downwards slope of the air track that the measurements were recorded on.
+the meaning of each variable in the equation is the following is  $a = \frac{f_g-f_f}{m_{sys}}$
+magnets on top is  $y = 1.96 x+0.00024$
+magnets in middle is  $y = 1.93 x-0.00637$
+magnets on bottom is  $y = 1.84 x-0.0384$
+the results from this group support our results because the same pattern in the trendline equations that was observed in our data can be seen in the data here. as the magnets were moved closer to the track, the y-intercept of the trendline decreased. the coefficient of x, however, remained nearly the same. due to the similar patterns in trendlines in an independent experiment, this group’s data allows us to be more confident in our data.
+even though these experiments modified different control variables over the three experiments than we did, the effect of these modifications were, in general, the same. the three equations have different y-intercept values but similar coefficients for x. this supports our group’s conclusions because it shows that our physical explanations for the constants in the equations are likely correct. this is because the coefficient for x did not change even for groups which modified different control values. since we concluded that the coefficient of x represents mass of the system, and this is a factor that should not change in any of the experiments that were run, it makes sense that this did not change in any of the equations.
+rerun all the above experiments and record all measurements again but on a different track or using a different cart. we suspect that our cart was not able to fully lift off the air track when enough mass was applied to the system, and this introduced systematic error into the results for experiment two. therefore our model’s exponent deviates from the theoretical value by nearly 50%. if this error could be corrected, our model would have been much more accurate. several factors could increase the accuracy of our results and confidence in our conclusions. for each experiment, more data points could have been collected with different mass distributions to increase confidence in the trendline equations that were obtained from each experiment. more experiments could have been run with more magnet locations to increase confidence pattern of changes in y-intercepts we saw between equations.
+constraints of this experiment include friction of the tract as well as inaccurate measurement of masses throughout the system.
+the two models remain constant to newton’s second law in that the forces of both mathematical models follow the guidelines of , .

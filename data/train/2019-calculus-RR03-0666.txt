@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+what variables will impact the period length of a pendulum?
+
+  
+
+string length vs. period length is  this experiment tested how the string length affected the period length of the pendulum. from the graph (figure 1) we can safely claim that there is a positive power correlation. this is true for angles under 20 degrees, which will be later explained under the section angle vs. period length. this is also true for any mass.
+
+mass vs. period length is  this experiment tested the mass of the pendulum compared to the period length. through our test we concluded that mass had no effect. in the graph (figure 4) the error bars show that the data is all within error and thus cannot be stated as being different.
+
+angle of release vs. period length is  this experiment tested the angle of release of the pendulum vs. its period. we found that 20 degrees and under the angle had no effect which can be seen in the graph (figure 6). angles above 20 degrees did have an affect but there was no correlation that could be determined.
+
+the mathematical model for the pendulum from the graph (figure 2) can be stated as $t=0.2028 d^{0.498}$ which is very close the theoretical one of $t=2\pi \sqrt{\frac{l}{g}}$. in figure 2 the graph has an r^2 value of 0.9999 meaning the trend line almost perfectly fits the data.
+
+ 
+
+random errors is  when measuring mass and angle of release we used stopwatches to measure time, this was rectified in the length vs. period experiment in which we used photogates to time. other random errors could include inconsistency in angle measurement because it is difficult the line the string up with the protractor. this was nullified when we determined any angle <20 degrees had no effect. 
+
+systematic errors is  when measuring the length of the strings we only ever measured to the end of the string and not to the center of mass, this was fixed in the string length vs. period and is why 5.25cm is added to every length. another systematic error was our reaction times when using the stop watch this was again fixed by using photo gates.
+
+constraints in our experiments include not a lot of supporting data for angle and mass to be able to make concrete claims. we also did not test other factors such as wind resistance, and extremes of certain values.

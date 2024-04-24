@@ -1,0 +1,24 @@
+discussion and conclusion 
+
+the purpose of the lab was to see how increasing or decreasing the mass of the hanging weight of the bobbers impacted the acceleration of the cart along the track. 
+
+the experiment and the resulting mathematical model support the research question. the research question asked how the acceleration of a system changes when the applied force changes. according to the graphical information, as the applied force increases, so does the acceleration of the system. when more bobbers are added to the hanging mass rather than the mass on the cart, the acceleration increases because there is a greater force pulling the car along the track. the graph depicts that as the applied force increases so does the cart’s acceleration.
+
+the first photo from that group’s findings seem to be the opposite correlation to what was found by my group. as the number of bobbers increase, the value of the acceleration is smaller. for the second photo, the relationship is the same as what was found with my group. as the number of bobbers increase, the acceleration increases as well. the value of the acceleration grows larger as the number of bobbers grow larger. 
+
+
+the theoretical model is as follows. 
+
+this model compares to the experimental model because it shows the correlation that the mass of the bobbers on the cart and the mass of the hanging bobbers have on the acceleration. once values are plugged into the final acceleration equation, it shows that larger a larger hanging mass and smaller mass on the cart, leads to a greater acceleration. 
+
+a force other than the hanging weight that was present was friction. it showed up in the experimental model when solving for acceleration. the frictional force that was calculated was 0.002. this value may have been too large because when given that we needed to reach an acceleration of 0.4 m/s2, it was calculated that 2 bobbers should have given that acceleration. 3 bobbers were needed to get a more accurate acceleration, which ended up being 0.436 m/s2.
+
+the mass of the system appears in the experimental model as denominator of the acceleration equation. the mass of the system is the mass of the cart + the hanging mass. this value for us was 188.6 g. 
+
+
+
+the weight of the string if it were non-massless would still remain constant throughout the trials. the string would not affect the overall uniform acceleration of the cart. the values may be different, but the trend would still stand, that the more applied mass you have, the greater the acceleration.
+
+possible random errors that may have occurred include not keeping the same number of bobbers within the system from trial to trial. another random error that may have occurred would be not measuring the mass of the cart or the bobbers correctly. a systematic error would include not measuring the mass of objects in the correct units. the random errors would be reduced through making sure the have the same number of bobbers within the system (hanging or on the cart) and taking precise measurements of the bobber and the cart. the systemic error could be reduced by making sure all measurements are taken in kilograms or converted from grams to kilograms. my group and i took all our measurements in grams. we decided to keep all the measurements in grams to keep it uniform. we had to be aware that our values were off by a factor of 1000, which we kept in mind when comparing our findings to other groups’.
+
+possible constraints that may have occurred is that the cart never endured a scenario that exceeded the mass of 7 bobbers on the system. the acceleration will not be able to be known beyond the 7 bobbers that were calculated.

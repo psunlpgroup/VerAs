@@ -1,0 +1,15 @@
+conclusion:
+ the main purpose in lab 5 was for our group to figure out what the impact of gravity has on the acceleration of the glider. we learned that as the gravity increased so did the acceleration. the purpose of lab 6 was to determine how magnets on the glider affects the acceleration and we learned that as the magnetic force decreased the glider’s acceleration decreased.
+
+ we determined how the mass and the gravitational force effects the glider’s acceleration, the first graph is the mass vs. acceleration, and we found that the they have a negative correlation. my second graph displays gravity vs. acceleration of the glider and in this chart, we found that they have positive correlation. my third and fourth graphs are about how magnets can affect the glider’s acceleration and we found that as you place more and more magnets closer to the track the more the acceleration begins to decrease.
+
+
+ 
+
+table 3 found that as the forward slant increases the glider’s acceleration increses as well. table 4 used magnets and found the same results as we did, as the magnetic force increases the glider’s acceleration decreases.
+
+ the biggest error that could have occurred in this lab is the massing of the glider. we were to use a triple beam balance which makes it hard to get an exact mass which could have affected our data by a few points if not more. next time we could use a digital balance i believe this would lessen the margin or error in our data.
+
+ no huge generalization error’s, the only thing that could have changed our data by that much besides maybe the time, if we had more time we would have been able to put more bobbers on and get more data.
+
+ all of our mathematical models that we found are directly proportional with newton’s 2nd law. in both labs 5 and 6 we found them to be equal to newton’s 2nd law.

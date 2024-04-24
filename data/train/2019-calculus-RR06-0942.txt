@@ -1,0 +1,27 @@
+conclusion:
+
+	after all tests of each independent variable were completed, it was found that all of our hypothesis’ were correct.
+
+	for first test, hanging force vs. cart acceleration, it was found that hanging mass did indeed have a positive correlation to acceleration of the system. when all of the collected data was plotted, there was a calculated r^2 value of over 0.99, showing that the data has a strong linear correlation. the line of best fit was found to have an equation as follows.
+
+$a=0.1371 f-0.0083$
+
+	the slope of the line represents one over the mass of the system. the y intercept of the equation was caused by systematic error in the system. the error that caused this was a slight slope in the air track, as because it was not perfectly level. when the data from this group was compared with other groups, there was also a systematic error in their equation, and their slope was close to the same but not exact, due to slight varying masses of the air cart system.
+
+	for the second test, of cart mass versus acceleration, our hypothesis was again correct. there was a strong negative correlation between the mass of the cart and the acceleration of the system. when all the collected data was plotted, there was a calculated r^2 value of over 0.99, showing that the data has a strong quadratic correlation. the line of best fit was found to have an equation as follows.
+
+$a=0.186 f^{0.938}$
+
+	the constant in front of the line equation represents the mass of the hanging force in kg. the exponent on the equation represents the total mass of the system. when this equation was compared to the other lab groups, the equation for the line was very similar, and the proven hypothesis was agreed upon. there was still systematic error in this test, as it was impossible to make the air track perfectly level. this systematic error affected the coefficient of the equation above.
+
+	for the third and final test in this experiment, that of testing the slope of the air track against the acceleration of the system, our hypothesis was correct. there was a correlation between the line equation for each test. this correlation lied in the y intercept portion of the equation, and as the slope of the air track increased, the y intercept decreased, so for each different test the acceleration values were lowered by a constant value. the three equations are shown as follows.
+
+$a=2.864 f-0.0057$
+
+$a=2.2858 f-0.0376$
+
+$a=2.294 f-0.0658$
+
+	as the slope of the track was doubled, the y intercept value was also doubled. this is due to the normal force of the track against the cart acting against the force of the hanging mass on the cart. when this data was compared with other lab groups, the results were the same. some other groups tested the slope so that the cart would be traveling downhill, and their had the same type of results, however their y-intercepts were positive. 
+
+	in conclusion, each test in this lab supports newtons second law, that fnet is equal to mass times acceleration, or $a=\frac{f_{net}}{m}$. this was shown because as force increased, acceleration also increased, and as mass increased, acceleration decreased.

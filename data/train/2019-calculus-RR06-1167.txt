@@ -1,0 +1,66 @@
+discussion and conclusion
+
+the purpose of the lab is to develop mathematical models which describe the behavior of a real system (force, acceleration and the mass of a hanging mass and a block) as well as to develop an understanding for each variable and numerical value included in the model (acceleration of the system and the force acting on it).
+
+the factors that impact the acceleration of the system are the mass of the block (m1) and the force on the suspended mass(m2). all other forces in the system were constant and did not affect the acceleration. the acceleration is inversely proportional to the mass of the block(m1). the acceleration is directly proportional to the force applied to the suspended mass(m2).
+
+the graphs obtained after conducting the experiments prove the findings given above. the graph for model 1 is  acceleration vs. force has a positive straight line slope equal to 1 / the total mass of the system which remains constant. this proves that the acceleration of the system is directly proportional to the force on the hanging mass(m2). 
+
+the graph for model 2 is  acceleration vs mass of block(m1) has a negative non-linear slope. this proves that the acceleration of the system is inversely proportional to the mass of the block (m1).
+
+for model 1 is  the data points pass almost perfectly through a straight line giving a r^2 value of 1. this shows that the data is highly precise and indicates that there is no extreme value.
+
+for model 2 is  the data points pass almost perfectly considering an inverse relationship between the data variables. the r^2 value obtained for this is also 1 which means the data plotting is highly precise and does not have any extreme values attached to it.
+
+from graph 3, based upon the first iteration of the experiment that analyzes the effects of forward tilt on the function of acceleration vs. force, the relationship between the two variables are exactly the same as in lab 5. where acceleration and force are directly proportional. although the constants from this experiment to the equation is lab 5 are fairly the same, the y-intercept is moderately different, which raises our groups suspicion about the value of the y-intercept value.
+
+from graph 4, after the second iteration of the experiment that evaluates the effect of the forward tilt, there seems to be a trend in which the value of the y-intercept increased as the forward tilt increases. additionally, the slope is once again similar to the mathematical models from the first iteration and the one from lab 5, which validates the notion that the slope is equal to inverse of the mass of the system. 	
+
+with the completion of our last derivation of the lab 6 experiment, there is a general equation that can be generalized to our lab set-up. the slope is practically equivalent to the inverse of the mass of the system; there is a direct proportion of the acceleration of the system and the force applied by mass 2; and the y-intercept has a positive correlation to the size of the tilted track.
+
+
+
+
+for the first model, all the groups found a linear relation between the acceleration of the graph and the force produced by the second mass. however, the slopes and the y-intercepts had a moderate amount of variation, which could have been caused by the slight variations in the external stimuli produced by each group’s experimental set-up. additionally, for model 2, all the groups who reported their data found that the acceleration was directly proportional to the inverse of the first mass; however, the coefficients varied as well. although the functions of each group varied, the overall relationship between each variable remained consistent; therefore, our claims for the correlations between variables are more validated; however, the functions we derived from this lab give us less confidence due to the moderate variance between groups’ functions.
+
+
+
+
+
+
+
+
+
+group 5 had varied results due to the impact of friction which did not affect our experiment. their data was not aligning with the data that we had because we had no friction in our set-up.
+
+
+
+
+
+
+
+group 03’s data supports the findings of our group and improves the confidence in our claims since we have more data to back our hypothesis. our equations are also very similar with values that vary in the hundredths.
+
+the rotational motor sensor has a scale error of 0.001 m/s2
+
+change in gravity
+
+air track is not frictionless
+deviations from calculated equations. they did not fully represent the theoretical models. these result in high discrepancies in the result.
+
+
+
+to improve collected evidence, it would be needed to find a more accurate way to start the path of the cart at the same time the data was collected. it was a bit of a problem as it is difficult to time the release of the cart/start of the air machine with the start of the data collection. the y- intercept value in the linear equation was a bit different than others because of this. the acceleration due to gravity was assumed to be 9.81 m/s^2 which might have been different. we did not take into account how different gravities affect the acceleration as it was not practical to do so in this experiment. the air track was not exactly frictionless which can be notices as the y-intercept of the equations in the graphs. this was a systematic error.
+
+
+the other factors that we either controlled by our group or that were held constant was the type of string, the mass of both mass 1 and mass 2, and the gravity of earth. since we consider the mass of the string negligible, then if the mass of the string was increased then the mass of the system would increase, decreasing the acceleration of the whole system. we kept the length of the string constant; however, we do not believe that it would directly impact the acceleration of the system. the last factor that we believe to impact the acceleration of the cart was the force due to gravity; we presume that there is a positive relationship between the gravity and the acceleration due to gravity.
+
+newton’s second law states that $f=ma$ which is represented in the two experimental models we have. newton’s law shows that the acceleration is directly proportional to the force and inversely proportional to the mass.
+
+our models gave similar results is  model 1 has a positive slope showing positive correlation between acceleration and force on hanging mass(m1). model 2 has a negative non-linear slope showing negative correlation between acceleration and the mass of block(m1).
+
+the minor differences between our results and newton’s second law might be due to the surface not actually being frictionless and the weights not being uniform. but our results and generally consistent with newton’s second law.
+
+our mathematical model has the set up c1*f+c2 with c1 representing 1/( m1+m2). this was the total mass of the system which stayed constant in each trial since we were only changing the angle of elevation. our lab set up concluded that c1 is equal to .0275 which stayed very constant with each model. the two values were very close given with the parameters of the lab. 
+
+when analyzing the value of c2 the most noticeable attribute is the fact that c2 increases as the forward tilt of the track increases; therefore, the value of c2 is tingent on the height of the tilt, making the c2 value of the tilt.

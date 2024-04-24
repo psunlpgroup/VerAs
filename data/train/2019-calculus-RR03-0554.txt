@@ -1,0 +1,33 @@
+discussion and conclusion:
+
+
+
+the hypotheses tested were that the angle of release and the mass of the bob would not affect the period of the pendulum and that the length of the string would have a linear relationship with the length of the period. 
+
+
+
+the angle of release vs period trials indicate that the hypothesis regarding angle of release was correct, that there is no effect on the period by the angle of release. the angle of release error bars overlap with one another, which means that the angle cannot be proven to affect the period. the overlapping error bars mean that, according to the equivalency criterion of 2 sigma, the values for each number are so close to one another that it can be assumed with a 95% confidence level that the differences between values are simply due to experimental error.
+
+
+
+the mass vs length of period trials indicate that the hypothesis regarding mass was correct. the error bars for the mass vs period graph overlap, which means that the mass cannot be proven to have an effect on the period. the overlapping error bars mean that the results are all within the range of error for one another, 2 sigma, which, according to the equivalency criterion, means that with 95% confidence the value cannot be proven to have changed. 
+
+
+
+
+
+the string length vs period trials indicate that the hypothesis regarding string length was incorrect. while string length does affect the period, the relationship between string length and period is not linear. the relationship is instead a power function, given by the equation is  $t=2.1221 l^{0.4512}$. the errors bars of length 2 sigma on both length vs period graphs do not overlap, indicating that the differences between various values of the independent variable (string length) can be assumed with 95% confidence to not be due to experimental error. however, the hypothesis is still incorrect because the relationship between length of string and period is not linear, instead is a power function. this can be seen because the r^2 value for the power function is so close to 1 (0.9992), indicating an extremely good fit between the power function and the data. a linear trendline would have a lower  r^2 which indicates that it does not fit the data as well. 
+
+
+
+the theoretical equation for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$ where t is the length of the period in seconds, l is the length of the string in meters and g is the acceleration due to gravity. converting this to decimal form and plugging in numbers for pi (3.1416) and g (9.8076) gives the equation $t=2.006 l^{0.5}$. comparing this equation to the experimental equation of
+
+ $t=2.1221 l^{0.4512}$, which has an r^2 value very close to 1, and thus means that it matches the experimental data extremely well, shows that our mathematical model is similar to the theoretical model and that it supports rather than refutes the theoretical model. it can be hypothesized that reducing errors in the experiment will bring the experimental equation closer to the theoretical equation. 
+
+
+
+random errors that impacted the experiment include friction between the pendulum string and the point from which it swivels, air resistance, a possible initial velocity imparted to the bob when releasing it, and in the mass, angle of release, and first length trials, the human reaction time which was required to time the period of the pendulum accurately. this error was reduced during the original trials by recording ten periods and dividing the time recorded by ten. then this error was removed in the second length trial by using a photogate to measure the period of the pendulum. some further possible improvements to this experiment might be conducting it in a vacuum, hanging the pendulum from a very low friction surface, or using a mechanical device to more reliably release the pendulum without giving it an initial velocity. there are no systematic errors which are known to impact this experiment.
+
+
+
+the constraint under which these conclusions are valid is that the angle of release must be 30 degrees or less. if the angle becomes higher than that, the bob may first fall, rather than swing, around the pivot point of the pendulum, but at this point the pendulum is no longer behaving as a pendulum properly does, meaning that these experimental results can be generalized to account for the behavior of other pendulums.

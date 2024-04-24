@@ -1,0 +1,19 @@
+conclusion:
+
+	after all the data collected we concluded that none of the variables included related to the period of the pendulum. our data fits with the mathematical method because of the relationship of the square root of the length of the pendulum and the period of the pendulum is linear. 
+
+	we tested the theoretical equation in our third lab and found it to be more accurate than our experiments.
+
+theoretical period for a pendulum with length of .50 m (50 cm).
+
+$t=2 \pi \sqrt{\frac{l}{g}}$
+
+
+t  is 1.419 s
+
+
+according to our experimental model,
+
+t is  1.56 s. our experimental model suggests that the period is slightly longer than the theoretical model (.141 s longer).
+
+reader 2

@@ -1,0 +1,10 @@
+conclusion:
+the purpose of this lab is to determine which factors affect the acceleration of the system, and to develop a model for what a real system would be like
+
+the three experiments each revealed their own correlation between each independent variable, and the acceleration of that system.
+
+some of the errors present include inevitable fluid friction between the cart and the air on the track, and the rolling friction between the wheel and the track.
+
+the constraints of this experiment are that each bob, weight, and tilt has their own mass or width, thus making it necessary to measure the weight and length each and every time the experiment is replicated
+
+how newton’s laws apply to this is  m2 represents the force of the system in the equation $f=m a$. m1 represents the mass. this being said, if the magnitude of f increases and the magnitude of m stays the same, then a(acceleration) must increase. additionaly, if m were to increase while f stayed the same, then a would have to decrease. this is what is tested in the first 2 experiments(respectively). for the thirt experiment, the tilt was increased, making the force applied from m2 to m1 at an angle, which would decrease it’s horizontal force(f). since m stays the same, a must decrease as well

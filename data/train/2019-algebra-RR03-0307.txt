@@ -1,0 +1,11 @@
+conclusions:
+
+what impacts the period of a pendulum?
+
+in experiment 1, we discovered that there is a direct relationship between length of the string and the period, and no relationship for mass vs. period, and angle vs. period. looking at the graph for the two variables there is a positive correlation for length of the string and period. as the length of the string increases the period also increases. when looking at the graphs for mass vs. period and angle vs. period the data points are scattered and not following a trend, so there was no correlation between the variables. in experiment 2, we focus on the error bars for the data points . the error bars for the data points on the graph length of string vs. period are all within range of each other so it strengthened the idea that there is a direct relationship between length of the string and the period of a pendulum. looking at the error bars for mass vs. period and angle vs. period error bars show no relationship. in experiment 3, we used a motion sensor to keep track of time to decrease error in the data. we conducted it for only length of string vs. period. looking at the graph for the length of string vs period the data points were all on the trendline, which increased the support for our claim that there is a direct relationship between length of string and period of a pendulum.
+
+the theoretical equation for a pendulum is $t=2 \pi \sqrt{\frac{l}{g}}$. this relates to our data because in the equation length is setup to have a direct relationship with the period. looking at our equation $t=0.1969 l^{0.503}$ we can see that our equation also includes length and period. every time the length increases the equation multiplies it and it increases the period of the pendulum. mass and angle are not included in either equations because there is no relationship between the two.
+
+looking at the error bars for all three factors. the error bars for length of string vs. period are within range of each other so that increases the support for our claim that there is a relationship between length of the string and the period of the pendulum.
+
+some constraints that may have an affect on the data for this experiment is the uncertainty of where the pendulum is being dropped from. if there was a way to measure out an angle exactly it could decrease the amount of error in the data.

@@ -1,0 +1,11 @@
+discussion and conclusion:
+
+	we were trying to investigate what will impact the period of a pendulum for small swings.
+
+	the three experiments above address the research question we propose because we would change the mass, length of the string, or the angle to see if that had any effect on the period of the swing. we claimed that for all three, if you increase them the period of the swing would also increase in time. the on valid claim was that when the length of the string increase so would the period of the string, as seen in figure 1. the other two experiments had such a small difference in time throughout all the trials we determine it to have no affect on the period of the swing, as seen in figure 2 and 3. 
+
+	the theoretical mathematical model our group discover was the polynomial function of             -.00006x2+.0194x+.6805 after using the photogate. the r2 value was .999 so it had the best fit as you can see in figure 1. for the factors that had no affect on the period of the swing there r2 values were .77 and .40 so they had no really correlation with the period of the swing.
+
+	the errors we could have gotten from this lab random error because after we removed the protractor from the targeted release angle, there could have been a chance that the value was changed by human error. so, the way we tried to reduce that was taking multiple trials at that certain angle and taking the average.
+
+	some constraints that could have impacted our was time because with a small amount of time we were only able to take small amounts of data, but if we had a large amount of time we could have more data.

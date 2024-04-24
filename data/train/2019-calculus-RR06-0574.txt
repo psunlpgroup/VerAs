@@ -1,0 +1,19 @@
+discussion and conclusion
+
+	the point of this experiment was to determine the relationship between the mass acting on an object and the acceleration between said object. this was determined by doing two different experiments. one was to have a mass pulling the cart, and then the other was simply putting weight on the cart itself. so, when we did the hanging mass portion of the experiment, this determined how the acceleration changes when a larger and larger mass pulls on the cart. after this part of the experiment was completed, we can safely say that as the weight on the hanging mass increases, the acceleration of the cart will increase, due to the fact that a larger force will be pulling the cart to the end of the track. the error bars in the graph are too small to see, inferring that the data is very accurate and precise. below are pictures of data that other groups found, which supports our claim that the acceleration increases as the weight pulling on the cart increases. 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+in the scenario that a heavy string would connect the hanging mass, it would have the same affect on the acceleration. no matter how, if the weight increases on the hanging mass increases, the acceleration of the cart it is pulling will increase. some errors that could be present would be the draft present in the room. this would cause the hanging mass to sway, which could potentially cause the cart to be pulled in an odd manner. there really is no realistic way to reduce this error. however, the most prevalent error would be that the track that the cart was on potentially could not have been totally frictionless. this could be a random error or a systematic error, depending on how much friction was present during separate measurements. the only way to reduce this error would be to use better equipment. some constraints of this experiment were the materials that were provided to us to perform the experiment. when we were placing weights on the cart, instead of having all 100g masses, we sometimes had to use two 50g masses, which depending on the accuracy of each individual mass, could have skewed the results. however, for ease of measuring of recording, we simply said we went up by 100g each time.

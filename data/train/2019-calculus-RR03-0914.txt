@@ -1,0 +1,19 @@
+conclusion
+
+in this lab we investigated whether the period of a pendulum is affected by certain factors such as mass, angle, and/or length.
+
+
+
+we addressed the research question, by keeping testing each factor, and when we tested them, we kept the other two factors constant while only changing the factor that we were testing. this way, we would only see the effect of one factor as it changed. we claimed that length was the only factor that affected the period of a pendulum. this can be seen from the graphs, since you can see a positive correlation on the graph of length vs period, while the graphs of mass vs period, and angle vs period showed no correlation. this claim is valid when there is no interference with the pendulum’s path, the pendulum was dropped from 30 degrees or below, and the force of gravity on the pendulum was -9.8 m/s^2.
+
+the theoretical model for the period of a pendulum is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$. the equation we found was 6.3349*(x)^ (.4918). so, converting the lengths from inches to meters, then plugging them into the two equations, shows that our periods are closer to the result of our equation rather than the theoretical equation. for example, testing 8 in. which equals .2032 m, then plugged into the theoretical equation the result is .905 s and when plugged into our equation the result is 2.89 s. 2.89 is closest to our recorded period of 2.11. we see the same thing occurs when the values from our third experiment using the photogate are tested. we can not really tell how the data from the graphs of angle vs period and mass vs period fit with the model since they are not a part of the equation. but we can reason that they don’t fit very well since there is no correlation between mass and period, and between angle and period, and the graphs go almost horizontal so the equation of those graphs are likely very different from the theoretical equation.
+
+
+
+random and systematic errors were both present in our experiment. for our first 2 experiments there would have been random error due to humans using timers to record data to find the period. this would cause our recorded periods to be slightly inaccurate. this random error can be removed by having some electronic tool that would measure the period, since that would be more precise than humans. this is what we did in the third experiment, we used the photogate that recorded the period of a pendulum swing and removed the random error. but this is where we encountered systematic error, because the photogate appeared to be uncalibrated. this could be solved by either using a new different photogate that we know is calibrated correctly, otherwise we could correctly calibrate our photogate to the point that we don’t encounter any more systematic error.
+
+
+
+
+
+some constraints in this experiment that could limit the generalizability of our results would be time, space, and the limit on mass and angle. if we had had more time to perform our experiments, we may have been able to perform more tests, be more exact in our measurements, and possibly get an equation that is closer to the theoretical equation. if we would have had more space, we could have tested longer lengths of string to make a more detailed graph that would be more showing of how the period changes as the length of the string changes. we were limited to only 250 grams of weight, so if we could have tested larger masses, we would be able to more conclusively determine whether mass has any effect on the period of a pendulum. we could only test angles of 30 degrees or less, if we could have tested angles larger than 30 degrees, we would also be able to be more conclusively determine whether the angle affects the period of a pendulum.

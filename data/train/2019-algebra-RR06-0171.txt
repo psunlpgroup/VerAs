@@ -1,0 +1,25 @@
+discussion and conclusion
+
+research question: develop mathematical models which describe the behavior of a real system as well as developing an understanding for each variable and numerical value contained in the model.
+
+
+
+the purpose of lab 5 and 6 was to be able to develop mathematical models that describe the behavior of a system. in lab 5 we wanted to create a model that would describe the behavior of a system as the hanging weight or applied force was changed. we also created a model for the behavior of a system if the total weight of the car was changed. we also wanted to identify the meaning of the numerical values in our models. we conducted lab 6 to answer this question.
+
+for our first mathematical model we tested the affect that hanging weight had on the acceleration of the system. we determined that in our mathematical model the dependent variable in the acceleration and the independent variable is the hanging weight. we determined that the coefficient of the mass is total mass of the cart. and the second numerical value to be friction. the way that we obtained each equation was by using excel to create a line of best fit. the accuracy of these lines can be checked by looking at the r2 value. this value when very close to 1 shows a that the line represents the data well. in all our graphs we have a high r2 value for example if you look at graph one you can see that r2 is .9987. this confirms that our mathematical model represents our data accurately.
+
+in lab 6 were able to look at two other teams’ results.
+
+  
+group 1 tested the affect that slope had on the mathematical model. there conclusion states that the greater the slope in the positive direction the smaller the acceleration. there evidence is that when the increased there slope the mathematical model stayed consistent, but their y intercepted changed. this would support their hypothesis that the slope of the track is the numerical value in the position of a y intercept in a linear relationship.
+
+
+
+group 2 tested the affect that a change in friction would have on the mathematical model. they came to the same conclusion that our group did. that friction does not affect the mathematical model. however, their evidence contradicts this claim. if you look at their mathematical model as friction is added the y intercept becomes less negative. this would suggest that friction could represent the y intercept in the mathematical model. 
+
+
+one random error that i believe could impact our model is the fluctuation of air flow from the track this was made clear to us during lab 6 when testing our first trial we noticed that the airflow was less than when we continued to take the same trial later. thus, resulting in a slower acceleration. to reduce this error, we conducted a second trial and averaged the answers.
+
+one constraint is the effectiveness and reliability of the track and cart system. we assumed that for both labs we had the same cart and that the air track produced the same flow of air but we did not keep track of these explicitly and if this was conducted again the results may vary.
+
+newton’s second law of $f=m a$ relates to our experimental models by taking the mass of cart/ and the hanging mass we were able to experiment with the acceleration to be able to achieve the force of the equation. the difference between newton’s second law and our experiment is that in his law he ignores other outside forces. his laws neglect that outside forces would impact the calculations such as friction. with our experiment, those calculations are not ignored, and the overall equations from excel count for these forces in our data.

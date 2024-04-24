@@ -1,0 +1,21 @@
+discussion and conclusion:
+
+	over the past three weeks, this lab has been answering the research question of “what impacts the period of a pendulum for small swings?”. the first lab concluded that the only independent variable that affected the period length of a string was the length of that string. each experiment of testing string length, pendulum mass, and release angle was graphed and the error bars and average period lengths helped prove the relationship between string length and period length. there was a slight overlap in error bar with the string length graph, figure 1, but errors discussed in lab two may help show why this occurred. overlap in error bars in graphs 2 and 3 show that there is no correlation between the pendulum mass and release angle of the pendulum with the period of length.
+
+	in lab two error analysis was gone into detail on what could have occurred during the experiment that may have given skewed or incorrect data. a list of systematic errors that could have possibly taken place are is 
+
+length of string could have been not exactly at desired height
+
+damaged stopwatch
+
+stopwatch could have not started/stopped exactly at the moment of release/catch of the pendulum (can also be random error)
+
+a list of random errors that could have possibly taken place are is 
+
+string angle could have been not at exact measurement when pendulum dropped
+
+pendulum could have been caught at different spot than dropped
+
+several things were done to help eliminate these errors like taking the average time of three trials, replacing damaged items with working ones, and using a degree of uncertainty and error bars to show how data could fluctuate in either direction.
+
+	using the photogate device in lab three also helped improve accuracy of time in the experiment and this truly showed when the data collected was graphed. like stated above, the graph in figure 4 shows a non-linear relationship between string length and period length. the graph fits a     $y=x^{0.5}$         curve and the variables in the equation derived from the plotted line matches very well with the theoretical mathematical model line. both exponents are close to 0.5 which makes the curve of the graph and the coefficient also matches the coefficient variable in the theoretical model as well. the equation for the figure 4 graph is $t=0.2711 x^{0.4438}$ and the theoretical mathematical model equation is $t=2 \pi \sqrt{\frac{l}{g}}$. in conclusion, the length of string impacts the period of a pendulum for small swings.

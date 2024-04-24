@@ -1,0 +1,29 @@
+discussion and conclusion:
+
+what factors affect the period of a pendulum?
+
+
+
+our first experiment had the weight of the pendulum as the independent variable and time as the dependent variable. we predicted that the bigger the weight, the bigger the period. we soon figured out that we were wrong, and the times were inconsistent, but just about the same with the error bars. after taking some data we plotted the points on an excel graph and it was confirmed that the values did stay the same with the error bars factored in. see figure 1 for reference. 
+
+
+
+the second experiment we did had the angle of the pendulum as the independent variable and the time (period) as our dependent variable. we first predicted that the with the larger the angle, then the larger the period. we soon realized that we were wrong because as we tested larger angles, the period grew by less and less. it was more like an exponential function on its side. we had a clear understanding of this when we plotted out the points on excel and saw it for ourselves. it was weird though because when we would try and angle under 25 degrees, then the period would stay about the same factoring in the error bars. thus, the angle only affected the period of the pendulum when the angle was greater than 25 degrees. anything less than that would not affect the period. see figure 2 for a detailed look at the graph. 
+
+
+
+our third experiment had the string length as the independent variable and the time (period) as the dependent variable. we made a prediction at the beginning that stated that the longer the sting is, then the longer the period would be. we felt good about this prediction after we tested and took data. we felt even better after we plotted our data in excel and saw a positive correlation. see figure 3 for a look at the graph. we also felt good about this experiment because we used a photogate to time the period instead of a stopwatch with lots of human error. when we took out this human error, the error bars on the graph we a lot smaller and we had a better correlation from that. we saw this because we used excel to graph the data. 
+
+
+
+when we ran our final experiment with the photogate software, we were able get a much lower error. so low of an error that we could barely even tell that there were error bars on our graph. we used excel to calculate the expression of the curve that was off of this graph. we got a result of $t=0.92186336 l$. the theoretical formula for the period of a pendulum is $t=2 \pi \sqrt{\frac{l}{g}}$     . in this case that is calculated to be  $t=2.01 l^{0.5}$       which is close to our formula from excel. also from excel we found our r value being 0.999. this r value is supposed to be 1 if the module is perfect. we are very happy with our results of 0.999. 
+
+from our previous labs, we have found that in every experiment we did, the weight of the pendulum did not affect the time (period) of the pendulum. because of this, we can rule that in any upcoming labs that we do not need to take the weight into account if the weight stays the same in all instances. 
+
+
+
+one way  we could reduce error is by having a set position to drop the pendulum from for each angle as opposed to measuring every time. this could have been fixed by measuring once and putting something there to indicate where we need to drop the pendulum in the future. another way that we could reduce error would be to use more than two stopwatches. our group only used two stopwatches when finding the period and then averaged the two. we could fix this by averaging more than two stopwatches or using a photogate like we did in the last experiment.
+
+
+
+there were three big constraints that i found. i found that the time that we had is very limited so we couldn’t take as many measurements as we wanted to. we were also constrained to the weight of the pendulum. we could really use more weight then what was given to us and that didn’t very too much. the third constrain that i realized was the height of the string. we could go much higher because we used all the string that was given to us.

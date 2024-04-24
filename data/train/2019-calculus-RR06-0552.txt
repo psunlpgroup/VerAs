@@ -1,0 +1,15 @@
+discussion and conclusion
+
+the purpose of the lab was to develop mathematical models that would describe the behavior of a system set into motion by a measurable force as done in lab 5, and to understand what each part of the model represented as done in lab 6.
+
+for the models derived from lab 5, these were found by recording the acceleration a cart produced when the cart’s mass was constant and pulled with a variable mass due to the force of gravity, and when the cart’s mass was variable and pulled with a constant mass due to the force of gravity. the equations derived from this were  and  as seen on graphs 1.3 and 2.3 respectively. this relates the gravitational force on an object to its acceleration. 
+
+the image to the left, as well as the data shown in image 3.4 are data that was collected by other groups. the data from the left is from group one, who was testing the impact of slope on the equations calculated from graph 1.3. this shows that the second numerical value for the equation is dependent on the angle of the track. the data from image 3.4 shows data that was expected for magnetic force’s effect on the equation generated in graph 1.3. this shows that the second numerical value for the equation is also dependent on the force that resists motion, which in this case is the magnetic force produced on the cart by the magnets. this can be used to determine the second constant as the initial force on the object due to effects such as gravity and magnetism.
+
+one major error in the lab, is the misunderstanding of the magnetic portion of lab 6. the data here cannot be trusted well due to the small amount of data points recorded, and the setup of the experiment as well. in the future, clarification should be asked when conducting the lab to make sure that each group member understands what is happening in the experiment, and so the experiment is conducted properly. along with this, error such as the track not being level will cause the equation to be off. this can be corrected by leveling the track before starting the experiment, and then conducting the experiment to get an equation closer to $a=\frac{f}{m}$.
+
+constraints in the experiment that may limit the generalizability of the results would be the force of the magnets (as we found them to be very weak), the small amount of mass able to be attached to the hanging part of the system, and the effect of outside forces on the cart.
+
+the first model that was found using graph 1.3 is consistent with newton’s second law of motion because if the intercept is ignored, then the equation simply becomes
+
+  where the mass of the system is constant. equation two is a little more confusing but still follows the same system, where the force of the system will result in a lower acceleration. so the value of x increases and will create a value of y that becomes smaller.

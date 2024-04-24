@@ -1,0 +1,19 @@
+conclusion:
+
+from the results of this experiment, it can be concluded that the relationship between force applied (n) and acceleration (m/s^2) is a positive and linear relationship. as the applied force on the system was increased, the acceleration of the system increased as well. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+conclusion:
+
+the purpose of this lab was to find how the acceleration of a system changes as the force applied on the system changes.
+
+	in the experiment, a hanging bob was connected to a sled, which was placed on an airtrack, via string. the string was then placed over a pulley which measured the acceleration as the bob pulled the sled across the track. the airtrack was used to reduce friction to a negligible amount. the total mass of the system was kept constant by moving mass from the sled to the bob and vice versa, which changed the applied force. since the acceleration was being measured, however, the applied force of the system had to be solved for by using the equation of newton’s second law is 
+
+
+
+this directly gives a relationship between the applied force and acceleration of the system. after recording several accelerations and solving for the respected applied forces, the data was graphed with applied force on the x-axis and acceleration on the y-axis. as seen in graph a, there is a clear and direct relationship between the force applied to a system at constant mass and the acceleration of the system is  as the applied force increases, the acceleration increases, in a linear manor. 
+
+	the results of all the groups shown support the claim that as the applied force of the system increases, the acceleration increases in a linear manor. this is shown by all graphs having a positive, linear relationship.
+
+	the experimental model obtained was $a=5.2529 f - 0.0096$ where a is the acceleration and f is the applied force. the theoretical model for this experiment is newton’s second law equation is  
+
+
+
+since the mass is constant, it is not accounted for in the experimental equation. the additional forces which may be present in the experimental model would be air resistance, which is seen in the y-intercept. a non-massless string connecting the hanging mass to the cart would cause the acceleration of the cart to increase as more of the string passes over the pulley, more force is applied to the system by gravity due to the increased hanging mass. 
+
+	some systematic errors which were present are that there was still some friction present, via air resistance, making the data imperfect. however, the only was to reduce error due to air resistance any more than already done would be to perform the experiment in a vacuum.
+
+there were no constraints in the experiment which would limit the generalizability of the results, as frictional forces were adequately accounted for to create a general relationship between the two factors of applied force and acceleration.

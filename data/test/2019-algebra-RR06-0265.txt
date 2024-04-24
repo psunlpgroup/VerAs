@@ -1,0 +1,17 @@
+conclusion:
+for lab 5, we had two research questions of what independent variables had an impact on the acceleration of the glider. when we performed the two experiments for lab 5 we found that as changed the number of bobbers on the string then the acceleration of the glider on the air track increased as well and we can see this by looking at figure 1 and table 2. looking at figure 1 the r^2 value was 0.9999 and this means that our data was extremely close to the trend line. then we also found that as we increased the amount of mass that we put on the glider then the acceleration will decrease and we can see this through figure 2 and table 4. then looking at figure 2 the r^2 value was 0.9594 so this means that we are close to the trend line. in the experiment for lab 6 we were looking at how the tilt of the air track would affect the acceleration of the glider. in tables 6-9 you can see that we took three different tilts to see how they affect the acceleration which as you can see the acceleration decreases as we increase the tilt of the air track. 
+
+
+
+
+		in table 3 findings they were looking at how as they increased the slant of the air track then the c2 value also increases which is exactly what my group was experimenting with for lab 6. one thing that they did differently was that they measured their slants are measured in centimeters and my table measured the slants in millimeters. 
+
+
+
+
+
+in table 4 findings they were looking at how if they increase the applied magnetic force then the acceleration of glider will decrease. for table 4 they looked at the effects of 0 magnets, 2 magnets, and 4 magnets had on the acceleration of the glider. my group didn’t look at this side of lab 6 we were looking at how tilting the air track had an effect on the acceleration of the glider. 
+
+
+
+some errors that could have occurred during these experiments could have been not using the data studio correctly, not letting the cart start at 600 ft. mark on the air track. then not knowing when or even how to use the data studio program and starting at any different starting point then we would get a bigger or a smaller reading for the acceleration on the data studio system and that would affect our data that use for our graphs. the things that we did to reduce was making sure we always started at 600 ft. for when we started the air track and make sure we were paying attention to directions for how you properly use the data studio to make sure all our data marks are correct. i can’t really think of any constraints that happened during these experiments.

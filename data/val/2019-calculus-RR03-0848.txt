@@ -1,0 +1,20 @@
+discussion:
+
+-the only possible errors that could have occurred in our experiment would be incorrect measurements of the string length along with a consistent release of the string. if there was a device that could release the string consistently, there would be almost no room for error.
+
+-in order to best correct any error that occurs in the experiment, this experiment should be run many more times. this would decrease our overall error which should bring the equation of our experimental model closer to the equation of the theoretical model.
+it was concluded that the angle of release and the mass each don’t have any visible affect the period of the pendulum. however, string length does happen to have a power relationship to the period. this is found to be true under the specific set of conditions, such as constant mass, and indoors testing environment, with acceleration of gravity being constant, along with using the string given.
+the results have proven to be accurate because the experiment has been run through multiple trials with different lengths of string. along with this, the uncertainty was found to be only 0.001 seconds for time and .5 cm for length.
+there are no other testable variables besides gravity that have a direct effect on the period of the pendulum based on the predictions made. this is what led to our claim that the length of the string is the only variable that directly affects the period’s length.
+the mathematical model describes how the string’s length has an effect on the period of the pendulum. this is because our trendline fits very well and is supported by an r squared value of 0.9925.
+our group wrote variables that didn’t have an effect on the period as well as the slope of the graph, the r squared value, and the standard deviation of length.
+group 1 had a similar claim but differed in their values for the constant and exponent in their equation. this groups helps to show that the string length does in fact have an effect on the period.
+much like group 1, group 5 also had a statement that related directly to ours. their formula helps validate that ours is very close to the true formula for period of a pendulum, since our data is close to the true formula.
+because the force of gravity is lower on the moon than it is on earth, the pendulum would experience a smaller force of acceleration. as a result the period would be increased due to the fact that it would then take slightly longer for the pendulum to travel.
+
+$t=2 \pi \sqrt{\frac{l}{g}}$
+the prediction stated directly above for how acceleration due to gravity impacts the period was found to be correct. this can be determined because the value for gravity is in the denominator of the equation and as gravity decreases, the period will increase.
+in the equation, the length is to the power of nearly one half (the true value) at only 0.43. this leads us to believe that our data is close to the actual formula for determining the period of a pendulum.
+theoretical model is $t = 2\pi * \sqrt{\frac{0.50}{9.8}}$ is 1.4192 seconds
+experimental model is $t = 0.2919 * 0.5^{0.4307}$ is 0.2166 seconds
+the results vary from the theoretical model by -84.741%.

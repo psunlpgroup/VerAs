@@ -1,0 +1,11 @@
+discussion and conclusion
+
+what affects the period of a pendulum?
+
+for each of the three variables, string length, mass, and angle of release, we isolated whichever one we were testing and kept the other two the same for each trial. for each variable we took the time of three periods five times, then divided each one by three and averaged them out to get a reliable period that wasn’t affected by the random error of a human using the stopwatch as much. figure 1, length vs. time was the only variable that had a positive correlation between the tested variable and period time, while the other two, figure 2 and 3, had a relatively flat line, showing no increase in period for an increase in mass or angle of release. 
+
+the mathematical model created from our graph (figure 4) is $y=0.5692 x^{0.31113}$. as you can see by the closeness of the line of best fit to out data points any value, within our tested range of 3 to 15 inches, that you plug into our formula will produce a time that is within our error bars.
+
+a random error during this experiment is our reaction times while testing the period with a stopwatch, to reduce this we took the time for three periods and divided the time by three. another random error was having to eyeball the angle of release, this was corrected by having a specific stop we put the protractor for every trial. 
+
+our results are only valid if the angle of release is less than or equal to thirty degrees.

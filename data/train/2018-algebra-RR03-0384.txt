@@ -1,0 +1,16 @@
+discussion and conclusion
+
+
+
+the research that we investigated in this lab was which variable could affect the period of the pendulum swing by testing the length of the string, the weight attached on the pendulum, and the angle of drop.
+
+
+
+from looking at the results of the graph length of string vs period it is apparent that the string length has a definite effect, though small, on the time of the period. the graph of weight vs period can not tell us distinctly that the weight put on the bottom of the pendulum has any effect of the period of the swing. finally the graph of angle vs period can also not tell us that the angle has a significant effect on the period of swing. 
+
+theoretical model is $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$
+
+2π/√g is 0.2007cm per seconds squared
+for the graph of string length vs pendulum the relationship of y is directly proportional to x. the curve of is not directly linear. the graphs of weight vs period and angle vs period does not show any relation so it did not impact the period of the pendulum.
+our random errors that could have affected the period of swing could have been overshooting/undershooting the angle of the pendulum when dropping it, the weight that was added could have been by a fraction of the original weight that was intended. the systematic errors that were present were the precision of the measuring tape used to measure the length of string and consistently starting/stopping the timer at the exact right time. to reduce the timing error we could give two timers to one person. we could also use a scale to measure the exact weight of each weight used. use a more precise measuring device. finally to make sure the same person drops the pendulum each time. 
+constraints that could limit the generalizability of our results could have been the force of friction from the top of the pendulum where it was connected which could have made the results a fraction slower than the actual time.

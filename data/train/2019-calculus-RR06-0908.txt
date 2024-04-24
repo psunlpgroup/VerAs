@@ -1,0 +1,14 @@
+conclusion:
+the purpose of this lab was to see what affected the acceleration of a system pulled by a set of weights along a frictionless track. the lab was conducted to see how a real system would behave under different conditions. following the first tests we then decided to test an additional variable to discover what the constants in our representation meant. when completing these three experiments we found 3 equations. in graph 1 it is shown as .186x.-.938 and this can be displayed as c1xc2. c1 can be shown as the force applied or newtons and the x can be shown as 1 divided by m and therefor the system is left in m/s/s. in graph 2 and 3 the equations can be modeled by the form of c1x – c2 where c1 is the mass of the system, x is the force applied, and c2 is the opposing force, which in this case is friction. 
+
+
+
+
+
+two groups tested the retarding force by magnets and two groups tested tilt in the opposite direction. as you can see by the equations on their boards, as tilt increased forward the acceleration increased, and as the retarding force increased the acceleration decreased. if we look at c2 for the tilt groups, you can see how the friction force was confirmed by how this value either increased or decreased depending on the direction of tilt thus confirm our assumptions. 
+
+there was little to no error in this experiment, but a few small things that occurred were the track being scratched added friction, and the balance not being accurate therefor adding or subtracting mass from the system. to combat these errors, we tested on the same track every time and used the same balance, so that if we had any slight errors, they would be consistent across the board. 
+
+in these tests we were limited to how much mass we could add there for we only saw a small range of changing masses. we can say our data is true for these small masses but not generally for a larger system, for more mass would need to be tested. 
+
+newtons second law states that the sum of the forces is equal to mass times acceleration which is consistent with our model equation in graph 2. the sum of the forces is c1 and c2 and the mass is x.

@@ -1,0 +1,11 @@
+discussion and conclusion
+
+
+
+for both parts of the newton’s laws labs we wanted to tell if the system would change of we change the applied forces of the system, which in this case was force. our first experiment, we used a weighted block and 7 equally weighted bobbers to test the effects that force has on the acceleration on an entire system. we conducted 5 different trials. each trail increasing the number of bobbers on the end of the string, each bobber having a weight of .00485 kg. this method allowed us to test maintain a constant mass of the entire system while adjusting the force of the hanging mass.
+
+ from our data table above we concluded that the force in newtons is directly correlated with the average acceleration of the entire system. we can confirm our hypothesis also by looking at the experimental data concluded by two other groups that conducted the same experiments. 
+
+we see below the data collected by group one and group archer that both experimental mathmatical models correlate closely to the theoretical model along with our model ( $y= 5.1539 x-0.051$). in all of our experiements we see a y intercept value in each equation, but no y intercept in the theoretical equation ( $f=m a$). the systematic and random errors of each of our experiements caused our equations to have y-intercept values. besides the force of the hanging mass, gravity was also present in our experiment. so, in order to calculate the force in newtons we mutipled the force of gravity by the weight of the hanging mass. without weight of a hanging mass, the acceleration of the system would have remained constant.
+
+in lab 6 is  newtons law part 2, we were given a spefic acceration of the 0.541 m/s^2, and had to figure out the hanging mass using our experimental model from the previous lab. we used the constant mass of the cart and pluged it in to find the mass of the bobbers needed to hang on the end of the string. we found the missing variable to be 20 grams, or 0.02 kg. since we know that one bobber had a weight of 0.00485 grams we concluded that having 4 bobbers as the weighted mass on the end of the string would give us our target acceleration. after testing our hypothesis we received an acceleration of 0.581 m/s^2 which was only a 0.04 difference from our target acceleration.

@@ -1,0 +1,13 @@
+discussion
+
+	
+
+	the research question that was being investigated in this lab was what impacts the period of a pendulum for small swings. to answer this question, we performed three different labs to help us complete this task. in the first lab, groups came up with three different factors that could be tested that would affect the period of a pendulum. these three factors were the length of string, mass, and the angle of release. in order to test how each of these individual factors affected the period of a pendulum, we focused on testing independent variables. when observing the data from table 1a and figure 1, the graph depicts a positive, linear correlation between the length of the string of the pendulum versus the period time. an r-squared value of 0.97 indicates a strong correlation because it is very close to 1. when observing the data from table 2a and figure 2, there is no correlation. a very low r-squared value of 0.0071 supports that there is not a correlation between the period and the mass of the pendulum. for table 3a and figure 3, the data set also has no correlation. at an angle release of 5˚ the average period time was 1.89 s. this is also true when the pendulum angle of release was 15˚. during the second lab, one of the objectives was using the photo gate system and using a set of controls. using a series of tests with the same controls including a pendulum weight of 200 grams, a string length of 90 cm, and an angle of release of 15 degrees, we determined an r-squared value of 0.0609 with an equation of $y=1.2647 - 0.0085 x$.  
+
+
+
+	in our third lab, we determined the relationship between the pendulum length and the period. this time, we used the photo gate system again. the data from table 5a and figure 5 portrays a positive linear correlation. the data includes an outlier which caused the r-squared value to be a little lower than the theoretical value. the uncertainty for this part of the experiment was 0.001 seconds. 
+
+
+
+	errors that could have occurred in this lab could be either systematic or random. an example of a random error in our experiments could have been changing the measure of the angle in between trials. this could be resolved by making sure to measure the angle in between every run. an example of a systematic error that could have occurred pertained to the accuracy of the period measurements. human error was eliminated from the trials completed in lab three by using the photogate system, which has a 0.001 scale error it accounts for.

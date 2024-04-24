@@ -1,0 +1,19 @@
+discussion and conclusions
+
+research question is what effects do pendulum length, mass, and angle of release have on the pendulum’s period?
+lab 1 experiment 1 (mass graph) shows a lack of correlation between mass and period for the tested data. we can claim mass is unrelated to period length.
+
+lab 1 experiment 2 (angle graph) shows a lack of correlation between angle of release and period. we can claim angle is unrelated to period length.
+
+lab 1 experiment 3 (length graph) shows correlation between the increasing length and increasing period in the data collected. we can claim the length is related to the period. 
+lab 2 (length vs period graph) shows the variability in our measurement of time with a consistent length of pendulum. we can claim there is random variability impacting our results. 
+lab 3 (period vs length graph) shows the reduction in random variability from the use of a photogate. we can claim this change in our experimental design reduced random errors.  
+theoretical mathematical model of a pendulum is  $t=2 \pi \sqrt{\frac{l}{g}}$
+our data does not fit this equation well. because of the limited length of our pendulum, the most accurate fit to our data is linear as seen in the period vs length graph, which does not fit the theoretical model. our equation was $y=87.8 x + 66.1$. the mass and release angle do not appear in the theoretical equation, and this concurs with our data collected. 
+number of tests is  each variable could be retested with the same design and averaged to reduce this error
+tests could be performed in a vacuum chamber to reduce this error
+instead of human hands, use a release device to more consistently drop the pendulum
+suspend string from point is  suspending the string from a point narrower than its diameter would reduce the wobble in the string at the top, and give more consistent results
+measure string and weights more precisely is  by using superior measurement devices, we can reduce the systematic error that comes from an improperly tuned balance or stretched tape measure.
+isolating the apparatus, with rubber feet from, vibrations that cause consistent harmonics, like hvac systems, could reduce systematic errors these waves could cause.
+this data limits the generalizability of our conclusions. we did not test for lengths below 11 cm or above 190 cm, which would show data closer to the limits of the mathematical model and allow our fit to the trendline to show the correct equation. we also did not test release angles above 90 degrees or masses above 150g, and thus can not conclude that these do not have an effect on period beyond some critical magnitude in each variable.

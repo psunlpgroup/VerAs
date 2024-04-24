@@ -1,0 +1,16 @@
+conclusion:
+the purpose of this lab was to develop mathematical models that describe the behavior of the system we were working with.  it was also to develop a further understanding of how each variable affects the acceleration of the glider.
+
+lab05 graph 1 is  2.8729x-0.0146 linear
+
+	lab05 graph 2 is 4.2747x^0.352 exponential
+
+	lab06 graph 1 is  3 lines with all similar slopes/about parallel 
+ 	
+
+all of their slopes were very similar but the was a more drastic change when using the magnets to act as friction.  it was proportional though.
+systematic and or random error could have arisen when weighing the bobbers.  the could have been systematic error on the air track.  possibly there was some more friction than expected because of this error.
+
+ limited amount of time to complete lab which means less trial and less accurate data. limited amount of weight given to use.
+
+ the two experimental values were linear just as $f = m_{system} a$ is when msystem is the constant.

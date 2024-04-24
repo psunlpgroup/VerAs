@@ -1,0 +1,17 @@
+discussion and conclusion 
+
+
+
+	the purpose of this lab was to further research into what variable directly affects the period of the pendulum. the three variables tested for were mass, angle, and length. these variables were carefully tested alongside the period and graphed for further data. looking at the graphs it is evident that the period was only affected by the length of the pendulum. the graphs of the other two variables, angle and mass, proved no significant affect to the period. 
+
+	
+
+	ideally, the period of the pendulum should model an equation is  $t=\frac{2\pi}{\sqrt{\frac{g}{l}}}$, where length directly relates to the time of the period. given that there is that relationship it can be further concluded that yes, length does directly affect the time it takes for a period of a pendulum to cycle. given in figure 5, the equation derived is $y=0.0145 x+0412$ of the line of best fit. in conjunction with this equation, the r2 value was found to be 0.9982. in essence, the closer the r2 value is to 1, the more correlation the points have to each other and the less error present within the experiment. error that could have possibly occurred in this run of the lab would most likely fall under the category of random error which includes wind within the lab that could have skewed results slightly. the reason figure 5 was more closely looked at was because it shows the correlation between the period and the string length unlike the angle and mass fail to show. 
+
+
+
+	this lab along with some of the results are not perfect which is a result of the presence of both random and systematic errors throughout. luckily, with the use of a photogate towards the last experiment, some of the random error was eliminated. the photogate automatically timed and counted the periods of the pendulum which eliminated some of the error of letting go at the wrong time or starting the stop watch too early/late. along with the random error, some systematic errors arose within the course of the lab. one of which happened to be the set up of the pendulum. if not carefully strung in place, the pendulum tended to swing at sideways angles which resulted in skewed results, and sometimes, when caught, a retrial which took up more time. the results of said error explain all the skewed results in experiment 4.   
+
+	 
+
+	after all trials have been run and the graphs have been drawn, it is easy to conclude that the varying length of the pendulum is the factor that affects the period. the r2 value is what is looked at the most closely to see the correlation. since the r2 value for the length was extremely close to 1- that proves that there is a strong correlation between the length and the period. as with the angle and mass, both of their values trended further away from1 which proves it had no affect on the period.

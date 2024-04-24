@@ -1,0 +1,19 @@
+discussion and conclusion
+
+a. the purpose of the lab was to determine how acceleration of a system changes when mass changes. the mathematical model is $y=2.9498 x - 0.037$ where the slope is the acceleration and the b value is based on the tilt of the track and the external forces acting on the system. 
+
+b. the three experiments led to our mathematical models because we tested the acceleration with the weight of just the system and tested with tilt of the track. figure 1 and shows that the acceleration of the constantly increased as more weight was hung over the edge of the track. the acceleration was shown in the value of the slope and the b value showed that there was some outside force causing the acceleration to change.
+$a=2.863  f - 0.0053$
+$a = 2.863 f - 0.0632$
+model 2 is $a=2.862 f - 0.0358$
+$a = 2.8717 f - 0.0255$
+model 3 is 
+
+$a=2.831 f + 0.1101$
+$a = 2.899 f  -  0.1228$
+group #4 and group #6 findings confirm our prediction and hypothesis of the lab because they had similar values to our group. this proves that our mathematical models and an understanding for the numerical values are accurate.
+ errors that may have been present in our lab could have been that each bob was a drastically different weight. we went in a random order to switch our bobs from one end to the other and that may have caused an inconsistency in our data collection. this would have caused random error because two bobs might be the exact same weight and then you could come across a bob that weighed significantly more or less. this could be reduced by weighing each bob individually and going in the same order every time. other errors could have been improper air flow to the track or not waiting long enough for the air to be fully on. these systematic errors could not be realistically prevented unless we used the newest equipment.
+
+ some constraints were that we had to test on a small scale system with varying effectiveness on our air tracks. we also personally had string that was broken and retied together which is all we had to work with so that may have affected our results. 
+
+ our two experimental mathematical models are consistent with newton’s second law because the acceleration is directly related to the mass of the system and the force applied to the system. our acceleration was fairly consistent with what was predicted and how we thought it would work. the force and mass had a linear impact on the acceleration in the lab.

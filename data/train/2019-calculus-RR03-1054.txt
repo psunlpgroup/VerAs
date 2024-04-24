@@ -1,0 +1,13 @@
+conclusion: 
+
+the main question we were asking throughout the experiment is what affects a pendulum the weight, length, or the angle. when we look at the mass vs period graph we notice that most of the time the times really didn’t change they stayed within 0.01 of a second which really isn’t a major change that you can see on the graph. the independent variable was the mass at the end of the pendulum and the dependent variable was the length of the period. 
+
+then when we looked at the angle vs time graph the independent variable is the angle that we put the pendulum at and the dependent variable is the length of the period. what i noticed was the time changed more than the mass vs time graph, but the time change in the angle vs time graph wasn’t significant enough to say there was a true change. 
+
+the next thing we tested was the length vs the time we made the length of the string the independent variable and the dependent variable the length of the period. what i noticed from the graph was that there was a major change in time when we changed the length of the pendulum. it was significant enough to conclude that string length does affect the period of the pendulum. 
+
+when we look at the scatter plot of the string length vs time plot we see the equation $y=0.1874 x^{0.514}$ we also have an r^2 value of 0.998. when we look at the r^2 value we notice that the line of best fit lines up with 99% of the data meaning our data is correct that length of the pendulum does change the time of the period. you can see that the graph has a gradual change in time as you change the length of the pendulum. 
+
+one error that ended up being reduced and changed is calculating the time it took for each period the first time we did it by hand which caused human error. the in the lab record three we used a sensor to calculate time which gave us a more accurate reading of time. another random error is accidentally adding an initial velocity into the pendulum therefore affecting the time of the period. 
+
+some constraints in the experiment were not being able to put any sort initial velocity into the pendulum this would affect the time for each period. one constraint we did fix is the sensor we were given which got rid of the human error of getting each pendulum time.
