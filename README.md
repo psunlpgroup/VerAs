@@ -10,4 +10,9 @@ We experiment with two different datasets: college physics and middle school ess
 1. College Physics: ```python  main.py --top_k <topk> --dataset_name college_physics --verifier_model <verifier_model> --grader_model <grader_model> --loss_function <loss> --oll_loss_alpha <alpha>```
 2. Middle School Essays: ```python  main.py --top_k <topk> --dataset_name middle_school --verifier_model <verifier_model> --grader_model <grader_model> --loss_function <loss> --oll_loss_alpha <alpha>```
 
-where ```<topk>``` is a parameter that represents the number of relevant sentences retrieved by the verifier, ```<verifier_model>``` is the language model for the verifier (currently, we support bert and sbert), ```<grader_model>``` is the language model for the grader (currently, we support longt5, bert, and electra), ```<loss>``` is the loss function to use which can be cross_entropy or ordinal log loss (oll), ```<alpha>``` is the parameter for oll. 
+where ```<topk>``` is a parameter that represents the number of relevant sentences retrieved by the verifier, ```<verifier_model>``` is the language model for the verifier (currently, we support bert and sbert), ```<grader_model>``` is the language model for the grader (currently, we support longt5, bert, and electra), ```<loss>``` is the loss function to use which can be cross_entropy or ordinal log loss (oll), and ```<alpha>``` is the parameter for oll. 
+
+### How to make an inference?
+```python  evalaute.py <grader_file_path> <verifier_file_path> <dataset_name>```
+
+where the ```<grader_file_path>``` is a path to the pretrained grader model, ```<verifier_file_path>``` is a path to the pretrained verifier model, and ```<dataset_name>``` is the name of the dataset.
