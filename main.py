@@ -3,7 +3,7 @@ from copy import deepcopy
 from datasets import QuestionSentenceDataset
 import loss_functions
 import numpy as np
-from metrics import spearman, acc,get_eval_metrics
+from metrics import spearman, acc, get_eval_metrics
 import os
 from grader.model import Grader
 from grader.tokenization import Tokenizer as GraderTokenizer
@@ -255,13 +255,15 @@ for lr in [0.00005, 0.00001]:
                 if args.dataset_name == "college_physics":
                     predictions = torch.tensor([pred for pred,_ in student_scores.values()])
                     ground_truths = torch.tensor([gt for _,gt in student_scores.values()])
+                    val_spearman = spearman(predictions, ground_truths, torch.ones_like(predictions))
+                    metrics = get_eval_metrics(predictions, ground_truths, torch.ones_like(predictions))
+                    print("val krippendorf: ",metrics["krippendorff_alpha"])
+                    print("val mse: ",metrics["MSE"])
                 else:
                     predictions = torch.tensor(grader_actual_preds)
                     ground_truths = torch.tensor(ground_truths)
-                val_spearman = spearman(predictions, ground_truths, torch.ones_like(predictions))
-                x = get_eval_metrics(predictions, ground_truths, torch.ones_like(predictions))
-                print("val krippendorf: ",x["krippendorff_alpha"])
-                print("val mse: ",x["MSE"])
+                    val_spearman = acc(predictions, ground_truths)
+
 
             if best_val_loss_grader > val_loss:
                 best_spearman = val_spearman
@@ -272,7 +274,7 @@ for lr in [0.00005, 0.00001]:
                 best_verifier = deepcopy(verifier.state_dict())
                 best_val_loss_verifier = val_verifier_loss
            
-            print("train loss: ",running_loss/len(train_loader.sampler), "val grader loss: ", val_loss, "spearman: ", val_spearman)
+            print("train loss: ",running_loss/len(train_loader.sampler), "val grader loss: ", val_loss, "spearman/acc: ", val_spearman)
 
         if args.dataset_name == "college_physics":
             folder = "results_college"
