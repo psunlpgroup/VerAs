@@ -1,5 +1,5 @@
 from datasets import QuestionSentenceDataset
-from metrics import get_eval_metrics
+from metrics import get_eval_metrics, acc
 import numpy as np
 import pandas as pd
 from grader.model import Grader
@@ -59,45 +59,62 @@ def get_all_metrics(data_loader, reader, retriever, reader_tokenizer, device, to
             
                 predictions.extend(logits.cpu()) # contains probability predictions for val loss for 1-5 so for grader
                 ground_truths.extend((torch.index_select(labels, 0, torch.from_numpy(verifier_nonzeros).to(device))).cpu()) # TODO:this is not exactly true let me think about this. contains labels 1,2,...5 but with 1 minus versions for grader loss
-                pred_probab = torch.nn.Softmax(dim=1)(logits)
-                y_pred = pred_probab.argmax(1).cpu() # similar to ground_truths
+                if dataset_name == "college_physics":
+                    pred_probab = torch.nn.Softmax(dim=1)(logits)
+                    y_pred = pred_probab.argmax(1).cpu()
+                else:
+                    test_predictions.extend([1 if prob>=0.5 else 0 for prob in logits.detach().cpu().numpy()])
             else:
                 y_pred = []
-
-            all_preds = [0] * labels.shape[0]
-            for index, pred in zip(verifier_nonzeros, y_pred):
-                all_preds[index] = pred.item() #since grader predicts for 1-5 but its predictions are 0-4
-            
-            test_predictions.extend(all_preds)
-            for id,pred,gt in zip(report_IDs, all_preds, labels.cpu()):
-                act_gt = gt.item()
-                act_pred = pred 
+            if dataset_name == "college_physics":
+                all_preds = [0] * labels.shape[0]
+                for index, pred in zip(verifier_nonzeros, y_pred):
+                    all_preds[index] = pred.item()
                 
-                if id in student_scores:
-                    cum_preds, cum_gts = student_scores[id]
-                    student_scores[id] = (cum_preds + act_pred, cum_gts + act_gt)
-                else:
-                    student_scores[id] = (act_pred, act_gt)
-        
-        predictions = torch.tensor([pred for pred,_ in student_scores.values()])
-        ground_truths = torch.tensor([gt for _,gt in student_scores.values()])
-        metrics = _get_metrics(predictions, ground_truths, torch.ones_like(predictions))
+                for id,pred,gt in zip(report_IDs, all_preds, labels.cpu()):
+                    act_gt = gt.item()
+                    act_pred = pred 
+                    if id in student_scores:
+                        cum_preds, cum_gts = student_scores[id]
+                        student_scores[id] = (cum_preds + act_pred, cum_gts + act_gt)
+                    else:
+                        student_scores[id] = (act_pred, act_gt)
+        if dataset_name == "college_physics":
+            predictions = torch.tensor([pred for pred,_ in student_scores.values()])
+            ground_truths = torch.tensor([gt for _,gt in student_scores.values()])
+            metrics = _get_metrics(predictions, ground_truths, torch.ones_like(predictions))            
+        else:
+            ground_truths = torch.tensor(ver_ground_truths)
+            predictions = torch.tensor(test_predictions)
+            metrics = {"acc": acc(predictions, ground_truths)}
         if dump_pred:
             pd.DataFrame({"question":test_q, "filtered_report":test_report, "whole_report":test_whole, "labels":test_labels, "preds":test_predictions, "IDs":test_ids,"ver_preds":ver_preds}).to_csv(dump_file)
-    return metrics
-    
+        return metrics
 
 grader_file_path = sys.argv[1]
 verifier_file_path = sys.argv[2]
+dataset_name = sys.argv[3]
 
+if dataset_name == "college_physics":
+    train_folder = "data/train"
+    val_folder = "data/val"
+    train_labels = "data/labels/train.csv"
+    val_labels = "data/labels/val.csv"
+    rubric_dimension = "data/rubric_dimensions.json"
+else:
+    train_folder = "middle_school_data"
+    val_folder = "middle_school_data"
+    train_labels = "middle_school_data/middle_school_essay1_2_train.csv"
+    val_labels = "middle_school_data/middle_school_essay1_2_val.csv"
+    rubric_dimension = "middle_school_data/rubric_dimensions.json"
 
 config = {
-    "test_folder": "data/test",
-    "val_folder": "data/val",
-    "test_labels": "data/labels/test.csv",
-    "val_labels": "data/labels/val.csv",
-    "batch_size": 4,
-    "rubric_dimension":"data/rubric_dimensions.json",
+    "train_folder": train_folder,
+    "val_folder": val_folder,
+    "train_labels": train_labels,
+    "val_labels": val_labels,
+    "rubric_dimension": rubric_dimension,
+    "batch_size": 4
 }  
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu") #torch.device("cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu")
