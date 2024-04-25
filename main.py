@@ -44,11 +44,11 @@ else:
     rubric_dimension = "middle_school_data/rubric_dimensions.json"
 
 config = {
-    "train_folder": "data/train",
-    "val_folder": "data/val",
-    "train_labels": "data/labels/train.csv",
-    "val_labels": "data/labels/val.csv",
-    "rubric_dimension":"data/rubric_dimensions.json",
+    "train_folder": train_folder,
+    "val_folder": val_folder,
+    "train_labels": train_labels,
+    "val_labels": val_labels,
+    "rubric_dimension": rubric_dimension,
     "batch_size": 4,
     "epoch": 8,
     "lr": 0.00005,
