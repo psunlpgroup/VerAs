@@ -1,0 +1,7 @@
+Dear Gonzales'
+I think the measurement for the new roller coaster should be 3 meters for the initial drop, 2 for the hill height and 55 kg for the mass of the car.
+ 3 meters as the drop height will be high enough to add excitement through speed. In our experiments 4 and 5 were too tall so they provided more energy than was safe but 3 meters is the happy medium between all the heights, reaching a speed of 7.65m/s/s. Too high of a drop height will cause too much potential energy which will then convert into kinetic energy (because the conservation of mass says energy cannot be made or destroyed) which would make the car go to fast.
+ A 2 meter hill height is really the only choice if you want the coaster to make it over while maintaining speed and excitement. We know from our experiments that 3 meters would be too tall and start a loop that will never end in a friction-less scenario. When we used 2 meters for the hill height the speed at the top of the hill was 4.5 which safe for the riders. 
+And last for decisions is car mass we choose a mass of 55 kg. But it really doesn't matter because mass doesn't affect speed because for one in all of our experiments for every single round we didn't with mass the speed stayed unchanged from 8.84 (with our old heights). And because both potential and kinetic energy have mass in their formulas they cancel out. All of these will help to make this roller coaster as safe and fun as possible.
+Thank you,
+Aurellia

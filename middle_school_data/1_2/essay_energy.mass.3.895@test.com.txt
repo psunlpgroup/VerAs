@@ -1,0 +1,15 @@
+1. As we take a look at our data from recent studies, my best bet for the initial drop is for the hill to be much bigger than some other obstacles.
+2. With a bigger drop the more potential energy build-up we'll have in order to get through hills and loops.
+3. The more potential energy you have within the roller coaster also gives the kinetic energy a good chance of helping more.
+4. Adding on to make this more clear PE is potential energy and KE is kinetic energy, when you have a larger drop the more PE you'll have and less KE you'll have as well.
+5. When your coaster drops the KE and PE will essentially switch, meaning the PE will be transferred to KE and anything taken away most likely turn into sound and heat energy because the Law of Conservation of Energy states that energy can't be made or destroyed so it has to go somewhere else, if we take a look at my data for the initial drop we can see how in hill heigh 5 the PE starts as 2443 Joules, and KE starts as 0 Joules.
+6. When the coaster drops the PE transfers to KE thus making KE 2442 Joules and PE 1 Joule.
+7. The relationship between the hill drop and hill height can play a big difference in a roller coaster and how far it gets on its own for the Gonzales.
+8. When we look at the data I've recorded throughout my simulation, hill 3 got over the hill with 1468 Joules PE and 0 Joules KE, passing through the hill it had a PE of 1467 Joules and KE again of 0 Joules, it did, in fact, make it over the hill.
+9. On hill 4 the PE was 2265 Joules and KE of 0 Joules having one failed attempt and 1 good attempt, and on the hill, it was 1356 Joules and KE was 912 Joules.
+10. You can tell that with a higher hill height and smaller drop height the cart usually has a harder time going over.
+11. With a few non-recorded data rows, I can say that usually with a hill heigh being bigger than the drop heigh, you won't have enough potential energy to get over the hill sometimes.
+12. Moving on to Mass relation with PE and KE, My group recorded data on masses 40k, 50kg, and 60kg.
+13. 40kg had a PE of 1957 Joules, 50kg had a PE of 2446 Joules, and 60kg had a PE of 2938 Joules.
+14. With a heavier cart, the potential energy goes up and the total energy at the end of each is 1957J for 40kg, 2446J for 50kg and 2935J for 60kg.
+15. This shows how the best option if you wanted a faster idea would be 60kg for a cart mass.

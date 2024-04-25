@@ -1,0 +1,10 @@
+1. I think the initial drop height should be 5 meters this is because when the height of the initial drop was 3 meters the PE was 1466 J and at the bottom, the Ke was 1466, but when the Release height was 4 meters the PE was 1955 J and the Ke at the bottom of the initial drop was 1955 meaning the car had more energy the higher the drop and the more speed it will have to get over hills witch make the run more exciting.
+2. We should also add a hill no more than 5 meters or else it will stop according to my data.
+3. When the initial drop was 5 meters and the hill height was 5 meters the cart did not make it to the end.
+4. This is because The Law of Conservation of Energy says, energy is not created nor destroyed energy only changes forms.
+5. So the cart will not be able to just make energy to push itself above the 5 meters.
+6. When the initial drop height was 4 the PE was 1955 J and the KE was 0 J at the bottom, the KE was 1955 J and the PE was 0.
+7. The total energy stayed the same in 1955 so there for the cart's energy stayed the same making it impossible to make it up the hill if it was the same height as the initial drop.
+8. We believe we should also add a loop for more excitement, this will work as long as the apex of the loop is lower in height (meters) this is because of the Law of Conservation of Energy.
+9. We also believe that The Mass of the car should be 60 kg, this is because the more mass an object has the more energy(J) it has.
+10. For example, when the mass of the car was 50 kg the Total energy was 2446, but when the car was 60 kg the Total energy was 2936.

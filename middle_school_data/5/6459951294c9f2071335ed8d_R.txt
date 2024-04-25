@@ -1,0 +1,13 @@
+In order to have a safe and exiting ride you will need to have an initial drop, a hill, and mass and energy.
+
+The height of the initial drop has to be higher than the height of any hill. The height of the initial drop was 5. When the height of the hill was 3.20 (lower) the car went over the hill. when the height of the hill was 5 (same) the car didn't go over the hill. 
+
+The higher the drop height is the more speed you will have. The higher the initial drop the more total energy there will be. When the initial drop had a height of 2, the TE was 977 J. when the initial drop had a height of 5, the TE was 2443 J. At the top of the initial drop its a PE and as the car goes down the hill it all transfers to KE. At the top of the initial drop of 2 the PE of 977 J. And as the car went down the drop the KE had 977 J and PE had 0 because all of the energy was transferred.  The KE and the PE equal the TE. The potential energy is the energy that is being stored in an object. The kinetic energy is the moving energy in an object. 
+  
+The law conservation of energy states that you can create or destroy energy, so the hill has to be the highest possible because the higher the hill is, the more energy the car will have. All or most of the PE energy at the top of the initial drop will transform to KE as it goes down the drop. 
+
+The more the car weighs the more total energy there is. When the car mass was 40kg the total energy was 1958 J. when the car mass was 60kg the total energy was 2937 J. at the initial drop its a PE and at the bottom of the drop it is mostly KE with a couple PE J. 
+
+Changing the mass of the car does not affect the speed. In the equation mass is on both sides so you can cancel it out and all that's left is the drop height and the gravity, and if they stay the same so will the speed. so basically the mass doesn't matter. when the car mass was 40 the speed at the bottom of the drop was 8.29. when the car mass was 52 the speed at the bottom of the drop was 8.29. the speed did not change when the mass was changed. 
+
+My roller coaster design will be exiting because it will be fast have hills, and will make it to the end of the ride. 

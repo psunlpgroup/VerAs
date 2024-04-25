@@ -1,0 +1,14 @@
+Dear Gonzales family here are my recommendations for you to make the best roller coaster possible for your park.
+First the roller coasters initial drop cannot be lower to the ground than the hill that is coming afterwards.
+ In my simulation the cart that was on the initial drop that was lower than the hill afterwards didn't make it over the hill.
+Second the higher the initial drop the better.
+In my simulation when the drop height is higher the more PE the cart had, PE makes it more likely that more KE.
+When PE goes up KE goes down when KE goes up PE goes down this relates to law of conservation of energy.
+
+Law of conservation of energy
+that energy can neither be created nor destroyed. It can only transform from one form to another.
+
+Third make the cart heavy.
+In the simulation the greater the mass the greater the total energy,less mass the less the total energy.
+   
+So of you apply all of this to your roller coasters it will surely be fun and safe for everyone.

@@ -1,0 +1,19 @@
+Rollercoaster Essay #2
+
+Dear the Gonzalez family
+
+The drop height of my roller coaster design will be 3.5 meters.
+
+This is because when height goes up, TE and PE go up with it. This height satisfies the safety and fun requirements of 6.7m/s-8.4m/s.
+For example, when I tested the drop height of 3 meters, the PE was 1528J. When I increased the drop height to 3.5 meters, the PE increased to 1782J.
+
+I decided on the HH of 3m. This is because it pairs perfectly with the ID height of 3.5m. I think this because it´s not too high so the cart won´t make it over, but not too short that it doesn´t provide a thrilling experience for the rider.
+
+I decided on a mass of 52kg. This is because of the relationship between PE, KE, and TE. When the mass goes up, PE and TE will also increase. This leads to a higher possible speed of the coaster cart over longer distances.
+	Another reason I chose this mass is that mass doesn´t affect speed directly, but rather affects TE and PE. TE and PE affect how much energy can be exerted over time, or KE. KE is the energy an object has because of its motion.
+	The reason this TE and PE are perfect is that when the cart moves down the hill, KE is taking from PE. This KE then becomes a way to measure how fast the cart moves, along with speed and velocity.
+	No matter where the cart is, if there is no friction, then PE and KE will always equal TE. This is because of the Law of Conservation of Energy. This law states that energy cannot be created or destroyed, but can change forms. This means that while the cart is going down the hill, PE doesn´t just vanish, but rather changes to KE.
+
+	The reason I won´t go higher with my ID, HH, or mass is that they all provide the perfect amount of speed and thrill for passengers while still being safe to ride.
+
+	One of the reasons I won´t go lower with my ID, HH, or mass is that if I did go lower, the ride might be less thrilling for the passengers, or not have enough energy to make it to the end of the coaster.

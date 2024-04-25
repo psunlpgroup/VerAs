@@ -1,0 +1,11 @@
+The amount of height relates to pe as it gives the original total amount of energy. The more height there is, the more pe there is. We can see this in the data portion of this unit with 2.5m going to 1222j and 3.5m going to 1718j. The bottom is also affected by the drop with the ke changing due to the speed of the ride.
+
+Ke and pe relate total energy with the speed and mass of the cars. The te is calculated by adding up both the ke and pe. An example of this is when the cart is at the top of the hill, the pe and ke are not the same. Ke is 1468, while pe is 732, which adds up to the total energy.
+
+The pe and ke will interchange while going down the drop. As they interchange, they will most likely be added up to the total energy. Some of the energy will go into thermal energy and sound.
+
+The transformation between ke and pe is that they will both add up to the total energy. But the pe and ke will both add up to the te.
+
+The initial drop height needs to be higher than the hill height. This needs to occur due to there not being enough energy if the hill is higher than the drop. If this doesn't happen, then the cart will go backward.
+
+If the mass is doubled, the pe is doubled, due to mass being included in the equation for pe. The same thing with the ke equation, even though the mass is being cut in half it will still be larger. This is shown in the data, as 40 kg gives less pe than 60 kg.

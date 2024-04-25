@@ -1,0 +1,13 @@
+I have been working on a design for your roller coaster that is fun and safe. According to my data, the best initial drop height would be five, and then the best hill height would be four. 
+
+I believe that the best initial drop height would be five because it has the most potential energy. When the car's potential energy switches to kinetic energy the car has as much velocity as possible which makes it fun but not so much that it's unsafe. 
+
+After the car reaches the bottom of the initial drop, the car will have enough velocity to thrust it forward. Then it gains potential energy, at the same time as losing kinetic energy just enough to make it to the top of the hill where it has the most potential energy. 
+
+Then as the velocity keeps the car moving the kinetic energy will be at maximum while potential energy will go down to zero, making the drop of the hill thrilling. 
+
+This design works because of all the direct relationships, like how when the car goes up the hill as the kinetic energy goes down the potential energy builds. Or when the car goes down the hill and the kinetic energy and potential energy switch the total energy stays the same. 
+
+I know that kinetic energy and potential energy have a direct relationship due to some of the data on the studies I have been doing recently. When I put the hill height at three and the car is at the top of the initial drop it has 1225J of potential energy and 0J of kinetic energy. Then the car reached the bottom of the hill, the potential energy was at 0J and the kinetic energy was at 1225J. I also know that height and potential energy have a direct relationship because when I put the height at 3.5 the potential energy is lower at the top than when I had the height at 4.
+
+The data that I have supports the law of the conservation of energy which states that energy cannot be created nor destroyed. When the car goes down the track the potential energy doesn't just go away and the kinetic energy doesn't just come from nowhere. Instead, the potential energy transfers to become kinetic energy. Also when the car is going up the track the kinetic energy transfers to become potential energy while keeping the total energy the same because the energy cannot be created nor destroyed.

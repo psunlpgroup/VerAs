@@ -1,0 +1,11 @@
+Dear Gonzales family,
+
+
+
+My company and I have come up with a proposal for your roller coaster. We have tested many drop heights and hill heights that we know would best please you. 
+
+The drop height of my roller coaster design is 4 meters. This is because having a higher drop height makes the roller coaster’s Total Energy (TE) and Potential energy (PE) at the top of the hill to 2114J. At the bottom of the hill, the Total energy stays the same throughout the whole ride (2114J), but, the potential energy changes to 3J, and the kinetic energy goes up to 1981J. For example in trail #1, when I tested the drop height of 4 meters, the potential energy was 2114J. In trail #2 When I increased the drop height to 5 meters. The PE increased to 2639J. In Trail #3 I lowered my drop height to 2 meters. The PE at the top lowered to 977J and the KE at the bottom lowered as well to 977J. 
+
+In trial number 1 PE, KE, and TE all end up being the same at some point in the ride. The higher the PE and KE, the higher the TE. PE varies throughout the ride, there is more PE at the top of hills but your cart cannot make it through the ride without PE because it stores the energy making it capable for the cart to make it down hills and back up. 
+
+The ID height plays a big role in the whole rollercoaster. If the roller coaster's ID height is the same as the hill height, even close to it, the cart will not make it up the hill because it did not gather enough energy. The ID height needs to be larger than the hill height for the cart to make it over the hill.

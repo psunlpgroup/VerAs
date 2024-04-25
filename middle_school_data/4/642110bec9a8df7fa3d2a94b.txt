@@ -1,0 +1,5 @@
+Dear Gonzales Family,
+       We have been testing and working on different designs for your roller coaster to not only make it safe but make it fun as well. we have discovered that in order for you to have the high hills and loops you desire you will need drops that are higher than those in question. if you have a hill that is higher than the drop it came from, the roller coaster car will not have enough KE to make it up the hill to finish the ride. that brings us to the next topic, PE. 
+       the car will have a starting amount of PE at the top of any given drop that will take up entirety of the total energy. the car will need more PE at the first drop then PE at the second, and so on. If a car needs more KE then it will have PE at the top of a hill it will not have enough energy to make it up said hill. as the car goes down the hill the PE will turn into KE making it speed up. 
+      Lets take a look at the data we have collected.
+ when we added a hill the car was able to make it up the 2 meter high hill. but without changing the height of the initial drop the car did not make it up the hill that was the height of the drop in question.

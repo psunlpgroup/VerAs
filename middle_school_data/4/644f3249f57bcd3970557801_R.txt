@@ -1,0 +1,15 @@
+Dear Gonzales family,
+
+
+
+My company and I have come up with a proposal for your roller coaster. We have tested many drop heights and hill heights that we know would best please you. 
+
+The drop height of my roller coaster is 4 meters and the weight to 54kg. This is because you need a higher drop height to make it up the hill. Another example of why we have set the drop height to 4 meters is because it increases the PE at the top of the hill (2114J) and the TE (2114J) throughout the ride. The TE stays the same when the cart makes it to the end of the hill because it is a flat surface for the cart to ride on. The higher the PE is on the ride the higher point of the hill you are on. 
+
+This is where the importance of hill height comes in, when we set the initial drop height to 3.50 and kept it that way throughout the simulator we found out that when you increase the hill height to 3.50m in trail #3 the PE of the initial drop was 1714J. Then the KE was 241J. Then, in trail #5 when we increased the hill height to 5 and kept the drop height the same (3.50m), the PE at the top of the drop was 1711J, and the KE of the initial drop was 6J. The cart did not make it over the hill because the initial drop did not give the cart enough energy to make it up the hill. 
+
+At one point in the ride the PE, KE, and TE end up being the same at one point throughout the ride. The higher the PE and TE are throughout the ride the higher the TE. PE varies throughout the ride, there is more PE at the top of hills but your cart cannot make it through the ride without PE because it stores the energy making it capable for the cart to make it down hills and back up. The KE also plays a big part, there is more KE at the bottom of hills but, your cart also can’t make it throughout the ride because KE gives the ride/kart energy. PE and KE change many times throughout the ride.
+
+How are KE, PE, and TE created? Well, KE and PE work together, like when PE is released KE is created. PE is created when the roller coaster car gets pulled to the top of the hill. Just like the law of conservation energy, ‘Energy is neither created nor destroyed.’ 
+
+

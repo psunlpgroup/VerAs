@@ -1,0 +1,9 @@
+Rollercoaster essay #1
+
+
+
+Dear the Gonzales family,
+
+My company and I have come up with a proposal for your roller coaster design. We decided on what would be a safe, fun, and a very exciting ride. We had several tests and this is our favorite so far and it seems you would like it too! At first, we put the drop height to 2 meters tall and the hillheight to 2 meters also. We did this because the relationship between height and energy is that energy is always being transferred through PE, KE , and the cart. On the other hand the height tells you how much energy will be transferred. For example: if the height is gonna be 2 meters the PE and KE will be 977 the entire way down meaning that if you stop the ride in the middle and the numbers aren't even close to 977 but are half way mean that they need to be added up and then that would be the TE(PE+KE=TE). When we realized why the car wasn't getting over the hill was because you needed to have the ID(initial drop height) greater than the hill height. Next, when we increased the 2nd trial to the ID being 3 meters and the hill height at 2.00 meters. We saw that the PE at the top of the hill was 1468J and at the end the KE was 1468J and that's what the TE was also. We realized that the roller coaster also made it over the hill so we were correct about our assumption/theory. When we started to look at it more the roller coaster wasn´t going as fast as some people would think and we decided to increase the ID once more. Then, trial #3(last trial) we put the ID to 5 meters and we found out that we could put the hill height to 2.50 meter instead because we didn´t mind the 2 meters or more idea. We also decided to add friction because the other tests we didn´t and we thought that if we didn´t the roller coaster would go too fast so we put the friction to 0.01.
+
+

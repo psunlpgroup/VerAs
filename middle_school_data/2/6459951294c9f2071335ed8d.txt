@@ -1,0 +1,11 @@
+In order to have a safe and exiting ride you will need to have an initial drop, a hill, and mass and energy.
+
+The height of the initial drop has to be higher than the height of any hill. The height of the initial drop was 5. When the height of the hill was 3.20 (lower) the car went over the hill. when the height of the hill was 5 (same) the car didn't go over the hill. 
+
+The higher the initial drop the more total energy there will be. When the initial drop had a height of 2, the TE was 977 J. when the initial drop had a height of 5, the TE was 2443 J. At the top of the initial drop its a PE and as the car goes down the hill it all transfers to KE. KE + PE = TE. 
+
+The more the car weighs the more total energy there is. When the car mass was 40kg the total energy was 1958 J. when the car mass was 60kg the total energy was 2937 J. at the initial drop its a PE and at the bottom of the drop it is mostly KE with a couple PE J. 
+
+My roller coaster design will be exiting because it will be fast have hills, and will make it to the end of the ride. 
+
+

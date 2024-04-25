@@ -13,11 +13,13 @@ class Verifier(torch.nn.Module):
     def __init__(self,
                  max_sentence_length=122,
                  max_question_length=42,
+                 topK=3,
                  bert_or_sbert="bert"): 
         super(Verifier, self).__init__()
         cache_dir = None
         self.max_sentence_length = max_sentence_length
         self.max_question_length = max_question_length
+        self.topK = topK
 
         if bert_or_sbert == "bert":
             self.query_model = BertModel.from_pretrained('bert-base-uncased', cache_dir=cache_dir) 
@@ -81,7 +83,7 @@ class Verifier(torch.nn.Module):
         questions_batch, sentences_batch = self.forward(questions_batch, sentences_batch)
         raw_sentences_batch = np.array(raw_sentences_batch, dtype=object)
 
-        topK_sentences, topK_similarities, all_sims = utils.get_topK(3, questions_batch, sentences_batch, raw_sentences_batch)
+        topK_sentences, topK_similarities, all_sims = utils.get_topK(self.topK, questions_batch, sentences_batch, raw_sentences_batch)
         if topK_similarities.shape[0]==1:
             return utils.my_sigmoid(topK_similarities.mean(dim=1)), topK_sentences, all_sims
         return utils.my_sigmoid(topK_similarities.mean(dim=1).squeeze()), topK_sentences, all_sims

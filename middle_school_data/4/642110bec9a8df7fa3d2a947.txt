@@ -1,0 +1,11 @@
+I have been working on a design for your roller coaster that is fun and safe. According to my data, the best initial drop height would be five, and then the best hill height would be four. 
+
+I believe that the best initial drop height would be five because it has the most potential energy. When the car's potential energy switches to kinetic energy the car has as much velocity as possible which makes it fun but not so much that it's unsafe. 
+
+After the car reaches the bottom of the initial drop, the car will have enough velocity to thrust it forward. Then it gains potential energy, at the same time as losing kinetic energy just enough to make it to the top of the hill where it has the most potential energy. 
+
+Then as the velocity keeps the car moving the kinetic energy will be at maximum while potential energy will go down to zero, making the drop of the hill thrilling. 
+
+This design works because of all the direct relationships, like how when the car goes up the hill as the kinetic energy goes down the potential energy builds. Or when the car goes down the hill and the kinetic energy and potential energy switch the total energy stays the same. 
+
+I know that kinetic energy and potential energy have a direct relationship due to some of the data on the studies I have been doing recently. When I put the hill height at three and the car is at the top of the initial drop it has 1225J of potential energy and 0J of kinetic energy. Then the car reached the bottom of the hill, the potential energy was at 0J and the kinetic energy was at 1225J.

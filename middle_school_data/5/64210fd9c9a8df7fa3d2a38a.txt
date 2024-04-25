@@ -1,0 +1,9 @@
+The initial drop of our roller coaster is 3.5m. We pick this height because based on our data if our drop height was anything above that, the coaster would be to dangerous. For example, if we chose 5m the speed of our roller coaster would be 9.89(m/s). This is way above how fast our roller coaster can go without it being dangerous or not fun. We pick our mass to be 50kg. This is because if we were to add friction to our roller coaster it would make it down to the end not to fast, or slow.
+
+Height can affect PE and KE by showing from our data. That the PE and always the same as the total energy and the KE subtracted from the top of the initial drop and bottom. Height can also affect the speed of our roller coaster because. Looking at our data when we had out initial drop at 5m the speed was 9.89(m/s). When we decreased the height we saw in our data that the speed went down to 8.84 when we set it to 4m. 
+
+Mass can affect the PE and KE because according to the data the more mass you add the faster the PE. At the end of the roller coaster the more mass lead to having a larger KE. If the roller coaster had friction the mass would as well affect the speed. It can also affect the total energy for example. When the car mass `50kg the total energy was 2448. When we decreased the mass to 40kg the total energy went down to 1998.
+
+The law of conservation of energy affects our roller coaster by telling us how many Jouls are in the PE and KE. For example, when I calculate our mass(50kg) then the Height(3.5) we get the PE(1,715). To get the KE `you have to times the speed and height by 2x divided by 2. The KE would be 150.12. 
+
+To find the relationship of the PE and the KE is by the KE subtracted by the PE. Like how I said at the begging when you subtracted the KE from the start at the initial drop causing you to have the total energy.

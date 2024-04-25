@@ -1,0 +1,16 @@
+Rollercoaster Essay #1
+
+	Dear the Gonzalez family
+
+
+
+	Our construction company believes the initial drop height should be around 4.5m. This is because when height goes up, PE and TE go up.
+
+	For example, when I tested the drop height of 3m and the hill height stayed at 3m, the car did not make it over. This is because it had too much PE and not enough KE. The reason this is a problem is that for the car to move, it needs KE. 
+        Another thing is that when the car's mass goes up, PE and TE go up with it. This is because when the mass goes up, it has more room to store more PE and TE.
+        When hill height goes up, PE goes up. When PE goes up, KE and TE also go up. If there is not enough PE to be converted into KE, the car will not move. This is because PE converts to KE when the object is in motion.
+
+	Another initial drop height we tried was 3.5m. We came to the decision that we should not do this height because, with enough real-world friction, the car did not make it over the hill.
+	The third height we considered was 4m. We scrapped this height for the same reason we scrapped 3.5m. Without any friction, it made it over without any problem, but with real-world friction, it did not make it over the hill.
+	The fourth and final height we tested was 4.5m, which was ultimately what we chose for the coaster. We came to this height because the cart made it over with enough PE to make it over another hill, which the other heights failed to do. 
+        The next reason we went with this height is because of the law of conservation of energy. This law states that energy cannot be created or destroyed. This is important because whatever we have for PE at the top of the hill stays the same, just in a different form. If there is friction, some of the PE will be taken by friction. This is because it is an opposing force.

@@ -1,0 +1,16 @@
+The roller coaster design that my team is coming up with will be the best, this is because my team and I are creating a lot of drops, loops, and hills. The ride will b exciting and hive excitement, everyone will be waiting in line for this ride.
+
+The height of the initial drop is a big factor that my team and I have to consider when building the rollercoaster. Let us explain how Potential energy relates to the initial drop of the rollercoaster. Potential energy is a force of stored energy, this means that when the rollercoaster is at the top of the initial drop, the potential energy is high. The potential energy gets transferred into kinetic energy when an object is in motion. For example, from our test simulation that my team and I did the PE was 1585 as the roller coaster went down the hill the PE turned into KE, so the PE was now 0 and the KE was now 1585. The amount of PE there is in an object depends on the height of the initial drop.
+
+Now the relationship between PE and KE is identified, but what about the relationship between KE, PE, and total energy? Total Energy is the total amount of energy an object has. Energy can not be created or destroyed, so the total energy never changes even though the PE and KE do. In a test simulation, my team and I did the rollercoaster at the top of a hill. The PE is 1585, which means that the total energy is also 1585, because the coster is not moving, which means that all the energy is PE. As the rollercoaster goes down the hill the PE transfers into KE but the TE ( total energy ) has not changed. 
+
+A mother situation you might be wondering about is the energy transformation and law of conservation of energy. This is energy transfers into different states of energy, while the energy is being conserved over time. 
+
+There are still some situations that you might be wondering about, before we get to those let's talk about the relationship between mass and PE, and KE. potential energy transforms into kinetic energy, and kinetic energy converts into potential energy, and then back again. depending on the mass of an object the object
+ the object will have a different speed than the object is going.
+
+Another thing you might need to know is about the changes in PE and KE while going down the drop. During the descent down the hill, the height and total energy remain a constant quantity, indicating conservation. As the height of the potential energy decreases, the height of the kinetic energy increases.
+
+The last thing you should know about is the relationship between drop height and hill height. The relationship between this is that the hill height has to be less than the drop height. in an experiment, my team did we looked at the hill height and how tall we could make the hill. Are initial drop, height was 3.00 and the rollercoaster made it over the hill, but when we made the hill at 5.00 the rollercoaster did not make it over. This shows us that the height of the initial drop has to be greater that the hill height. 
+
+This is all the information that you need to know about where we are in the stages of building your rollercoaster. 

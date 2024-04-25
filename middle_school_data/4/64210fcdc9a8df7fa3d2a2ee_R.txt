@@ -1,0 +1,7 @@
+     I want my car to start at 5 meters. This is because the higher the height the more PE the car has, and the more PE at the top of the hill the more KE at the bottom of the hill. 
+
+     in a frictionless world, the PE will directly convert to KE. So to find the TE you add the PE to the KE and you get TE. When the car is going down a drop the PE turns into KE, but the TE stays the same. 
+
+     If your hill height is higher than the initial drop the car will not make it to the end, so you need a hill that has a height shorter than the initial drop.
+
+     the mass of the car affects the PE because the PE=mass x height x acceleration due to gravity(9.8 m/s/s). for example, when I tested a 60kg car it had 2,933J of PE at the top of a 5m hill, but when I tested a 40kg car it only had 1,955J of PE at the top of the same hill.

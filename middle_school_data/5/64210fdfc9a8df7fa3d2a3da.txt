@@ -1,0 +1,20 @@
+I would share with the Gonzales family that we chose the following for our final design:
+
+Mass:  50kg
+Drop Height:  3
+Hill Height:  2.5
+
+To reach this conclusion, we experimented with different masses, drops, and hill heights.  Below are details of what we found.
+
+We experimented with car masses between 40-60kg.  The mass of the car does not impact the speed of the coaster.  The experiment showed that the speed at the bottom of the hill, the top of the hill, and the end of the ride were the same for 40, 50, and 60 kg.  We chose a 50kg since we found no impact on going lighter or heavier.
+
+The height of the initial drop and the hill is important to make sure that the car makes it to the end of the ride.   In our first experiment when the initial drop height was 3m and the hill height was 3.5m.  Our car did not make it to the end.  We did see that the speeds at the bottom of the hill, the top of the hill, and the end of the ride increased with increasing drop height (compared to 3, 4, and 5m).
+
+We wanted to see what the hill height would need to be in order to use an initial drop height of 3m.  What we found is that by reducing the hill height to 2.5m, the coaster car was able to make it to the finish.
+
+The relationship between PE, KE, and total energy affected our ride by first having enough PE to get over the hill and complete the two loops that we added. Because without enough energy all that PE would transfer to KE and the coaster would come to a complete stop, and the riders would be stuck. But a benefit of having the KE is at the end where you want to make sure your riders come to a complete stop so that they can exit the ride.
+
+The Law of Conservation of Energy affected our design decision because no energy is ever created nor destroyed during the ride. Because all that PE will turn into KE while the cart is going down the initial drop, but when it starts its descent up the hill the KE turns back to PE. No matter how much energy is changed it's never created nor destroyed it just turns to Potential or Kinetic. Just like the Law of Conservation of Energy states.
+  
+PE = mgh or PE = mass x g x height
+KE = 1/2 mv^2 or KE = 0.5 x mass x speed^2

@@ -1,0 +1,15 @@
+Hi Gonzales Family, 
+
+Through our many experiments and data collection, we have drafted a plan for the roller coaster. 
+
+First, the initial drop should be 3.5 meters, because the speed at the bottom of the drop is 8.27 m/s. This is above the minimum, 6.7 m/s, but doesn't exceed 8.4 m/s, which is the maximum. The higher the hill, the greater the amount of speed at the bottom of the drop. For example, my trial with an initial height of 2.5 meters had a speed of 6.99 m/s at the bottom of the drop. On the other hand, the trial with an initial drop height of 4.75 meters had a speed of 9.63 m/s at the bottom of the hill. This data proves that the higher the hill, the greater the speed. 
+
+In addition, the height affects the potential energy, kinetic energy, total energy. The higher the hill is, the greater amount of potential energy it has. In a frictionless environment, all the potential energy at the top will have become kinetic energy at the bottom, so this means that the more potential energy there is at the top, the more kinetic energy. Also, the sum of the potential energy and kinetic energy at any point in time, will equal the total energy. All this means that the higher the hill or drop, the more potential energy there will be, which leads to more kinetic energy and total energy. 
+
+The mass of the car is another thing that needs to be decided. Based on our data, we believe that the mass of the car doesn't matter. The mass directly affects the potential energy and kinetic energy, and in turn the total energy, but it doesn't affect speed. In our trials we changed the mass of the car. Our four trials had different car masses of 42 kg, 48 kg, 54 kg and 60 kg. The speed at the bottom of the drop was always 8.27 Joules, and the speed at the top of the hill was always 3.81 Joules. This shows that mass doesn't affect speed, even though it affects kinetic energy, potential energy and total energy. 
+
+The Law of Conservation of Energy states that energy cannot be created or destroyed, and also says that the total energy is a closed system stays the same. However, energy can change forms. The amount of potential energy and kinetic energy always adds up to the total energy. The potential energy at the top of the drop is equal to the kinetic energy at the bottom of the drop, because there is no kinetic energy at the top, and no potential energy at the bottom. 
+
+Thanks, 
+
+Science Team at Waunakee Middle  

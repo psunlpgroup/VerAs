@@ -1,0 +1,4 @@
+During my proposal to the Gonzales family, I will be sharing my finding about the best way to design a roller coaster. To design the best roller coaster you have to have an initial drop higher than your hill size. The drop height of my roller coaster is 4.15 meters. This is important for the car to be able to make it to the top of the hill. 
+For example, when I tested the drop height of 5 meters, the PE was 35 Joules. When decreased the drop height to 4.15 meters, the PE increased to 2432 joules. 
+PE+KE=TE 
+My data supports this equation because my roller coaster had 1j of PE at the bottom of the initial drop, it had 2930j of KE at the bottom of the initial drop, and it had 2932 j of total energy at the end. 

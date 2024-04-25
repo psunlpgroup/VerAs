@@ -1,0 +1,12 @@
+    The drop height should be 5 meters with the hills and loops slightly smaller than the drop. 
+This is because the higher the drop is the more potential energy there will be to carry the car over the hills. During my experiments, I saw that when the height was set to 5 meters the Potential energy was 2443j but when I dropped the height to 4 meters the Potential energy went down to 1955j. This drop was very important to note because if there isn't enough potential energy the roller coaster won't be able to go over the hills and loops effectively.
+
+In my following experiments, we kept the height the same(5 meters) and the hill height the same(3 meters) and increased the mass of the car. I found that when we used a 60kg cart versus a 50kg cart the 60kg cart had more potential, kinetic and total energy than the 50kg cart.
+
+The law of conservation of energy states that energy can not be created or destroyed but converted, When I looked at my data the total energy was the same amount as my potential energy. When I added friction to my carts I noticed that my potential and kinetic energy was no longer the same. This was because the friction changed into an external source of energy that can no longer be used. 
+
+In conclusion, the drop height should be 5 meters so the cart will be able to go over the hills and loop more efficiently. The weight of the cart should be 60kg because it will have more energy, and the hill should be smaller than the original drop.
+
+
+
+

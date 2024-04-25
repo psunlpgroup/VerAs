@@ -1,0 +1,11 @@
+Hello Gonzales family!
+
+First of all, I think that the height of our roller coaster should be 3.5m. I think this because this is the fastest speed that we can go without it being too unsafe, so that the ride is thrilling but still safe. To prove this, I found that with a hill height of 3.5, the speed at the bottom of the drop is 8.27 m/s, which is just below the limit of 8.4 m/s. Anything higher goes over the limit.
+
+Next, I think that the mass should be 60kg. This is because we have found out that mass does not effect speed, so I went with 60kg just because a heavier car could possibly hold more people. To prove this, I did many tests, and with a height of 3.5m, both 40kg and 60kg cars came out with a speed of 8.27 m/s.
+
+We also know that height and mass both impact PE directly, and this is because they are both in the formula for PE. Height and mass also impact KE and total energy directly, and this is because the PE cannot just disappear, it has to be converted, so in this case it would be converted to KE. Height is also directly related with speed, which can be proved by when there is a drop height of 2.5m, it produces a speed of 6.98 m/s, and 5m of height produces 9.88 m/s. However mass and speed have no relationship, which I proved in an earlier paragraph.
+
+Also, the relationship between KE and PE, and total energy is that KE and PE add up to the total amount of energy of the car, so an equation would look like this: PE + KE = total energy. The relationship between PE and KE is the ability to transform between each other. FOr example, PE can transform into KE, and back again.
+
+Lastly, you also should know that the law of conservation of energy is important in making these decisions. It states that matter cannot be created or destroyed, it just changes forms. However, the car can loose energy by it being converted into heat energy, sound energy, or something else.

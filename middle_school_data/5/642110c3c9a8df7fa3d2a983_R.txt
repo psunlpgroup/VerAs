@@ -1,0 +1,11 @@
+To make the roller coaster fun and safe I think that the initial drop height should be 3.5 m because that is the tallest it can be while still being safe. It will also create the maximum amount of potential energy while still being safe. For example, when the initial drop height was 4 m the speed was 8.84 m/s which is too fast to be safe. Initial drop height and speed have a direct relationship so the higher the initial drop height, the more speed the roller coaster will have.
+
+Next, for the hill height I think that the hill should be 2.5 m tall because it is shorter than the initial drop but it is also tall enough to maintain enough potential energy for the rest of the roller coaster. 
+
+I also think that the height of the loop should be 2 m off the ground. This is shorter than the hill before it so there will be enough potential energy and kinetic energy for the car to get around the loop. Also, it is tall enough to create enough speed for the ride to be fun and safe.
+
+Finally, I think that the last hill of the roller coaster should be 1 m tall. This will male the roller coaster end with an increased amount of kinetic energy which will make the ride more fun, but also safe. 
+
+For the mass of the car, it doesn't matter what you pick when there is no friction, the mass will not affect the speed. For example when the mass was 46 kg the speed was 8.83 m/s. When the mass was 54 kg the speed was still 8.83 m/s. Mass and kinetic/potential energy have no relationship.
+
+The Law of Conservation of Energy affects the design because the law states that energy cannot be created or destroyed. Energy can only change form, within a closed system. In a roller coaster energy will change form from potential to kinetic any time it goes up or down or in a loop. This is because a roller coaster is a closed system. 

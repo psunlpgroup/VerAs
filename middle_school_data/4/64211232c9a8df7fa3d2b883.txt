@@ -1,0 +1,9 @@
+When building a rollercoaster you can't put a track with a loop and a hill expecting the cart to make it to the end. 
+
+When you first start your rollercoaster there has to be a drop deep enough to make the cart move on the tracks, Having your hill be higher than the initial drop is not safe.
+If your hill is too big the cart won't make it over the hill and reach the end of the ride. 
+
+The higher the release height, the more PE you will get, the same with the KE at the bottom of the ride. 
+
+When trying out your roller coaster you will notice that when you start the ride there is no KE but as the cart goes down the PE turns into KE.
+The same thing happens when you go up a hill the KE goes back into PE.

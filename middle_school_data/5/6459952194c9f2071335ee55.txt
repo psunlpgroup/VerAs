@@ -1,0 +1,18 @@
+
+
+Dear Gonzales family, my roller coaster design is the best yet. I think this because I have the best qualities of all components going into my roller coaster. 
+
+The height of the initial drop should be the tallest you can make it so that it gathers a lot of energy to make it go faster over the hill. Based on my data, even though 5 m is the best to get the most speed, it isn’t safe enough and exceeds the 8.4 m/s. This is why I chose 3.55 meters for the height of the initial drop.  
+
+The higher I do the initial drop height, the more the speed increases. So even though you would want the roller coaster to go faster and have a more exciting initial drop, it, again, can't exceed the 8.4 m/s. So this is why my initial drop height can't be 5 m it has to be 3.55 m.
+
+The Law of Conservation of energy states that you can not create or destroy energy, it just gets transferred. This idea can be proven when working with roller coasters. At the top of the initial drop the PE has all of the energy, which is 1745 J and the KE has 0 J. At the bottom of the drop, the KE has all of the energy that the PE had so now the PE has 0 and KE has 1745 J. The PE and KE always add up to the total amount of energy and the most energy makes the cart go faster. That’s how the Law of conservation of energy is shown with roller coasters.
+
+The hill has to be the tallest it can be without being taller than the initial drop. When the initial drop is lower than the hill height then the roller coaster won’t make it to the end. This is why I chose my hill height to be slightly less than 3.55 m and I made it 3.5 m. I tried to make it the closest I can to the initial height without exceeding it. 
+
+Also the mass of the cart should be high around 55 kg because the higher the mass, the more the energy. I learned this from my data because the lowest amount of mass I tried was 40 kg and the energy was 1958 J, but the highest one I did was 60 kg and the total energy was 2936 J. 
+
+Now, you would think the mass of the roller coaster affects the speed, but that is a myth. No matter how much kg the cart is it doesn't effect the speed whatsoever. You can tell this from the data because when I used 40 kg and 60 kg the speed was the same for the bottom of the drop which was 8.3 m/s, middle of the hill which was around 2 m/s, and end of the coaster which was 8.3 m/s.
+
+In conclusion, my roller coaster will be the most fun and should be in your theme park. To do this my initial drop height is 3.55 m, the hill will be 3.5 m, and the mass of the cart will be 55 kg. All my choices were based on my own research and data. This is why you should choose my roller coaster for your theme park.
+

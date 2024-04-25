@@ -1,0 +1,13 @@
+ Today, my company and I will show you a roller coaster design; This includes an ID height of 3.50 meters. A loop height of 2.50 meters. A hill height of 3 meters. A car mass of 45kg. And the friction of 0.02, here is why. 
+     The drop height of my roller coaster design is 3.50 meters. This is because when we tested 2 meters and the total energy was 977 which we thought was too low. Then, we tested 5 meters and the total energy was 2433 which we thought was too high. Then, we tried 3.50 meters and the total energy was 1714 which we thought was perfect. That's why we decided on 3.50.
+     Next, the hill height. We decided on 3 meters because we tested 2 meters and the Total energy was 1698. That's a good total energy but then a short hill wouldn't be fun. But then we tried 4 and 3.5 meters. 4 meters total energy was 1715 and 3.5 meters has a total energy of 1714. We also thought that was a good total energy but the car wouldn't be able to make it over because 4 meters is taller than 3.5 so it won't make it over. And 3.5 meters is the same but when we tested it it didn't make it over. So we decided on 3 meters which total energy was also 1714. But the car could make it over. 
+     Now, the car mass. We decided on 45kg. This is because when we tested 60kg and the car was pretty slow so we didn't choose that. Then we tested 40kg and it went smoothly but the car wouldn't fit as many people as 45kg. When we tried 45kg, the size, and speed were good, so we decided on that. 
+     Then, loop height. We picked 2.50 meters because 2 meters was too small and 3+ meters was too big for the hill height. 
+     Finally, the friction. We decided to work with 0.02 friction so the car still had speed and was still safe and fun.
+      According to the law of conservation, energy can't be destroyed or stored so total energy always stays the same throughout the ride. A relationship between PE and KE is that they both depend on mass. And the higher the height is the more PE is stored. The total energy is all the energy combined. For example, the total energy is summed up by PE + KE.
+
+In conclusion, this is why we picked these heights and masses.
+
+Sincerely
+
+Engineering

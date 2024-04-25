@@ -1,0 +1,29 @@
+
+During my proposal to the Gonzales family, I will be sharing my findings about: 
+Mi roller coaster 
+
+The drop height of my roller coaster design is  5.00 meters.
+This is important because thar is more pe at the top of the roller coaster . For example, when I tested the drop height of 2.00 meters, the PE was 976 Joules. When I increased the drop height to 5.00 meters, the PE (increased) at  2440 Joules.
+
+PE = KE = TE (equation)
+My data supports this equation because in the Initial Drop simulation my roller coaster had 2440 J of PE at the (top/bottom) of the initial drop, it had 2440 J of KE at the (top
+) of the initial drop.
+ and it had 2440 J of total energy at the (beginning/end) of the ride. 
+
+The law of conservation of energy states that e con´t be destroyed or created.
+ This means that energy will change from potential energy to kinetic energy and back again throughout the ride.
+
+Any hills that are added to the ride must be smaller as compared to the initial drop height. 
+You can see this in my data. When I tested a drop height of 5.00 m and a hill height of 5.02 m, the roller coaster car didn't make it to the end. However, when I tested a drop height of 5.00 m and a hill height of 2.00 m, the roller coaster car did make it to the end .
+
+Our last experiment was comparing mass and energy. The (higher) the mass of the car, the (higher) the total energy.
+When I used a car that had a mass of 60 kg, the roller coaster had 2929 J of total energy. When I used a car that had a mass of 40 kg, the roller coaster car had a mass of 1953 j.
+
+The initial drop height affects the energy of the roller coaster by the higher the drop height the faster the roller coaster goes. For example, I had an initial drop height of 5m and the end speed was 9.87m/s. On the other hand, I had a lower drop height of 3.04m and a lower speed of 7.71 m/s. Any additional hills had to be slightly lower than the initial drop height.
+
+The mass of the roller coaster car does not affect the speed. In my simulation I had the highest mass of 60g and the speed at the end of the ride was 7.75m/s.  I had a lower mass of 50g and it had the same speed at the beginning and end of the ride of 7.75m/s.
+
+The relationship between PE, KE and total energy is that they are all the same. The KE the faster it will go. The Law of Conservation of Energy which states that energy can not be created nor destroyed did not affect the design of my roller coaster.
+
+In conclusion, from what we’ve learned about the physics of roller coasters so far, your new roller coaster should have/do the following:
+it should have a high drop point of maximum height of 3.34m but a low of 3.04m so it doesn't go too slow or too fast and a coaster car with high mass and the hills should be of medium height and a loop for fun. 

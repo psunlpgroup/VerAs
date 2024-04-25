@@ -1,0 +1,19 @@
+Dear Gonzales family,
+My name is Caitlin Gruetzmacher and I will be using my data to help give the best design and my decisions on why they are the best. 
+To start off I think the best way to stay at a safe but fun speed for the passengers on the roller coaster is to have the car mass at 50 kg. In my trials using the sim;
+End of drop- 7.97 m/s
+Up the hill-7.49 m/s
+Top of Hill-4.42 m/s 
+Going downhill-6.69 m/s
+End- 8.26 to 0 m/s
+These data points show that the car mass of 50 keeps the coaster between the speed of fun but also in a safe matter. Not only does the mass matter but the heights of the coaster matter as well. The height I have chosen to perform best is having an initial drop height of 3.5 m and then a hill height of 2.5 m. Decided that 3.5 was the best height for the drop because it is not too slow but just safe enough for the riders. With the hill height 2.5 worked best because I decided to add a loop to add more enjoyment so that  2.5 gave just enough energy to get through the loop safely but also fun. The mass and the heights are based on the data given above as I said before they show how each piece of data is within the safety measure but also still fun for the riders. 
+
+On the next, height and mass impact the KE, PE and the total energy kinetic energy of the car will be higher if the object is placed at a greater height. All of the things contribute to the speed of the car but with the mass being high and the height being less there is less PE than in the trial with less mass but a greater height. With the 50m and the 3.5 height the PE was 1711 and the KE was 0, in the trial with the 56 m and the 2.5 height the PE was 1361. This shows the height of the hill and the mass effect of the PE in being higher or lower. It works the same with KE and converts it into more than the trial with less height. The total energy is affected because if the height and mass are greater or larger the total energy comes about to  more energy but less if both of those things r less than it. 
+
+The relationships between PE, KE, and total energy affect my ride by as the car goes down the initial drop, the car loses PE. Then converts it to KE and when going back up another hill the KE converts over only a little bit of PE back and going down the hill again it turns into all KE. Finishing the ride with all KE and no PE. This conversion happens all throughout the ride. At the end of the ride where all that energy is used is the total energy, showing the energy used to complete the ride. The relationship between height and drop is the maximum velocity so when the initial drop gets greater the hill height should also increase but not more than the drop height. Also, the height increases the speed if put at a greater or smaller height. 
+
+The law of conservation of energy states that within a closed system, energy can change the form, but it cannot be created or destroyed. It then affects my decision in the design process because it puts my total energy at a constant rate. So that means all the converting from PE and KE needs to stay constant so my total energy is constant. Mass and speed, mass does not directly affect the speed of the car but it determines how fast an object can change into speed under friction and gravitational force. 
+
+I hope my decisions are the right ones for the roller coaster! Using all the data I used should help with more decisions. Let me know with any questions,
+Thank you
+Caitlin

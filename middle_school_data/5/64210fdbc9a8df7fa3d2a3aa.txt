@@ -1,0 +1,6 @@
+My roller coaster design starts with a 3.5 meter initial drop. It then travels up a 2.5 meter hill, ending in a 2.5 meter tall loop. The roller coaster car would have a mass of 50 kilograms.
+
+I chose a height of 3.5 meters for my initial drop because it ensures that the speed is never greater than 8.4 meters per second, making sure that the ride is safe. It also guarantees that the speed will, at multiple points during the ride, reach a speed of 6.7 meters per second or above to add an element of excitement to the ride. The height I chose insures these things because at the beginning of the ride there is not enough potential energy to reach a speed of 8.4 meters per second, but enough energy that the ride will be faster than 6.7 meters per second. The higher the drop the more potential energy there is and because potential energy decreases at the same rate that kinetic energy increases going down a drop, the higher the drop the more total energy there will be. the more total energy there is the more speed your car will have. Because of the Law of Conservation of Energy, the total energy will stay the same throughout the ride insuring that the car will make it to the end of the roller coaster. 
+
+
+

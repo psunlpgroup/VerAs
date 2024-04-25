@@ -1,0 +1,10 @@
+Dear Gonzales family,we have come up with the best possible design for your coaster.We have figured out the best way to make sure the coaster will be safe but also fun.
+
+For starters you will want the initial drop height to be as high as you can have it.This is because the Law of Conservation of Energy states that energy cannot be created or destroyed.Instead it is just transfer'd between energy like how KE+PE=TE.When there is no movement and the cart sits on the top of the drop  all energy is  PE,until it starts moving down the drop most of the  PE transfers into KE. 
+
+The reason you want to start you initial drop  higher is so you start your coaster with more total energy meaning it will have more  potential and kinetic energy so it will go faster and farther.As shows in out data when when we released  a coaster from a height of 5m  the total energy was 2321J but when we released one from a height of 3.49m the total energy was only 1705J. However you don´t want it to go to fast to where it exceeds the speed of 8.4m/s because then people will get injured. 
+Also you will want your initial drop height to be higher than every hill you will have.This is because if it is not higher than those hills it will not have enough total energy to be  able to make it over the hills and to the end.This is shown in our data when we released a cart and the hill was at 4.4m and the initial drop height was 5m the cart made it over.However when the hill was at 5m,same as the initial drop height it didn't make it over the hill. 
+ 
+You will want to have the cart mass be as much as possible.The more mass the cart has the more energy it will have. Meaning it will be a more thrilling ride.For example in out data we discovered when we kept the initial drop height and hill height the same but changed the mass we got different total energy's.When we gave the cart a mass of 60kg it had 2938j but when we lower'd the mass of the cart to 40 kg it only had 1959j.But remember the mass does not give you more speed just more TE.
+
+So after testing and putting all out data together we have come up with the best design for your roller coaster.

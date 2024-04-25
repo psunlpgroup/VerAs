@@ -1,0 +1,18 @@
+1. Your initial drop height should be 3.75m, your hill height should be 3m, and the mass of the car should be 55kg because with these the car will make it through the whole ride quickly and safely according to are test trials.
+2. With no friction, the PE at the top of the hill whatever it is will transfer into exactly the same amount of KE at the bottom of the hill.
+3. This is because at the top the car is not moving so it has no KE and all the energy is PE.
+4. At the bottom when it all transfers it has no PE because it has no height and it is all KE because the car is moving.
+5. The inial drop height and the mass of the car affect the PE and KE.
+6. This is because the more height and/or car mass you have the more PE you will have and when you have more PE because there is no friction the KE will also increase.
+7. I know this because in a trial I did I started with 40kg and had a PE of 1173J and then I increased the mass to 50kg and then I had 1467J of PE so when I increased the mass I have more PE.
+8. And with the height in a trial I did I started out with a drop height of 2m and I had a PE of 973J.
+9. Then when I increased the height to 3 I had a new PE of 1459J.
+10. So if I increase the height of the drop or the mass of the car it will increase the PE and the KE.
+11. Height does affect speed because if you have a greater initial drop height your car will have a greater speed.
+12. I know this because in my first trial I start with an initial height of 3m and at the end had a speed of 7.65.
+13. Then in my 3rd trial, I increased my initial drop height to 5 and had an end speed of 9.38.
+14. But mass does not affect speed because there is no friction the PE at the beginning will be the same as the KE at the end.
+15. So the equations m x g x h and 1/2 x m x v squared will equal the same and because the mass will be the same during the whole ride the mass will not affect the equations because they will cancel out in the equations no matter the weight of the car.
+16. So mass does not affect speed.
+17. The law of Conservation of Energy plays in my design because the law states energy can not be created or destroyed and because there is no friction all the energy will stay eighter in PE or KE form.
+18. So it affects the coaster because there will always be some kind of energy on my coater car.

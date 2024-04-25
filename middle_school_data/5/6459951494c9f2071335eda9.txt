@@ -1,0 +1,9 @@
+Dear Gonzales family, 
+
+My team and I believe that we have finally found a way to make you a fun and exciting roller coaster. The roller coaster in our simulation consists of an initial drop of 3.5, a hill height of 3, and a loop height of 2.5. The mass of the roller coaster car in our simulation was 60kg. The roller coaster easily reaches the end of the ride without any challenges. We've curated the perfect set of heights and mass to maximize fun and speed. From our trials we found that the mass of the roller coaster car will not effect the speed whatsoever, so we've selected one at random.
+
+On the topic of fun, we found that for a roller coaster to be fun and exciting, it must have a minimum speed of 6.7 m/s. Similarly, for the roller coaster to be safe, it must be slower than 8.4 m/s. This is the reason why we've decided to push that limit. Our roller coaster reaches speeds of 8.27 m/s, fun and exciting while still being safe.
+
+Our decided upon drop height would give us the total energy of 1710 Joules to work with, more than enough for a satisfying experience. This translates into the PE of the ride, which would give us the same amount of KE, according to the Law of Conservation of Energy. The Law of Conservation of Energy means that energy cannot be created or destroyed, but it can be transferred. The more KE we have, the faster our roller coaster will go, leading to our decision.
+
+We truly hope that you will take our roller coaster into consideration, and we wish you well! We hope that our concern for both the safety and the enjoyment of the riders piques your interest.

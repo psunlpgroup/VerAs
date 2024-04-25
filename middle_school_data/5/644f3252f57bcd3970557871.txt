@@ -1,0 +1,7 @@
+This roller coaster design works. It works well because every time you increase the initial drop the speed gets higher (is faster). In our experiments, we made the initial drop higher every time. What we found when we did that was that the speed increased every time. For example, when the initial drop was 3.25m the speed was 7.84. Then when the initial drop was 3.50 the speed was 8.27. This same pattern happened every time. If the first hill was taller than the initial drop there would not be enough energy for the car to get over the hill. So we would recommend that the initial drop is high if you want the ride to go faster.
+
+
+Roller coasters have hills to make them more exciting. So in our experiments, we made hills as high as they can go, but not too high because otherwise the car would not be able to go over them and may not be safe for people to ride. The good thing was 44 kg the speed was 3.09 and when the mass was 60 kg the speed was also 3.09. So even if the mass increases the speed stays the same.
+
+
+Another thing we looked for in our roller coaster was our energy and how it affected mass. Something that we found out was that whenever there was more mass the PE and KE were higher. One of our cars was 40 kg the energy of it was 1175j and for the car that was 50 kg, the total energy was 1467j. These numbers are the right amount to keep the roller coaster safe and for it to be fun. The roller coaster's mass doesn't matter because it never affects the speed. 

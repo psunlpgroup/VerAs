@@ -1,0 +1,10 @@
+I think that the initial drop of the roller coaster should be 3.5 meters. The higher up the initial drop is, the faster it will go. For example, when we dropped the car from 3 meters, it went at a speed of 7.66 meters per second at the bottom of the drop. When we dropped the car from 4 meters, it went at a speed of 8.84 meters per second at the bottom of the drop. However, for the safety of the rider, the car cannot go at a speed higher than 8.8 meters per second. If the initial drop is at 3.5 meters, then it will go just under 8.8 meters per second. 
+
+The higher the car starts at, the more potential energy it will have at the top of the initial drop. For example, when we dropped the coaster from 2 meters, there was 977 joules of potential energy at the top, and 976 joules of KE at the bottom. When we dropped the car from 3 meters, there were 1,466 joules of PE at the top and 1465 joules of KE at the bottom.
+
+The Law of Conservation of Energy states that energy cannot be created or destroyed. Because of this, the total amount of energy the car has throughout the ride must stay the same. Also, when all the PE goes down because it's dropping in altitude, all the PE gets converted into KE because the total energy must stay the same. Because of this, we need the initial drop to give the car enough energy to make it throughout the ride. 
+
+I think that the mass of the car should be 50 kilograms. Mass does not affect speed. For example, when the car had a mass of 40 kilograms, the car went at a speed of 8.27 meters per second at the bottom of the initial drop. When the car had a mass of 50 kilograms, it went at a speed of 8.27 meters per second at the bottom of the initial drop. 
+
+Mass does, however, affect the energy that the car has. When we had a car with a mass of 40 kilograms, it had a total energy of 1,958 joules. When we had a mass of 50 kilograms, the car had a total energy of 2,449 joules. This shows that the more mass the car has, the more PE, KE, and total energy the car will have.
+

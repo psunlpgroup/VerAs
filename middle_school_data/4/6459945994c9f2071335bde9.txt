@@ -1,0 +1,16 @@
+Hello Gonzales family, I will be talking about how our roller coaster design will be the best for your entertainment. Roller coasters need some way to get energy to make it to the end of it. Some may use power-boost energy, and others can just use physics. Lets make a roller coaster that uses physics.
+
+Now how does a roller coaster use physics? Well, lets start off really high from the ground so we can use gravity for our power source, also known as the initial drop. The initial drop is the starting point, the higher it is, then its a better chance at making it to the end. Along with the initial drop, there is also an energy called "Potential energy", that is going to be your start energy (Also your end!). Once the roller coaster starts moving down your initial drop, that's when things start to get fun.
+
+When your cart is moving down hill, the PE(Potential energy) and the KE(Kinetic energy) start to switch. One  decreasing and one increasing. The one decreasing is going to be the PE, while the one increasing is going to be KE. Both the PE and KE are measured in J(Joules).
+
+Now for my first example, the initial drop is going to be at 5.0 kg, with the cart being 50 kg, the PE at 2443 J and the KE at 0 J. Once the cart starts to move down, both the PE and KE start to decrease and increase. When the cart is all the way at the bottom of the initial drop, then the PE and KE should be completely flipped around(Start: PE=2443 J, KE=0 J/End: PE=0-1 J, KE= 2443-2442 J (PE+KE=TE(Total Energy))).
+
+Now adding a hill to the ride can be a little difficult if measurements are off to some extent. For one, the only way that a roller coaster can making it to the end with a hill is only if the hill is shorter(In height) from the initial drop height. If the hill is the same height or higher then the cart doesn't have enough energy to go over the hill without extra support.
+
+Mass is also a very important factor in physics. For example, car A has a mass of 50 kg and car B has a mass of 60 kg and the same initial drop being at 4.0 m. Once the car is finished which every the car had the greater the mass, more the total energy. And the one with lower mass, then it has less energy.
+
+In conclusion, to make a roller coaster using physics, you must include:
+- Initial drop.
+- A hill that is shorter than the initial drop.(If included)
+- Make sure the car gets enough energy to make it through the end.

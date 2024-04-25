@@ -1,0 +1,10 @@
+           We have a recommendation for an amazing rollercoaster that we are currently designing right now! Let's hop right into telling you about our recommendations. This rollercoaster will be fast and exciting, making it from the start to the end of the ride.
+
+           We know that the height of the drop relates to the potential energy at the top and the kinetic energy at the bottom. We can back that up because the higher the initial drop is, the higher the amount of potential energy is. Then, when the potential energy eventually converts to kinetic energy, the rollercoaster starts moving. The total energy is always the potential and kinetic energy combined. The higher the rollercoaster, the faster the ride goes. This means, the higher the drop height, the bigger we can make the hill height. If we have enough kinetic energy, the car can easily soar over the second hill. If the hill height is too tall, then there won't be enough kinetic energy meaning the car won't reach the end. Therefore, if we make the initial drop as big as possible, it will make the ride have many more options available. This means the more options we have, the more options to thrill the customers!
+
+           The more mass you have at the top of the initial drop, the more potential and kinetic energy you have. We know this because in the simulation we ran, the more mass we added, the more total energy went up. 
+
+           When you start going down the hill, the potential energy stores, start to change into kinetic energy. Energy cannot be created nor destroyed, so we know that all the potential energy is going to kinetic energy. 
+
+           For all these reasons, we've decided to make the mass of the car 50 kg, the initial drop 5 meters, and the hill 2.5 meters. This rollercoaster should be fast and exciting!
+ 

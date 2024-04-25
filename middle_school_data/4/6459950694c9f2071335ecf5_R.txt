@@ -1,0 +1,16 @@
+Dear Gonzales Family, 
+
+   The roller coaster my team has designed provides a safe yet thrilling ride. It has an initial drop of 5 meters. Hills reaching 4.75 m and thrilling speeds. We believe that this ride will provide satisfaction to its riders while getting them safely to the end of the ride. Here's a look at the data we've collected, our scientific concepts, and our progress so far in our designs. 
+
+   Before we get into our research here are some concepts you need to understand. One of them is total energy. This is all of the energy that's there, the potential and kinetic energy. Think of it like a math equation, PE + KE = Total Energy. Another concept you need to know is the Law of Conservation of Energy, "Energy can neither be created nor destroyed, only transferred from one type to another". So basically at the initial drop you would have all of your energy as potential energy but as it starts going, it becomes potential energy. Now that you know some of the vocabulary, and ideas of the project we can get into the details of our study. 
+
+   The first step in our design process is the initial drop. We needed to find the best height to provide the greatest amount of energy to be able to insure a fast ride. Through our data we found that five meters provided a total energy of 2443 J and the lowest at our lowest tested height of 3.75 meters only gave a total energy of 1832 J. Therefore to provide the most amount of Kinetic Energy we need to start with the 
+highest potential energy so we need to make the initial drop start at a height of 5 meters. 
+
+   The next step in our process is adding our hills, we discovered that for the car to make it over the hill the initial drop height has to be greater than the hill height. This can be explained through the Law of Conservation of Energy, the PE is needed to make the KE to get over the hill. To get over the hill you need a large amount of Kinetic Energy and to get that Kinetic Energy you have to start with that same amount of potential energy which you can only get from the initial drop. In the trial when we had both the hill height set to 5 m, the car didn't go over, however when the initial drop was set to 5 and the hill height was set to 4.5, not only did the car make it over but it only lost 
+ 1 J of total energy. So if the initial drop isn't higher than the hill, the coaster wont have the energy it needs to get the car over the hill. And having a hill height of around 4.5 is a great height to maintain energy and get over the hill safely. 
+
+   Our most recent study was investigating which mass for the car would be the best at providing energy. In this experiment we discovered that our highest mass of 60 kg with the same height of the initial drop it provided a potential energy of 2938. However the lowest mass we tested of 40 kg with every other aspect also remaining the same, we saw a potential energy of 1959 J. As previously explained to have the best experience you need a lot of energy and the mass of 60 kg does that. 
+
+In conclusion as explained through the data, for the best roller coaster results we suggest an initial drop of 5 meters, a hill height of 3.75 m, and a car mass of 60 kg, the riders will be safe, thrilled, and happy with their roller coaster experience! Well wishes, more updates will be sent later in the study.
+    

@@ -1,0 +1,8 @@
+The drop height of my roller coaster design is 5 meters. This is because when you have a higher drop height the PE is larger making the car go faster, so it is able to go up hills and go through loops. For example, when I tested the drop height of 4 meters, the PE was 1955 but when I increased the drop to 5 meters the PE increased meaning it was able to go up our 4 meter hill and go through loops.
+
+When I tested the roller coaster the PE and the KE were almost always stayed the same. This was because the track was friction less. And some of the changes that happened when the cart went down the initial drop were the PE and the KE almost canceled out another. The car was moving the PE went down and the KE got larger. For example if the PE was 100 the KE would be zero. As the  car goes down the hill the PE starts to decrease while the KE increases and the by the end of the ride the KE would be 100 and the KE will go down to 0.
+
+When you have greater mass it will always effect the PE and KE. For example, my data shows higher the mass higher the energy. 50kg car mass it equal to 2448J PE, 40kg is equal to 1958J PE meaning more mass more energy.
+
+The law of conservation of PE is 9.8. To find the PE you have to times the mass and the height times 9.8. To fine the conservation of KE is, mass times speed times speed divide by two.
+

@@ -17,6 +17,7 @@ import utils
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--top_k", default=3)
+parser.add_argument("--dataset_name", default="college_physics", choices=["college_physics", "middle_school"])
 parser.add_argument("--verifier_model", default="sbert", choices=["bert", "sbert"])
 parser.add_argument("--loss_function", default="oll", choices=["oll", "cross_entropy"])
 parser.add_argument("--grader_model", default="electra", choices=["longt5", "bert", "electra"])
@@ -26,8 +27,21 @@ args = parser.parse_args()
 
 loss_dict = {
     "oll": loss_functions.oll_loss,
-    "cross_entropy": loss_functions.cross_entropy_loss
+    "cross_entropy": loss_functions.cross_entropy_loss if args.dataset_name == "college_physics" else torch.nn.functional.binary_cross_entropy
 }
+
+if args.dataset_name == "college_physics":
+    train_folder = "data/train"
+    val_folder = "data/val"
+    train_labels = "data/labels/train.csv"
+    val_labels = "data/labels/val.csv"
+    rubric_dimension = "data/rubric_dimensions.json"
+else:
+    train_folder = "middle_school_data"
+    val_folder = "middle_school_data"
+    train_labels = "middle_school_data/middle_school_essay1_2_train.csv"
+    val_labels = "middle_school_data/middle_school_essay1_2_val.csv"
+    rubric_dimension = "middle_school_data/rubric_dimensions.json"
 
 config = {
     "train_folder": "data/train",
@@ -54,18 +68,18 @@ for lr in [0.00005, 0.00001]:
 
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         train_set = QuestionSentenceDataset(config["train_folder"], config["train_labels"], 
-                config["rubric_dimension"])
+                config["rubric_dimension"], dataset_name=args.dataset_name)
         train_loader = DataLoader(train_set, 1, shuffle=True)
 
         val_set = QuestionSentenceDataset(config["val_folder"], config["val_labels"], 
-            config["rubric_dimension"], is_val=True)
+            config["rubric_dimension"], dataset_name=args.dataset_name, is_val=True)
         val_loader = DataLoader(val_set,1)
 
-        verifier = Verifier(bert_or_sbert=args.verifier_model)
+        verifier = Verifier(bert_or_sbert=args.verifier_model, topK=int(args.top_k))
         verifier = verifier.to(device)
         verifier.train()
 
-        grader = Grader(args.grader_model)
+        grader = Grader(args.grader_model, args.dataset_name)
         
         optimizer = Adam(list(grader.parameters()), lr=config["lr"])
         verifier_optimizer = Adam(list(verifier.parameters()), lr=0.00001)
@@ -175,6 +189,7 @@ for lr in [0.00005, 0.00001]:
                 student_scores = {}
                 predictions = []
                 ground_truths = []
+                grader_actual_preds = []
                 ver_preds = []
                 ver_ground_truths = []
                 for i, data in tqdm(enumerate(val_loader)):
@@ -205,23 +220,26 @@ for lr in [0.00005, 0.00001]:
                     
                         predictions.extend(logits.cpu()) # contains probability predictions for val loss for 1-5 so for grader
                         ground_truths.extend((torch.index_select(labels, 0, torch.from_numpy(verifier_nonzeros).to(device))).cpu())
-                        pred_probab = torch.nn.Softmax(dim=1)(logits)
-                        y_pred = pred_probab.argmax(1).cpu()
+                        if args.dataset_name == "college_physics":
+                            pred_probab = torch.nn.Softmax(dim=1)(logits)
+                            y_pred = pred_probab.argmax(1).cpu()
+                        else:
+                            grader_actual_preds.extend([1 if prob>=0.5 else 0 for prob in logits.detach().cpu().numpy()])
                     else:
                         y_pred = []
-
-                    all_preds = [0] * labels.shape[0]
-                    for index, pred in zip(verifier_nonzeros, y_pred):
-                        all_preds[index] = pred.item()
-                    
-                    for id,pred,gt in zip(report_IDs, all_preds, labels.cpu()):
-                        act_gt = gt.item()
-                        act_pred = pred 
-                        if id in student_scores:
-                            cum_preds, cum_gts = student_scores[id]
-                            student_scores[id] = (cum_preds + act_pred, cum_gts + act_gt)
-                        else:
-                            student_scores[id] = (act_pred, act_gt)
+                    if args.dataset_name == "college_physics":
+                        all_preds = [0] * labels.shape[0]
+                        for index, pred in zip(verifier_nonzeros, y_pred):
+                            all_preds[index] = pred.item()
+                        
+                        for id,pred,gt in zip(report_IDs, all_preds, labels.cpu()):
+                            act_gt = gt.item()
+                            act_pred = pred 
+                            if id in student_scores:
+                                cum_preds, cum_gts = student_scores[id]
+                                student_scores[id] = (cum_preds + act_pred, cum_gts + act_gt)
+                            else:
+                                student_scores[id] = (act_pred, act_gt)
                 print("val accuracy of verifier", acc(ver_preds, ver_ground_truths))
 
                 try:
@@ -234,8 +252,12 @@ for lr in [0.00005, 0.00001]:
                         val_loss = criterion(predictions, ground_truths).cpu().numpy()
                 except:
                     val_loss =10000
-                predictions = torch.tensor([pred for pred,_ in student_scores.values()])
-                ground_truths = torch.tensor([gt for _,gt in student_scores.values()])
+                if args.dataset_name == "college_physics":
+                    predictions = torch.tensor([pred for pred,_ in student_scores.values()])
+                    ground_truths = torch.tensor([gt for _,gt in student_scores.values()])
+                else:
+                    predictions = torch.tensor(grader_actual_preds)
+                    ground_truths = torch.tensor(ground_truths)
                 val_spearman = spearman(predictions, ground_truths, torch.ones_like(predictions))
                 x = get_eval_metrics(predictions, ground_truths, torch.ones_like(predictions))
                 print("val krippendorf: ",x["krippendorff_alpha"])
@@ -252,10 +274,13 @@ for lr in [0.00005, 0.00001]:
            
             print("train loss: ",running_loss/len(train_loader.sampler), "val grader loss: ", val_loss, "spearman: ", val_spearman)
 
-
-        model_save_path = f"results/{args.top_k}_grader_{args.grader_model}_verifier_{args.verifier_model}_loss_{loss_function_name}_{config['lr']}_{config['batch_size']}_grader"
+        if args.dataset_name == "college_physics":
+            folder = "results_college"
+        else:
+            folder = "results_middle"
+        model_save_path = f"{folder}/{args.top_k}_grader_{args.grader_model}_verifier_{args.verifier_model}_loss_{loss_function_name}_{config['lr']}_{config['batch_size']}_grader"
         os.makedirs(model_save_path)
         torch.save(best_grader, f"{model_save_path}/model.pth")
-        model_save_path = f"results/{args.top_k}_grader_{args.grader_model}_verifier_{args.verifier_model}_loss_{loss_function_name}_{config['lr']}_{config['batch_size']}_verifier"
+        model_save_path = f"{folder}/{args.top_k}_grader_{args.grader_model}_verifier_{args.verifier_model}_loss_{loss_function_name}_{config['lr']}_{config['batch_size']}_verifier"
         os.makedirs(model_save_path)
         torch.save(best_verifier, f"{model_save_path}/model.pth")

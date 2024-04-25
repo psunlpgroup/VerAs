@@ -1,0 +1,16 @@
+2. When designing the roller coaster we had to think about how the drop height would affect the PE and KE.
+3. We figured out that the higher the drop height the more PE and KE there would be.
+4. At the drop height of 5, the PE at the top of the drop was 2834, whereas the PE at the drop height of 2 was 1134.
+5. The drop height and hill height also affect how much KE there will be.
+6. If the drop height is 5 and the hill height is 3 the KE at the top of the hill will be 1142.
+7. But if you were to have a drop height of 5 and a hill height of 5 the KE at the top of the hill would be 37, not even enough to get the cart over the hill.
+8. Staying with the topic of the initial drop, how does the PE transfer into KE going down the drop?
+9. If you started at the top of a drop with a height of 5, the potential energy at the top of the drop was 2834, but as the cart goes down the drop that energy transforms into KE.
+10. So in the middle of the drop, the KE and PE would be 50/50, but by the time you get to the bottom of the drop, you would have 2834 joules of KE.
+11. The law of conservation of energy states that no energy is lost, it is just transformed into a different kind of energy, this applies to the roller coaster because at the start the roller coaster has PE, but as it goes down it becomes KE.
+12. This shows how the energy transforms into other energy.
+13. The mass also affects the PE and KE, the more mass the roller coaster has the more PE and KE the coaster will have.
+14. If you have a car mass of 40, the KE is 1946 and the PE is 1949.
+15. But as the mass gets greater the PE and KE grow to.
+16. So if you have a mass of 60, the KE is 2933 and the PE is 2938.
+17. The total energy is also changed when you

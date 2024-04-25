@@ -1,0 +1,11 @@
+Dear Gonzales family,
+
+  I have finalized my roller coaster design and have tested it to make sure it is safe and secure. I did end up changing the design because I now have learned more about height, mass, and energy to improve the ride. Without further adieu let me start telling you how I've come to my conclusion about my design.
+
+The initial drop is 3.6 m high, the loop is 3.02 m high, and the hill is at 3.5 m high with the mass of the car being 50 kg. I had to change the initial drop height from 5 m to 3.6 because of the speed. The speed of the 5 m drop was 9.87 while the 3.6 drop was 8.4 making the 3.6 drop the best option. Going over 8.4 m/s will end up killing the people on the ride so I had to make it shorter and closer to the hill height. And it's very important that the initial drop height has more energy than the hill so it can successfully go over it without trouble and to the end of the ride. 
+
+The mass of the coaster car actually didn't have any effect during the ride and it didn't change the speed or energy of it. When I tested this out in my second trial the car was 50 kg and the speed at the bottom of the drop was 8.39 m/s while on my last trial the car mass was 60 kg and the speed at the bottom of the drop was 8.39 m/s. Showing us that no matter the mass of the car it will have no effect on the ride itself. The mass cancels out because they're the same mass/number as each other and since they're on both sides they cancel out showing us that it doesn't change. 
+
+The law of conservation of energy states that energy can not be created nor destroyed but it can be transferred. Because of this the amount of PE plus KE is equal to the total energy  which is very important because it needs just enough energy to make it through the ride, specifically 1762 J. The amount of energy that's transfering from PE to KE then back again thoughout the ride has to be consistent because we aren't using any friction. Plus having too much KE/speed could end up killing people on the ride.
+
+I hope you take my design into account and choose it to be your next design for your theme park. As my design is safe but fast and exciting for people to enjoy and possibly become a popular ride.

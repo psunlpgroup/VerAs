@@ -1,0 +1,8 @@
+This is our final design.  First, our drop height is 5 meters because we wanted to make it the highest we could to make things more fun and speed it up.  When drop height is higher, the speed is higher as well.  We tested the drop at 4 m and the speed was 8.84 m/s and when it was 5 m, the speed was 9.88 m/s.  
+
+Our car mass will be 60 kg because when we tested mass at 50 kg, the TE was 2445 J.  When mass was 60 kg, the TE was 2934 J.  
+
+Our hill will be 4 m tall because when it's taller, it has more energy and is more fun, but when it's too tall, the car doesn't make it to the end.  For example, when it was 3 m, the TE was 1957 and it made it to the end.  When it was 4 m, TE was 1958 and it made it to the end.  However when the hill was 5 m, the car couldn't make it to the end of the simulation.  
+
+PE and KE's relationship through the ride switches.  At the top of the ride, there is more PE and no KE.  That becomes equal in the middle and switches to be almost no PE at the bottom and all KE.  To show this, when we did drop height simulations, the PE at the top was 1955 J and the KE was 0 J.  Throughout the drop, that switched and the PE was 1 J at the bottom and the KE was 1954 J.  The TE stayed 1955 J the entire time because, according to the Law of Conservation of Energy, energy can't be created or destroyed, so without friction to transfer it, all the energy stayed there.  
+

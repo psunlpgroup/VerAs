@@ -1,0 +1,11 @@
+                                                             Rollercoaster Essay #1
+
+Hello Gonzales family,
+
+Today my engineering company and I will give you an idea of a roller coaster design. This includes an ID height of 3.50 meters. A loop height of 2.50 meters. A hill height of 3 meters. A car mass of 45kg. And the friction of 0.02, here is why. The drop height of my roller coaster design is 3.50 meters. This is because when we tested 2 meters and the TE was 977 which we thought was too low. Then, we tested 5 meters and the TE was 2433 which we thought was too high. Then, we tested 3.50 meters and the TE was 1714 which we thought was perfect. That's why we decided on 3.50. Next, the hill height. We decided on 3 meters because we tested 2 meters and the TE was 1698. That's a good TE but then a short hill wouldn't be fun. But then we tested 4 and 3.5 meters. 4 meters TE was 1715 and 3.5 meters has a TE of 1714. We also thought that was a good TE but the car wouldn't be able to make it over because 4 meters is taller than 3.5 so it won't make it over. And 3.5 meters is the same but when we tested it it didn't make it over. So we decided on 3 meters which TE was also 1714. But the car could make it over. Now, the car mass. We decided on 45kg. This is because when we tested 60kg and the car was pretty slow so we didn't choose that. Then we tested 40kg and it went smoothly but the car wouldn't fit as many people as 45kg. When we tested 45kg the size was good and the speed was good so we decided on that. Then, loop height. We picked 2.50 meters because 2 meters was too small and 3+ meters was too big for the hill height. Finally, the friction. We decided to work with 0.02 friction so the car still has speed and was still safe and fun.
+
+In conclusion, this is why we picked these heights and masses.
+
+Sincerely
+
+ Engineering

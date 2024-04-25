@@ -1,0 +1,8 @@
+The drop height of my roller coaster design is 5 meters. This is because we want are cart to go fast so we put the height up 5 meters.  For example when I tested the drop height of 4 meters, the PE was 2165 Joules. When I increased the drop height to 5 meters, the PE increased to 2697 Joules of PE. Then the KE was from 2165 Joules with 4 meters. Then when I changed to 5 meters the KE was 2697 Joules. When it is friction less almost always the PE will go into KE when it is at the bottom of the ride. For example the PE at the top of the drop was 2697Joules, then the KE was 2697 Joules at the bottom of the drop.
+
+When halfway from the drop to the ground the PE and the KE are the same that is because when we are down the hill the PE goes down, but the KE goes up. When the Law of conservation of energy can get created or destroyed that is why the PE goes into KE when the cart is moving down.
+
+The relationship between drop height and hill height, the drop height should always be more than hill height. For example if the drop  height is 5 and the hill height is 5 then the KE will not have any energy to get up the hill. So that is why the drop height should be more than the hill height.
+
+The relationship between mass, Pe and KE is very intrestiong. For example if you have 50 kg on the cart. Then the KE on the top of the initial drop is 2453 and the KE at the bottom of the drop is 2453.
+If I add more mass on the cart then the PE and KE will go up.

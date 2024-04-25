@@ -1,0 +1,18 @@
+First I will explain the heights of all of the components of my track. to start the initial drop height will be 3.5 meters. I have decided because this height can give us the most potential energy while maintaining a safe speed of under 8.4 m/s.  the loop will be .5 meters tall roughly 3/4 of the way down the initial drop. we have chosen this because it will maintain speed and a smaller loop gives us more room to use for the two hills that follow. next, there will be a hill that is 2 meters in height. I have chosen this because we can still have a 3rd hill following while making the ride more enjoyable. Finally, we finish off with a hill that is 1/2 meter tall. I added this hill because I still had some more potential energy to use. There is also a flat section at the end of the coaster to slow it down. I have concluded that a 55-60 kg car mass will work best for this situation so we can get the most possible potential energy (PE) out of the initial drop. mass affects PE and KE  because it is in both equations the PE equation is PE=MGH or potential energy=MASS x gravity x height where mass is multiplied by gravity and height thus giving you more PE as the mass increases. It is also in the equation for KE, KE=1/2MH^2 where mass is halved but still multiplied by height squared so as the mass increases the total KE will increase as well. Height also will affect the PE and KE as well this is demonstrated in both formulas where in the PE formula height (H) is multiplied by gravity (G) and mass (M). In the KE formula height is squared and then multiplied by 1/2 of the mass. in conclusion, the mass has a direct relationship with both PE and KE and height as well as a direct relationship with both PE and KE. Because of this they both also have an effect on total energy (TE) or a direct relationship with TE. The relationship between PE and KE is inverse I know this because as shown in the trials as PE decreases KE will increase and vice versa.  the total energy and these have a direct relationship which is also shown through the trials. However, at the initial drop, the total energy is the most it can possibly be because of the law of conservation of energy which states that energy cannot be created nor destroyed it can only be converted. So this means that more energy cannot be added to the coaster unless it is applied to the car.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

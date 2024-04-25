@@ -1,0 +1,21 @@
+Dear Gonzales family,
+I hope this letter finds you well. My team and I have discovered much about the physics of roller coasters in the past couple of days. Here are some important things for you all to know:
+
+Firstly, the higher the initial drop height is the more potential energy the car will have at the top and the more kinetic energy it will have at the bottom of the coaster. Assuming nothing else is different between the coasters a coaster with an initial drop height of 3m will have more energy than a coaster with a drop height of 2m and less energy than a coaster with an drop height of 4m.
+
+Additionally, when a car is at the top of a hill there is only potential energy and no kinetic. As the car moves down the hill that potential energy begins to convert to kinetic energy and by the time the car reaches the bottom there is only kinetic energy and no potential. The total amount of energy will stay the same.
+
+Something important to understand is the Law of Conservation of Energy. It states that energy cannot be created nor destroyed only converted from one type to another. This means that the total amount of energy that a roller coaster car possesses will stay the same no matter where it is on the track, however the amount of kinetic and potential energy may fluctuate. The energy cannot be created or destroyed only converted, so when the amount of potential energy goes up the amount of kinetic will go down and vice versa.
+
+Another thing to know is that the more mass a roller coaster car has the more potential energy it has at the top and the more kinetic energy it has at the bottom. Assuming nothing else is different between the coasters a coaster car with a mass of 50 kg will have more energy than a coaster car with a mass of 40 kg and less energy than a coaster car with a mass of 60 kg.
+
+Another important thing to know is that a roller coaster car cannot reach the end of the coaster if it has a hill that has a height that is higher or equal to the initial drop height. There simply is not enough energy for the car to make it up a hill that is taller than the initial drop height.
+
+Additionally when the drop height increases the speed does as well. A car with a drop height of 3.5 m had a max speed of 8.26 m/s and a car with a drop height of 4 m had a max speed of 8.82 m/s. However if a roller coaster is too fast it will not be safe for passengers to ride, so its important to find that sweet spot that keeps the coaster thrilling but safe.
+
+One last interesting thing was that the mass of the coaster car has no effect on the speed of the coaster. A car with a mass of 60 kg had the same max speed (8.4 m/s) as a 40 kg car. The only factor that has an effect on speed is the height.
+
+The big takeaways are that a good roller coaster has a high (but not too high lest it be dangerous) initial drop height, a car with a any mass, and no hills with heights higher than the initial drop height. I have enjoyed working with you on your new coaster!
+
+Best Regards,
+Livviy

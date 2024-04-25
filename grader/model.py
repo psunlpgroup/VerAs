@@ -2,7 +2,7 @@ import torch
 from transformers import ElectraModel, BertModel, LongT5EncoderModel
 
 class Grader(torch.nn.Module):
-    def __init__(self, model_type="electra"):
+    def __init__(self, model_type="electra", dataset_name="college_physics"):
         super().__init__()
         cache_dir = None
         if model_type == "electra":
@@ -19,9 +19,13 @@ class Grader(torch.nn.Module):
             self.model_name = "longt5"
         else:
             raise Exception("Unknown model name for the grader!")
-        self.dense = torch.nn.Linear(self.query_model.config.hidden_size*3,6) # hidden state size *3 because 1 for query 1 for document, 1 for topSentence, output 6 because we have 6 classes
+        if dataset_name == "college_physics":
+            self.dense = torch.nn.Linear(self.query_model.config.hidden_size*3,6) # hidden state size *3 because 1 for query 1 for document, 1 for topSentence, output 6 because we have 6 classes
+        else:
+            self.dense = torch.nn.Linear(self.query_model.config.hidden_size*3,1)
+        
+        self.dataset_name = dataset_name
 
-    
     def forward(self, query_dict, reports_dict, topSentence_dict):
         batch_size = reports_dict["input_ids"].shape[0]
         query_embeddings = self.query_model(**query_dict)
@@ -32,4 +36,7 @@ class Grader(torch.nn.Module):
         topSentence_embeddings = self.document_model(**topSentence_dict)
         
         combined = torch.cat((query_embeddings[0][:,0,:], report_embeddings_last_hidden_avg[:,0,:], topSentence_embeddings[0][:,0,:]), 1)
-        return self.dense(combined)
+        if self.dataset_name == "college_physics":
+            return self.dense(combined)
+        else:
+            return torch.sigmoid(self.dense(combined)).view(batch_size)

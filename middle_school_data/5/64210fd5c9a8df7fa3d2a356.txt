@@ -1,0 +1,9 @@
+my teams fun and safe roller costar design is a start drop height of 3.50 meters, a hill of 2.50 meters, and a loop of 2 meters. 
+
+we made the start drop 3.5 because the speed of the car needs to stay below 8.4 m/s/s and at some point needs to be above 6.7 m/s/s. by making it 3.5 the max speed is 8.3 m/s/s so the ride will be not only fun but also safe. we found this speed because, the ride at the top of the start drop has 1711 joules of potential energy (pe). if the pe at the top is 1711 then that means that the kinetic energy (ke) at the bottom is 1711. this is because the energy converts so the total energy can stay the same. sense there's speed in the form of volatility is in the equation for ke (1/2m v squared ) this is how my team can back up the claim that are ride is safe. 
+
+as i said before energy converts, it cant be destroyed or created. so because the start drop is the highest part of the ride the energy from that point cant be higher then that drop. sense the energy cant be higher the speed cant either make it so the car will move safely over the hill and the loop with out going to fast. energy cant be created or destroyed  so the hill needs to be smaller then the start drop and the loop need to be smaller then the hill. by making the hill 2.5 meters, its shorter then the drop but it still maintains a good amount of speed. same with the loop because its 2 meters making it shorter then the hill it will maintain speed. we have the weight at 50kg because the speed if not affected  by the mass but the friction is are simulation had 0 friction so that's something to keep in mind.
+
+
+
+

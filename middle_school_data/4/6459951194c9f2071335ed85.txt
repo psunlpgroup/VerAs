@@ -1,0 +1,9 @@
+When you make your new roller coaster you need to have your initial drop to be higher than all other hills because if you don't the coaster won't have enough TE to make it all the way through the ride. As shown in Adding hills data if we have a 5m initial drop and a 2m hill height it will make it over. If we have a 5m initial drop and a 5m hill height then the cart will not make it over because it won't have enough TE to get over.
+
+ At the height of the initial drop, you need to have the most PE that you can. so that it has enough KE to make it up the next hill if the PE of the initial drop is not higher than the PE of the hill the coaster will not make it up. Because the Law of conservation of energy states energy cannot be created or destroyed, but it can convert from one type of energy to another so that means you will not be able to make it up the hill.
+
+ As the car moves down the initial drop the PE turns into KE and back to PE as it goes up the hill but it never loses the energy. 
+
+The cart mass should be greater because the greater the mass the greater the PE is at the top of the hill.
+
+This is why you should add drops and hills to your ride but also to have the information needed to know that your coaster will make it over the hills.

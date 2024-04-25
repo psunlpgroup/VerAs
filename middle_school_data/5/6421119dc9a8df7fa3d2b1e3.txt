@@ -1,0 +1,23 @@
+Dear Gonzales Family,
+    My science class has been experimenting with how to make a safe roller coaster so here is what I have to sell to you on the safest but a very fun roller coaster.
+
+
+    Here are the heights of how to make a fun and safe coaster: 
+    
+    The max speed will reach 7.66 m/s because the mass of the car will be 50kg but that won't really matter since the weight doesn't affect the speed/velocity. This is because when you are using an equation to calculate the velocity the mass cancels out the speed anyways so it doesn't really matter. 
+
+    Now for the more important pieces to know. The initial drop height of the ride will have to be 3m-3.5m so that the cart won't have too much speed going down the hill. We want to make sure the speed doesn't reach 8.6 m/s because if it did the ride will be unsafe so that is why we need a shorter drop but not too short. I choose this height because if it was any taller it would go over the max speed but if it was any shorter there wouldn't be much speed making the ride not very fun.
+
+   Next, you will want a hill to make the ride fun. The hill height should be around 2m so the cart will make it over it. The hill height is probably one of the most important heights to consider in building this roller coaster. This is because the hill has to be shorter than the initial drop so the cart can get over the hill and not struggle. Also, it is important because if the hill is too short the car will make it over very easily and the ride might not be that fun then. 
+
+
+   Now that you have considered these heights I am going to tell you some relationships in this design:
+
+    The first relationship I am going to tell you about is how height affects PE, KE, and TE. The PE is affected by the height because the higher the initial drop height is the more PE there will be. For example, if you have a drop height of 5m you will have 1955J of PE stored at the top. But if you have a drop height of only 2m you only have 782J of PE stored. This all means that the more PE you have at the start the more KE you will have at the end of the ride. This happens because the PE gets transferred into KE and the ride goes. Also, the more PE you have the more TE you have at the end of the ride.
+
+   Next, the mass affects PE, KE, and total energy because the more mass you have the more energy you will have to make it to the end of the ride. 
+
+    Lastly, the law of conservation of energy affects our design because the law states that energy can't be created nor destroyed but it can be transferred into different kinds of energy.
+
+   
+    So that is why this is the best design for the best roller coasters that are safe and also fun.

@@ -1,0 +1,13 @@
+Dear gonzalez family, 
+
+Here is the data you requested,
+The initial drop height should be 4m. This is because, When I tested the drop height of 3.35m, the potential energy was 1638 joules and the total energy was also 1638 joules. When I increased the height to 4m, the potential energy increased to 1955 joules as well as the total energy which was also 1955 joules. The kinetic energy also increased from 1638 joules (test 1) to 1955 joules (test 2). This shows us that when you increase the height the energy increases as well. We choose 4m for the height because this gives enough potential energy to make it to the end of the roller coaster. The kinetic energy increases when the car moves down the drop but the potential energy decreases. This is showing the law of conservation of energy that states that ”‘Energy can not be created or destroyed but it can convert from one type of energy to another." When the car rolls down the hill the Potential energy is converted to kinetic that's why at the bottom of the hill the kinetic energy has the same number of joules that the potential energy has at the top. We chose this height because it gave us an initial drop that provides lots of speed.  
+
+	The hill height should be 2.75m. This is because when I tested the hill height of 3.5m (drop height is also 3.5m) the potential energy was 1714 joules at the top of the hill. Then it slid down back to the top of the initial drop showing that it is too high and the car doesn't make it to the end. When I decreased the height to 2.75m the potential energy was 1350 joules at the top of the hill and the car rode smoothly to the end of the ride. This shows us that when you increase the hill height it must not be higher than the initial drop height otherwise the car will not successfully make it to the end. We have chosen this height because it makes it to the end while still being safe and fun.  
+
+The car mass should be 50 kg this is because when I tested the mass of 60kg the potential energy and total energy were 2350 joules at the top of the initial drop. But as the car moved down the drop I realized this was too slow to be any fun. So I decreased the mass to 50kg and the potential energy and total energy was 1959 joules at the top of the initial drop. The car went down the drop at a fun speed. 
+This shows that the more you increase the mass the more energy the car has but the lighter the car is the faster it moves down the initial drop and the top of the hill. We have chosen this mass because it isn't too heavy or light to make it to the end of the ride. Because if the car is too heavy or light it will not make it up the hill. 
+
+That's it for now we will check back later
+bye,
+Rileigh Herfel and other group members   

@@ -1,0 +1,9 @@
+The drop height of my roller coaster design is 3 meters. This is because my design needs a decently tall height because we need a decent amount of acceleration to complete the whole ride. If the ride were to stop and all the PE turned to KE that would be a major problem for the ride. This is because at the starting height of the drop, it is all PE, and towards the bottom of the drop there is more KE.
+
+
+Adding on, the total drop energy should be the same throughout the whole ride whether it is PE or KE. For example, in my one trial at the starting height, the PE was 1466 joules and the KE was 0, and towards the bottom of the drop the Pe was 0 and the KE was 1466 joules. Basically what I'm saying is that the total energy will usually stay the same.
+
+
+Next up, the difference between drop height and hill height is that usually, you will have more height in the starting drop than you would the hill height. The difference is the heights but the energy will still stay the same as it would on the drop height and the hill height.
+
+Lastly, when the mass is larger the energy is greater. For example, when the car mass was 60 kg the energy was 1760 joules but when the mass of the car was 50 kg the energy was 1467 joules. This shows that when the mass is larger then the energy is greater. 

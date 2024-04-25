@@ -1,0 +1,15 @@
+When building a rollercoaster you can't put a track with a loop and a hill expecting the cart to make it to the end. 
+
+When you first start your rollercoaster there has to be an initial drop big enough to make the cart go over the initial hill, if the drop isn't big enough the cart could get stuck on the tracks which are not safe. Having your hill be higher than the initial drop is not safe because, If your hill is too big the cart won't make it over the hill and reach the end of the ride. 
+
+The higher the release height, the more PE you will get, the same with the KE at the bottom of the ride. 
+
+When trying out your roller coaster you will notice that when you start the ride there is no KE but as the cart goes down the PE turns into KE.
+The same thing happens when you go up a hill the KE returns to PE.
+
+The Mass and energy have a significant impact on the rollercoaster because the more mass your cart or car has, the more energy you get. Like when you push something light off of a table it's going to have more energy but if you post something heavy the object will go down faster making more energy.
+
+The relationship between PE and hill height is when your hill is really big and it gives more PE because it is going up, but it will also give you a lot of KE because of the drop at the end of the big hill.
+
+The total energy is when you add your PE and KE together to get the overall energy on the ride.
+

@@ -1,0 +1,1 @@
+make the initial drop the tallest. as long as evreything else is shorter, it should be ok and go smoothly

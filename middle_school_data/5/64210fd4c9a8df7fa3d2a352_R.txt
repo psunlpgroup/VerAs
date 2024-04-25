@@ -1,0 +1,16 @@
+The height should be 3 meters because if it is any higher there will be too much potential energy and the car won't be able to stop. On the other hand, if it is not at 3 meters there will not be enough potential energy to make it through the hills and loops. This was proven during our experiments with mass and speed.  Potential energy is directly related to height. The higher the height the more potential energy. When the cart goes down the hill the potential energy will transfer into Kinetic energy. The total energy will be the same as the potential energy before the drop without friction, This is because energy can not be destroyed 
+
+The law of conservation of energy states that energy can not be created or destroyed but converted. When I looked at my data the total energy was the same amount as my potential energy. When I added friction to my carts I noticed that my potential and kinetic energy was no longer the same. This was because the friction changed into an external source of energy that can no longer be used. 
+
+Mass does not affect the speed at all. this was proven in our experiments when we used 60kg,50kg, and 40kg. We found that the speed at the bottom of the drop stays the same(7.66j). The speed at the top of the hill stayed the same(4.40) and the speed at the end of the ride was the same(7.66j). However Mass does affect the amount of potential energy, the more mass the higher the potential energy.
+
+In conclusion, the drop height should be 3 meters so the cart will be able to go over the hills and loop more efficiently. The mass of the cart should be 40kg because it needs to be able to stop at the end.
+
+
+
+
+
+
+
+
+

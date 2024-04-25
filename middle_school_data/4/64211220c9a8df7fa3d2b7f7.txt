@@ -1,0 +1,11 @@
+In making this coaster it is important to make sure that the drop is taller than all hills that are incorporated into the design. I understand that you may find this news disappointing so allow me to explain.
+
+Firstly, I must introduce the different types of energy that are in effect here and how they apply to the issue at hand. Kinetic energy (KE) is the energy of motion, it and potential energy (PE) is stored energy. At the top of the drop all of the coaster's energy is PE and as it rolls down that energy gets converted into KE. The KE and PE when added together form the total energy (TE) in a scenario. The total amount of energy in a closed system is always constant, meaning that no matter the amount of different energies, when they are added together (KE + PE) they will equal the same amount. This factor of TE is called the Conservation of Energy and is the reason why if you are powering a coaster from a drop, the hills will need to be shorter than said drop.
+
+Next, I would like to elaborate on how the Conservation of Energy makes it so that your hill must be a certain height. While performing trials to better understand how the different factors would impact our designs we tested to see what the ratio from drop height to hill height had to be. Our drop height in the trials was 4m and as we tested the hill heights, hills that were taller or the same height as the drop caused the coaster to roll backward without getting over the hill. The science behind these results is that due to the Conservation of Energy there was only as much energy as the car gained from the initial drop and therefore could only make it up shorter hills.
+
+Another factor that will later come to play in the design is the mass of the coaster because of how this effects the KE and PE. From our trials we learned that the more mass the car has, the more PE and KE. This is partially due to the law of inertia because with the coaster's bigger mass, it is harder to stop.
+
+Therefore there must be a hill smaller than the initial drop in the design.
+
+ 

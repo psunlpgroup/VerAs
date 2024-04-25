@@ -1,0 +1,7 @@
+The Drop height of the roller coaster design is 4.5 meters. This relates to the potential energy and kinetic energy. Because the potential energy formula is PE = mass x gravity x height which means. At the top of the initial drop the PE is 2200 J and at the bottom it is 0 J. Same with KE but revised, the formula for KE is, KE= ½ Mass x Velocity x 2 so the KE at the bottom is 2200 J, and 0 J at the top. So that is why the drop relates to PE and KE.
+
+Next, the PE, KE, and TE affect the ride. Because the PE at the top of the ID is 2200 J. The KE at the bottom of the ID is 2200 J. And the TE is 2200 J. Making it so it has an average J of 2200 J’s. This is why PE, KE, and TE affect the ride.
+
+The PE and KE switch places going down the hill. Because the formula for PE, it has gravity and height in it. So when the PE is at the bottom of the ID where there is no height. The PE goes to 0 J and the KE goes to 2200 J because again in the formula there is velocity. Showing the PE and KE switch places down the hill.
+
+If the HH is bigger than the ID then with the PE it would not make it to the end. Because if the ID was 3.5 meters and the HH was 4 meters it would not make it. But if the ID was 4 meters and the HH was 3.5 meters it would make it. Proving that if the HH is bigger than the ID it would not make it to the other side.

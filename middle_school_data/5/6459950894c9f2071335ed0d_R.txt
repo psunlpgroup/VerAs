@@ -1,0 +1,21 @@
+           I am here to talk about how to make a safe and exciting roller coaster for you guys. For this to happen you need the initial drop to be higher than the hill so it can make it over the loop and the hill. But it can't be too high because then it will become unsafe for the  riders. 
+
+           First, you need a height that is higher than the hill so let's put it at 3.50m for the initial height and 3.00m for the hill. This way the cart will be able to make it over safety and create an exciting experience for the riders. Using the data I have collected from Initial drop when it was at 4.50m there was a lot more speed that would result in an unsafe experience for the riders. This shows in my data when the speed and energy was way higher than 8.4 which is the safe amount of speed because it was 9.38(m/s). That is why the safe amount of height is 3.50 because the speed at the end was 8.27(m/s) and that is below the safe amount but is also fun to ride. And the loop also has to be shorter than the initial drop so that it will make it over but also be safe. The amount that would be safe would be 3.00m as well as the hill height. 
+ 
+           Secondly, using the data I have collected from adding hills simulation when the initial height was at 3.50m and the hill height was at 3.00m there was the most TE making it a faster ride and safe. As the data shows PE at the top of the initial drop was at 1466J  and the PE and the top of the hill was 1474J creating a lot of KE to follow. KE+PE=TE so the more KE and PE there is the more total energy their is going to be. This is called energy transformation. This is when one type of energy, in this case PE, is converted into KE as the cart starts to go downward. Also it shows the Law of Conservation of Energy states that energy can not be created or destroyed. That means that the energy never goes away, there is always energy and it can only be transferred. My data shows that in the initial drop simulator the PE at the bottom was 1 and as you can see it never went down to zero due to that law it just changed over to KE. 
+
+        Lastly, I am  going to talk about the cart mass and how that affects speed. This is a confusing one because you would think the higher the mass the greater the speed but that is not the case in this situation due to this equation mass x gravity x height = 1/2 x mass  x velocity 2. The mass is canceled out so the speed is dependent on the height and not the mass. This happens because in the equation the mass on each side is canceled out and is left with gravity, height, and velocity. And since gravity and height are the same no matter the mass you left with velocity and that is the same no matter the  carts mass. So you can choose the cart's mass because no matter the mass, it does not affect the speed. This is shown in my data when the mass of the cart was 40kg and the speed at the end of the ride was 8.27(m/s) and when the mass of the cart was at 60kg the speed at the end of the ride was the same at 8.27(m/s).
+
+            In conclusion I would recommend a higher initial drop but not too tall because that will  make the ride unsafe. The same goes for the loop and it doesn't matter the cart mass because that does not change the speed. This will create the most enjoyable and safe ride for the riders. I hope you learned what it takes to have a fun and safe ride and will choose my design. 
+
+
+
+          
+
+
+
+
+
+         
+
+         

@@ -1,0 +1,24 @@
+Dear Gonzales family, here are my recommendations for you to make the best roller coaster possible for your park.
+First the roller coaster's initial drop cannot be lower to the ground than the hill that is coming afterwards.
+ In my simulation the cart that was on the initial drop (4.05m) that was lower than the hill afterwards (5.02) didn't make it over the hill.
+
+Second, the higher the initial drop the better.
+In my simulation when I set it to 5 meters off the ground drop the cart had 2932 joules of potential energy at the top and 2931 joules of potential energy. It is more likely to have more kinetic energy.
+
+When potential energy goes up kinetic energy goes down when kinetic energy goes up potential energy goes down this relates to the law of conservation of energy.
+
+Law of conservation of energy
+that energy can neither be created nor destroyed. It can only transform from one form to another.
+
+Third, make the cart heavy.
+In the simulation when the cart was 60 the greater the mass the greater the total energy 1616 joules,less mass the less the total energy.
+  
+Fourth mass does not matter if you want speed.
+Yes more energy means more energy but it does not contribute to speed in any way .
+In all trials the speed numbers stayed relatively the same even though I changed the mass of the cart.So if you are aiming for speed make the initial drop higher.
+
+Five on speed.
+Continuing on my initial drop statement you can make the initial drop higher that is the only way to gain speed.I notice that your parks speed limit is 8.40 (m/s) so I based my trials on this and I think I found the perfect drop height for you.3.00 m This is because it goes closest to the speed limit at 7.64 (m/s).
+
+   
+So if you apply all of this to your roller coasters it will surely be fun and safe for everyone.

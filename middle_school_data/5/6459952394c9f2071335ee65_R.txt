@@ -1,0 +1,31 @@
+Dear Gonzales Family,
+
+You should consider my roller coaster design because: During my proposal to the Gonzales family, I will be sharing my findings about:
+How PE  KE and Total Energy works. More mass gives more energy. The initial height needs to be higher than the hill.
+The drop height of my roller coaster design is  5 meters.
+This is important because.a 5 meters drop gives us the highest PE .
+For example, when I tested the drop height of 2.5 meters, the PE was 1222 Joules. When I increased the drop height to 5 meters, the PE increased at  2443 Joules. 
+
+PE + KE = TE  My data supports this equation because in the  Hill simulation my roller coaster had 2444 J of PE at the top of the initial drop. It had 2444 J of KE at the bottom of the initial drop. It had 
+2444 J of total energy at the end of the ride. So you can see when you add PE and KE it will owes equal the Total Energy.
+
+The law of conservation of energy states that whatever energy you start with you end with. This means that energy will transfer from potential energy to  kinetic energy and back again throughout the ride.
+
+Any hills that are added to the ride must be lower as compared to the initial drop height. 
+You can see this in my data. When I tested a drop height of 5 m and a hill height of 5 m, the roller coaster car did not make it over the hill. However, when I tested a drop height of 5.00m and a hill height of 2.50 m, the roller coaster car went over the hill.
+
+Our last experiment was comparing mass and energy. The higher the mass of the car, the higher the total energy.
+When I used a car that had a mass of 40 kg, the roller coaster had 1958 J of total energy. When I used a car that had a mass of 60 kg, the roller coaster car had a total energy 2934j.
+
+
+
+
+The initial drop height should be 3.50 m. The higher the initial drop height, the more energy there will be. This initial drop height is also important to keep the ride safe. A drop height of 3.50 m will give you a speed of 8.25 m/s.
+
+Any hills and loops that follow need to be lower than the initial drop height because: 
+it wont go up the hill if is hire or the same because it doesn't have energy.
+
+
+For this reason, the hill height should be 2.50 m.
+
+Car mass will impact the weight  but not the speed . I know this because when the mass was 60 kg, the energy was 2929 m/s and the speed was 8.26 m/s. However, when the mass was 40 kg, the energy was 1959 m/s and the speed was 8.26 m/s.

@@ -1,0 +1,32 @@
+Dear Gonzales family,
+
+I am writing to you again because i want to help you and your family create the best roller coaster design possible. 
+A pattern i found was the speed is always the same in every trail i conducted.
+ I predicted that the mass would effect the speed of the cars on the roller coaster but i was wrong because the mass of the cars does not effect the speed that the car will go. 
+Speed and mass have no connection. i thought the mass effected the speed but i went throught the data and the pattern i found was the speed stays the same. 
+Drop heights effected the PE because when the roller coaster car is on the top of the track, the PE went down and the KE started to rise. the total energy stayed the same the entire time from when the car was at the top, and once the car reached the bottom. 
+PE+KE=TE. no matter what the total energy will always stay the same. 
+Potential energy is energy that is stored in an object. potenetial energy is measured in joules. 
+potential energy depends on the mass of the object, and the amount of gravity from the planet your standing on.
+Kinetic energy is the energy that an object has because of its motion. kinetic energy is related to the mass and speed of the object in motion. 
+kinetic energy is also measured in joules.
+Mass measures the amount of matter that an object has. the more matter an object has, the more massive it is. 
+speed is the rate an object travels over a distance and describes how fast somthing is moving. 
+
+law of concervation of energy: energy cannot be created or destroyed but, it can convert from one type of energy to another. in a closed system total enery of all kinds is always the same. energy in a roller coasters constanly converted from one form of energy to another over and over again.
+efficency is the amount of output energy compared to the amount of input energy. it is expressed as a percentage. this is a way to see how you can get the most energy out of your system with the least amount of wasted energy. a higher percentage means that the machine is more efficiant. forces of transfer energy. in the real world when a force is applied to a machine, not all of it is converted to the output or useful work. some amount of it is transfered to heat or sound energy due to friction. 
+
+Acceleration is defined as the change in velocity over time. the acceleration of an object tells you how fast the velocity of the object is changing. 
+
+Momentum is the mass of the object times it velocity (momenium = mv) . All moving objects have momentum like velocity is a vector. this means that momentun has borh a megnitude (amount) and a direction as the velocity. 
+
+velocity is very similar to speed. velocity is how fast an object is moving, as well as the direction its moving in. 
+this is differemt from speed, because speed only describes how fast the object is moving, not the direction its moving in.
+
+for example if we describe the motion of a bus is moving at 50 km/h, we are talking about the speed however, if we say a bus is traveling north at 50km/h we are reffering to the velocity of the bus. this is because we have included the direction it is moving in. 
+
+The higher the drop of the roller coaster the more speed and velocity there will be. if the speed is higher than 8.4m/s the roller coaster is not safe. if the speed is under 8.4 m/s it is safe for humans. 
+While creating your roller coaster you need to make sure that the hill heights are lower than the inital drop height or the car will not go over the tracks. 
+
+
+these are all things to keep in mind while making a safe, enjoyable roller coaster. 

@@ -1,0 +1,6 @@
+Hello dear Gonzales family
+
+My engineering company has worked hard to come up with a design for a safe and fun roller coaster for your theme park. The drop height of the roller coaster design is 2.75 meters and the hill height was 2.25m.  Also, the car mass should 44 Kg. 
+
+The ID height is 2.75m.  This allows enough energy for the roller coaster to make it to the end.  The amount of potential energy was 1184J.  Potential energy is the energy that is stored in the object due to where the car is located on the hill.  The higher the height increases the amount of PE. For example, when I had tasted the drop height of 2m the PE was 977j. When I increased the drop height to 3.75m the pe increased to 1839j 
+

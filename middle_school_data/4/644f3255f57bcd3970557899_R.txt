@@ -1,0 +1,12 @@
+Dear Gonzales Family,
+
+My engineering company and I have come up with some initial ideas for measurements for the Initial Drop Height, Hill Height, and the Car Mass. We feel that the ID Height should be 5m, hill height 2m, and the car mass 40kg.
+
+First, for the ID (initial drop) height, I did 5m. I did this because I wanted it to be a steep hill so it would be fun and scary. I also chose to do the ID as 5m because it's higher than the hill which it should be. The relationship between ID height and hill height is that PE is always greater at the top of both of them and smaller at the bottom. Also, the ID should be higher than the hill. This is because if the hill is taller than the ID the car will never make it through the ride. The PE at the top of the ID was 1956j and the KE at the bottom of the ID was 1956j. As height increases PE increases as well. For example, when I tested the drop height of 5m, the PE was 2443j. When I decreased the drop height to 3m, the PE increased/decreased/stayed the same at 1466j.
+
+Secondly, for the hill height, I did 2m. I did this because it will be a little hill to calm you down from the very high ID, but you will go very very fast. You will go very very fast on the hill because the ID is much higher than the hill so when the car goes down the ID it picks up speed so it goes very fast on the hill that's right after the ID. For example, when I tested the hill height of 2m, the PE was 982j. When I increased the hill height to 3m, the PE was 1474j and the KE was 240j. 
+
+Lastly, for the car mass, I did 40kg. I did this because it will go faster because it's lighter/has less mass. Also, that's another reason for why the car would go very fast on the hill after the ID.  For example, when I tested the car mass of 40kg, the PE was 1175j. When I increased the car mass to 50kg, the PE increased/decreased/stayed the same at 1469j.
+
+During the ride at the top of the ID and hill PE was large but when PE was at the bottom it was smaller. Then, for KE at the top of the hill and ID, it was smaller than when KE was at the bottom. So, when the car goes down the hill KE gets larger and PE gets smaller.
+

@@ -1,0 +1,6 @@
+I designed a roller coaster that I think will be the safest yet most exciting by using the Law of Conservation of Energy. To start off the coaster, the height of the initial drop will be 5 meters minimum which will have the highest Potential Energy and convert enough Kinetic Energy to make it up the hill. 
+
+This brings me to my next point, the height of the hill. During the SIM, I tested many heights that were valid and found that the hill must be less than the initial drop in order to make it to the end. 
+
+The relationship between PE and KE is that they always shift back and forth but the total energy always stays the same. Normally, the Potential Energy is determined by the initial drop. For example, when I tested the drop height to 3 meters the PE was 1446 Joules. When I increased the drop height to 5 meters, the PE increased to 2443 Joules. 
+This also applies to the total energy being a dependent variable on mass. Mass will dictate if the PE + KE are higher or lower. 

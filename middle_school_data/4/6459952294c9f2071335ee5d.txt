@@ -1,0 +1,10 @@
+I suggest having a really high drop, a hill that is about 4/5 the size of the initial drop, and the coaster cars should be heavy.
+
+The reason for the high initial drop height is that throughout our testing, we found that the higher the height, the more potential energy the coaster has, and more potential energy, means more kinetic energy. For example, if the initial drop height is  4 meters, i will have 1955 J of energy, while if it has an initial drop height of 5 meters, it will have 2443 J of energy, which is more than 4 meters.
+
+The reason for the hill being about 4/5 the size of the initial drop is that if the hill is the same height as the initial drop, the coaster car will not have enough energy to get to the other side. But if the hills height is shorter than the initial drop height, then the coaster car will make it to the other side.
+
+And the reason for the coaster cars being heavy, is that through out our testing we found that the heavier the car, the more potential energy it has that can be converted to kinetic energy. And if the coaster car is light, it will have less potential energy to be converted.
+
+In short, out design would be the most exciting, and safe roller coaster that you can have.
+

@@ -1,0 +1,22 @@
+Roller Coaster Essay #1
+During my proposal to the Gonzales family, I will be sharing my findings about the following:
+Gives you more energy how pe ke and total energy works more mass more the drop needs to be higher than the hill.
+
+The drop height of my roller coaster design is  5 meters meters.
+This is important because a 5-meter drop gives us the highest PE.
+
+For example, when I tested the drop height of 2.5 meters, the PE was 1222 Joules. When I increased the drop height to 5 meters, the PE increased at  2443  Joules.
+
+Potential energy plus kinetic energy equals total energy. 
+My data supports this equation because, in the hill simulation, my coaster had 2444 J of PE at the top of the initial drop. It had 2444 J of KE at the bottom of the initial drop. It had 2444 J of total energy at the end of the ride.  the number of total energy that you start with is the energy  you wii end with.
+
+The law of conservation of energy states that whatever energy you start with you end with. This means that energy will same start and end from P energy to K energy and back again throughout the ride.
+
+Any hills that are added to the ride must be short compared to the initial drop height. 
+You can see this in my data. When I tested a drop height of 5 m and a hill height of 5 m, the roller coaster car did not make it. However, when I tested a drop height of 5 m and a hill height of 2.5 m, the roller coaster car went over the hill .
+
+Our last experiment was comparing mass and energy. The (higher/lower) the mass of the car, the (higher/lower) the total energy.
+When I used a car that had a mass of 40 kg, the roller coaster had _1956 J of total energy. When I used a car that had a mass of _ 60 kg, the roller coaster car had a mass of 2934 kg.
+
+In conclusion, from what we’ve learned about the physics of roller coasters so far, your new roller coaster should have/do the following .
+.

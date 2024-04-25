@@ -105,7 +105,7 @@ test_set = QuestionSentenceDataset(config["test_folder"], config["test_labels"],
         config["rubric_dimension"], is_val=True)
 test_loader = DataLoader(test_set, 1)
 
-verifier = Verifier(bert_or_sbert="sbert")
+verifier = Verifier(bert_or_sbert="sbert", topK=3)
 verifier.load_state_dict(torch.load(f"{verifier_file_path}/model.pth",map_location=torch.device('cpu')))
 verifier = verifier.to(device)
 verifier.eval()

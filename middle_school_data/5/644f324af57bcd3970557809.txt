@@ -1,0 +1,6 @@
+Dear Gonzales family
+
+I did my research on how to make a safe roller coaster that can make it to the end. I already got set up so my data was, for the ID it was 3.5, the hill height was 2, and the car mass was 50kg, then the loop height was 2.5. When I tested it the PE at the top of the ID was 1710 then when I tested the KE at the bottom it was 1710 and the speed at the bottom of the drop was 8.27. But the speed at the top of the hill was 5.40. But every time when I test the roller coaster the TE always stays the same at the ID, At the top of the ID the PE is 1710 but when the cart goes down the tracks the PE turns into KE.  If we change the height higher of the ID the speed will increase. But if we change the height lower the speed will be slow, this is because if the ID height is small the cart will not have enough energy to go over the loop. But if the ID height increases the more energy it will have to go over the loop.
+
+
+

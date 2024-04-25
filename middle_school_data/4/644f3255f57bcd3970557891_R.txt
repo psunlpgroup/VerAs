@@ -1,0 +1,15 @@
+Rollercoaster Essay #1
+
+
+Dear Gonzales family, me and my engineering company at this time have decided what the best initial drop height, hill height, and car mass are.
+
+The best initial drop height is five meters high. The reason I believe this is that when the initial height is high there is more potential energy and since energy can't be created or destroyed only change forms the potential will become kinetic. It will also have more time to gain speed. If the initial drop height is too small the car will not have enough speed to make it to the end of the ride. Here are some of the data that I have gathered.  In my first trial, the initial drop height was 2m and the potential energy was 782j.  Then in trial 2 the height was 3m and the potential energy was 1173j.  In my last trial when the hill height was 5m and the potential energy was 1955j. So that about covers the initial drop part of the coaster of course with only 0.3 friction.
+
+The best hill height will be 2.75 meters high. The reason I believe this is that if the hill height is any higher than the initial drop then it won't make it because there will not be enough total energy. Because according to my data when the hill height was 2 and the initial drop height was 3 the car made it. Also when the hill height was 2.50 and the initial drop height was still 3 the car struggled but made it. Finally, when the hill height was 3 the car tried but could not make it.
+
+Finally, let's talk about car mass. If the car mass should be heavy but still aerodynamic so I think that 60 will work for mass. Because the heavier the car the more total energy there will be. Here is some of the data I found to solve this question. In my first trial when the car mass was 40g the potential energy was 1174j. In my second trial, the car mass was 45g and the total energy was 1330j. Then in my final trial when the car mass was 55g the potential energy was 1625j.
+
+So I hope you take my data into consideration. I will report back with more data when I can for now enjoy.
+ 
+                                                                Sincerely  engineering team.
+

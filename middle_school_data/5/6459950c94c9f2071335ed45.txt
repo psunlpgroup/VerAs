@@ -1,0 +1,11 @@
+I believe to make the most enjoyable roller coaster it needs to have steep drops, high hills, and fast speeds. Combining all of these things makes for a thrilling and fun ride for everyone. But it is also important for the ride to be safe, to do this make sure the ride never goes over 8.7 m/s and for it to still be fun it shouldn't go under 6.7.
+
+For a ride to be thrilling but safe it needs to have a high initial drop. But this isn't just important for the rider it is also important to make sure that the car can make it over the hill after the drop but not go over the speed threshold of 8.7 m/s. Because the car will only be able to make it over a hill if it is lower than the initial drop. This is shown in Investigation #2 when in Trial #2 the hill was higher than the initial drop by .01 (giving it a height of 5.01 meters) the car wasn't able to make it over the hill causing a rollback, due to the Law of Conservation of Energy. This law of physics says that energy cannot be created or destroyed but it can change from PE to KE and back. If the initial drop isn't high enough it would never be able to make it over the hill without extra energy being put into it.  
+
+Mass plays a large part in energy, but it doesn't have a great effect on speed. Having a larger mass adds more total energy to the car. Total energy is PE and KE combined, and because of the Law of Conservation of Energy, total energy will never change while PE and KE transfer back and forth. The effects mass has on total energy are shown in Investigation #3 in Trial #2 the car with 60 kg has the highest amount of total energy with 2938 J in total energy. In Trial #1 the mass of the car was 40 kg giving it 1959 J of total energy. This means that the ride will reach higher speeds with higher masses. To make a roller coaster fun it needs to be fast, and adding more mass makes the ride faster making it more enjoyable.
+
+
+
+To optimize fun for the rider it would be recommended to make the initial drop as high as possible and to make the hill just shorter than the drop. So that the car will make it to the end of the track and for it to be an enjoyable ride for the riders. Also to have the highest mass possible would be best as it adds more PE to be converted into KE as it goes down the track, making the ride faster and more fun.
+
+

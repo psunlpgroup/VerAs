@@ -1,0 +1,12 @@
+Dear Gonzales Family,
+
+When designing a fun and entertaining roller coaster, there are many factors to keep in mind. The steepest drops and fastest ride possible are desired in many designs. But there is also the factor of safety to keep in mind. Through several tests and simulations, we have deducted what is the best roller coaster possible while being safe.
+
+First of all, let's talk about energy. Potential energy (PE) is the energy at the top of a hill while Kinetic Energy (KE) is the amount of energy while in motion. Total energy is the amount of Potential Energy and Kinetic Energy combined. Because the Law of Conservation Energy says that energy cannot be created or destroyed, but can transfer between forms, the amount of energy will always remain the same. This information will be important later on when designing the roller coaster.
+
+The structure of the roller coaster is an important factor. The first part would be the initial drop. The higher the initial drop, the more energy the cart will have. Changing the initial height also affects the cart speed. The maximum safe speed is 8.4 meters per second. Through some testing, we have found a design that gives us a perfect speed of 8.4 meters per second. With a drop height of 3.6 meters, the cart will travel at that fastest speed possible ensuring the ride to be both fun and safe. When adding a hill to the ride, there is only one rule to keep in mind; the hill must be shorter than any previous drops. Because energy cannot be created, however much the cart starts with is how much it will have. It cannot gain any energy to allow it to climb a hill larger than the previous.
+
+Lastly, the mass of the roller coaster cart also affects the ride. A cart with more mass will have more energy allowing it to climb higher hills. Through our testing, we have deducted that a 40kg cart has 1175 Joules of energy while the 60kg cart has 1761 Joules. To allow the cart to climb hills more easily, a cart with more mass will be required.. The mass of the cart, however, doesn't affect its speed. A 40kg cart, with a drop of 3.6 meters went the same speed as the 60kg cart, a perfect 8.4 meters per second. 
+
+In conclusion, we hope you take these into consideration when designing your roller coaster. We have the fastest possible design with all of the information needed for you to modify it at your own will. We hope you hire us when you come up with your design. 
+Thank you and good luck.

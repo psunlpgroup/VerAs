@@ -1,0 +1,2 @@
+To start off with his design, I chose the initial drop height of 3.5 meters. The safest speed for this ride is 8.4m/s and my design runs at a total of 8.2m/s but it is not consistent. 
+The first factor that is important in deciding this is mass. Mass and height are both independent or controlled variables. While height does affect speed, mass doesn't. It's resistance to acceleration does not change and the gravitational pull doesn't change either, so it remains constant and does not change it directly. Height affects the speed because 

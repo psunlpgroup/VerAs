@@ -1,0 +1,9 @@
+Gonzales family I think the drop height should be 3.5 because the amount of velocity at the bottom of the drop is 8.23 which is between 6.3 and 8.4 I picked this because if your height is 4 the amount of speed is 8.84. I think the mass should be 50 because based on the data mass doesn't affect anything. The hill height should be 3 because the height of the hill has to be lower than the initial drop.
+
+Height and mass effect PE, KE and total energy because the larger the mass or the higher the height the more PE there will be at the top of the drop. That means there will be more total energy the more amount of mass or the higher the height. When the mass was 40 kg the amount of total energy was 1174. When the mass was 60 kg the amount of total energy was 1760.
+
+The more height the higher the speed. If the hill height is 4 meters the speed at the bottom of the drop is 8.84 and if the height is 4.5 meters the speed at the bottom is 9.38. Mass does not affect speed because by having more mass you need more energy to move the object which would end up having the same speed as a lighter object.
+
+The relationship between KE, PE and total energy is PE+KE=Total energy. While the roller coaster car is going down the initial drop energy is not being gained or lost energy is being transferred to either KE, PE or if friction is involved thermal. That means total energy never changes. 
+
+Law conservation of energy affect the design because the law conservation of energy states energy can not be gained or lost in a closed system. This affects the roller coaster because you can't gain energy while you are going up a hill so the hill would have to be shorter than the initial drop.This also applies to the loop, the loop needs to be shorter than the height of the initial drop.

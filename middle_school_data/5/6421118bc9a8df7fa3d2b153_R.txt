@@ -1,0 +1,15 @@
+Hello Gonzales family,
+I have conducted my research on rollercoasters for the past few weeks now, and in my research, I have concluded. The mass of the car will be 50 kg, the initial drop height will be 3.75m and the hill height will be 3.25m. So here are a few reasons why I think you should buy my coaster!
+
+Firstly, I chose the hill height of 3.5 due to it not going over the limit of 8.4m/s, and it can get over the hill height of 3.25m. I found this by doing 4 rounds of testing, and I found that 2.5 didn't make it over the hill, so that was inconclusive. While 4.25 came as over the limit of 8.4 to 9.09. The hill height had to be smaller than the initial drop so I put it as 3.25.
+
+Also, KE and PE are affected by height in terms of gravity. As there is more height, the more PE there is. While sitting at the top of the hill though, PE equals the total energy, which is a combination of PE and KE. Height affects speed throughout the entire ride, allowing for the coaster to get over the hill. The speed will increase as height increases, and the same the other way around.
+
+Plus, mass increases the PE of the ride, and in doing so increases the KE too. The total energy is also increased due to the larger KE and PE. But, and the other hand, speed will not be affected by mass, as shown in my data, the mass of the first car was 40 kg and it had an end speed of 8.8m/s. While the car with 60 kg has an ending energy of 8.8, showing that mass doesn't affect speed.
+
+Energy transfer is when KE and PE convert from one to another depending on the height, speed, and mass. They will interchange throughout the ride, and will always equal one number.
+
+The Law of Conservation states that the two energy flip between each other at times throughout the ride, which can change depending on a few factors. A few of them are speed, mass, gravity, and height, but let us say that gravity is a normal 9.8. The mass and height will allow more PE, and speed will give it more KE, but the total energy stays the same.
+
+Thank you for your time and for allowing me to design a roller coaster for you, I sure hope it is to your liking.
+-Ethan

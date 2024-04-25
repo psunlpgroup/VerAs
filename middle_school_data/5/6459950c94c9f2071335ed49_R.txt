@@ -1,0 +1,12 @@
+Dear Gonzales family, 
+
+I am writing to you again one last time to help you create the best roller coaster possible. I hope you will take my data and all the things I will propose to you and consider my ideas when you start to create your roller coaster.
+
+When testing out the height, mass, and speed of the roller coaster, my decisions about the height and the roller coaster have changed. First I tested how the height affected the speed of the roller coaster. I learned that humans are only able to handle up to 8.4 m/s when on a roller coaster. When I found that out, my height was changed on my roller coaster. I started with the initial drop height being 4.05 m and tried to see if humans would be able to handle the speed of the roller coaster. Humans, unfortunately, can not handle that ride because the speed during the ride is 8.89 m/s which is too much for humans to handle. Then I tried 3.36 m and tested to see if humans can ride this ride and luckily they can! When the height was 3.36m, the speed of the roller coaster got up to 8.1 m/s which means humans can ride this ride. 
+
+Second I tested how the mass affected the speed of the roller coaster. I started with a mass being 40kg and a height being 3.36 m. When I tested these heights and masses, the roller coaster was able to go 8.1 m/s which humans can handle. I also tested a bigger mass. The mass was 60kg and the height was still 3.36m. When I tested these masses and heights, the speed was still 8.1 m/s which can tell us that mass doesn't affect the speed. 
+
+With both of these data trials, the Law of Conservation of Energy states that energy cannot be created or destroyed and can be only transferred from one energy to another. In this instant, the energy will be transformed from Potential energy to Kinetic energy. That is the reason why the total energy will not change. When my hill height is smaller but is still able for humans to ride, my total energy will be smaller than a hill height that is taller. Also the initial drop has to be higher than the hill height because if the two heights were the same, the roller coaster will not have enough energy to make it over the hill height.
+
+I hope you will take all of this data and my reasoning for the best possible roller coaster you can design.
+

@@ -1,0 +1,14 @@
+During my proposal to the Gonzales family, I will be sharing my findings about:
+I will be talking about the initial drop, and how high we should make the hill, and how fast it should go, and how much mass it should have on the cart.
+The drop height of my roller coaster design is  5  meters.
+This is important because the higher it is the more PE it will have.
+For example, when I tested the drop height of 2.5 meters, the PE was 1222 Joules. When I increased the drop height to 5.00meters, the PE increased to 2443 Joules.
+PE +KE =TE 
+My data supports this equation because in the  initial drop simulation my roller coaster had 1222 J of PE at the top of the initial drop, it had 1222 J of KE at the bottom of the initial drop, and it had 1222 J of total energy at the end of the ride. 
+The law of conservation of energy states that the energy you start with you end with the same number. This means that energy will go from PE energy to  Ke energy and back again throughout the ride.
+Any hills that are added to the ride must be lower as compared to the initial drop height. 
+You can see this in my data. When I tested a drop height of 5.oo m and a hill height of 5.00 m, the roller coaster car did not make it. However, when I tested a drop height of 5.00 m and a hill height of 3.00 m, the roller coaster car made it to the end.
+Our last experiment was comparing mass and energy. The higher the mass of the car, the higher the total energy.
+When I used a car that had a mass of 60 kg, the roller coaster had 2933 J of total energy. When I used a car that had a mass of 58 kg, the roller coaster car had 2835j of total energy.
+In conclusion, from what we’ve learned about the physics of roller coasters so far, your new roller coaster should have/do the following:
+ It should be high of 5.00 for the initial drop and a high of 4.00 for the hill drop and a mass of 60 for the cart.

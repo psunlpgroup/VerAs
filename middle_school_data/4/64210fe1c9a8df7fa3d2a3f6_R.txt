@@ -1,0 +1,13 @@
+The drop height of my roller coaster design is 3 meters. This is because our loops, hills, and turns need enough speed from the initial drop to get to the end of the coaster. The height of the drop relates to the PE because if you make the height higher than the PE is going to be higher but if it's lower then the PE is going to be lower. The height relates to the KE because at the bottom of the initial drop, since the height was 3 meters the KE is going to be a lot larger than the PE.
+
+For example, when I tested the drop height of 3 meters, the PE was 1446 joules. When i increased the height to 4, it was 1955 joules, the PE increase at 549 joules.
+
+As the cart was going down the initial drop the PE was going lower and the KE was going higher. But when we added friction the PE at the top while it was moving was less without friction, and vise versa for KE. The energy transformation changed when the height of the roller coaster was higher or lower. If the cart was in the middle of the initial drop and the bottom of the initial drop then the energy would transfer from more PE to more KE. 
+ 
+Some similarities I observed with the initial drop height and hill height was the same thing but with smaller numbers. That's because if the hill is taller than the initial drop then the cart wouldn't make it over the hill it would just go back and keep on going back and forth because of the friction.
+
+The relationship between PE, KE, and mass was the higher the mass and the drop height made the PE or KE change in the amount of energy they had.
+
+Mass affects the energy of a roller coaster. Depending on how much mass the cart has, at the initial drop the potential energy goes up. But if the mass is less the potential energy goes down. 
+
+The law of conservation of energy, cannot be created or destroyed.

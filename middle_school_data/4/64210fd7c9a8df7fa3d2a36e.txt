@@ -1,0 +1,13 @@
+Our team's roller coaster will have a starting height of 4 metres.
+
+This is because the amount of Potential Energy (PE) is related to height, and it's a direct relationship. A direct relationship states that if one variable increases, for example, height, then the other variable also increases, for example, PE.
+
+For example, when I tested the drop height of 4 metres, the PE was 1955 Joules (J). Upon changing the drop height to 5 metres, the PE changed to 2443 J, a massive step up.
+
+To explain energy on a roller coaster, we have to look at the Law of Conservation of Energy (LCE). LCE explains that energy cannot be created nor destroyed. If a hill is taller than your initial drop, your cart will not make it to the top and never will as it will not gain or lose any more energy. To have a cart pass a hill or loop, the height must be smaller than the initial drop. 
+
+When we had an initial drop height of 5 metres and a hill height of 5 metres, the cart failed to pass the hill, but every other trial succeeded. The initial PE was 2449 J, and the Kinetic Energy (KE) before the cart went backwards was 12 J. Looking back on the final KE, we can notice it simply doesn't have enough to continue moving up the hill, it can only fall back down. Lowering the hill height, even by a fourth of a metre, would allow the cart to successfully pass the hill and move on.
+
+When a cart moves down the hill, the PE is converted to KE. This, as a result, will build speed. Note that the energy being converted is not adding energy, the Total Energy (TE) is the same. At the very top, PE is TE, and KE is always 0. At the bottom of the drop, KE is, instead, TE, and PE is 0.
+
+Remember that the hill height cannot be as high or higher than the initial drop or the cart will not make it over the hill. It's crucial to know that since it could ruin the entire ride if the cart can't make it over a section.

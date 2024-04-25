@@ -1,0 +1,7 @@
+Here are my final decisions about the measurements of the Gonzales family roller coaster.
+First, the initial drop height should be 3.5 meters high. To keep the roller coaster fun, but safe, the speed must be between 6.7 m/s and 8.4 m/s. At its fastest point, the cart went 8.27 m/s with an initial drop height of 3.5 meters.
+The higher the initial drop, the more potential energy it has. This is because height is a factor in the PE equation, PE=mgh. However, it does not directly affect KE because the kinetic energy formula does not include height. The amounts of PE and KE affect the speed of the roller coaster as well.
+In addition, the mass of the car needs to be decided. I have observed that the car's mass does not affect the roller coaster's speed. In my data, all the speeds were equal or close to equal with varying masses. This is because mass gets canceled out in the equation. Therefore, the car can be any mass that works best for you.
+As for the hill height, it needs to be slightly lower than the initial drop. This is because energy cannot be created, according to the Law of Conservation of Energy. If the hill height is higher than the initial drop, the car won't have enough energy to get over the hill and to the end of the ride. Because of this, I would recommend a hill height of 3 meters high.
+The same thing goes for the loop. It cannot be higher than what was before, so the height should be 2.5 meters high.
+In order to keep the roller coaster fun and safe, these are the measurements I recommend.

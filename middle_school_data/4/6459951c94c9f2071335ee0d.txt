@@ -1,0 +1,11 @@
+Dear Gonzales family,
+our team has great recommendations for your next roller coaster design that will assist it in being exiting, safe, and still able to make it all the way to the end of the ride.
+
+One recommendation is that the initial drop height is higher than the hills during the ride. Without an external force pulling the cart, it will not make it over the hill and to the end of the track. This is due to the amount of PE at the top of the initial drop compared to the amount of KE it will need to get over the hill. For example, if the initial drop of a roller coaster only has a PE of 2000 but the PE at the top of the hill is 2500, the car will not make it over the hill. This is because the KE it needs is already determined by the PE at the top of the initial drop. Together PE and KE make TE.  Due to the law of conservation(energy cannot be created or destroyed, only converted from one form to another), energy cannot be created out of thin air during the ride so you need the initial drop height to provide all of the PE needed for the cart to make it to the end.
+
+TE is the total about of PE and KE combined at all times. The TE of the Ride will never change during the ride. For example if the PE at the top of the initial drop is 2000, and the KE is 0, the TE is 2000. Now, if the cart is on its way down the initial drop and the KE is 1000 and the PE is also 1000 the TE will STILL be 2000. 
+
+Another recommendation is not to make the cart too heavy or too light. The mass of the cart can change the TE. If you make your cart too heavy it can create a ride that is boring because it is not fast, or a ride that is unsafe because the cart is too heavy and fast. You want a car that is safe to ride but fast enough to be fun for the customers. 
+
+In conclusion to all my recommendations, you will want to make sure the mass of your cart is not too heavy. You will also want to make sure the Initial drop is higher than the hill on your ride. I also hope that yo now have a better understanding of KE, PE, and TE and how they effect your coaster.
+

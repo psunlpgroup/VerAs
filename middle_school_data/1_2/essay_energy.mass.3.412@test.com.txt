@@ -1,0 +1,12 @@
+1. The initial drop height should be 5m because the higher the drop height, the higher the PE at the top which also means that the KE at the bottom will be higher as well but will not be any more than the PE at the top.
+2. For example, when the initial drop height was only 2m, the PE at the top was only 1383J and when the initial drop height was 5m, the PE at the top was 2765J.
+3. Therefore the higher the drop height, the more speed.
+4. YeWhen the cart is going down the drop the PE transfers over to KE because the height is decreasing because it going down and the speed is increasing as well.
+5. The law of conservation of energy states that energy cannot be created nor destroyed.
+6. For example, when the initial PE was 1659J on a 3m initial drop, at the bottom of the drop the KE was 1658.
+7. The energy was not destroyed so instead some of the PE didn't fully transfer because it was still a little bit high even tho it was at the bottom of the drop.
+8. The same goes for when there is friction.
+9. Let's say the initial PE at the top of a drop was 5000J, and at the bottom the KE was 4200J and the PE was only two.
+10. The energy could not have been destroyed so this means that it was transferred over to thermal energy from friction.
+11. The hill height should be not as high as the initial drop height because if the hill height is higher, there would not be enough KE to get over because it is taller than the initial drop height.
+12. But if the hill height is shorter then there would be enough KE to make it over.

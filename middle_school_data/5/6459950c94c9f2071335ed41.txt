@@ -1,0 +1,9 @@
+Dear Gonzales family,
+
+My roller coaster is the safest, and most fun addition to your park.
+
+While on a roller coaster, you need to be as safe as possible and have a fun time. On the roller coaster that I designed, the initial drop is 3.63m tall. This is because you can't be going too fast otherwise safety issues can occur. If the roller coaster is going faster than 8.4m/s, then people can get hurt. My roller coaster design is safe because it says in the safe range of speed and is fast enough to be fun. As you increase the initial drop height, it increases the energy. If you have more energy, you potentially have more speed, and when you go too fast you encounter safety issues.
+
+The law of conservation of energy states that energy cannot be created nor destroyed, meaning that the initial drop also has to be tall enough so that the cart can make it over the hill. The hill is 2.99m because it has the most total energy at 2447j. The entire roller coater is at 1419j from start to end. The initial drop must be taller than the rest of the roller coaster. This is because if you don't, the cart will NOT make it over the first hill or loop. If the PE of the cart is less than what you need to get over the hill, then the cart will not make it. You need to have the initial drop at least slightly higher than the hill/loop.
+
+The mass of the cart does not matter, as the mass doesn't affect the speed. So, there doesn't have to be a certain amount of weight in order for my roller coaster to work at its full potential.

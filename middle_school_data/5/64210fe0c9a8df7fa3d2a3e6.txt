@@ -1,0 +1,14 @@
+Hello Gonzalez family, the roller coaster that I will be building for you will have an initial drop of 3.7m a hill of 2.5m.
+
+The reason the initial drop will be 3.7m is because with more height there is more PE. When I tested a hill of 5m the PE was 1955 joules of energy. When I decreased the initial drop to 4m the PE was 1564 joules. Since the height of the drop also relates to how much speed the cart will haev the drop will have to be 3.7m.  With an initial drop of 5m the speed was 9.88 m/s but when decreased to 4m the speed was 8.84, just a little over the limit. So we made the drop height 3.7 to compensate for that extra speed. 
+ 
+The hill will be 2.5m that way the cart can make it over the hill and still be going fast. When I tested a initial drop of 5m the hill that was 4m had 1569 joules of energy to keep going. When I tested the initial drop height of 5m with a hill of 5m the cart didn't make it over, so you need to have a hill shorter than the initial drop. With an initial drop height of 4m and the hill being 2m, the speed was 6.25 m/s at the top of the hill. When the initial drop height was decreased to 3m the speed at the top of the hill was only 4.4 m/s. So with decreasing the initial drop height to 3.7m the hill will be 2.5m to maintain optimal fun timeon the roller coaster. 
+The car mass will be 40kg, but that doesn't affect the ride in anyway. When we tested the car mass of 40kg on a 5m initial height, the speed at the bottom of the hill was 8.5m/s. When we tested a car of 60kg on the initial drop of 5m the car also had a speed of 8.5m/s at the bottom of the drop. The formula for finding speed is: velocity squared= 2(gravity x height)  As you can see the equation doesn't involve mass at all. 
+
+The total energy and the PE at the start of the coaster are the same. For example when the PE was 1564 joules the total energy was also 1564 joules at the end of the ride. 
+
+When going throughout the roler coaster the PE and KE will switch back and forth. For example at the top of a drop if the PE is 1800 joules the KE is 0 joules, in the middle of the drop the PE is 900 joules and the KE is also 900 joules. At the bottom of the drop the KE will be 1800 joules and the PE 0 joules. All in all there is no energy loss throught the ride since PE and KE switch back and forth which energy is on the ride. 
+
+Since the law of conservation of energy states that energy cant be created or destroyed, there will be no energy loss on the ride, making sure the cart will in fact make it to the end of the ride. 
+
+Thank you for choosing me as your engineer on this roller coaster, I hope to work with your family again. 

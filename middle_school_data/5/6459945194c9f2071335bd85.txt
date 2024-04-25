@@ -1,0 +1,7 @@
+I'm going to present to you the design of an exciting and safe roller coaster for your amusement park. i am carefully considered the principles of height, energy, and speed to ensure that the roller coaster provides a thrilling experience while maintaining safety. To guarantee that the roller coaster car makes it to the end of the ride without stopping, we have focused on the relationship between the initial drop height and the subsequent hill heights. The key concept here is the conservation of energy. At the top of the initial drop, the car possesses potential energy, which is then converted into kinetic energy as it descends. By carefully calculating the potential energy at the initial drop and distributing it among the subsequent hills, we can ensure that the car has enough energy to reach the end of the ride. The height of each hill must be sufficient to allow the car to reach its peak while retaining enough kinetic energy to continue along the track.
+
+
+
+
+
+

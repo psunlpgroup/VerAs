@@ -1,0 +1,11 @@
+Hello Gonzales family.
+
+First of all, I think the initial drop height for our roller coaster should be 4 m tall. This is because we have learned from many tests that the higher the drop, the more PE there is at the top of the drop. For example, according to the data we have collected, a release height of 3 m produces 1563 PE at the top of the drop, and a drop height of 4 m is a higher amount of PE at 1955. This is because of PE=mph, h being height. So when height increases, PE does too, which means they have a direct relationship. This is the same for kinetic energy at the bottom, because the higher the drop is, the more speed the car gains. Speed (velocity) have a direct relationship, so the height of the roller coaster and KE at the bottom of the ride have a direct relationship too. 
+
+We also know that any hills on the roller coaster must be lower than the initial drop, because we cannot have more energy then what we started with. For example, with a drop height of 4 m, a 5 m and 4 m hill both fail to make it over the hill. Anything under that makes it over okay. So I think a 3 m drop would work the best with a 4 m tall hill
+
+We also have learned that PE and KE add up to the total energy on the car, because energy cannot be created or destroyed, it just changes forms. This is known as the Law of conservation of energy. With no friction, the total energy also can not increase or decrease.
+
+Another thing we have learned is that as the car goes down the initial drop, this is what causes the PE to turn into KE. PE is stored energy, and when the car starts moving, the energy is slowly converted into KE.
+
+Lastly, the mass of the car also influences the PE and KE. If the mass of the car increases, the PE and KE also increase. For example, if the car is 40kg, the car has 1564 J of PE at the top and KE at the bottom. And if the car is 60kg, the car has 2346 J of PE at the top and KE at the bottom. Because of these reasons, I think the car should be 50 kg, because it is right in the middle.
