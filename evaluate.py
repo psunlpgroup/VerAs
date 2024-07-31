@@ -98,21 +98,27 @@ dataset_name = sys.argv[3]
 if dataset_name == "college_physics":
     train_folder = "data/train"
     val_folder = "data/val"
+    test_folder = "data/test"
     train_labels = "data/labels/train.csv"
     val_labels = "data/labels/val.csv"
+    test_labels = "data/labels/test.csv"
     rubric_dimension = "data/rubric_dimensions.json"
 else:
     train_folder = "middle_school_data"
     val_folder = "middle_school_data"
+    test_folder = "middle_school_data"
     train_labels = "middle_school_data/middle_school_essay1_2_train.csv"
     val_labels = "middle_school_data/middle_school_essay1_2_val.csv"
+    test_labels = "middle_school_data/middle_school_essay1_2_test.csv"
     rubric_dimension = "middle_school_data/rubric_dimensions.json"
 
 config = {
     "train_folder": train_folder,
     "val_folder": val_folder,
+    "test_folder": test_folder,
     "train_labels": train_labels,
     "val_labels": val_labels,
+    "test_labels": test_labels,
     "rubric_dimension": rubric_dimension,
     "batch_size": 4
 }  
